@@ -9403,63 +9403,11 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <lit-tag v="sp"/>
                 </equal>
               </not>
-            </test>                  
+            </test>
             <let>
               <clip pos="4" side="tl" part="nbr"/>
               <lit-tag v="pl"/>
             </let>
-          </when>
-        </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="3" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="1" side="tl" part="gen"/>
-                  <clip pos="3" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
-          </when>
-        </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="2" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="3" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="2" side="tl" part="gen"/>
-                  <clip pos="3" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
           </when>
         </choose>
 
@@ -9481,32 +9429,24 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="GD" link-to="3"/>
-              <clip pos="4" side="tl" part="mf"/>
               <clip pos="4" side="tl" part="nbr"/>
             </lu>
             <b pos="1"/>
             <lu>
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_num"/> 
-              <clip pos="1" side="tl" part="GD" link-to="3"/>
-              <clip pos="1" side="tl" part="mf"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
             <b pos="2"/>
             <lu>
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_num"/> 
-              <clip pos="2" side="tl" part="GD" link-to="3"/>
-              <clip pos="2" side="tl" part="mf"/>
               <clip pos="2" side="tl" part="nbr"/>
             </lu>
             <b pos="3"/>
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="GD" link-to="3"/>
-              <clip pos="3" side="tl" part="mf"/>
               <clip pos="3" side="tl" part="nbr"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -9551,171 +9491,60 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <lit-tag v="sp"/>
                 </equal>
               </not>
-            </test>                  
+            </test>
             <let>
               <clip pos="4" side="tl" part="nbr"/>
               <lit-tag v="pl"/>
             </let>
           </when>
         </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="2" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="3" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="2" side="tl" part="gen"/>
-                  <clip pos="3" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
-          </when>
-        </choose>        
         <call-macro n="concord_n3">
           <with-param pos="3"/>
           <with-param pos="4"/>
           <with-param pos="1"/>
         </call-macro>
         
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>                
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="adjant"/>
-                </equal>
-                <equal>                
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="det"/>
-                </equal>
-                <equal>                
-                  <clip pos="1" side="tl" part="a_ordinal"/>
-                  <lit-tag v="num.ord"/>
-                </equal>
-              </or>
-            </test>
-            <out> 
-              <chunk name="pr_d_adj_num_n" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>                  
-                  <clip pos="5" side="tl" part="lem"/> 
-                  <clip pos="5" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="4" side="tl" part="lem"/> 
-                  <clip pos="4" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="ND" link-to="4"/>
-                  <clip pos="4" side="tl" part="sp"/>
-                </lu>
-                <b pos="1"/>
-                <lu> 
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <clip pos="1" side="tl" part="tipus_adj"/>
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="ND" link-to="4"/>
-                  <clip pos="1" side="tl" part="sp"/>
-                </lu>
-                <b pos="2"/>
-                <lu>
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_num"/> 
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="nbr"/>
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lemh"/> 
-                  <clip pos="3" side="tl" part="a_nom"/>
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="nbr"/>
-                  <clip pos="3" side="tl" part="lemq"/> 
-                </lu>
-              </chunk>
-            </out>
-          </when>
-          <otherwise>
-            <out> 
-              <chunk name="pr_d_num_n_adj" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>                                  
-                  <clip pos="5" side="tl" part="lem"/>
-                  <clip pos="5" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="4" side="tl" part="lem"/> 
-                  <clip pos="4" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="ND" link-to="4"/>
-                  <clip pos="4" side="tl" part="sp"/>
-                </lu>                
-                <b pos="1"/>
-                <lu>
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_num"/> 
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="nbr"/>
-                </lu>        
-                <b pos="2"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lemh"/> 
-                  <clip pos="3" side="tl" part="a_nom"/>
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="nbr"/>
-                  <clip pos="3" side="tl" part="lemq"/> 
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <clip pos="1" side="tl" part="tipus_adj"/>
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="ND" link-to="4"/>
-                  <clip pos="1" side="tl" part="sp"/>
-                </lu>
-              </chunk>
-            </out>
-          </otherwise>
-        </choose>
+        <out> 
+          <chunk name="pr_d_adj_num_n" case="caseFirstWord">
+            <tags>
+              <tag><var n="chunk"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="5" side="tl" part="lem"/> 
+              <clip pos="5" side="tl" part="a_prep"/> 
+            </lu>
+            <var n="blanco"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/> 
+              <clip pos="4" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="sp"/>
+            </lu>
+            <b pos="1"/>
+            <lu> 
+              <clip pos="1" side="tl" part="lem"/> 
+              <clip pos="1" side="tl" part="a_adj"/>
+              <clip pos="1" side="tl" part="tipus_adj"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="a_num"/> 
+              <clip pos="2" side="tl" part="nbr"/>
+            </lu>
+            <b pos="3"/>
+            <lu> 
+              <clip pos="3" side="tl" part="lemh"/> 
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="nbr"/>
+              <clip pos="3" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
@@ -9755,167 +9584,61 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <lit-tag v="sp"/>
                 </equal>
               </not>
-            </test>                  
+            </test>
             <let>
               <clip pos="4" side="tl" part="nbr"/>
               <lit-tag v="pl"/>
             </let>
           </when>
         </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="2" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="1" side="tl" part="gen"/>
-                  <clip pos="2" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
-          </when>
-        </choose>        
         <call-macro n="concord_n3">
           <with-param pos="2"/>
           <with-param pos="4"/>
           <with-param pos="3"/>
         </call-macro>
         
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>                
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <lit-tag v="adjant"/>
-                </equal>
-                <equal>                
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <lit-tag v="det"/>
-                </equal>
-              </or>
-            </test>
-            <out> 
-              <chunk name="pr_d_adj_num_n" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>                  
-                  <clip pos="5" side="tl" part="lem"/> 
-                  <clip pos="5" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="4" side="tl" part="lem"/> 
-                  <clip pos="4" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="ND" link-to="4"/>
-                  <clip pos="4" side="tl" part="sp"/>
-                </lu>
-                <b pos="1"/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_num"/> 
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="nbr"/>
-                </lu>
-                <b pos="2"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lem"/> 
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <clip pos="3" side="tl" part="tipus_adj"/>
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="ND" link-to="4"/>
-                  <clip pos="3" side="tl" part="sp"/>
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="2" side="tl" part="lemh"/> 
-                  <clip pos="2" side="tl" part="a_nom"/>
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="nbr"/>
-                  <clip pos="2" side="tl" part="lemq"/> 
-                </lu>
-              </chunk>
-            </out>
-          </when>
-          <otherwise>
-            <out> 
-              <chunk name="pr_d_num_n_adj" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>                                  
-                  <clip pos="5" side="tl" part="lem"/>
-                  <clip pos="5" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="4" side="tl" part="lem"/> 
-                  <clip pos="4" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="ND" link-to="4"/>
-                  <clip pos="4" side="tl" part="sp"/>
-                </lu>                
-                <b pos="1"/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_num"/> 
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="nbr"/>
-                </lu>        
-                <b pos="2"/>
-                <lu> 
-                  <clip pos="2" side="tl" part="lemh"/> 
-                  <clip pos="2" side="tl" part="a_nom"/>
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="nbr"/>
-                  <clip pos="2" side="tl" part="lemq"/> 
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lem"/> 
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <clip pos="3" side="tl" part="tipus_adj"/>
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="ND" link-to="4"/>
-                  <clip pos="3" side="tl" part="sp"/>
-                </lu>
-              </chunk>
-            </out>
-          </otherwise>
-        </choose>
+        <out> 
+          <chunk name="pr_d_adj_num_n" case="caseFirstWord">
+            <tags>
+              <tag><var n="chunk"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="gen_chunk"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="5" side="tl" part="lem"/> 
+              <clip pos="5" side="tl" part="a_prep"/> 
+            </lu>
+            <var n="blanco"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/> 
+              <clip pos="4" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="sp"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> 
+              <clip pos="1" side="tl" part="a_num"/> 
+              <clip pos="1" side="tl" part="nbr"/>
+            </lu>
+            <b pos="2"/>
+            <lu> 
+              <clip pos="3" side="tl" part="lem"/> 
+              <clip pos="3" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="tipus_adj"/>
+            </lu>
+            <b pos="3"/>
+            <lu> 
+              <clip pos="2" side="tl" part="lemh"/> 
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="nbr"/>
+              <clip pos="2" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
@@ -9956,213 +9679,67 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <lit-tag v="sp"/>
                 </equal>
               </not>
-            </test>                  
+            </test>
             <let>
               <clip pos="5" side="tl" part="nbr"/>
               <lit-tag v="pl"/>
             </let>
           </when>
         </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="2" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="4" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="2" side="tl" part="gen"/>
-                  <clip pos="4" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
-          </when>
-        </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="3" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="4" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="3" side="tl" part="gen"/>
-                  <clip pos="4" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
-          </when>
-        </choose>        
         <call-macro n="concord_n3">
           <with-param pos="4"/>
           <with-param pos="5"/>
           <with-param pos="1"/>
         </call-macro>
         
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>                
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="adjant"/>
-                </equal>
-                <equal>                
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="det"/>
-                </equal>
-                <equal>                
-                  <clip pos="1" side="tl" part="a_ordinal"/>
-                  <lit-tag v="num.ord"/>
-                </equal>
-              </or>
-            </test>
-            <out> 
-              <chunk name="pr_d_a_num_num_n" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>                  
-                  <clip pos="6" side="tl" part="lem"/>
-                  <clip pos="6" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="5" side="tl" part="lem"/> 
-                  <clip pos="5" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="5" side="tl" part="GD" link-to="3"/>
-                  <clip pos="5" side="tl" part="mf"/>
-                  <clip pos="5" side="tl" part="ND" link-to="4"/>
-                  <clip pos="5" side="tl" part="sp"/>
-                </lu>
-                <b pos="1"/>
-                <lu> 
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <clip pos="1" side="tl" part="tipus_adj"/>
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="ND" link-to="4"/>
-                  <clip pos="1" side="tl" part="sp"/>
-                </lu>
-                <b pos="2"/>
-                <lu>
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_num"/> 
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="nbr"/>
-                </lu>
-                <b pos="3"/>
-                <lu>
-                  <clip pos="3" side="tl" part="lem"/> 
-                  <clip pos="3" side="tl" part="a_num"/> 
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="nbr"/>
-                </lu>
-                <b pos="4"/>
-                <lu> 
-                  <clip pos="4" side="tl" part="lemh"/> 
-                  <clip pos="4" side="tl" part="a_nom"/>
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="nbr"/>
-                  <clip pos="4" side="tl" part="lemq"/> 
-                </lu>
-              </chunk>
-            </out>
-          </when>
-          <otherwise>
-            <out> 
-              <chunk name="pr_d_num_num_n_a" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>                                  
-                  <clip pos="6" side="tl" part="lem"/>
-                  <clip pos="6" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="5" side="tl" part="lem"/> 
-                  <clip pos="5" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="5" side="tl" part="GD" link-to="3"/>
-                  <clip pos="5" side="tl" part="mf"/>
-                  <clip pos="5" side="tl" part="ND" link-to="4"/>
-                  <clip pos="5" side="tl" part="sp"/>
-                </lu>                
-                <b pos="1"/>
-                <lu>
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_num"/> 
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="nbr"/>
-                </lu>                
-                <b pos="2"/>
-                <lu>
-                  <clip pos="3" side="tl" part="lem"/> 
-                  <clip pos="3" side="tl" part="a_num"/> 
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="nbr"/>
-                </lu>                
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="4" side="tl" part="lemh"/> 
-                  <clip pos="4" side="tl" part="a_nom"/>
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="nbr"/>
-                  <clip pos="4" side="tl" part="lemq"/> 
-                </lu>        
-                <b pos="4"/>
-                <lu> 
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <clip pos="1" side="tl" part="tipus_adj"/>
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="ND" link-to="4"/>
-                  <clip pos="1" side="tl" part="sp"/>
-                </lu>
-              </chunk>
-            </out>
-          </otherwise>
-        </choose>
+        <out> 
+          <chunk name="pr_d_a_num_num_n" case="caseFirstWord">
+            <tags>
+              <tag><var n="chunk"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="gen_chunk"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="6" side="tl" part="lem"/>
+              <clip pos="6" side="tl" part="a_prep"/> 
+            </lu>
+            <var n="blanco"/>
+            <lu>
+              <clip pos="5" side="tl" part="lem"/> 
+              <clip pos="5" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="sp"/>
+            </lu>
+            <b pos="1"/>
+            <lu> 
+              <clip pos="1" side="tl" part="lem"/> 
+              <clip pos="1" side="tl" part="a_adj"/>
+              <clip pos="1" side="tl" part="tipus_adj"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="a_num"/> 
+              <clip pos="2" side="tl" part="nbr"/>
+            </lu>
+            <b pos="3"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/> 
+              <clip pos="3" side="tl" part="a_num"/> 
+              <clip pos="3" side="tl" part="nbr"/>
+            </lu>
+            <b pos="4"/>
+            <lu> 
+              <clip pos="4" side="tl" part="lemh"/> 
+              <clip pos="4" side="tl" part="a_nom"/>
+              <clip pos="4" side="tl" part="nbr"/>
+              <clip pos="4" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
@@ -10189,32 +9766,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <clip pos="3" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
         </let>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="2" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="3" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="2" side="tl" part="gen"/>
-                  <clip pos="3" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
-          </when>
-        </choose>        
         <call-macro n="concord_n2">
           <with-param pos="3"/>
           <with-param pos="1"/>
@@ -10440,126 +9991,47 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="2"/>
         </call-macro>
         
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>                
-                  <clip pos="2" side="tl" part="a_adj"/>
-                  <lit-tag v="adjant"/>
-                </equal>
-                <equal>                
-                  <clip pos="2" side="tl" part="a_adj"/>
-                  <lit-tag v="det"/>
-                </equal>
-              </or>
-            </test>
-            <out>
-              <chunk name="pr_d_num_adj_n" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="5" side="tl" part="lem"/>
-                  <clip pos="5" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="4" side="tl" part="lem"/> 
-                  <clip pos="4" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="ND" link-to="4"/>
-                  <clip pos="4" side="tl" part="sp"/>
-                </lu>
-                <b pos="1"/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_num"/> 
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="nbr"/>
-                </lu>
-                <b pos="2"/>
-                <lu> 
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_adj"/>
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="ND" link-to="4"/>
-                  <clip pos="2" side="tl" part="sp"/>
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lemh"/> 
-                  <clip pos="3" side="tl" part="a_nom"/>
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="nbr"/>
-                  <clip pos="3" side="tl" part="lemq"/> 
-                </lu>
-              </chunk>
-            </out>
-          </when>
-          <otherwise>
-            <out> 
-              <chunk name="pr_d_num_n_adj" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="5" side="tl" part="lem"/> 
-                  <clip pos="5" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="4" side="tl" part="lem"/> 
-                  <clip pos="4" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="ND" link-to="4"/>
-                  <clip pos="4" side="tl" part="sp"/>
-                </lu>
-                <b pos="1"/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_num"/> 
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="nbr"/>
-                </lu>
-                <b pos="2"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lemh"/> 
-                  <clip pos="3" side="tl" part="a_nom"/>
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="nbr"/>
-                  <clip pos="3" side="tl" part="lemq"/> 
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_adj"/>
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="ND" link-to="4"/>
-                  <clip pos="2" side="tl" part="sp"/>
-                </lu>
-              </chunk>
-            </out>        
-          </otherwise>
-        </choose>
+        <out>
+          <chunk name="pr_d_num_adj_n" case="caseFirstWord">
+            <tags>
+              <tag><var n="chunk"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="gen_chunk"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="5" side="tl" part="lem"/>
+              <clip pos="5" side="tl" part="a_prep"/> 
+            </lu>
+            <var n="blanco"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/> 
+              <clip pos="4" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="sp"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> 
+              <clip pos="1" side="tl" part="a_num"/> 
+              <clip pos="1" side="tl" part="nbr"/>
+            </lu>
+            <b pos="2"/>
+            <lu> 
+              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="a_adj"/>
+            </lu>
+            <b pos="3"/>
+            <lu> 
+              <clip pos="3" side="tl" part="lemh"/> 
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="nbr"/>
+              <clip pos="3" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
@@ -10602,207 +10074,65 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <lit-tag v="sp"/>
                 </equal>
               </not>
-            </test>                  
+            </test>
             <let>
               <clip pos="5" side="tl" part="nbr"/>
               <lit-tag v="pl"/>
             </let>
           </when>
         </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="4" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="1" side="tl" part="gen"/>
-                  <clip pos="4" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
-          </when>
-        </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>                
-                <clip pos="2" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>                                      
-                      <clip pos="4" side="tl" part="gen"/>
-                      <lit-tag v="mf"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="2" side="tl" part="gen"/>
-                  <clip pos="4" side="tl" part="gen"/>
-                </let>
-              </when>
-            </choose>
-          </when>
-        </choose>        
         <call-macro n="concord_n3">
           <with-param pos="4"/>
           <with-param pos="5"/>
           <with-param pos="3"/>
         </call-macro>
         
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>                
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <lit-tag v="adjant"/>
-                </equal>
-                <equal>                
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <lit-tag v="det"/>
-                </equal>
-              </or>
-            </test>
-            <out>
-              <chunk name="pr_d_num_num_adj_n" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="6" side="tl" part="lem"/> 
-                  <clip pos="6" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="5" side="tl" part="lem"/> 
-                  <clip pos="5" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="5" side="tl" part="GD" link-to="3"/>
-                  <clip pos="5" side="tl" part="mf"/>
-                  <clip pos="5" side="tl" part="ND" link-to="4"/>
-                  <clip pos="5" side="tl" part="sp"/>
-                </lu>
-                <b pos="1"/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_num"/> 
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="nbr"/>
-                </lu>
-                <b pos="2"/>
-                <lu>
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_num"/> 
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="nbr"/>
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lem"/> 
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="ND" link-to="4"/>
-                  <clip pos="3" side="tl" part="sp"/>
-                </lu>
-                <b pos="4"/>
-                <lu> 
-                  <clip pos="4" side="tl" part="lemh"/> 
-                  <clip pos="4" side="tl" part="a_nom"/>
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="nbr"/>
-                  <clip pos="4" side="tl" part="lemq"/> 
-                </lu>
-              </chunk>
-            </out>
-          </when>
-          <otherwise>
-            <out> 
-              <chunk name="pr_d_num_num_n_a" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="gen_chunk"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="6" side="tl" part="lem"/> 
-                  <clip pos="6" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu>
-                  <clip pos="5" side="tl" part="lem"/> 
-                  <clip pos="5" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="5" side="tl" part="GD" link-to="3"/>
-                  <clip pos="5" side="tl" part="mf"/>
-                  <clip pos="5" side="tl" part="ND" link-to="4"/>
-                  <clip pos="5" side="tl" part="sp"/>
-                </lu>
-                <b pos="1"/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_num"/> 
-                  <clip pos="1" side="tl" part="GD" link-to="3"/>
-                  <clip pos="1" side="tl" part="mf"/>
-                  <clip pos="1" side="tl" part="nbr"/>
-                </lu>
-                <b pos="2"/>
-                <lu>
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_num"/> 
-                  <clip pos="2" side="tl" part="GD" link-to="3"/>
-                  <clip pos="2" side="tl" part="mf"/>
-                  <clip pos="2" side="tl" part="nbr"/>
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="4" side="tl" part="lemh"/> 
-                  <clip pos="4" side="tl" part="a_nom"/>
-                  <clip pos="4" side="tl" part="GD" link-to="3"/>
-                  <clip pos="4" side="tl" part="mf"/>
-                  <clip pos="4" side="tl" part="nbr"/>
-                  <clip pos="4" side="tl" part="lemq"/> 
-                </lu>
-                <b pos="4"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lem"/> 
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <clip pos="3" side="tl" part="GD" link-to="3"/>
-                  <clip pos="3" side="tl" part="mf"/>
-                  <clip pos="3" side="tl" part="ND" link-to="4"/>
-                  <clip pos="3" side="tl" part="sp"/>
-                </lu>
-              </chunk>
-            </out>        
-          </otherwise>
-        </choose>
+        <out>
+          <chunk name="pr_d_num_num_adj_n" case="caseFirstWord">
+            <tags>
+              <tag><var n="chunk"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="6" side="tl" part="lem"/> 
+              <clip pos="6" side="tl" part="a_prep"/> 
+            </lu>
+            <var n="blanco"/>
+            <lu>
+              <clip pos="5" side="tl" part="lem"/> 
+              <clip pos="5" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="sp"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> 
+              <clip pos="1" side="tl" part="a_num"/> 
+              <clip pos="1" side="tl" part="nbr"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="a_num"/> 
+              <clip pos="2" side="tl" part="nbr"/>
+            </lu>
+            <b pos="3"/>
+            <lu> 
+              <clip pos="3" side="tl" part="lem"/> 
+              <clip pos="3" side="tl" part="a_adj"/>
+            </lu>
+            <b pos="4"/>
+            <lu> 
+              <clip pos="4" side="tl" part="lemh"/> 
+              <clip pos="4" side="tl" part="a_nom"/>
+              <clip pos="4" side="tl" part="nbr"/>
+              <clip pos="4" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
@@ -10826,14 +10156,12 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><lit-tag v="f"/></tag>
               <tag><clip pos="2" side="tl" part="nbr"/></tag>
               <tag><var n="grado"/></tag>
             </tags>
             <lu>
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_det"/> 
-              <lit-tag v="2"/> 
               <lit-tag v="3"/>
               <clip pos="2" side="tl" part="nbr" link-to="4"/>
             </lu>
@@ -10882,18 +10210,16 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><lit-tag v="f"/></tag>
               <tag><clip pos="2" side="tl" part="nbr"/></tag>
               <tag><var n="grado"/></tag>
             </tags>
             <lu>
               <clip pos="3" side="tl" part="whole"/> 
             </lu>
-            <var n="blanco"/>              
+            <var n="blanco"/>
             <lu>
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_det"/> 
-              <lit-tag v="2"/> 
               <lit-tag v="3"/>
               <clip pos="2" side="tl" part="nbr" link-to="4"/>
             </lu>
@@ -10922,21 +10248,20 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <chunk name="num_pr_num" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN.num"/></tag>
-              <tag><clip pos="3" side="tl" part="gen"/></tag>
               <tag><clip pos="3" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="3" side="tl" part="whole"/> 
             </lu>
-            <b pos="1"/>              
+            <b pos="1"/>
             <lu>
-              <lit v="de"/>
+              <lit v="of"/>
               <lit-tag v="pr"/>
             </lu>
             <b/>
             <lu>
-              <lit v="cada"/>
-              <lit-tag v="det.ind.mf.sg"/>
+              <lit v="each"/>
+              <lit-tag v="det.ind.3"/>
             </lu>
             <b pos="2"/>
             <lu>
@@ -10963,11 +10288,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <chunk name="pr_num_pr_num" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN.num"/></tag>
-              <tag><clip pos="3" side="tl" part="gen"/></tag>
               <tag><clip pos="3" side="tl" part="nbr"/></tag>
-            </tags>              
+            </tags>
             <lu>
-              <lit v="de"/>
+              <lit v="of"/>
               <lit-tag v="pr"/>
             </lu>
             <b pos="1"/>
@@ -11004,20 +10328,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
-        <choose><!--porque para palabras con función de CN no se puede dejar GD i ND para el t2x, ya que no están enlazados con chunk -->
-          <when>
-            <test>
-              <equal>
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="gen"/>
-              <lit-tag v="m"/>
-            </let>
-          </when>
-        </choose>
         <choose>
           <when>
             <test>
@@ -11032,20 +10342,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </let>
           </when>
         </choose>  
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="2" side="tl" part="gen"/>
-              <lit-tag v="m"/>
-            </let>
-          </when>
-        </choose>
         <choose>
           <when>
             <test>
@@ -11068,7 +10364,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><lit-tag v="f"/></tag>
               <tag><clip pos="5" side="tl" part="nbr"/></tag>
               <tag><var n="grado"/></tag>
             </tags>
@@ -11076,7 +10371,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <lit-tag v="3"/>
               <clip pos="5" side="tl" part="nbr" link-to="4"/>
             </lu>
             <b/>
@@ -11095,10 +10389,9 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/> 
-            </lu>            
+            </lu>
           </chunk>
         </out>
       </action>
@@ -11121,20 +10414,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
-        <choose><!--porque para palabras con función de CN no se puede dejar GD i ND para el t2x, ya que no están enlazados con chunk -->
-          <when>
-            <test>
-              <equal>
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="gen"/>
-              <lit-tag v="m"/>
-            </let>
-          </when>
-        </choose>
         <choose>
           <when>
             <test>
@@ -11149,20 +10428,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </let>
           </when>
         </choose>  
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="2" side="tl" part="gen"/>
-              <lit-tag v="m"/>
-            </let>
-          </when>
-        </choose>
         <choose>
           <when>
             <test>
@@ -11188,11 +10453,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><lit-tag v="f"/></tag>
               <tag><clip pos="5" side="tl" part="nbr"/></tag>
               <tag><var n="grado"/></tag>
             </tags>
-            <lu>              
+            <lu>
               <clip pos="6" side="tl" part="lem"/> 
               <clip pos="6" side="tl" part="a_prep"/> 
             </lu>
@@ -11201,7 +10465,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <lit-tag v="3"/>
               <clip pos="5" side="tl" part="nbr" link-to="4"/>
             </lu>
             <b pos="1"/>
@@ -11220,7 +10483,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
@@ -11249,7 +10511,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <choose>
               <when>
-                <test>              
+                <test>
                   <not>
                     <equal>
                       <clip pos="1" side="tl" part="lem"/>
@@ -11291,55 +10553,22 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </let>
           </otherwise>
         </choose>
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="2" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-              </or>
-            </test>
-            <let>
-              <var n="gen_chunk"/>
-              <lit-tag v="GD"/>
-            </let>
-          </when>
-          <otherwise>
-            <let>
-              <var n="gen_chunk"/> 
-              <clip pos="2" side="tl" part="gen"/>
-            </let>
-          </otherwise>
-        </choose>
         <out> 
           <chunk name="num_adj" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><lit-tag v="num"/></tag>
-              <tag><var n="gen_chunk"/></tag>
               <tag><var n="nbr_chunk"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_num"/> 
-              <clip pos="1" side="tl" part="GD" link-to="3"/>
-              <clip pos="1" side="tl" part="mf"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
             <b pos="1"/>
             <lu> 
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="GD" link-to="3"/>
-              <clip pos="2" side="tl" part="mf"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
-              <clip pos="2" side="tl" part="sp"/>
             </lu>
           </chunk>
         </out>
@@ -11375,67 +10604,28 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <var n="nbr_chunk"/>
           <lit-tag v="pl"/>
         </let>
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="2" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="3" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-              </or>
-            </test>
-            <let>
-              <var n="gen_chunk"/>
-              <lit-tag v="GD"/>
-            </let>
-          </when>
-          <otherwise>
-            <let>
-              <var n="gen_chunk"/> 
-              <clip pos="3" side="tl" part="gen"/>
-            </let>
-          </otherwise>
-        </choose>
         <out> 
           <chunk name="num_num_adj" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><lit-tag v="num"/></tag>
-              <tag><var n="gen_chunk"/></tag>
               <tag><var n="nbr_chunk"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_num"/> 
-              <clip pos="1" side="tl" part="GD" link-to="3"/>
-              <clip pos="1" side="tl" part="mf"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
             <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_num"/> 
-              <clip pos="2" side="tl" part="GD" link-to="3"/>
-              <clip pos="2" side="tl" part="mf"/>
               <clip pos="2" side="tl" part="nbr"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="GD" link-to="3"/>
-              <clip pos="3" side="tl" part="mf"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
-              <clip pos="3" side="tl" part="sp"/>
             </lu>
           </chunk>
         </out>
@@ -11552,42 +10742,11 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </let>
           </otherwise>
         </choose>
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="2" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="3" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-              </or>
-            </test>
-            <let>
-              <var n="gen_chunk"/>
-              <lit-tag v="GD"/>
-            </let>
-          </when>
-          <otherwise>
-            <let>
-              <var n="gen_chunk"/> 
-              <clip pos="2" side="tl" part="gen"/>
-            </let>
-          </otherwise>
-        </choose>
         <out> 
           <chunk name="pr_d_num_adj" case="caseFirstWord">
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><var n="gen_chunk"/></tag>
               <tag><var n="nbr_chunk"/></tag>
             </tags>
             <lu>
@@ -11599,26 +10758,18 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="3" side="tl" part="GD" link-to="3"/>
-              <clip pos="3" side="tl" part="mf"/>
               <clip pos="3" side="tl" part="nbr"/>
             </lu>
             <b pos="1"/>
             <lu>
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_num"/> 
-              <clip pos="1" side="tl" part="GD" link-to="3"/>
-              <clip pos="1" side="tl" part="mf"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="GD" link-to="3"/>
-              <clip pos="2" side="tl" part="mf"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
-              <clip pos="2" side="tl" part="sp"/>
             </lu>
           </chunk>
         </out>
@@ -11697,46 +10848,11 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <var n="nbr_chunk"/>
           <lit-tag v="pl"/>
         </let>
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="2" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="3" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="4" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-              </or>
-            </test>
-            <let>
-              <var n="gen_chunk"/>
-              <lit-tag v="GD"/>
-            </let>
-          </when>
-          <otherwise>
-            <let>
-              <var n="gen_chunk"/> 
-              <clip pos="3" side="tl" part="gen"/>
-            </let>
-          </otherwise>
-        </choose>
         <out> 
           <chunk name="pr_d_num_adj" case="caseFirstWord">
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><var n="gen_chunk"/></tag>
               <tag><var n="nbr_chunk"/></tag>
             </tags>
             <lu>
@@ -11748,34 +10864,24 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="GD" link-to="3"/>
-              <clip pos="4" side="tl" part="mf"/>
               <clip pos="4" side="tl" part="nbr"/>
             </lu>
             <b pos="1"/>
             <lu>
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_num"/> 
-              <clip pos="1" side="tl" part="GD" link-to="3"/>
-              <clip pos="1" side="tl" part="mf"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
             <b pos="2"/>
             <lu>
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_num"/> 
-              <clip pos="2" side="tl" part="GD" link-to="3"/>
-              <clip pos="2" side="tl" part="mf"/>
               <clip pos="2" side="tl" part="nbr"/>
             </lu>
             <b pos="3"/>
             <lu> 
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="GD" link-to="3"/>
-              <clip pos="3" side="tl" part="mf"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
-              <clip pos="3" side="tl" part="sp"/>
             </lu>
           </chunk>
         </out>
