@@ -7,7 +7,7 @@
 	Sdefs: 277
       
       Patterns applied:
-      	default (4412 times)
+      	default (4355 times)
       	post-pr (47 times)
       	vblex (1605 times)
       	adv (590 times)
@@ -21,7 +21,8 @@
       	run1-5 (176 times)
       	run1-6 (129 times)
       	ND-5 (56 times)
-      	ND-8 (22 times)
+      	loc-1 (47 times)
+      	loc-2 (32 times)
 
 -->
 <dictionary>
@@ -483,22 +484,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Afganistan<s n="np"/></l> 
+        <l>Afganistan<s n="np"/><s n="loc"/></l> 
         <r>Afghanistan<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Afrika<s n="np"/></l> 
+        <l>Afrika<s n="np"/><s n="loc"/></l> 
         <r>Africa<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -527,7 +528,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -538,22 +539,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Ameriketako<b/>Estatu<b/>Batu<s n="np"/></l> 
+        <l>Ameriketako<b/>Estatu<b/>Batu<s n="np"/><s n="loc"/></l> 
         <r>United<b/>States<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Ameriketako<b/>Estatu<b/>Batuak<s n="np"/></l> 
+        <l>Ameriketako<b/>Estatu<b/>Batuak<s n="np"/><s n="loc"/></l> 
         <r>United<b/>States<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -571,11 +572,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Andaluzia<s n="np"/></l> 
+        <l>Andaluzia<s n="np"/><s n="loc"/></l> 
         <r>Andalucia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -637,7 +638,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -670,7 +671,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -681,7 +682,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -725,11 +726,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Bagdad<s n="np"/></l> 
+        <l>Bagdad<s n="np"/><s n="loc"/></l> 
         <r>Baghdad<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -747,11 +748,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Bartzelona<s n="np"/></l> 
+        <l>Bartzelona<s n="np"/><s n="loc"/></l> 
         <r>Barcelona<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -769,11 +770,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Belgika<s n="np"/></l> 
+        <l>Belgika<s n="np"/><s n="loc"/></l> 
         <r>Belgium<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -791,7 +792,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -824,7 +825,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -835,7 +836,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -846,29 +847,29 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Brasil<s n="np"/></l> 
+        <l>Brasil<s n="np"/><s n="loc"/></l> 
         <r>Brazil<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Brusela<s n="np"/></l> 
+        <l>Brusela<s n="np"/><s n="loc"/></l> 
         <r>Brussels<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -923,22 +924,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Dakar<s n="np"/></l> 
+        <l>Dakar<s n="np"/><s n="loc"/></l> 
         <r>Dakar<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Danimarka<s n="np"/></l> 
+        <l>Danimarka<s n="np"/><s n="loc"/></l> 
         <r>Denmark<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -978,11 +979,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Dublin<s n="np"/></l> 
+        <l>Dublin<s n="np"/><s n="loc"/></l> 
         <r>Dublin<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1022,55 +1023,55 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Egipto<s n="np"/></l> 
+        <l>Egipto<s n="np"/><s n="loc"/></l> 
         <r>Egypt<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Erresuma<b/>Batua<s n="np"/></l> 
+        <l>Erresuma<b/>Batua<s n="np"/><s n="loc"/></l> 
         <r>United<b/>Kingdom<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Erresuma<b/>Batua<s n="np"/></l> 
+        <l>Erresuma<b/>Batua<s n="np"/><s n="loc"/></l> 
         <r>UK<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Errumania<s n="np"/></l> 
+        <l>Errumania<s n="np"/><s n="loc"/></l> 
         <r>Romania<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Errusia<s n="np"/></l> 
+        <l>Errusia<s n="np"/><s n="loc"/></l> 
         <r>Russia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1088,18 +1089,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Estrasburgo<s n="np"/></l> 
+        <l>Estrasburgo<s n="np"/><s n="loc"/></l> 
         <r>Strasbourg<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1165,7 +1166,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1176,22 +1177,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Frantzia<s n="np"/></l> 
+        <l>Frantzia<s n="np"/><s n="loc"/></l> 
         <r>France<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Galizia<s n="np"/></l> 
+        <l>Galizia<s n="np"/><s n="loc"/></l> 
         <r>Galicia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1220,7 +1221,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1275,7 +1276,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1286,11 +1287,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Hego<b/>Afrika<s n="np"/></l> 
+        <l>Hego<b/>Afrika<s n="np"/><s n="loc"/></l> 
         <r>South<b/>Africa<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1308,7 +1309,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1341,7 +1342,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1352,18 +1353,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Iran<s n="np"/></l> 
+        <l>Iran<s n="np"/><s n="loc"/></l> 
         <r>Iran<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1385,18 +1386,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Israel<s n="np"/></l> 
+        <l>Israel<s n="np"/><s n="loc"/></l> 
         <r>Israel<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1418,11 +1419,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Japonia<s n="np"/></l> 
+        <l>Japonia<s n="np"/><s n="loc"/></l> 
         <r>Japan<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1550,7 +1551,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1660,77 +1661,77 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Kanada<s n="np"/></l> 
+        <l>Kanada<s n="np"/><s n="loc"/></l> 
         <r>Canada<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Kantabria<s n="np"/></l> 
+        <l>Kantabria<s n="np"/><s n="loc"/></l> 
         <r>Cantabria<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Katalunia<s n="np"/></l> 
+        <l>Katalunia<s n="np"/><s n="loc"/></l> 
         <r>Catalonia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Kolonbia<s n="np"/></l> 
+        <l>Kolonbia<s n="np"/><s n="loc"/></l> 
         <r>Colombia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Kongo<s n="np"/></l> 
+        <l>Kongo<s n="np"/><s n="loc"/></l> 
         <r>Congo<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Korea<s n="np"/></l> 
+        <l>Korea<s n="np"/><s n="loc"/></l> 
         <r>Korea<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Kosovo<s n="np"/></l> 
+        <l>Kosovo<s n="np"/><s n="loc"/></l> 
         <r>Kosovo<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1759,11 +1760,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Kuba<s n="np"/></l> 
+        <l>Kuba<s n="np"/><s n="loc"/></l> 
         <r>Cuba<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1781,11 +1782,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Kurdistan<s n="np"/></l> 
+        <l>Kurdistan<s n="np"/><s n="loc"/></l> 
         <r>Kurdistan<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1803,11 +1804,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Latinoamerika<s n="np"/></l> 
+        <l>Latinoamerika<s n="np"/><s n="loc"/></l> 
         <r>Latin<b/>America<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1825,18 +1826,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Libano<s n="np"/></l> 
+        <l>Libano<s n="np"/><s n="loc"/></l> 
         <r>Lebanon<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -1847,11 +1848,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Londres<s n="np"/></l> 
+        <l>Londres<s n="np"/><s n="loc"/></l> 
         <r>London<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1913,11 +1914,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Madril<s n="np"/></l> 
+        <l>Madril<s n="np"/><s n="loc"/></l> 
         <r>Madrid<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2012,11 +2013,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Maroko<s n="np"/></l> 
+        <l>Maroko<s n="np"/><s n="loc"/></l> 
         <r>Morocco<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2067,11 +2068,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Mexiko<s n="np"/></l> 
+        <l>Mexiko<s n="np"/><s n="loc"/></l> 
         <r>Mexico<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2111,11 +2112,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Milan<s n="np"/></l> 
+        <l>Milan<s n="np"/><s n="loc"/></l> 
         <r>Milan<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2133,11 +2134,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Munich<s n="np"/></l> 
+        <l>Munich<s n="np"/><s n="loc"/></l> 
         <r>Munich<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2188,44 +2189,44 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Nafarroa<s n="np"/></l> 
+        <l>Nafarroa<s n="np"/><s n="loc"/></l> 
         <r>Navarra<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Nepal<s n="np"/></l> 
+        <l>Nepal<s n="np"/><s n="loc"/></l> 
         <r>Nepal<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>New<b/>York<s n="np"/></l> 
+        <l>New<b/>York<s n="np"/><s n="loc"/></l> 
         <r>New<b/>York<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Nikaragua<s n="np"/></l> 
+        <l>Nikaragua<s n="np"/><s n="loc"/></l> 
         <r>Nicaragua<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2254,11 +2255,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Pakistan<s n="np"/></l> 
+        <l>Pakistan<s n="np"/><s n="loc"/></l> 
         <r>Pakistan<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2276,11 +2277,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Paris<s n="np"/></l> 
+        <l>Paris<s n="np"/><s n="loc"/></l> 
         <r>Paris<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2331,11 +2332,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Pekin<s n="np"/></l> 
+        <l>Pekin<s n="np"/><s n="loc"/></l> 
         <r>Peking<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2408,7 +2409,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -2507,7 +2508,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -2540,7 +2541,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -2551,11 +2552,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Suitza<s n="np"/></l> 
+        <l>Suitza<s n="np"/><s n="loc"/></l> 
         <r>Switzerland<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2584,55 +2585,55 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Turkia<s n="np"/></l> 
+        <l>Turkia<s n="np"/><s n="loc"/></l> 
         <r>Turkey<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Txekiar<b/>Errepublika<s n="np"/></l> 
+        <l>Txekiar<b/>Errepublika<s n="np"/><s n="loc"/></l> 
         <r>Czech<b/>Republic<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Txile<s n="np"/></l> 
+        <l>Txile<s n="np"/><s n="loc"/></l> 
         <r>Chile<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Txina<s n="np"/></l> 
+        <l>Txina<s n="np"/><s n="loc"/></l> 
         <r>China<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-1
     -->
     <e>
       <p>
-        <l>Ukraina<s n="np"/></l> 
+        <l>Ukraina<s n="np"/><s n="loc"/></l> 
         <r>Ukraine<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2661,7 +2662,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND-8
+      loc-1
     -->
     <e>
       <p>
@@ -2683,11 +2684,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Washington<s n="np"/></l> 
+        <l>Washington<s n="np"/><s n="loc"/></l> 
         <r>Washington<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2716,11 +2717,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      loc-2
     -->
     <e>
       <p>
-        <l>Zimbawe<s n="np"/></l> 
+        <l>Zimbawe<s n="np"/><s n="loc"/></l> 
         <r>Zimbabwe<s n="np"/><s n="loc"/></r> 
       </p>
     </e>

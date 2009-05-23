@@ -460,7 +460,7 @@
 </action-set>
 </cross-action>
 <!-- 155 entries like this -->
-<cross-action id="ND-8">
+<cross-action id="loc-1">
 	<pattern>
     <e>
       <p>
@@ -471,7 +471,7 @@
 
     <e>
       <p>
-        <l>$lemmaA<s n="np"/><s n="loc"/><s n="f"/></l> 
+        <l>$lemmaB<s n="np"/><s n="loc"/><s n="f"/></l> 
         <r>$lemmaC<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -489,5 +489,33 @@
 </action-set>
 </cross-action>
 <!-- 99 entries like this -->
+<cross-action id="loc-2">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/></l> 
+        <r>$lemmaB<s n="np"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="np"/><s n="loc"/><s n="m"/></l> 
+        <r>$lemmaC<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/><s n="loc"/></l> 
+        <r>$lemmaC<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 
 </cross-model>
