@@ -7692,7 +7692,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <lu> 
 	      <clip pos="7" side="tl" part="lemh"/> 
 	      <clip pos="7" side="tl" part="a_nom"/>
-	      <clip pos="7" side="tl" part="gen"/>
 	      <clip pos="7" side="tl" part="nbr"/>
 	      <clip pos="7" side="tl" part="lemq"/> 
 	    </lu>
@@ -7704,7 +7703,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <lu> 
 	      <clip pos="5" side="tl" part="lemh"/> 
 	      <clip pos="5" side="tl" part="a_nom"/>
-	      <clip pos="5" side="tl" part="gen"/>
 	      <clip pos="5" side="tl" part="nbr"/>
 	      <clip pos="5" side="tl" part="lemq"/> 
 	    </lu>
@@ -7757,34 +7755,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    </test>
 	    <let>
 	      <clip pos="3" side="tl" part="nbr"/>
-	      <lit-tag v="sg"/>
-	    </let>
-	  </when>
-	</choose>  
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="4" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="4" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="4" side="tl" part="nbr"/>
-		<lit-tag v="ND"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="4" side="tl" part="nbr"/>
 	      <lit-tag v="sg"/>
 	    </let>
 	  </when>
@@ -7921,20 +7891,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <when>
 	    <test>
 	      <equal>
-		<clip pos="4" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="4" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
 		<clip pos="4" side="tl" part="nbr"/>
 		<lit-tag v="ND"/>
 	      </equal>
@@ -7952,20 +7908,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	<call-macro n="nbr_n1">
 	  <with-param pos="1"/>
 	</call-macro>	
-	<choose><!--porque para palabras con función de CN no se puede dejar GD i ND para el t2x, ya que no están enlazados con chunk --> 
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="1" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
 	<call-macro n="tipo_det">
 	  <with-param pos="7"/>
 	</call-macro>
@@ -7977,7 +7919,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <tags>
 	      <tag><var n="chunk"/></tag>
 	      <tag><var n="tipusdet"/></tag>
-	      <tag><var n="gen_chunk"/></tag>
 	      <tag><var n="nbr_chunk"/></tag>
 	      <tag><var n="grado"/></tag>
 	    </tags>
@@ -8013,7 +7954,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <lu> 
 	      <clip pos="3" side="tl" part="lemh"/> 
 	      <clip pos="3" side="tl" part="a_nom"/>
-	      <clip pos="3" side="tl" part="gen"/>
 	      <clip pos="3" side="tl" part="nbr"/>
 	      <clip pos="3" side="tl" part="lemq"/> 
 	    </lu>
@@ -8026,7 +7966,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	      <clip pos="1" side="tl" part="lemh"/> 
 	      <clip pos="1" side="tl" part="a_nom"/>
 	      <!--     <clip pos="1" side="tl" part="a_adv"/>-->
-	      <clip pos="1" side="tl" part="gen"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	      <clip pos="1" side="tl" part="lemq"/> 
 	    </lu>
@@ -8055,20 +7994,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <with-param pos="1"/>
 	  <with-param pos="2"/>
 	</call-macro>
-	<choose><!--porque para palabras con función de CN no se puede dejar GD i ND para el t2x, ya que no están enlazados con chunk -->
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="1" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
 	<choose>
 	  <when>
 	    <test>
@@ -8087,20 +8012,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <when>
 	    <test>
 	      <equal>
-		<clip pos="2" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="2" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
 		<clip pos="2" side="tl" part="nbr"/>
 		<lit-tag v="ND"/>
 	      </equal>
@@ -8115,20 +8026,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <with-param pos="4"/>
 	  <with-param pos="5"/>
 	</call-macro>
-	<choose><!--porque para palabras con función de CN no se puede dejar GD i ND para el t2x, ya que no están enlazados con chunk -->
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="4" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="4" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
 	<choose>
 	  <when>
 	    <test>
@@ -8143,20 +8040,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    </let>
 	  </when>
 	</choose>  
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="5" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="5" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
 	<choose>
 	  <when>
 	    <test>
@@ -8272,20 +8155,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    </let>
 	  </when>
 	</choose>  
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="2" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="2" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
 	<choose>
 	  <when>
 	    <test>
@@ -8470,32 +8339,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <clip pos="3" side="tl" part="nbr"/>
 	  <lit-tag v="pl"/>
 	</let>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="2" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="3" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="2" side="tl" part="gen"/>
-		  <clip pos="3" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>
 	<out> 
 	  <chunk name="num_num_n" case="caseFirstWord">
 	    <tags>
@@ -8544,32 +8387,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <clip pos="2" side="tl" part="nbr"/>
 	  <lit-tag v="pl"/>
 	</let>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="3" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="1" side="tl" part="gen"/>
-		  <clip pos="3" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>	  
 	<out> 
 	  <chunk name="num_nom_n" case="caseFirstWord">
 	    <tags>
@@ -8760,16 +8577,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    </let>
 	  </when>
 	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	  </when>
-	</choose>
 	<out> 
 	  <chunk name="d_num_num_n" case="caseFirstWord">
 	    <tags>
@@ -8875,70 +8682,15 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <clip pos="4" side="tl" part="nbr"/>
 	  <lit-tag v="pl"/>
 	</let>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="4" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="1" side="tl" part="gen"/>
-		  <clip pos="4" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="3" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="4" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="3" side="tl" part="gen"/>
-		  <clip pos="4" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>	  
 	<out> 
 	  <chunk name="num_cj_num__n" case="caseFirstWord">
 	    <tags>
 	      <tag><lit-tag v="SN.num"/></tag>
-	      <tag><clip pos="4" side="tl" part="gen"/></tag>
 	      <tag><clip pos="4" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
 	      <clip pos="1" side="tl" part="lem"/> 
 	      <clip pos="1" side="tl" part="a_num"/> 
-	      <clip pos="1" side="tl" part="GD" link-to="3"/>
-	      <clip pos="1" side="tl" part="mf"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	    </lu>
 	    <b pos="1"/>
@@ -8949,16 +8701,12 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <lu>
 	      <clip pos="3" side="tl" part="lem"/> 
 	      <clip pos="3" side="tl" part="a_num"/> 
-	      <clip pos="3" side="tl" part="GD" link-to="3"/>
-	      <clip pos="3" side="tl" part="mf"/>
 	      <clip pos="3" side="tl" part="nbr"/>
 	    </lu>
 	    <b pos="3"/> 	      
 	    <lu> 
 	      <clip pos="4" side="tl" part="lemh"/> 
 	      <clip pos="4" side="tl" part="a_nom"/>
-	      <clip pos="4" side="tl" part="GD" link-to="3"/>
-	      <clip pos="4" side="tl" part="mf"/>
 	      <clip pos="4" side="tl" part="nbr"/>
 	      <clip pos="4" side="tl" part="lemq"/> 
 	    </lu>
@@ -8988,22 +8736,17 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <chunk name="num_n" case="caseFirstWord">
 	    <tags>
 	      <tag><lit-tag v="SN.num"/></tag>
-	      <tag><clip pos="1" side="tl" part="gen"/></tag>
 	      <tag><clip pos="1" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
 	      <clip pos="2" side="tl" part="lem"/> 
 	      <clip pos="2" side="tl" part="a_num"/> 
-	      <clip pos="2" side="tl" part="GD" link-to="3"/>
-	      <clip pos="2" side="tl" part="mf"/>
 	      <clip pos="2" side="tl" part="nbr"/>
 	    </lu>
 	    <b pos="1"/>
 	    <lu> 
 	      <clip pos="1" side="tl" part="lemh"/> 
 	      <clip pos="1" side="tl" part="a_nom"/>
-	      <clip pos="1" side="tl" part="GD" link-to="3"/>
-	      <clip pos="1" side="tl" part="mf"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	      <clip pos="1" side="tl" part="lemq"/> 
 	    </lu>
@@ -9038,7 +8781,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <tags>
 	      <tag><lit-tag v="SN"/></tag>
 	      <tag><var n="tipusdet"/></tag>
-	      <tag><var n="gen_chunk"/></tag>
 	      <tag><var n="nbr_chunk"/></tag>
 	      <tag><var n="grado"/></tag>
 	    </tags>
@@ -9046,8 +8788,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	      <clip pos="3" side="tl" part="lem"/>
 	      <clip pos="3" side="tl" part="a_det"/>
 	      <lit-tag v="2"/>
-	      <clip pos="3" side="tl" part="GD" link-to="3"/>
-	      <clip pos="3" side="tl" part="mf"/>
 	      <clip pos="3" side="tl" part="ND" link-to="4"/>
 	      <clip pos="3" side="tl" part="sp"/>
 	    </lu>
@@ -9055,16 +8795,12 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <lu>
 	      <clip pos="2" side="tl" part="lem"/>
 	      <clip pos="2" side="tl" part="a_num"/>
-	      <clip pos="2" side="tl" part="GD" link-to="3"/>
-	      <clip pos="2" side="tl" part="mf"/>
 	      <clip pos="2" side="tl" part="nbr"/>
 	    </lu>
 	    <b/>
 	    <lu>
 	      <clip pos="1" side="tl" part="lemh"/>
 	      <clip pos="1" side="tl" part="a_nom"/>
-	      <clip pos="1" side="tl" part="GD" link-to="3"/>
-	      <clip pos="1" side="tl" part="mf"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	      <clip pos="1" side="tl" part="lemq"/>
 	    </lu>
@@ -9093,54 +8829,23 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <clip pos="1" side="tl" part="nbr"/>
 	  <clip pos="2" side="sl" part="nbr"/>
 	</let>	
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="2" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="1" side="tl" part="gen"/>
-		  <clip pos="2" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>	  
 	<out> 
 	  <chunk name="num_n" case="caseFirstWord">
 	    <tags>
 	      <tag><lit-tag v="SN"/></tag>
 	      <tag><lit-tag v="def"/></tag>
-	      <tag><clip pos="1" side="tl" part="gen"/></tag>
 	      <tag><clip pos="1" side="tl" part="nbr"/></tag>
 	      <tag><var n="grado"/></tag>
 	    </tags>
 	    <lu>
 	      <clip pos="2" side="tl" part="lem"/> 
 	      <clip pos="2" side="tl" part="a_num"/> 
-	      <clip pos="2" side="tl" part="GD" link-to="3"/>
-	      <clip pos="2" side="tl" part="mf"/>
 	      <clip pos="2" side="tl" part="nbr"/>
 	    </lu>
 	    <b pos="1"/>
 	    <lu> 
 	      <clip pos="1" side="tl" part="lemh"/> 
 	      <clip pos="1" side="tl" part="a_nom"/>
-	      <clip pos="1" side="tl" part="GD" link-to="3"/>
-	      <clip pos="1" side="tl" part="mf"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	      <clip pos="1" side="tl" part="lemq"/> 
 	    </lu>
@@ -9167,7 +8872,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <tags>
 	      <tag><lit-tag v="SN"/></tag>
 	      <tag><var n="tipusdet"/></tag>
-	      <tag><lit-tag v="GD"/></tag>
 	      <tag><clip pos="2" side="tl" part="nbr"/></tag>
 	      <tag><var n="grado"/></tag>
 	    </tags>
@@ -9175,14 +8879,12 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	      <clip pos="2" side="tl" part="lem"/> 
 	      <clip pos="2" side="tl" part="a_det"/> 
 	      <lit-tag v="2"/> 
-	      <lit-tag v="3"/>
 	      <clip pos="2" side="tl" part="nbr"/>
 	    </lu>
 	    <b/>
 	    <lu>
 	      <clip pos="1" side="tl" part="lem"/>
 	      <lit-tag v="prn.tn"/><!--para que traduzca 'uno'(prn tn) y no 'un' (det), que es la opción del diccionario -->
-	      <clip pos="1" side="tl" part="GD" link-to="3"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	    </lu>
 	  </chunk>
@@ -9207,32 +8909,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <clip pos="2" side="tl" part="nbr"/>
 	  <lit-tag v="pl"/>
 	</let>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="2" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="1" side="tl" part="gen"/>
-		  <clip pos="2" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>
 	<call-macro n="SPgenitivo">
 	  <with-param pos="3"/>
 	</call-macro>	  
@@ -9241,7 +8917,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <tags>
 	      <tag><var n="chunk"/></tag>
 	      <tag><lit-tag v="num"/></tag>
-	      <tag><clip pos="2" side="tl" part="gen"/></tag>
 	      <tag><clip pos="2" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
@@ -9252,16 +8927,12 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <lu>
 	      <clip pos="1" side="tl" part="lem"/> 
 	      <clip pos="1" side="tl" part="a_num"/> 
-	      <clip pos="1" side="tl" part="GD" link-to="3"/>
-	      <clip pos="1" side="tl" part="mf"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	    </lu>
 	    <b pos="1"/>
 	    <lu> 
 	      <clip pos="2" side="tl" part="lemh"/> 
 	      <clip pos="2" side="tl" part="a_nom"/>
-	      <clip pos="2" side="tl" part="GD" link-to="3"/>
-	      <clip pos="2" side="tl" part="mf"/>
 	      <clip pos="2" side="tl" part="nbr"/>
 	      <clip pos="2" side="tl" part="lemq"/> 
 	    </lu>
@@ -9289,55 +8960,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <clip pos="3" side="tl" part="nbr"/>
 	  <lit-tag v="pl"/>
 	</let>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="3" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="1" side="tl" part="gen"/>
-		  <clip pos="3" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose> 
 	<call-macro n="nbr_n1">
 	  <with-param pos="2"/>
 	</call-macro>
-	<choose><!--porque para palabras con función de CN no se puede dejar GD i ND para el t2x, ya que no están enlazados con chunk -->
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="2" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="2" side="tl" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose> 
 	<out> 
 	  <chunk name="pr_num_n_pr_n" case="caseFirstWord">
 	    <tags>
 	      <tag><var n="chunk"/></tag>
 	      <tag><lit-tag v="num"/></tag>
-	      <tag><clip pos="3" side="tl" part="gen"/></tag>
 	      <tag><clip pos="3" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
@@ -9348,30 +8978,24 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <lu>
 	      <clip pos="1" side="tl" part="lem"/> 
 	      <clip pos="1" side="tl" part="a_num"/> 
-	      <clip pos="1" side="tl" part="GD" link-to="3"/>
-	      <clip pos="1" side="tl" part="mf"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	    </lu>
 	    <b pos="1"/>
 	    <lu> 
 	      <clip pos="3" side="tl" part="lemh"/> 
 	      <clip pos="3" side="tl" part="a_nom"/>
-	      <clip pos="3" side="tl" part="GD" link-to="3"/>
-	      <clip pos="3" side="tl" part="mf"/>
 	      <clip pos="3" side="tl" part="nbr"/>
 	      <clip pos="3" side="tl" part="lemq"/> 
 	    </lu>
 	    <b pos="2"/>	    
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="of"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
 	    <lu> 
 	      <clip pos="2" side="tl" part="lemh"/> 
 	      <clip pos="2" side="tl" part="a_nom"/>
-	      <clip pos="2" side="tl" part="gen"/>
-	      <clip pos="2" side="tl" part="nbr"/>
 	      <clip pos="2" side="tl" part="lemq"/> 
 	    </lu>	
 	  </chunk>
@@ -9394,58 +9018,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  <clip pos="3" side="tl" part="nbr"/>
 	  <lit-tag v="pl"/>
 	</let>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="2" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="3" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="2" side="tl" part="gen"/>
-		  <clip pos="3" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="3" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="1" side="tl" part="gen"/>
-		  <clip pos="3" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>
 	<call-macro n="SPgenitivo">
 	  <with-param pos="4"/>
 	</call-macro>	  
@@ -9454,7 +9026,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <tags>
 	      <tag><var n="chunk"/></tag>
 	      <tag><lit-tag v="num"/></tag>
-	      <tag><clip pos="3" side="tl" part="gen"/></tag>
 	      <tag><clip pos="3" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
@@ -9465,24 +9036,18 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    <lu>
 	      <clip pos="1" side="tl" part="lem"/> 
 	      <clip pos="1" side="tl" part="a_num"/> 
-	      <clip pos="1" side="tl" part="GD" link-to="3"/>
-	      <clip pos="1" side="tl" part="mf"/>
 	      <clip pos="1" side="tl" part="nbr"/>
 	    </lu>
 	    <b pos="1"/>
 	    <lu>
 	      <clip pos="2" side="tl" part="lem"/> 
 	      <clip pos="2" side="tl" part="a_num"/> 
-	      <clip pos="2" side="tl" part="GD" link-to="3"/>
-	      <clip pos="2" side="tl" part="mf"/>
 	      <clip pos="2" side="tl" part="nbr"/>
 	    </lu>
 	    <b pos="2"/>
 	    <lu> 
 	      <clip pos="3" side="tl" part="lemh"/> 
 	      <clip pos="3" side="tl" part="a_nom"/>
-	      <clip pos="3" side="tl" part="GD" link-to="3"/>
-	      <clip pos="3" side="tl" part="mf"/>
 	      <clip pos="3" side="tl" part="nbr"/>
 	      <clip pos="3" side="tl" part="lemq"/> 
 	    </lu>
@@ -9531,57 +9096,16 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	    </let>
 	  </when>
 	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>		
-		<clip pos="1" side="tl" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>		      		
-		      <clip pos="3" side="tl" part="gen"/>
-		      <lit-tag v="mf"/>
-		    </equal>
-		  </not>
-		</test>
-		<let>
-		  <clip pos="1" side="tl" part="gen"/>
-		  <clip pos="3" side="tl" part="gen"/>
-		</let>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>	
 	<call-macro n="concord_n3">
 	  <with-param pos="3"/>
 	  <with-param pos="4"/>
 	  <with-param pos="2"/>
 	</call-macro>
-	<choose>
-	  <when>
-	    <test>
-	      <or>
-		<equal>		
-		  <clip pos="2" side="tl" part="a_adj"/>
-		  <lit-tag v="adjant"/>
-		</equal>
-		<equal>		
-		  <clip pos="2" side="tl" part="a_adj"/>
-		  <lit-tag v="det"/>
-		</equal>
-	      </or>
-	    </test>
-	    <out>
-	      <chunk name="d_num_adj_n" case="caseFirstWord">
+  <out>
+    <chunk name="d_num_adj_n" case="caseFirstWord">
 		<tags>
 		  <tag><lit-tag v="SN"/></tag>
 		  <tag><var n="tipusdet"/></tag>
-		  <tag><var n="gen_chunk"/></tag>
 		  <tag><var n="nbr_chunk"/></tag>
 		  <tag><var n="grado"/></tag>
 		</tags>
@@ -9589,8 +9113,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 		  <clip pos="4" side="tl" part="lem"/> 
 		  <clip pos="4" side="tl" part="a_det"/> 
 		  <lit-tag v="2"/> 
-		  <clip pos="4" side="tl" part="GD" link-to="3"/>
-		  <clip pos="4" side="tl" part="mf"/>
 		  <clip pos="4" side="tl" part="ND" link-to="4"/>
 		  <clip pos="4" side="tl" part="sp"/>
 		</lu>
@@ -9598,16 +9120,12 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 		<lu>
 		  <clip pos="1" side="tl" part="lem"/> 
 		  <clip pos="1" side="tl" part="a_num"/> 
-		  <clip pos="1" side="tl" part="GD" link-to="3"/>
-		  <clip pos="1" side="tl" part="mf"/>
 		  <clip pos="1" side="tl" part="nbr"/>
 		</lu>
 		<b pos="2"/>
 		<lu> 
 		  <clip pos="2" side="tl" part="lem"/> 
 		  <clip pos="2" side="tl" part="a_adj"/>
-		  <clip pos="2" side="tl" part="GD" link-to="3"/>
-		  <clip pos="2" side="tl" part="mf"/>
 		  <clip pos="2" side="tl" part="ND" link-to="4"/>
 		  <clip pos="2" side="tl" part="sp"/>
 		</lu>
@@ -9615,63 +9133,11 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 		<lu> 
 		  <clip pos="3" side="tl" part="lemh"/> 
 		  <clip pos="3" side="tl" part="a_nom"/>
-		  <clip pos="3" side="tl" part="GD" link-to="3"/>
-		  <clip pos="3" side="tl" part="mf"/>
 		  <clip pos="3" side="tl" part="nbr"/>
 		  <clip pos="3" side="tl" part="lemq"/> 
 		</lu>
-	      </chunk>
-	    </out>
-	  </when>
-	  <otherwise>
-	    <out> 
-	      <chunk name="d_num_n_adj" case="caseFirstWord"> 
-		<tags>
-		  <tag><lit-tag v="SN"/></tag>
-		  <tag><var n="tipusdet"/></tag>
-		  <tag><var n="gen_chunk"/></tag>
-		  <tag><var n="nbr_chunk"/></tag>
-		  <tag><var n="grado"/></tag>
-		</tags>
-		<lu>
-		  <clip pos="4" side="tl" part="lem"/> 
-		  <clip pos="4" side="tl" part="a_det"/> 
-		  <lit-tag v="2"/> 
-		  <clip pos="4" side="tl" part="GD" link-to="3"/>
-		  <clip pos="4" side="tl" part="mf"/>
-		  <clip pos="4" side="tl" part="ND" link-to="4"/>
-		  <clip pos="4" side="tl" part="sp"/>
-		</lu>
-		<b pos="1"/>
-		<lu>
-		  <clip pos="1" side="tl" part="lem"/> 
-		  <clip pos="1" side="tl" part="a_num"/> 
-		  <clip pos="1" side="tl" part="GD" link-to="3"/>
-		  <clip pos="1" side="tl" part="mf"/>
-		  <clip pos="1" side="tl" part="nbr"/>
-		</lu>
-		<b pos="2"/>
-		<lu> 
-		  <clip pos="3" side="tl" part="lemh"/> 
-		  <clip pos="3" side="tl" part="a_nom"/>
-		  <clip pos="3" side="tl" part="GD" link-to="3"/>
-		  <clip pos="3" side="tl" part="mf"/>
-		  <clip pos="3" side="tl" part="nbr"/>
-		  <clip pos="3" side="tl" part="lemq"/> 
-		</lu>
-		<b pos="3"/>
-		<lu> 
-		  <clip pos="2" side="tl" part="lem"/> 
-		  <clip pos="2" side="tl" part="a_adj"/>
-		  <clip pos="2" side="tl" part="GD" link-to="3"/>
-		  <clip pos="2" side="tl" part="mf"/>
-		  <clip pos="2" side="tl" part="ND" link-to="4"/>
-		  <clip pos="2" side="tl" part="sp"/>
-		</lu>
-	      </chunk>
-	    </out>	
-	  </otherwise>
-	</choose>
+    </chunk>
+  </out>
       </action>
     </rule>
 
