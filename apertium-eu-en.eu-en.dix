@@ -3,15 +3,25 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 7995
+	Entries: 8044
 	Sdefs: 277
       
       Patterns applied:
-      	default (5735 times)
+      	default (4412 times)
+      	post-pr (47 times)
       	vblex (1605 times)
       	adv (590 times)
       	vbsint-vblex (43 times)
       	vbsint-vbser (2 times)
+      	run1-2 (571 times)
+      	run1-0 (38 times)
+      	run1-1 (309 times)
+      	run1-3 (9 times)
+      	run1-4 (15 times)
+      	run1-5 (176 times)
+      	run1-6 (129 times)
+      	ND-5 (56 times)
+      	ND-8 (22 times)
 
 -->
 <dictionary>
@@ -495,11 +505,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Alberto<s n="np"/></l> 
+        <l>Alberto<s n="np"/><s n="ant"/></l> 
         <r>Alberto<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -517,11 +527,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Alemania<s n="np"/></l> 
+        <l>Alemania<s n="np"/><s n="loc"/></l> 
         <r>Germany<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -550,11 +560,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Ana<s n="np"/></l> 
+        <l>Ana<s n="np"/><s n="ant"/></l> 
         <r>Ana<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -572,7 +582,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -583,7 +593,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -594,11 +604,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Antonio<s n="np"/></l> 
+        <l>Antonio<s n="np"/><s n="ant"/></l> 
         <r>Antonio<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -616,7 +626,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -627,55 +637,55 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Argentina<s n="np"/></l> 
+        <l>Argentina<s n="np"/><s n="loc"/></l> 
         <r>Argentina<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Arnaldo<s n="np"/></l> 
+        <l>Arnaldo<s n="np"/><s n="ant"/></l> 
         <r>Arnaldo<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Asia<s n="np"/></l> 
+        <l>Asia<s n="np"/><s n="ant"/></l> 
         <r>Asia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Asia<s n="np"/></l> 
+        <l>Asia<s n="np"/><s n="loc"/></l> 
         <r>Asia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Austria<s n="np"/></l> 
+        <l>Austria<s n="np"/><s n="loc"/></l> 
         <r>Austria<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -726,11 +736,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Baltasar<s n="np"/></l> 
+        <l>Baltasar<s n="np"/><s n="ant"/></l> 
         <r>Baltasar<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -748,11 +758,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Begoña<s n="np"/></l> 
+        <l>Begoña<s n="np"/><s n="ant"/></l> 
         <r>Begoña<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -781,11 +791,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Bielorrusia<s n="np"/></l> 
+        <l>Bielorrusia<s n="np"/><s n="loc"/></l> 
         <r>Byelorussia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -814,22 +824,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Bolivia<s n="np"/></l> 
+        <l>Bolivia<s n="np"/><s n="loc"/></l> 
         <r>Bolivia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Bosnia<s n="np"/></l> 
+        <l>Bosnia<s n="np"/><s n="loc"/></l> 
         <r>Bosnia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -858,11 +868,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Bulgaria<s n="np"/></l> 
+        <l>Bulgaria<s n="np"/><s n="loc"/></l> 
         <r>Bulgaria<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -891,11 +901,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Carlos<s n="np"/></l> 
+        <l>Carlos<s n="np"/><s n="ant"/></l> 
         <r>Carlos<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -935,11 +945,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>David<s n="np"/></l> 
+        <l>David<s n="np"/><s n="ant"/></l> 
         <r>David<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -957,11 +967,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Domingo<s n="np"/></l> 
+        <l>Domingo<s n="np"/><s n="ant"/></l> 
         <r>Domingo<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1089,11 +1099,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Europa<s n="np"/></l> 
+        <l>Europa<s n="np"/><s n="loc"/></l> 
         <r>Europe<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1122,11 +1132,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Fernando<s n="np"/></l> 
+        <l>Fernando<s n="np"/><s n="ant"/></l> 
         <r>Fernando<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1155,11 +1165,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Finlandia<s n="np"/></l> 
+        <l>Finlandia<s n="np"/><s n="loc"/></l> 
         <r>Finland<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1210,22 +1220,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Gaza<s n="np"/></l> 
+        <l>Gaza<s n="np"/><s n="loc"/></l> 
         <r>Gaza<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>George<s n="np"/></l> 
+        <l>George<s n="np"/><s n="ant"/></l> 
         <r>George<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1265,11 +1275,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Granada<s n="np"/></l> 
+        <l>Granada<s n="np"/><s n="loc"/></l> 
         <r>Grenada<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1287,55 +1297,55 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Hernani<s n="np"/></l> 
+        <l>Hernani<s n="np"/><s n="ant"/></l> 
         <r>Hernani<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Holanda<s n="np"/></l> 
+        <l>Holanda<s n="np"/><s n="loc"/></l> 
         <r>Holland<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Igor<s n="np"/></l> 
+        <l>Igor<s n="np"/><s n="ant"/></l> 
         <r>Igor<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>India<s n="np"/></l> 
+        <l>India<s n="np"/><s n="ant"/></l> 
         <r>India<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Indonesia<s n="np"/></l> 
+        <l>Indonesia<s n="np"/><s n="loc"/></l> 
         <r>Indonesia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1353,22 +1363,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Irlanda<s n="np"/></l> 
+        <l>Irlanda<s n="np"/><s n="loc"/></l> 
         <r>Ireland<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Israel<s n="np"/></l> 
+        <l>Israel<s n="np"/><s n="ant"/></l> 
         <r>Israel<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1386,22 +1396,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Italia<s n="np"/></l> 
+        <l>Italia<s n="np"/><s n="loc"/></l> 
         <r>Italy<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Iñaki<s n="np"/></l> 
+        <l>Iñaki<s n="np"/><s n="ant"/></l> 
         <r>Iñaki<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1430,11 +1440,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Javier<s n="np"/></l> 
+        <l>Javier<s n="np"/><s n="ant"/></l> 
         <r>Javier<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1452,23 +1462,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Jean<s n="np"/></l> 
+        <l>Jean<s n="np"/><s n="ant"/></l> 
         <r>Jean<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jesus<s n="np"/></l> 
-        <r>Jesús<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1496,11 +1495,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Joan<s n="np"/></l> 
+        <l>Jesús<s n="np"/><s n="ant"/></l> 
+        <r>Jesús<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Joan<s n="np"/><s n="ant"/></l> 
         <r>Joan<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1518,11 +1528,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Jon<s n="np"/></l> 
+        <l>Jon<s n="np"/><s n="ant"/></l> 
         <r>Jon<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1540,22 +1550,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Jordania<s n="np"/></l> 
+        <l>Jordania<s n="np"/><s n="loc"/></l> 
         <r>Jordan<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Jorge<s n="np"/></l> 
+        <l>Jorge<s n="np"/><s n="ant"/></l> 
         <r>Jorge<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1573,33 +1583,33 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Jose<s n="np"/></l> 
+        <l>Jose<s n="np"/><s n="ant"/></l> 
         <r>Jose<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Josu<s n="np"/></l> 
+        <l>Josu<s n="np"/><s n="ant"/></l> 
         <r>Josu<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Juan<s n="np"/></l> 
+        <l>Juan<s n="np"/><s n="ant"/></l> 
         <r>Juan<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1617,33 +1627,33 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Juana<s n="np"/></l> 
+        <l>Juana<s n="np"/><s n="ant"/></l> 
         <r>Juana<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Julia<s n="np"/></l> 
+        <l>Julia<s n="np"/><s n="ant"/></l> 
         <r>Julia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Julio<s n="np"/></l> 
+        <l>Julio<s n="np"/><s n="ant"/></l> 
         <r>Julio<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1727,11 +1737,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Kristina<s n="np"/></l> 
+        <l>Kristina<s n="np"/><s n="ant"/></l> 
         <r>Kristina<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1760,7 +1770,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -1782,11 +1792,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Lana<s n="np"/></l> 
+        <l>Lana<s n="np"/><s n="ant"/></l> 
         <r>Lana<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1804,11 +1814,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Leon<s n="np"/></l> 
+        <l>León<s n="np"/><s n="ant"/></l> 
         <r>León<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1826,11 +1836,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Lisboa<s n="np"/></l> 
+        <l>Lisboa<s n="np"/><s n="loc"/></l> 
         <r>Lisbon<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -1870,11 +1880,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Luis<s n="np"/></l> 
+        <l>Luis<s n="np"/><s n="ant"/></l> 
         <r>Luis<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1892,11 +1902,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Luisa<s n="np"/></l> 
+        <l>Luisa<s n="np"/><s n="ant"/></l> 
         <r>Luisa<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1914,7 +1924,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -1925,7 +1935,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -1936,11 +1946,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Manuel<s n="np"/></l> 
+        <l>Manuel<s n="np"/><s n="ant"/></l> 
         <r>Manuel<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1958,11 +1968,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Maria<s n="np"/></l> 
+        <l>Maria<s n="np"/><s n="ant"/></l> 
         <r>Maria<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -1980,22 +1990,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Mariano<s n="np"/></l> 
+        <l>Mariano<s n="np"/><s n="ant"/></l> 
         <r>Mariano<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Marino<s n="np"/></l> 
+        <l>Marino<s n="np"/><s n="ant"/></l> 
         <r>Marino<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2029,29 +2039,18 @@
     <e>
       <p>
         <l>Martin<s n="np"/></l> 
-        <r>Martín<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Martin<s n="np"/></l> 
         <r>Martín<s n="np"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Maximo<s n="np"/></l> 
-        <r>Máximo<s n="np"/><s n="ant"/></r> 
+        <l>Martín<s n="np"/><s n="ant"/></l> 
+        <r>Martín<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2079,11 +2078,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Miguel<s n="np"/></l> 
+        <l>Miguel<s n="np"/><s n="ant"/></l> 
         <r>Miguel<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2101,11 +2100,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Mikel<s n="np"/></l> 
+        <l>Mikel<s n="np"/><s n="ant"/></l> 
         <r>Mikel<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2123,11 +2122,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Modesto<s n="np"/></l> 
+        <l>Modesto<s n="np"/><s n="ant"/></l> 
         <r>Modesto<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2140,6 +2139,17 @@
       <p>
         <l>Munich<s n="np"/></l> 
         <r>Munich<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Máximo<s n="np"/><s n="ant"/></l> 
+        <r>Máximo<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2271,18 +2281,18 @@
     <e>
       <p>
         <l>Paris<s n="np"/></l> 
-        <r>París<s n="np"/><s n="ant"/></r> 
+        <r>Paris<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Paris<s n="np"/></l> 
-        <r>Paris<s n="np"/><s n="loc"/></r> 
+        <l>París<s n="np"/><s n="ant"/></l> 
+        <r>París<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2299,22 +2309,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Paulina<s n="np"/></l> 
+        <l>Paulina<s n="np"/><s n="ant"/></l> 
         <r>Paulina<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Pedro<s n="np"/></l> 
+        <l>Pedro<s n="np"/><s n="ant"/></l> 
         <r>Pedro<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2354,11 +2364,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Roberto<s n="np"/></l> 
+        <l>Roberto<s n="np"/><s n="ant"/></l> 
         <r>Roberto<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2398,11 +2408,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Ruanda<s n="np"/></l> 
+        <l>Ruanda<s n="np"/><s n="loc"/></l> 
         <r>Rwanda<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2453,11 +2463,11 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Saddam<s n="np"/></l> 
+        <l>Saddam<s n="np"/><s n="ant"/></l> 
         <r>Saddam<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2486,55 +2496,55 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Segundo<s n="np"/></l> 
+        <l>Segundo<s n="np"/><s n="ant"/></l> 
         <r>Segundo<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Serbia<s n="np"/></l> 
+        <l>Serbia<s n="np"/><s n="loc"/></l> 
         <r>Serbia<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Severo<s n="np"/></l> 
+        <l>Severo<s n="np"/><s n="ant"/></l> 
         <r>Severo<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Siria<s n="np"/></l> 
+        <l>Siria<s n="np"/><s n="ant"/></l> 
         <r>Siria<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Siria<s n="np"/></l> 
+        <l>Siria<s n="np"/><s n="loc"/></l> 
         <r>Syria<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
@@ -2552,22 +2562,22 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Teresa<s n="np"/></l> 
+        <l>Teresa<s n="np"/><s n="ant"/></l> 
         <r>Teresa<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Tito<s n="np"/></l> 
+        <l>Tito<s n="np"/><s n="ant"/></l> 
         <r>Tito<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2629,44 +2639,44 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Urbano<s n="np"/></l> 
+        <l>Urbano<s n="np"/><s n="ant"/></l> 
         <r>Urbano<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e c="MG: revisar">
       <p>
-        <l>Valentzia<s n="np"/></l> 
+        <l>Valencia<s n="np"/><s n="ant"/></l> 
         <r>Valencia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-8
     -->
     <e>
       <p>
-        <l>Venezuela<s n="np"/></l> 
+        <l>Venezuela<s n="np"/><s n="loc"/></l> 
         <r>Venezuela<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-5
     -->
     <e>
       <p>
-        <l>Washington<s n="np"/></l> 
+        <l>Washington<s n="np"/><s n="ant"/></l> 
         <r>Washington<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
@@ -2849,7 +2859,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -2871,7 +2881,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3036,7 +3046,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -3047,7 +3057,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -3058,7 +3068,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -3113,7 +3123,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3157,7 +3167,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3168,7 +3178,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3190,7 +3200,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -3278,7 +3288,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3322,7 +3332,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3333,7 +3343,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3344,7 +3354,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3498,7 +3508,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -3520,7 +3530,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -3531,7 +3541,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -3586,7 +3596,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -3597,7 +3607,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -3619,7 +3629,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -3718,7 +3728,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -3740,7 +3750,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -3828,7 +3838,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -4037,7 +4047,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -4047,10 +4057,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>aginpide<s n="n"/></l> 
         <r>authority<s n="n"/></r> 
@@ -4311,10 +4321,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>ahizpa<s n="n"/></l> 
         <r>sister<s n="n"/></r> 
@@ -4422,7 +4432,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4433,7 +4443,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4598,6 +4608,28 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>aino<s n="post"/></l> 
+        <r>until<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>aino<s n="post"/></l> 
+        <r>up<b/>to<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -4642,7 +4674,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -4675,7 +4707,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4697,7 +4729,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4730,7 +4762,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4741,7 +4773,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4763,7 +4795,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4906,7 +4938,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -4917,7 +4949,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4939,7 +4971,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -4950,7 +4982,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5147,10 +5179,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>albiste<s n="n"/></l> 
         <r>news<s n="n"/></r> 
@@ -5401,7 +5433,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -5555,7 +5587,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5599,7 +5631,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5643,7 +5675,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -5687,7 +5719,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5698,7 +5730,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5764,7 +5796,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5786,7 +5818,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5808,7 +5840,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5830,7 +5862,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5951,7 +5983,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -5973,7 +6005,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -6006,7 +6038,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -6017,7 +6049,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -6028,7 +6060,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -6083,7 +6115,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -6127,7 +6159,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -6160,7 +6192,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -6182,7 +6214,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -6193,7 +6225,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -6314,7 +6346,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -6391,7 +6423,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -6589,7 +6621,40 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>an<s n="post"/></l> 
+        <r>at<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>an<s n="post"/></l> 
+        <r>in<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>an<s n="post"/></l> 
+        <r>on<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-1
     -->
     <e>
       <p>
@@ -6633,7 +6698,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -6655,7 +6720,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -6699,7 +6764,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -6721,7 +6786,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -6875,7 +6940,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -6886,7 +6951,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -7029,7 +7094,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -7051,7 +7116,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -7062,7 +7127,29 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>antz<s n="post"/></l> 
+        <r>to<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>antz<s n="post"/></l> 
+        <r>towards<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-2
     -->
     <e>
       <p>
@@ -7227,7 +7314,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -7260,7 +7347,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -7282,7 +7369,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -7293,7 +7380,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -7480,7 +7567,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -7567,10 +7654,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>apostu<s n="n"/></l> 
         <r>bet<s n="n"/></r> 
@@ -7601,7 +7688,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -7612,7 +7699,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -7678,7 +7765,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -7733,7 +7820,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -7788,7 +7875,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -7810,7 +7897,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -7854,7 +7941,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -7865,7 +7952,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -8085,7 +8172,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -8107,7 +8194,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -8118,7 +8205,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -8162,7 +8249,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -8184,7 +8271,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8206,7 +8293,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -8217,7 +8304,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -8228,7 +8315,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8261,7 +8348,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8382,7 +8469,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8470,7 +8557,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -8481,7 +8568,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8525,7 +8612,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8536,7 +8623,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8558,7 +8645,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8569,7 +8656,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -8679,7 +8766,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -8690,7 +8777,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -8701,7 +8788,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -8844,7 +8931,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8910,7 +8997,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -8932,7 +9019,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8976,7 +9063,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -8987,7 +9074,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -8998,7 +9085,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -9009,7 +9096,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -9020,7 +9107,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -9031,7 +9118,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -9207,7 +9294,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -9306,7 +9393,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -9394,7 +9481,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -9570,7 +9657,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -9625,7 +9712,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -9669,7 +9756,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -9702,7 +9789,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -9757,7 +9844,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -9856,7 +9943,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -10241,7 +10328,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -10285,7 +10372,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -10307,7 +10394,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -10318,7 +10405,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -10362,7 +10449,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -10384,7 +10471,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -10417,7 +10504,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -10626,7 +10713,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -10868,7 +10955,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -10890,7 +10977,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -10956,7 +11043,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -11000,7 +11087,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -11330,7 +11417,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -11374,7 +11461,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -11737,7 +11824,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -11912,10 +11999,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurreko<s n="adj"/></l> 
         <r>former<s n="adj"/></r> 
@@ -11968,7 +12055,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -11990,7 +12077,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e c="check">
       <p>
@@ -12089,7 +12176,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -12144,7 +12231,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -12265,7 +12352,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -12342,7 +12429,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -12353,7 +12440,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -12375,7 +12462,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -12397,7 +12484,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -12408,7 +12495,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -12418,10 +12505,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>autopista<s n="n"/></l> 
         <r>highway<s n="n"/></r> 
@@ -12496,7 +12583,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -12738,7 +12825,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -12749,7 +12836,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -12760,7 +12847,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -12771,7 +12858,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -12826,7 +12913,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -12859,7 +12946,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13178,7 +13265,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -13266,7 +13353,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13277,7 +13364,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13332,7 +13419,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13420,7 +13507,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13530,7 +13617,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -13706,7 +13793,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13717,7 +13804,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13728,7 +13815,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13739,7 +13826,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13750,7 +13837,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13816,7 +13903,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e c="check">
       <p>
@@ -13827,7 +13914,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13860,7 +13947,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -13893,7 +13980,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -14014,7 +14101,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -14069,7 +14156,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -14091,7 +14178,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -14124,7 +14211,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14179,7 +14266,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14190,7 +14277,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14201,7 +14288,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14333,7 +14420,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -14410,7 +14497,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14454,7 +14541,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -14476,7 +14563,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14575,7 +14662,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -14641,7 +14728,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14718,7 +14805,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14740,7 +14827,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -14762,7 +14849,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -14905,7 +14992,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -14948,10 +15035,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>base<s n="n"/></l> 
         <r>base<s n="n"/></r> 
@@ -15081,7 +15168,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -15290,7 +15377,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -15454,10 +15541,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>batzar<s n="n"/></l> 
         <r>meeting<s n="n"/></r> 
@@ -15565,7 +15652,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -15576,7 +15663,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -15642,7 +15729,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -15653,7 +15740,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -15730,7 +15817,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -15851,7 +15938,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -15917,7 +16004,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -15983,7 +16070,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -15994,7 +16081,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -16060,7 +16147,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -16434,7 +16521,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -16731,7 +16818,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -16742,7 +16829,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -16786,7 +16873,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -16819,7 +16906,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -16841,7 +16928,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -16951,7 +17038,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -17127,7 +17214,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -17259,7 +17346,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -17270,7 +17357,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -17666,7 +17753,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -17677,7 +17764,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -17687,10 +17774,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berri<s n="adj"/></l> 
         <r>novel<s n="adj"/></r> 
@@ -17699,7 +17786,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -17809,7 +17896,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18139,7 +18226,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18150,7 +18237,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -18227,7 +18314,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18238,7 +18325,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -18293,7 +18380,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -18403,7 +18490,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -18414,7 +18501,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -18425,7 +18512,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18469,7 +18556,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -18480,7 +18567,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -18579,7 +18666,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -18667,7 +18754,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18711,7 +18798,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -18744,7 +18831,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18777,7 +18864,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -18854,7 +18941,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -18865,7 +18952,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -18876,7 +18963,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -18953,7 +19040,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18975,7 +19062,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18986,7 +19073,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -18997,7 +19084,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -19007,10 +19094,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bikain<s n="adj"/></l> 
         <r>notable<s n="adj"/></r> 
@@ -19041,7 +19128,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -19095,10 +19182,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e c="a married couple">
+    <e r="LR" c="a married couple">
       <p>
         <l>bikotekide<s n="n"/></l> 
         <r>couple<s n="n"/></r> 
@@ -19348,10 +19435,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>bilkura<s n="n"/></l> 
         <r>meeting<s n="n"/></r> 
@@ -19360,7 +19447,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -19371,7 +19458,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -19448,7 +19535,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -19514,7 +19601,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -19525,7 +19612,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -19569,7 +19656,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -19679,7 +19766,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -19767,7 +19854,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -19899,7 +19986,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -19932,7 +20019,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -19943,7 +20030,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -19954,7 +20041,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -19965,7 +20052,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -20207,7 +20294,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -20229,7 +20316,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -20295,7 +20382,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -20328,7 +20415,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -20427,7 +20514,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -20504,7 +20591,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -20570,7 +20657,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -20757,7 +20844,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -20768,7 +20855,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -20779,7 +20866,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -20889,7 +20976,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -20955,7 +21042,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -20988,7 +21075,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -21010,7 +21097,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -21021,7 +21108,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -21032,7 +21119,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -21142,7 +21229,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -21152,10 +21239,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>burtsa<s n="n"/></l> 
         <r>bag<s n="n"/></r> 
@@ -21163,10 +21250,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>buru<s n="n"/></l> 
         <r>head<s n="n"/></r> 
@@ -21186,7 +21273,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -21197,7 +21284,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -21373,7 +21460,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -21406,7 +21493,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -21736,7 +21823,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -21835,7 +21922,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -21956,7 +22043,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="Jur.">
       <p>
@@ -21989,7 +22076,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -22022,7 +22109,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -22209,7 +22296,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -22396,7 +22483,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -22407,7 +22494,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -22418,7 +22505,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -22473,7 +22560,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -22484,7 +22571,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -22506,7 +22593,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -22781,7 +22868,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -23067,7 +23154,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e c="check">
       <p>
@@ -23287,7 +23374,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -23331,7 +23418,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -23342,7 +23429,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -23408,7 +23495,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -23452,7 +23539,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -23507,7 +23594,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -23661,7 +23748,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -23672,7 +23759,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -23738,7 +23825,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -23936,7 +24023,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -24002,7 +24089,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -24166,10 +24253,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>ebazpen<s n="n"/></l> 
         <r>resolution<s n="n"/></r> 
@@ -24189,7 +24276,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -24277,7 +24364,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -24288,7 +24375,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -24299,7 +24386,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -24409,7 +24496,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -24420,7 +24507,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -24925,10 +25012,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egiazko<s n="adj"/></l> 
         <r>actual<s n="adj"/></r> 
@@ -24959,7 +25046,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -25014,7 +25101,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -25245,7 +25332,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25300,7 +25387,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25322,7 +25409,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25333,7 +25420,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25465,7 +25552,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25486,10 +25573,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>egoitza<s n="n"/></l> 
         <r>residence<s n="n"/></r> 
@@ -25531,7 +25618,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -25542,7 +25629,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -25553,7 +25640,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -25575,7 +25662,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -25596,10 +25683,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egoki<s n="adj"/></l> 
         <r>relevant<s n="adj"/></r> 
@@ -25740,7 +25827,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25751,7 +25838,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25806,7 +25893,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -25817,7 +25904,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -25828,7 +25915,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25850,7 +25937,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -25982,7 +26069,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -26059,7 +26146,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -26180,6 +26267,17 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ekin<s n="post"/></l> 
+        <r>with<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -26257,7 +26355,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -26334,7 +26432,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26378,7 +26476,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26389,7 +26487,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26443,10 +26541,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>ele<s n="n"/></l> 
         <r>word<s n="n"/></r> 
@@ -26510,7 +26608,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -26521,7 +26619,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26554,7 +26652,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26565,7 +26663,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26587,7 +26685,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -26598,7 +26696,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26609,7 +26707,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26719,7 +26817,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26730,7 +26828,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26774,7 +26872,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -26851,7 +26949,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -26971,10 +27069,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>elkartze<s n="n"/></l> 
         <r>union<s n="n"/></r> 
@@ -27016,7 +27114,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -27070,10 +27168,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>emakumezko<s n="n"/></l> 
         <r>woman<s n="n"/></r> 
@@ -27214,7 +27312,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -27357,6 +27455,39 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>en<s n="post"/></l> 
+        <r>from<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>en<s n="post"/></l> 
+        <r>of<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e c="MG: He fell off his chair">
+      <p>
+        <l>en<s n="post"/></l> 
+        <r>off<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -27379,7 +27510,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -27456,7 +27587,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -27467,7 +27598,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -27478,7 +27609,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -27566,7 +27697,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -27654,7 +27785,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -27665,7 +27796,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -27704,6 +27835,28 @@
       <p>
         <l>entsegu<s n="n"/></l> 
         <r>rehearsal<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>entzat<s n="post"/></l> 
+        <r>for<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>entzat<s n="post"/></l> 
+        <r>in<b/>order<b/>to<s n="pr"/></r> 
       </p>
     </e>
 
@@ -27951,7 +28104,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -28017,7 +28170,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -28083,7 +28236,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -28138,7 +28291,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -28248,7 +28401,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -28435,7 +28588,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -28600,7 +28753,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -28677,7 +28830,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -29216,7 +29369,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -29359,7 +29512,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -29458,7 +29611,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -29667,7 +29820,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -29689,7 +29842,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -29722,7 +29875,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -29777,7 +29930,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -29843,7 +29996,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -29887,7 +30040,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -29898,7 +30051,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -30041,7 +30194,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -30052,7 +30205,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -30063,7 +30216,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -30206,7 +30359,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -30580,7 +30733,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -30591,7 +30744,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -30690,7 +30843,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -30701,7 +30854,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -30756,7 +30909,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -30822,7 +30975,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -30987,7 +31140,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31009,7 +31162,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31020,7 +31173,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -31031,7 +31184,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31207,7 +31360,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31262,7 +31415,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -31405,7 +31558,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31416,7 +31569,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31427,7 +31580,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31581,7 +31734,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -31592,7 +31745,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31625,7 +31778,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31636,7 +31789,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31647,7 +31800,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -31713,7 +31866,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -31724,7 +31877,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31834,7 +31987,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -31845,7 +31998,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -32120,7 +32273,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -32218,10 +32371,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>eske<s n="n"/></l> 
         <r>request<s n="n"/></r> 
@@ -32241,7 +32394,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -32252,7 +32405,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -32263,7 +32416,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -32285,7 +32438,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -32329,7 +32482,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -32483,7 +32636,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -32494,7 +32647,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -32505,7 +32658,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -32956,7 +33109,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -32967,7 +33120,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -32978,7 +33131,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -32989,7 +33142,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -33000,7 +33153,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -33044,7 +33197,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -33164,10 +33317,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>espetxe<s n="n"/></l> 
         <r>prison<s n="n"/></r> 
@@ -33264,7 +33417,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -33462,7 +33615,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -33484,7 +33637,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -33517,7 +33670,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -33561,7 +33714,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -33572,7 +33725,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -33671,7 +33824,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -33682,7 +33835,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -33803,7 +33956,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -33924,7 +34077,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -33935,7 +34088,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34012,7 +34165,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -34100,7 +34253,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -34111,7 +34264,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34122,7 +34275,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -34254,7 +34407,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -34276,7 +34429,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -34287,7 +34440,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34298,7 +34451,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34309,7 +34462,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -34320,7 +34473,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34331,7 +34484,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -34353,7 +34506,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34463,7 +34616,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34529,7 +34682,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34551,7 +34704,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34562,7 +34715,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34759,10 +34912,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>ezaugarri<s n="n"/></l> 
         <r>signal<s n="n"/></r> 
@@ -34881,7 +35034,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -34969,7 +35122,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35079,7 +35232,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35101,7 +35254,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35112,7 +35265,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35123,7 +35276,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -35134,7 +35287,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -35266,7 +35419,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35277,7 +35430,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35288,7 +35441,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35607,7 +35760,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -35629,7 +35782,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35673,7 +35826,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35783,7 +35936,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35970,7 +36123,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -35981,7 +36134,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -35992,7 +36145,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36003,7 +36156,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36025,7 +36178,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -36058,7 +36211,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36146,7 +36299,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36190,7 +36343,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36201,7 +36354,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36234,7 +36387,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36487,7 +36640,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36531,7 +36684,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -36597,7 +36750,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36685,7 +36838,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -36696,7 +36849,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36707,7 +36860,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -36729,7 +36882,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -36740,7 +36893,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -36894,7 +37047,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -36971,7 +37124,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -36993,7 +37146,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -37114,6 +37267,28 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gabe<s n="post"/></l> 
+        <r>without<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gabe<s n="post"/></l> 
+        <r>with<b/>no<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -37158,7 +37333,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -37169,7 +37344,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -37179,10 +37354,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>gai<s n="n"/></l> 
         <r>matter<s n="n"/></r> 
@@ -37190,8 +37365,19 @@
     </e>
 
     <!-- 
+	forced 'LR' restriction
+      run1-0
+    -->
+    <e r="LR">
+      <p>
+        <l>gai<s n="n"/></l> 
+        <r>subject<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -37202,12 +37388,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
         <l>gai<s n="n"/></l> 
         <r>issue<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-1
+    -->
+    <e>
+      <p>
+        <l>gai<s n="n"/></l> 
+        <r>matter<s n="n"/></r> 
       </p>
     </e>
 
@@ -37521,7 +37718,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -37653,7 +37850,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -37664,7 +37861,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -37752,7 +37949,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -37763,7 +37960,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -37785,7 +37982,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -37917,7 +38114,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -37961,7 +38158,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -37972,7 +38169,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="US">
       <p>
@@ -38005,7 +38202,51 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gan<s n="post"/></l> 
+        <r>in<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gan<s n="post"/></l> 
+        <r>on<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gana<s n="post"/></l> 
+        <r>at<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gana<s n="post"/></l> 
+        <r>to<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-1
     -->
     <e>
       <p>
@@ -38027,12 +38268,34 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
         <l>ganaduzale<s n="n"/></l> 
         <r>grazier<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ganaino<s n="post"/></l> 
+        <r>until<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ganantz<s n="post"/></l> 
+        <r>to<s n="pr"/></r> 
       </p>
     </e>
 
@@ -38044,6 +38307,17 @@
       <p>
         <l>ganbera<s n="n"/></l> 
         <r>camera<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gandik<s n="post"/></l> 
+        <r>from<s n="pr"/></r> 
       </p>
     </e>
 
@@ -38126,7 +38400,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -38159,7 +38433,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -38247,7 +38521,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -38280,7 +38554,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -38291,7 +38565,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -38346,7 +38620,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -38357,7 +38631,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -38445,7 +38719,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -38467,7 +38741,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -38588,7 +38862,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -38599,7 +38873,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -38643,7 +38917,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -38654,7 +38928,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -38742,7 +39016,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -38775,7 +39049,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -38803,6 +39077,39 @@
       <p>
         <l>gatibu<s n="n"/></l> 
         <r>setscrew<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gatik<s n="post"/></l> 
+        <r>by<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gatik<s n="post"/></l> 
+        <r>through<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gatik<s n="post"/></l> 
+        <r>per<s n="pr"/></r> 
       </p>
     </e>
 
@@ -38929,7 +39236,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -38984,7 +39291,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -39061,7 +39368,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39204,7 +39511,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39248,7 +39555,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39446,7 +39753,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -39479,7 +39786,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39577,10 +39884,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>gelditze<s n="n"/></l> 
         <r>arrest<s n="n"/></r> 
@@ -39633,7 +39940,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -39644,7 +39951,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39677,7 +39984,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39688,7 +39995,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39699,7 +40006,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39732,7 +40039,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39820,7 +40127,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -39841,10 +40148,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>geroko<s n="adj"/></l> 
         <r>posterior<s n="adj"/></r> 
@@ -40029,7 +40336,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -40095,7 +40402,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -40106,7 +40413,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -40139,7 +40446,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -40238,7 +40545,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -40326,7 +40633,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -40337,7 +40644,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e c="check">
       <p>
@@ -40359,7 +40666,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -40403,7 +40710,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -40502,7 +40809,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -40557,7 +40864,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -40589,10 +40896,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>gogo<s n="n"/></l> 
         <r>will<s n="n"/></r> 
@@ -40656,7 +40963,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -40689,7 +40996,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -40710,10 +41017,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gogor<s n="adj"/></l> 
         <r>remorseless<s n="adj"/></r> 
@@ -40722,7 +41029,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41041,7 +41348,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -41052,7 +41359,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41272,7 +41579,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -41283,7 +41590,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41349,7 +41656,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -41382,7 +41689,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -41393,7 +41700,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41404,7 +41711,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41481,7 +41788,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41569,7 +41876,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -41591,7 +41898,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -41602,7 +41909,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41635,7 +41942,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -41657,7 +41964,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -41690,7 +41997,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -41712,7 +42019,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -41734,7 +42041,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -41745,7 +42052,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41767,7 +42074,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41778,7 +42085,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -41998,7 +42305,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -42108,7 +42415,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -42207,7 +42514,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -42218,7 +42525,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -42229,7 +42536,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -42504,7 +42811,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -42976,10 +43283,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>handi<s n="adj"/></l> 
         <r>capable<s n="adj"/></r> 
@@ -43065,7 +43372,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -43285,7 +43592,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -43538,7 +43845,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -43692,7 +43999,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -43703,7 +44010,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -43747,7 +44054,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -43769,7 +44076,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -43989,7 +44296,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -44143,7 +44450,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -44154,7 +44461,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -44241,10 +44548,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>hauteskunde<s n="n"/></l> 
         <r>election<s n="n"/></r> 
@@ -44572,7 +44879,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -44616,7 +44923,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -44627,7 +44934,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -44649,7 +44956,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -44792,7 +45099,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -44803,7 +45110,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -44814,7 +45121,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -44825,7 +45132,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -44836,7 +45143,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -44880,7 +45187,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -45122,7 +45429,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45254,7 +45561,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45308,10 +45615,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>herrialde<s n="n"/></l> 
         <r>region<s n="n"/></r> 
@@ -45331,7 +45638,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -45386,7 +45693,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45419,7 +45726,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45430,7 +45737,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45474,7 +45781,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45496,7 +45803,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -45529,7 +45836,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -45540,7 +45847,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45672,7 +45979,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -45760,7 +46067,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45793,7 +46100,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45826,7 +46133,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -45837,7 +46144,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45848,7 +46155,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45881,7 +46188,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -45914,7 +46221,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -45925,7 +46232,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -46057,7 +46364,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -46090,7 +46397,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -46222,7 +46529,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -46277,7 +46584,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -46530,7 +46837,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -46552,7 +46859,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -46683,10 +46990,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>hosto<s n="n"/></l> 
         <r>blade<s n="n"/></r> 
@@ -46694,10 +47001,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>hosto<s n="n"/></l> 
         <r>leaf<s n="n"/></r> 
@@ -46750,7 +47057,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -46761,7 +47068,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -46783,7 +47090,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -46882,7 +47189,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -46893,7 +47200,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -46904,7 +47211,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -46981,7 +47288,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -46992,7 +47299,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -47014,7 +47321,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -47025,7 +47332,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -47036,7 +47343,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -47075,6 +47382,61 @@
       <p>
         <l>hutsune<s n="n"/></l> 
         <r>gap<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>i<s n="post"/></l> 
+        <r>at<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>i<s n="post"/></l> 
+        <r>into<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>i<s n="post"/></l> 
+        <r>onto<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>i<s n="post"/></l> 
+        <r>to<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>i<s n="post"/></l> 
+        <r>upon<s n="pr"/></r> 
       </p>
     </e>
 
@@ -47146,7 +47508,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -47212,7 +47574,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -47311,7 +47673,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -47432,7 +47794,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -47443,7 +47805,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -47465,7 +47827,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -47520,7 +47882,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -47531,7 +47893,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -47542,7 +47904,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -47696,7 +48058,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -47872,7 +48234,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -48191,7 +48553,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -48245,10 +48607,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>ikusi<s n="n"/></l> 
         <r>visit<s n="n"/></r> 
@@ -48312,7 +48674,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -48356,7 +48718,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -48543,7 +48905,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -48928,7 +49290,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -48939,7 +49301,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -48950,7 +49312,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -49005,7 +49367,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -49071,7 +49433,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -49148,7 +49510,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -49170,7 +49532,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -49214,7 +49576,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -49236,7 +49598,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -49247,7 +49609,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -49258,7 +49620,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -49269,7 +49631,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -49566,7 +49928,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -49599,7 +49961,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -49929,7 +50291,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -50336,7 +50698,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -50402,7 +50764,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -50501,7 +50863,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -50600,7 +50962,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -50644,7 +51006,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e c="check">
       <p>
@@ -50655,7 +51017,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -50743,7 +51105,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -50798,7 +51160,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -50974,7 +51336,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -51381,7 +51743,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -51403,7 +51765,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -51447,7 +51809,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -51513,7 +51875,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -51622,10 +51984,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>istorio<s n="n"/></l> 
         <r>history<s n="n"/></r> 
@@ -51633,10 +51995,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>istorio<s n="n"/></l> 
         <r>story<s n="n"/></r> 
@@ -51656,7 +52018,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -51711,7 +52073,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -51722,7 +52084,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -51733,7 +52095,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -51799,7 +52161,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -51821,7 +52183,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -51843,7 +52205,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -51876,7 +52238,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -51909,7 +52271,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -52107,7 +52469,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -52151,7 +52513,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -52470,7 +52832,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -52580,7 +52942,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -52734,7 +53096,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -52745,7 +53107,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -52844,7 +53206,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -52855,7 +53217,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -52866,7 +53228,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -53086,7 +53448,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -53097,7 +53459,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -53207,7 +53569,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="GB">
       <p>
@@ -53240,7 +53602,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -53251,7 +53613,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -53306,7 +53668,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -53361,7 +53723,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -53757,7 +54119,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e c="potser senyor i senyora hauria de traduir-se 'man' i 'woman'">
       <p>
@@ -53768,7 +54130,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -53779,7 +54141,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -53790,7 +54152,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -53867,7 +54229,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -53999,7 +54361,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -54021,7 +54383,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -54362,7 +54724,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -54395,7 +54757,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -54428,7 +54790,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -54439,7 +54801,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -54450,7 +54812,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -54505,7 +54867,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -54527,7 +54889,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -54560,7 +54922,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -54626,7 +54988,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -54758,7 +55120,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -54956,7 +55318,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -54989,7 +55351,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -55000,7 +55362,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55022,7 +55384,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -55033,7 +55395,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -55088,7 +55450,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55099,7 +55461,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55110,7 +55472,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55121,7 +55483,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55132,7 +55494,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55363,7 +55725,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -55374,7 +55736,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -55462,7 +55824,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55495,7 +55857,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -55561,7 +55923,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -55649,7 +56011,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55671,7 +56033,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55693,7 +56055,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -55792,7 +56154,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55924,7 +56286,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -55946,7 +56308,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -55957,7 +56319,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56056,7 +56418,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -56067,7 +56429,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56078,7 +56440,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -56122,7 +56484,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -56166,7 +56528,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56210,7 +56572,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56441,7 +56803,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -56463,7 +56825,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -56474,7 +56836,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56529,7 +56891,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56617,7 +56979,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56650,7 +57012,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56672,7 +57034,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -56705,6 +57067,39 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ko<s n="post"/></l> 
+        <r>from<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ko<s n="post"/></l> 
+        <r>of<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e c="MG: He fell off his chair">
+      <p>
+        <l>ko<s n="post"/></l> 
+        <r>off<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -56727,7 +57122,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -56826,7 +57221,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -57002,7 +57397,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -57090,7 +57485,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -57101,7 +57496,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -57123,7 +57518,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -57244,7 +57639,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -57464,7 +57859,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -57673,7 +58068,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -57805,7 +58200,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -57816,7 +58211,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -57937,7 +58332,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -58058,7 +58453,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -58080,7 +58475,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -58124,7 +58519,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58157,7 +58552,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58179,7 +58574,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58190,7 +58585,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58201,7 +58596,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58278,7 +58673,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58289,7 +58684,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58311,7 +58706,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -58333,7 +58728,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58454,7 +58849,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -58553,7 +58948,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58905,7 +59300,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -58938,7 +59333,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -58982,7 +59377,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -59103,7 +59498,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -59114,7 +59509,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -59136,7 +59531,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -59158,7 +59553,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -59202,7 +59597,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -59235,7 +59630,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -59301,7 +59696,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -59378,7 +59773,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -59477,7 +59872,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -59598,7 +59993,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -59609,7 +60004,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -59653,7 +60048,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -59774,7 +60169,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -59785,7 +60180,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -59796,7 +60191,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -59873,7 +60268,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -60016,7 +60411,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -60027,7 +60422,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -60269,7 +60664,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -60533,7 +60928,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -60544,7 +60939,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -60621,7 +61016,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -60742,7 +61137,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -60830,7 +61225,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -60841,7 +61236,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -60863,7 +61258,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -60874,7 +61269,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -60928,10 +61323,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>lautada<s n="n"/></l> 
         <r>campaign<s n="n"/></r> 
@@ -60994,10 +61389,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>legealdi<s n="n"/></l> 
         <r>term<g><b/>of<b/>office</g><s n="n"/></r> 
@@ -61094,7 +61489,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -61105,7 +61500,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -61116,7 +61511,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -61127,7 +61522,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -61446,7 +61841,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -61490,7 +61885,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -61545,7 +61940,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -61567,7 +61962,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -61578,7 +61973,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -61633,7 +62028,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -61644,7 +62039,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -61655,7 +62050,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -61864,7 +62259,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -61929,10 +62324,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>libertate<s n="n"/></l> 
         <r>freedom<s n="n"/></r> 
@@ -62040,7 +62435,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -62139,7 +62534,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -62161,7 +62556,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -62172,7 +62567,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -62205,7 +62600,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -62238,7 +62633,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -62315,7 +62710,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e c="check">
       <p>
@@ -62326,7 +62721,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -62392,7 +62787,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -62513,7 +62908,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -62678,7 +63073,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -62700,7 +63095,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -62865,7 +63260,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63019,7 +63414,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -63052,7 +63447,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63085,7 +63480,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63118,7 +63513,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63129,7 +63524,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -63151,7 +63546,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -63239,7 +63634,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63294,7 +63689,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -63349,7 +63744,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63382,7 +63777,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -63437,7 +63832,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -63448,7 +63843,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63525,7 +63920,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63547,7 +63942,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -63734,7 +64129,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -63766,10 +64161,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>margo<s n="n"/></l> 
         <r>painting<s n="n"/></r> 
@@ -63888,7 +64283,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -64108,7 +64503,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64119,7 +64514,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64163,7 +64558,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -64207,7 +64602,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64251,7 +64646,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64262,7 +64657,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -64284,7 +64679,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64317,7 +64712,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -64339,7 +64734,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64416,7 +64811,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -64559,7 +64954,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64614,7 +65009,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64669,7 +65064,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -64691,7 +65086,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -64735,7 +65130,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -64801,7 +65196,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64845,7 +65240,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64889,7 +65284,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -64922,7 +65317,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="GB: the Tube">
       <p>
@@ -64944,7 +65339,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -64955,7 +65350,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -64966,7 +65361,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -65021,7 +65416,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65120,7 +65515,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -65164,7 +65559,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -65274,7 +65669,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65373,7 +65768,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65395,7 +65790,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65417,7 +65812,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65428,7 +65823,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65450,7 +65845,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -65505,7 +65900,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -65527,7 +65922,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -65538,7 +65933,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65659,7 +66054,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65670,7 +66065,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65681,7 +66076,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65802,7 +66197,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -65813,7 +66208,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -65956,7 +66351,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -65967,7 +66362,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -66055,7 +66450,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -66110,7 +66505,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -66165,7 +66560,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -66176,7 +66571,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -66198,7 +66593,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -66297,7 +66692,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -66319,7 +66714,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -66385,7 +66780,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -66396,7 +66791,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -66495,7 +66890,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -66671,7 +67066,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -66715,7 +67110,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -66726,7 +67121,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -66737,7 +67132,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -66803,7 +67198,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -66814,7 +67209,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -66825,7 +67220,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -66869,7 +67264,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -66891,7 +67286,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -67143,10 +67538,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      run1-3
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>nagusi<s n="adj"/></l> 
         <r>capital<s n="adj"/></r> 
@@ -67287,7 +67682,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -67540,7 +67935,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -67551,7 +67946,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -67584,7 +67979,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -67815,7 +68210,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -67848,7 +68243,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -67914,7 +68309,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -67925,7 +68320,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -67936,7 +68331,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -68035,7 +68430,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -68155,10 +68550,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>neskatila<s n="n"/></l> 
         <r>girl<s n="n"/></r> 
@@ -68233,7 +68628,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -68343,7 +68738,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -68794,7 +69189,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69069,7 +69464,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -69113,7 +69508,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -69157,7 +69552,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69278,7 +69673,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -69355,7 +69750,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69432,7 +69827,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69454,7 +69849,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69498,7 +69893,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -69509,7 +69904,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69553,7 +69948,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -69597,7 +69992,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -69608,7 +70003,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -69696,7 +70091,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69751,7 +70146,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69850,7 +70245,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69872,7 +70267,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69883,7 +70278,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -69938,7 +70333,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -70070,7 +70465,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -70180,7 +70575,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -70191,7 +70586,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -70246,7 +70641,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -70279,7 +70674,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -70576,7 +70971,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -70675,7 +71070,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -70686,7 +71081,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -70708,7 +71103,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -70730,7 +71125,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -70884,7 +71279,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -71247,7 +71642,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -71368,7 +71763,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -71390,7 +71785,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -71412,7 +71807,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -71434,7 +71829,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -71841,7 +72236,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -71896,7 +72291,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -71929,7 +72324,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -71940,7 +72335,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -71984,7 +72379,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -72006,7 +72401,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -72083,7 +72478,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -72160,7 +72555,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -72171,7 +72566,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -72204,7 +72599,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -72215,7 +72610,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -72325,7 +72720,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -72347,7 +72742,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -72446,7 +72841,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -72468,7 +72863,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -72578,7 +72973,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -72600,7 +72995,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -72622,7 +73017,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -72776,7 +73171,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -72853,7 +73248,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="un par de">
       <p>
@@ -73007,7 +73402,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -73205,7 +73600,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73216,7 +73611,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73227,7 +73622,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73304,7 +73699,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73326,7 +73721,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73359,7 +73754,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73381,7 +73776,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73403,7 +73798,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -73447,7 +73842,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73480,7 +73875,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73513,7 +73908,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -73535,7 +73930,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -73590,7 +73985,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73601,7 +73996,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73612,7 +74007,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73700,6 +74095,28 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>pean<s n="post"/></l> 
+        <r>under<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>pean<s n="post"/></l> 
+        <r>below<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -73744,7 +74161,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -73854,7 +74271,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -73931,7 +74348,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -74129,7 +74546,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -74250,7 +74667,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -74261,7 +74678,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -74316,7 +74733,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -74646,7 +75063,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -74679,7 +75096,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -74712,7 +75129,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -74844,7 +75261,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -74866,7 +75283,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -74910,7 +75327,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -74943,7 +75360,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -74954,7 +75371,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -75130,7 +75547,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -75152,7 +75569,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -75207,7 +75624,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -75284,7 +75701,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -75416,7 +75833,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -75614,7 +76031,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -75625,7 +76042,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -75636,7 +76053,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -75713,7 +76130,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -75724,7 +76141,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e c="mare meua">
       <p>
@@ -75790,7 +76207,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -75823,7 +76240,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -75867,7 +76284,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -75878,7 +76295,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -75889,7 +76306,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -76054,7 +76471,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -76076,7 +76493,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -76175,7 +76592,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -76186,7 +76603,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -76208,7 +76625,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -76285,7 +76702,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -76516,7 +76933,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -76527,7 +76944,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -76549,7 +76966,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -76560,7 +76977,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -76582,7 +76999,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -76648,7 +77065,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -76769,6 +77186,61 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ra<s n="post"/></l> 
+        <r>at<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ra<s n="post"/></l> 
+        <r>into<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ra<s n="post"/></l> 
+        <r>onto<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ra<s n="post"/></l> 
+        <r>to<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ra<s n="post"/></l> 
+        <r>upon<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -76802,7 +77274,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -76868,7 +77340,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -76945,7 +77417,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="MG: también departamento, arreglar los compuestos del bilingue y añadir a mono">
       <p>
@@ -76967,7 +77439,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="MG: también departamento, arreglar los compuestos del bilingue y añadir a mono">
       <p>
@@ -77022,7 +77494,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -77121,7 +77593,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -77132,7 +77604,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -77187,7 +77659,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -77440,7 +77912,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -77484,7 +77956,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -77495,7 +77967,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -77506,7 +77978,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -77528,7 +78000,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -77539,7 +78011,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="crec que no hauria de ser adj sinó tractament, com Sr (nom?)">
       <p>
@@ -77594,7 +78066,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -77638,7 +78110,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -77649,7 +78121,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -78177,7 +78649,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -78188,7 +78660,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -78298,7 +78770,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e c="check">
       <p>
@@ -78342,7 +78814,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -78353,7 +78825,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -78386,7 +78858,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -78419,7 +78891,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -78760,7 +79232,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -78870,7 +79342,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -78991,7 +79463,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79013,7 +79485,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -79057,7 +79529,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79090,7 +79562,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79123,7 +79595,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79167,7 +79639,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79189,7 +79661,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79222,7 +79694,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -79266,7 +79738,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79343,7 +79815,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -79376,7 +79848,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -79486,7 +79958,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -79596,7 +80068,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79607,7 +80079,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79695,7 +80167,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79717,7 +80189,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79739,7 +80211,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79816,7 +80288,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -79904,7 +80376,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -80036,7 +80508,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -80069,7 +80541,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -80146,7 +80618,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80256,7 +80728,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -80278,7 +80750,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80300,7 +80772,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80322,7 +80794,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80377,7 +80849,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80443,7 +80915,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80641,7 +81113,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80674,7 +81146,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="Educ. asignatura de teatro">
       <p>
@@ -80696,7 +81168,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80718,7 +81190,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -80729,7 +81201,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -80751,7 +81223,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -80817,7 +81289,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -80828,7 +81300,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -80993,7 +81465,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81004,7 +81476,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81015,7 +81487,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81180,6 +81652,17 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>tik<s n="post"/></l> 
+        <r>from<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -81191,7 +81674,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81235,7 +81718,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -81312,7 +81795,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -81367,7 +81850,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -81400,7 +81883,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81411,7 +81894,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -81422,7 +81905,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81444,7 +81927,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -81521,7 +82004,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81543,7 +82026,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81620,7 +82103,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81686,7 +82169,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -81708,7 +82191,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -81719,7 +82202,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -81741,7 +82224,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -81752,7 +82235,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -81785,7 +82268,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="GB">
       <p>
@@ -82170,7 +82653,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -82225,7 +82708,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -82236,7 +82719,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -82390,7 +82873,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -82423,7 +82906,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -82434,7 +82917,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -82445,7 +82928,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -82467,7 +82950,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -82489,7 +82972,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -82577,7 +83060,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -82610,7 +83093,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -82665,7 +83148,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -82698,7 +83181,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -82808,7 +83291,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -82929,12 +83412,56 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
         <l>txuri<s n="adj"/></l> 
         <r>white<s n="adj"/><s n="sint"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e c="as you - com tu">
+      <p>
+        <l>tzat<s n="post"/></l> 
+        <r>as<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot">
+      <p>
+        <l>tzat<s n="post"/></l> 
+        <r>as<b/>a<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>tzat<s n="post"/></l> 
+        <r>like<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>tzat<s n="post"/></l> 
+        <r>such<b/>as<s n="pr"/></r> 
       </p>
     </e>
 
@@ -83017,7 +83544,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -83028,7 +83555,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -83534,7 +84061,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -83556,7 +84083,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -83578,7 +84105,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -83611,7 +84138,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -83644,7 +84171,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -83655,7 +84182,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -83688,7 +84215,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -83732,7 +84259,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -83743,7 +84270,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -83831,7 +84358,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -83897,7 +84424,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -83908,7 +84435,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -83919,7 +84446,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -83985,7 +84512,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84007,7 +84534,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -84018,7 +84545,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84040,7 +84567,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -84139,7 +84666,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -84293,7 +84820,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84315,7 +84842,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84557,7 +85084,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -84568,7 +85095,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84645,7 +85172,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -84656,7 +85183,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -84667,7 +85194,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -84700,7 +85227,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -84722,7 +85249,29 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      post-pr
+    -->
+    <e c="por/con?">
+      <p>
+        <l>z<s n="post"/></l> 
+        <r>by<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e c="por/con?">
+      <p>
+        <l>z<s n="post"/></l> 
+        <r>through<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-6
     -->
     <e>
       <p>
@@ -84733,7 +85282,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -84744,7 +85293,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84755,7 +85304,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -84865,7 +85414,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84876,7 +85425,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84887,7 +85436,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -84898,7 +85447,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -85096,7 +85645,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -85118,7 +85667,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-4
     -->
     <e>
       <p>
@@ -85272,7 +85821,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -85316,7 +85865,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -85404,7 +85953,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -85426,7 +85975,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -85437,7 +85986,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -85524,10 +86073,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>zati<s n="n"/></l> 
         <r>part<s n="n"/></r> 
@@ -85536,7 +86085,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -85547,7 +86096,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -85558,7 +86107,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -85701,7 +86250,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -85745,7 +86294,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -85756,7 +86305,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -85789,7 +86338,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -85800,7 +86349,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -85866,7 +86415,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -85877,7 +86426,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -86042,7 +86591,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -86207,7 +86756,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -86218,7 +86767,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -86229,7 +86778,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -86262,7 +86811,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -86295,7 +86844,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e c="poner como traducción principal?">
       <p>
@@ -86306,7 +86855,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e c="poner como traducción principal?">
       <p>
@@ -86592,7 +87141,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -86614,7 +87163,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -86702,7 +87251,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -86735,7 +87284,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -86878,7 +87427,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -86911,7 +87460,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87065,7 +87614,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -87120,7 +87669,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -87164,7 +87713,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87175,7 +87724,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87186,7 +87735,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -87197,7 +87746,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87208,7 +87757,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -87494,7 +88043,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -87571,7 +88120,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87604,7 +88153,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87615,7 +88164,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -87637,7 +88186,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87681,7 +88230,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87703,7 +88252,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87835,7 +88384,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87868,7 +88417,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-6
     -->
     <e>
       <p>
@@ -87890,7 +88439,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87934,7 +88483,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e c="telegraph pole">
       <p>
@@ -87945,7 +88494,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-1
     -->
     <e>
       <p>
@@ -87967,7 +88516,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87978,7 +88527,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -87989,7 +88538,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -88022,7 +88571,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -88033,7 +88582,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e>
       <p>
@@ -88044,7 +88593,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-5
     -->
     <e c="en masculí per defecte">
       <p>
@@ -88054,10 +88603,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>zuzendaritza<s n="n"/></l> 
         <r>address<s n="n"/></r> 
@@ -88065,10 +88614,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      run1-0
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>zuzendaritza<s n="n"/></l> 
         <r>direction<s n="n"/></r> 
@@ -88077,7 +88626,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
@@ -88165,7 +88714,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      run1-2
     -->
     <e>
       <p>
