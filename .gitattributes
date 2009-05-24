@@ -3,6 +3,8 @@
 /apertium-eu-en.en.metadix -text
 /apertium-eu-en.eu-en.dix -text
 /apertium-eu-en.eu-en.t1x -text
+/apertium-eu-en.eu-en.t2x -text
+/apertium-eu-en.eu-en.t3x -text
 /apertium-eu-en.eu.dix -text
 /configure.ac -text
 dev/cross-model-eu-es-en.xml -text
