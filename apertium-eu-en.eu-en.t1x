@@ -10677,11 +10677,11 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="1" side="tl" part="lem"/>
-          <lit v="poder"/>
+          <lit v="can"/>
         </let>
         <let>
           <clip pos="1" side="tl" part="a_verb"/>
-          <lit-tag v="vbmod"/>
+          <lit-tag v="vaux"/>
         </let>
         <choose>
           <when>
@@ -12022,7 +12022,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="2" side="tl" part="lem"/>
-          <lit v="haber"/>
+          <lit v="have"/>
         </let>
         <let>
           <clip pos="2" side="tl" part="a_verb"/>
@@ -12034,9 +12034,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <tag><lit-tag v="SADV"/></tag>
               <tag><clip pos="1" side="tl" part="a_adv"/></tag>
             </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
           </chunk>
           <b pos="1"/>
         </out>
@@ -12074,10 +12071,13 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                 </lu>
                 <b pos="2"/>
                 <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+                <b pos="3"/>
+                <lu>
                   <clip pos="3" side="tl" part="lemh"/>
                   <clip pos="3" side="tl" part="a_verb"/>
                   <clip pos="3" side="tl" part="temps"/>
-                  <lit-tag v="m.sg"/>
                   <clip pos="3" side="tl" part="lemq"/>
                 </lu>
               </chunk>
@@ -14297,11 +14297,11 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="2" side="tl" part="lem"/>
-          <lit v="poder"/>
+          <lit v="can"/>
         </let>
         <let>
           <clip pos="2" side="tl" part="a_verb"/>
-          <lit-tag v="vbmod"/>
+          <lit-tag v="vaux"/>
         </let>
         <choose>
           <when>
