@@ -277,7 +277,7 @@
     <e r="LR">
       <p>
         <l>$lemmaA<s n="n"/></l> 
-        <r>$lemmaC<s n="n"/></r> 
+        <r>$lemmaC<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 </action>
@@ -308,7 +308,7 @@
     <e>
       <p>
         <l>$lemmaA<s n="n"/></l> 
-        <r>$lemmaC<s n="n"/></r> 
+        <r>$lemmaC<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 </action>
@@ -369,7 +369,7 @@
     <e>
       <p>
         <l>$lemmaA<s n="n"/></l> 
-        <r>$lemmaC<s n="n"/></r> 
+        <r>$lemmaC<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 </action>
@@ -398,7 +398,7 @@
     <e>
       <p>
         <l>$lemmaA<s n="n"/></l> 
-        <r>$lemmaC<s n="n"/></r> 
+        <r>$lemmaC<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 </action>
@@ -568,6 +568,92 @@
       <p>
         <l>$lemmaA<s n="prn"/><s n="ind"/><s n="sg"/></l> 
         <r>$lemmaC<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+
+<cross-action id="nom-0">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="f"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="n"/><s n="f"/></l> 
+        <r>$lemmaC<s n="n"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 3823 entries like this -->
+<cross-action id="nom-1">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="m"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="n"/><s n="m"/></l> 
+        <r>$lemmaC<s n="n"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="nom-3">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="n"/><s n="mf"/></l> 
+        <r>$lemmaC<s n="n"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 </action>
