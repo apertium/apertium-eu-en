@@ -15,7 +15,9 @@
 /apertium-eu-en.ordinals.t1x -text
 /apertium-eu-en.post-en.dix -text
 /autogen.sh -text
+/buscaPar.xsl -text
 /configure.ac -text
 dev/cross-model-eu-es-en.xml -text
 dev/cross.xml -text
 /eu-es.prob -text svneol=unset#unset
+/principal.xsl -text
