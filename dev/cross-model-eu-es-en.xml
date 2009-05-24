@@ -517,5 +517,61 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="prn-1">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="prn"/><s n="ind"/></l> 
+        <r>$lemmaB<s n="prn"/><s n="tn"/><s n="nt"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="prn"/><s n="tn"/><s n="f"/></l> 
+        <r>$lemmaC<s n="prn"/><s n="tn"/><s n="m"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="prn"/><s n="ind"/></l> 
+        <r>$lemmaC<s n="prn"/><s n="tn"/><s n="m"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="prn-2">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="prn"/><s n="ind"/><s n="sg"/></l> 
+        <r>$lemmaB<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l> 
+        <r>$lemmaC<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="prn"/><s n="ind"/><s n="sg"/></l> 
+        <r>$lemmaC<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 
 </cross-model>

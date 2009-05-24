@@ -7,7 +7,7 @@
 	Sdefs: 277
       
       Patterns applied:
-      	default (4355 times)
+      	default (4351 times)
       	post-pr (47 times)
       	vblex (1605 times)
       	adv (590 times)
@@ -23,6 +23,8 @@
       	ND-5 (56 times)
       	loc-1 (47 times)
       	loc-2 (32 times)
+      	prn-1 (2 times)
+      	prn-2 (2 times)
 
 -->
 <dictionary>
@@ -22142,10 +22144,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      prn-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l> 
         <r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
@@ -22164,10 +22166,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      prn-2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l> 
         <r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
@@ -24794,7 +24796,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      prn-1
     -->
     <e>
       <p>
@@ -24805,7 +24807,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      prn-1
     -->
     <e>
       <p>
