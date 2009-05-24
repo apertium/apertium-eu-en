@@ -24733,58 +24733,10 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      vbsint-vblex
-    -->
-    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
-      <p>
-        <l>eduki<s n="vbsint"/></l> 
-        <r>have<b/>got<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      vbsint-vblex
-    -->
-    <e>
-      <p>
-        <l>eduki<s n="vbsint"/></l> 
-        <r>have<g><b/>got</g><s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      vblex
-    -->
     <e>
       <p>
         <l>eduki<s n="vblex"/></l> 
         <r>have<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
-      vblex-RL
-    -->
-    <e r="RL" c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
-      <p>
-        <l>eduki<s n="vblex"/></l> 
-        <r>have<b/>got<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'RL' restriction
-      vblex-RL
-    -->
-    <e r="RL">
-      <p>
-        <l>eduki<s n="vblex"/></l> 
-        <r>have<g><b/>got</g><s n="vblex"/></r> 
       </p>
     </e>
 
@@ -34076,7 +34028,7 @@
 	forced 'null' restriction
       nom-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>etxe<s n="n"/></l> 
         <r>home<s n="n"/><s n="ND"/></r> 
@@ -34098,7 +34050,7 @@
 	forced 'null' restriction
       nom-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>etxe<s n="n"/></l> 
         <r>household<s n="n"/><s n="ND"/></r> 
@@ -34109,7 +34061,7 @@
 	forced 'null' restriction
       nom-0
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>etxe<s n="n"/></l> 
         <r>mansion<s n="n"/><s n="ND"/></r> 
@@ -34707,28 +34659,6 @@
       <p>
         <l>ezan<s n="vbsint"/></l> 
         <r>have<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      vbsint-vblex
-    -->
-    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
-      <p>
-        <l>ezan<s n="vbsint"/></l> 
-        <r>have<b/>got<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      vbsint-vblex
-    -->
-    <e>
-      <p>
-        <l>ezan<s n="vbsint"/></l> 
-        <r>have<g><b/>got</g><s n="vblex"/></r> 
       </p>
     </e>
 
@@ -44221,7 +44151,7 @@
     <e c="hau, hauek">
       <p>
         <l>hau<s n="det"/><s n="dem"/></l> 
-        <r>this<s n="det"/></r> 
+        <r>this<s n="det"/><s n="dem"/></r> 
       </p>
     </e>
 
@@ -83953,39 +83883,6 @@
     <e>
       <p>
         <l>ukan<s n="vbsint"/></l> 
-        <r>have<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      vbsint-vblex
-    -->
-    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
-      <p>
-        <l>ukan<s n="vbsint"/></l> 
-        <r>have<b/>got<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      vbsint-vblex
-    -->
-    <e>
-      <p>
-        <l>ukan<s n="vbsint"/></l> 
-        <r>have<g><b/>got</g><s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      vblex
-    -->
-    <e>
-      <p>
-        <l>ukan<s n="vblex"/></l> 
         <r>have<s n="vblex"/></r> 
       </p>
     </e>
