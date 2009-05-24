@@ -659,5 +659,65 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="cog-0">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/></l> 
+        <r>$lemmaB<s n="np"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></l> 
+        <r>$lemmaC<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/><s n="ant"/></l> 
+        <r>$lemmaC<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 27 entries like this -->
+
+<cross-action id="cog-1">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/></l> 
+        <r>$lemmaB<s n="np"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></l> 
+        <r>$lemmaC<s n="np"/><s n="cog"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/><s n="ant"/></l> 
+        <r>$lemmaC<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+
+</cross-action>
+<!-- 27 entries like this -->
 
 </cross-model>

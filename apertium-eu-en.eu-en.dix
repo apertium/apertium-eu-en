@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8041
+	Entries: 8028
 	Sdefs: 277
       
       Patterns applied:
-      	default (1105 times)
+      	default (1079 times)
       	post-pr (47 times)
       	vblex (1605 times)
       	adv (590 times)
@@ -26,6 +26,7 @@
       	nom-0 (1866 times)
       	nom-1 (1606 times)
       	nom-3 (116 times)
+      	cog-0 (13 times)
 
 -->
 <dictionary>
@@ -696,23 +697,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Aznar<s n="np"/></l> 
+        <l>Aznar<s n="np"/><s n="ant"/></l> 
         <r>Aznar<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Aznar<s n="np"/></l> 
-        <r>Aznar<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -806,23 +796,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Blair<s n="np"/></l> 
+        <l>Blair<s n="np"/><s n="ant"/></l> 
         <r>Blair<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Blair<s n="np"/></l> 
-        <r>Blair<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -883,23 +862,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Bush<s n="np"/></l> 
+        <l>Bush<s n="np"/><s n="ant"/></l> 
         <r>Bush<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Bush<s n="np"/></l> 
-        <r>Bush<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -1114,23 +1082,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Fernandez<s n="np"/></l> 
+        <l>Fernandez<s n="np"/><s n="ant"/></l> 
         <r>Fernández<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Fernandez<s n="np"/></l> 
-        <r>Fernández<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -1202,23 +1159,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Garcia<s n="np"/></l> 
+        <l>Garcia<s n="np"/><s n="ant"/></l> 
         <r>García<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Garcia<s n="np"/></l> 
-        <r>García<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -1257,23 +1203,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Gonzalez<s n="np"/></l> 
+        <l>Gonzalez<s n="np"/><s n="ant"/></l> 
         <r>González<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Gonzalez<s n="np"/></l> 
-        <r>González<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -1862,23 +1797,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Lopez<s n="np"/></l> 
+        <l>Lopez<s n="np"/><s n="ant"/></l> 
         <r>López<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Lopez<s n="np"/></l> 
-        <r>López<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -2346,23 +2270,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Perez<s n="np"/></l> 
+        <l>Perez<s n="np"/><s n="ant"/></l> 
         <r>Pérez<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Perez<s n="np"/></l> 
-        <r>Pérez<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -2390,23 +2303,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Rodriguez<s n="np"/></l> 
+        <l>Rodriguez<s n="np"/><s n="ant"/></l> 
         <r>Rodríguez<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Rodriguez<s n="np"/></l> 
-        <r>Rodríguez<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -2423,45 +2325,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Rubalcaba<s n="np"/></l> 
+        <l>Rubalcaba<s n="np"/><s n="ant"/></l> 
         <r>Rubalcaba<s n="np"/><s n="cog"/><s n="sg"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Rubalcaba<s n="np"/></l> 
-        <r>Rubalcaba<s n="np"/><s n="cog"/><s n="pl"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Ruiz<s n="np"/></l> 
+        <l>Ruiz<s n="np"/><s n="ant"/></l> 
         <r>Ruiz<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Ruiz<s n="np"/></l> 
-        <r>Ruiz<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -2478,23 +2358,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Sarkozy<s n="np"/></l> 
+        <l>Sarkozy<s n="np"/><s n="ant"/></l> 
         <r>Sarkozy<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Sarkozy<s n="np"/></l> 
-        <r>Sarkozy<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -2698,23 +2567,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      cog-0
     -->
     <e>
       <p>
-        <l>Zapatero<s n="np"/></l> 
+        <l>Zapatero<s n="np"/><s n="ant"/></l> 
         <r>Zapatero<s n="np"/><s n="cog"/><s n="sg"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Zapatero<s n="np"/></l> 
-        <r>Zapatero<s n="np"/><s n="cog"/><s n="pl"/></r> 
       </p>
     </e>
 
