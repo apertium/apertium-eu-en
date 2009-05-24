@@ -20,4 +20,5 @@
 dev/cross-model-eu-es-en.xml -text
 dev/cross.xml -text
 /eu-en.prob -text svneol=unset#unset
+/modes.xml -text
 /principal.xsl -text
