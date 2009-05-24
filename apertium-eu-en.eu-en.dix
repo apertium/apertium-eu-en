@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8028
+	Entries: 8033
 	Sdefs: 277
       
       Patterns applied:
-      	default (1079 times)
+      	default (1080 times)
       	post-pr (47 times)
       	vblex (1605 times)
       	adv (590 times)
@@ -19,8 +19,8 @@
       	run1-5 (177 times)
       	run1-6 (129 times)
       	ND-5 (56 times)
-      	loc-1 (47 times)
-      	loc-2 (32 times)
+      	loc-1 (49 times)
+      	loc-2 (34 times)
       	prn-1 (2 times)
       	prn-2 (2 times)
       	nom-0 (1866 times)
@@ -752,6 +752,17 @@
 
     <!-- 
 	forced 'null' restriction
+      loc-2
+    -->
+    <e>
+      <p>
+        <l>Basauri<s n="np"/><s n="loc"/></l> 
+        <r>Basauri<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-5
     -->
     <e>
@@ -1174,6 +1185,17 @@
     -->
     <e>
       <p>
+        <l>Gasteiz<s n="np"/><s n="loc"/></l> 
+        <r>Vitoria<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      loc-1
+    -->
+    <e>
+      <p>
         <l>Gaza<s n="np"/><s n="loc"/></l> 
         <r>Gaza<s n="np"/><s n="loc"/></r> 
       </p>
@@ -1286,6 +1308,17 @@
       <p>
         <l>Indonesia<s n="np"/><s n="loc"/></l> 
         <r>Indonesia<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      loc-2
+    -->
+    <e>
+      <p>
+        <l>Irak<s n="np"/><s n="loc"/></l> 
+        <r>Iraq<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
@@ -2281,6 +2314,17 @@
 
     <!-- 
 	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>Pirinio<s n="np"/></l> 
+        <r>Pyrenees<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-5
     -->
     <e>
@@ -2540,6 +2584,17 @@
       <p>
         <l>Venezuela<s n="np"/><s n="loc"/></l> 
         <r>Venezuela<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      loc-1
+    -->
+    <e>
+      <p>
+        <l>Vitoria-Gasteiz<s n="np"/><s n="loc"/></l> 
+        <r>Vitoria-Gasteiz<s n="np"/><s n="loc"/></r> 
       </p>
     </e>
 
