@@ -3,14 +3,17 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8033
+	Entries: 8055
 	Sdefs: 277
       
       Patterns applied:
       	default (1080 times)
-      	post-pr (47 times)
-      	vblex (1605 times)
-      	adv (590 times)
+      	post-pr (29 times)
+      	post-prRL (18 times)
+      	vblex (1155 times)
+      	vblex-RL (459 times)
+      	adv (318 times)
+      	advRL (285 times)
       	vbsint-vblex (43 times)
       	vbsint-vbser (2 times)
       	run1-2 (571 times)
@@ -2907,10 +2910,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>abiatu<s n="vblex"/></l> 
         <r>pioneer<s n="vblex"/></r> 
@@ -3633,10 +3636,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>adoretu<s n="vblex"/></l> 
         <r>warm<s n="vblex"/></r> 
@@ -3853,10 +3856,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>agertu<s n="vblex"/></l> 
         <r>show<g><b/>up</g><s n="vblex"/></r> 
@@ -3864,10 +3867,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>agertu<s n="vblex"/></l> 
         <r>turn<g><b/>up</g><s n="vblex"/></r> 
@@ -3875,10 +3878,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>agertu<s n="vblex"/></l> 
         <r>display<s n="vblex"/></r> 
@@ -3930,10 +3933,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>agindu<s n="vblex"/></l> 
         <r>sort<s n="vblex"/></r> 
@@ -3963,10 +3966,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>agindu<s n="vblex"/></l> 
         <r>pledge<s n="vblex"/></r> 
@@ -4040,10 +4043,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>agitatu<s n="vblex"/></l> 
         <r>wave<s n="vblex"/></r> 
@@ -4084,10 +4087,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>agur<b/>egin<s n="vblex"/></l> 
         <r>fire<s n="vblex"/></r> 
@@ -4205,10 +4208,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ahaztu<s n="vblex"/></l> 
         <r>forget<g><b/>about</g><s n="vblex"/></r> 
@@ -4216,10 +4219,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ahitu<s n="vblex"/></l> 
         <r>deplete<s n="vblex"/></r> 
@@ -4326,10 +4329,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aholkatu<s n="vblex"/></l> 
         <r>counsel<s n="vblex"/></r> 
@@ -4546,10 +4549,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aino<s n="post"/></l> 
         <r>up<b/>to<s n="pr"/></r> 
@@ -4777,10 +4780,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aitortu<s n="vblex"/></l> 
         <r>state<s n="vblex"/></r> 
@@ -4942,10 +4945,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>akuilatu<s n="vblex"/></l> 
         <r>boost<s n="vblex"/></r> 
@@ -5074,10 +5077,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alaitu<s n="vblex"/></l> 
         <r>cheer<s n="vblex"/></r> 
@@ -5294,10 +5297,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aldatu<s n="vblex"/></l> 
         <r>capsize<s n="vblex"/></r> 
@@ -5316,10 +5319,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aldatu<s n="vblex"/></l> 
         <r>switch<s n="vblex"/></r> 
@@ -5327,10 +5330,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aldatu<s n="vblex"/></l> 
         <r>shift<s n="vblex"/></r> 
@@ -5338,10 +5341,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aldatu<s n="vblex"/></l> 
         <r>range<s n="vblex"/></r> 
@@ -5393,10 +5396,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alde<b/>egin<s n="vblex"/></l> 
         <r>get<g><b/>along</g><s n="vblex"/></r> 
@@ -5404,10 +5407,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alde<b/>egin<s n="vblex"/></l> 
         <r>get<g><b/>off</g><s n="vblex"/></r> 
@@ -5448,10 +5451,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alderantziz<s n="adv"/></l> 
         <r>wrong<b/>side<b/>out<s n="adv"/></r> 
@@ -5459,10 +5462,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alderantziz<s n="adv"/></l> 
         <r>wrongside<b/>out<s n="adv"/></r> 
@@ -5470,10 +5473,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alderantziz<s n="adv"/></l> 
         <r>the<b/>other<b/>way<b/>round<s n="adv"/></r> 
@@ -5481,10 +5484,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alderantziz<s n="adv"/></l> 
         <r>upside<b/>down<s n="adv"/></r> 
@@ -5492,10 +5495,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alderantziz<s n="adv"/></l> 
         <r>back<b/>to<b/>front<s n="adv"/></r> 
@@ -5503,10 +5506,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alderantziz<s n="adv"/></l> 
         <r>inside<b/>out<s n="adv"/></r> 
@@ -5833,10 +5836,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alferrik<s n="adv"/></l> 
         <r>to<b/>little<b/>avail<s n="adv"/></r> 
@@ -6185,10 +6188,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>altxatu<s n="vblex"/></l> 
         <r>erect<s n="vblex"/></r> 
@@ -6416,10 +6419,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>amildu<s n="vblex"/></l> 
         <r>drop<s n="vblex"/></r> 
@@ -6438,10 +6441,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>amildu<s n="vblex"/></l> 
         <r>fall<g><b/>down</g><s n="vblex"/></r> 
@@ -6548,10 +6551,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>an<s n="post"/></l> 
         <r>at<s n="pr"/></r> 
@@ -6669,10 +6672,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>analizatu<s n="vblex"/></l> 
         <r>analyze<s n="vblex"/></r> 
@@ -6801,10 +6804,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>animatu<s n="vblex"/></l> 
         <r>warm<s n="vblex"/></r> 
@@ -6999,10 +7002,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>antolatu<s n="vblex"/></l> 
         <r>organise<s n="vblex"/></r> 
@@ -7065,10 +7068,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>antz<s n="post"/></l> 
         <r>towards<s n="pr"/></r> 
@@ -7142,10 +7145,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>antzeztu<s n="vblex"/></l> 
         <r>figure<s n="vblex"/></r> 
@@ -7197,10 +7200,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>apaindu<s n="vblex"/></l> 
         <r>arrange<s n="vblex"/></r> 
@@ -7318,10 +7321,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>apaldu<s n="vblex"/></l> 
         <r>drop<s n="vblex"/></r> 
@@ -7340,10 +7343,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>apaldu<s n="vblex"/></l> 
         <r>lower<s n="vblex"/></r> 
@@ -7351,10 +7354,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>apaldu<s n="vblex"/></l> 
         <r>bring<g><b/>down</g><s n="vblex"/></r> 
@@ -7362,10 +7365,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>apaldu<s n="vblex"/></l> 
         <r>get<g><b/>down</g><s n="vblex"/></r> 
@@ -7461,10 +7464,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>apenas<s n="adv"/></l> 
         <r>barely<s n="adv"/></r> 
@@ -7472,10 +7475,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>apenas<s n="adv"/></l> 
         <r>no<b/>sooner<s n="adv"/></r> 
@@ -7549,10 +7552,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aplikatu<s n="vblex"/></l> 
         <r>enforce<s n="vblex"/></r> 
@@ -7670,10 +7673,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="en el teatro">
+    <e r="RL" c="en el teatro">
       <p>
         <l>apuntatu<s n="vblex"/></l> 
         <r>prompt<s n="vblex"/></r> 
@@ -7681,10 +7684,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>apuntatu<s n="vblex"/></l> 
         <r>target<s n="vblex"/></r> 
@@ -7901,10 +7904,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arbuiatu<s n="vblex"/></l> 
         <r>dismiss<s n="vblex"/></r> 
@@ -7989,10 +7992,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ardura<s n="adv"/></l> 
         <r>continually<s n="adv"/></r> 
@@ -8011,10 +8014,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ardura<s n="adv"/></l> 
         <r>every<b/>now<b/>and<b/>again<s n="adv"/></r> 
@@ -8022,10 +8025,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ardura<s n="adv"/></l> 
         <r>week<b/>in<b/>week<b/>out<s n="adv"/></r> 
@@ -8308,10 +8311,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="publicar una revista">
+    <e r="RL" c="publicar una revista">
       <p>
         <l>argitaratu<s n="vblex"/></l> 
         <r>issue<s n="vblex"/></r> 
@@ -8363,10 +8366,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>argitu<s n="vblex"/></l> 
         <r>clarify<s n="vblex"/></r> 
@@ -8506,10 +8509,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arindu<s n="vblex"/></l> 
         <r>ease<s n="vblex"/></r> 
@@ -9441,10 +9444,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arrunt<s n="adv"/></l> 
         <r>all<b/>the<b/>way<s n="adv"/></r> 
@@ -9452,10 +9455,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arrunt<s n="adv"/></l> 
         <r>completely<s n="adv"/></r> 
@@ -9474,10 +9477,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arrunt<s n="adv"/></l> 
         <r>right<b/>through<s n="adv"/></r> 
@@ -9485,10 +9488,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arrunt<s n="adv"/></l> 
         <r>straight<b/>through<s n="adv"/></r> 
@@ -9496,10 +9499,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arrunt<s n="adv"/></l> 
         <r>to<b/>capacity<s n="adv"/></r> 
@@ -9507,10 +9510,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arrunt<s n="adv"/></l> 
         <r>to<b/>the<b/>ground<s n="adv"/></r> 
@@ -9518,10 +9521,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>arrunt<s n="adv"/></l> 
         <r>wholly<s n="adv"/></r> 
@@ -9738,10 +9741,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>asaldatu<s n="vblex"/></l> 
         <r>perturb<s n="vblex"/></r> 
@@ -9837,10 +9840,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aseguratu<s n="vblex"/></l> 
         <r>assure<s n="vblex"/></r> 
@@ -9859,10 +9862,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aseguratu<s n="vblex"/></l> 
         <r>secure<s n="vblex"/></r> 
@@ -10079,10 +10082,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>asko<s n="adv"/></l> 
         <r>awfully<s n="adv"/></r> 
@@ -10090,10 +10093,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>asko<s n="adv"/></l> 
         <r>dearly<s n="adv"/></r> 
@@ -10101,10 +10104,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>asko<s n="adv"/></l> 
         <r>greatly<s n="adv"/></r> 
@@ -10112,10 +10115,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>asko<s n="adv"/></l> 
         <r>hugely<s n="adv"/></r> 
@@ -10123,10 +10126,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>asko<s n="adv"/></l> 
         <r>much<s n="adv"/></r> 
@@ -10134,10 +10137,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>asko<s n="adv"/></l> 
         <r>very<b/>much<s n="adv"/></r> 
@@ -10178,10 +10181,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>askoz<b/>hobeto<s n="adv"/></l> 
         <r>all<b/>the<b/>better<s n="adv"/></r> 
@@ -10189,10 +10192,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>askoz<b/>hobeto<s n="adv"/></l> 
         <r>miles<b/>better<s n="adv"/></r> 
@@ -10204,6 +10207,17 @@
       adv
     -->
     <e>
+      <p>
+        <l>askoz<b/>hobeto<s n="adv"/></l> 
+        <r>much<b/>better<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
       <p>
         <l>askoz<b/>hobeto<s n="adv"/></l> 
         <r>much<b/>better<s n="adv"/></r> 
@@ -10244,10 +10258,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>asmatu<s n="vblex"/></l> 
         <r>make<g><b/>up</g><s n="vblex"/></r> 
@@ -10431,10 +10445,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>astindu<s n="vblex"/></l> 
         <r>rock<s n="vblex"/></r> 
@@ -10453,10 +10467,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>astiro<s n="adv"/></l> 
         <r>slow<s n="adv"/></r> 
@@ -10651,10 +10665,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atera<s n="vblex"/></l> 
         <r>pull<g><b/>out</g><s n="vblex"/></r> 
@@ -10662,10 +10676,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atera<s n="vblex"/></l> 
         <r>remove<s n="vblex"/></r> 
@@ -10673,10 +10687,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atera<s n="vblex"/></l> 
         <r>take<g><b/>away</g><s n="vblex"/></r> 
@@ -10684,10 +10698,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atera<s n="vblex"/></l> 
         <r>take<g><b/>off</g><s n="vblex"/></r> 
@@ -10706,10 +10720,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atera<s n="vblex"/></l> 
         <r>come<g><b/>out</g><s n="vblex"/></r> 
@@ -10717,10 +10731,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atera<s n="vblex"/></l> 
         <r>exit<s n="vblex"/></r> 
@@ -10739,10 +10753,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atera<s n="vblex"/></l> 
         <r>work<g><b/>out</g><s n="vblex"/></r> 
@@ -10750,10 +10764,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atera<s n="vblex"/></l> 
         <r>get<g><b/>out</g><s n="vblex"/></r> 
@@ -11113,10 +11127,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atzean<s n="adv"/></l> 
         <r>back<s n="adv"/></r> 
@@ -11128,6 +11142,17 @@
       adv
     -->
     <e>
+      <p>
+        <l>atzean<s n="adv"/></l> 
+        <r>backwards<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
       <p>
         <l>atzean<s n="adv"/></l> 
         <r>backwards<s n="adv"/></r> 
@@ -11300,10 +11325,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atzeratu<s n="vblex"/></l> 
         <r>slow<s n="vblex"/></r> 
@@ -11333,10 +11358,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atzerriratu<s n="vblex"/></l> 
         <r>migrate<s n="vblex"/></r> 
@@ -11487,10 +11512,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aukeratu<s n="vblex"/></l> 
         <r>elect<s n="vblex"/></r> 
@@ -11498,10 +11523,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aukeratu<s n="vblex"/></l> 
         <r>pick<s n="vblex"/></r> 
@@ -11586,10 +11611,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurkeztu<s n="vblex"/></l> 
         <r>feature<s n="vblex"/></r> 
@@ -11597,10 +11622,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurkeztu<s n="vblex"/></l> 
         <r>introduce<s n="vblex"/></r> 
@@ -11652,10 +11677,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurkitu<s n="vblex"/></l> 
         <r>come<g><b/>across</g><s n="vblex"/></r> 
@@ -11663,10 +11688,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurkitu<s n="vblex"/></l> 
         <r>encounter<s n="vblex"/></r> 
@@ -11696,10 +11721,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurkitu<s n="vblex"/></l> 
         <r>trace<s n="vblex"/></r> 
@@ -11729,10 +11754,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurre<b/>eman<s n="vblex"/></l> 
         <r>confront<s n="vblex"/></r> 
@@ -11740,10 +11765,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurre<b/>eman<s n="vblex"/></l> 
         <r>brave<s n="vblex"/></r> 
@@ -12125,10 +12150,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurrez<s n="adv"/></l> 
         <r>beforehand<s n="adv"/></r> 
@@ -12147,10 +12172,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurrez<s n="adv"/></l> 
         <r>on<b/>ahead<s n="adv"/></r> 
@@ -12191,10 +12216,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurreztu<s n="vblex"/></l> 
         <r>spare<s n="vblex"/></r> 
@@ -12862,10 +12887,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azkenean<s n="adv"/></l> 
         <r>at<b/>an<b/>end<s n="adv"/></r> 
@@ -12873,10 +12898,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azkenean<s n="adv"/></l> 
         <r>in<b/>the<b/>end<s n="adv"/></r> 
@@ -12906,10 +12931,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azkenik<s n="adv"/></l> 
         <r>at<b/>long<b/>last<s n="adv"/></r> 
@@ -13434,10 +13459,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>baieztatu<s n="vblex"/></l> 
         <r>assert<s n="vblex"/></r> 
@@ -13445,10 +13470,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>baieztatu<s n="vblex"/></l> 
         <r>claim<s n="vblex"/></r> 
@@ -13522,10 +13547,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>baimena<b/>eman<s n="vblex"/></l> 
         <r>entitle<s n="vblex"/></r> 
@@ -13544,10 +13569,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>baimendu<s n="vblex"/></l> 
         <r>permit<s n="vblex"/></r> 
@@ -13742,10 +13767,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bakarrik<s n="adv"/></l> 
         <r>alone<s n="adv"/></r> 
@@ -13753,10 +13778,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bakarrik<s n="adv"/></l> 
         <r>just<s n="adv"/></r> 
@@ -13775,10 +13800,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bakarrik<s n="adv"/></l> 
         <r>solely<s n="adv"/></r> 
@@ -14182,10 +14207,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>balioztatu<s n="vblex"/></l> 
         <r>assess<s n="vblex"/></r> 
@@ -14221,15 +14246,26 @@
     <e>
       <p>
         <l>balioztatu<s n="vblex"/></l> 
+        <r>assess<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
+      <p>
+        <l>balioztatu<s n="vblex"/></l> 
         <r>appraise<s n="vblex"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>balioztatu<s n="vblex"/></l> 
         <r>rate<s n="vblex"/></r> 
@@ -14336,10 +14372,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>banandu<s n="vblex"/></l> 
         <r>part<s n="vblex"/></r> 
@@ -15007,10 +15043,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bat-batean<s n="adv"/></l> 
         <r>all<b/>of<b/>a<b/>sudden<s n="adv"/></r> 
@@ -15018,10 +15054,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bat-batean<s n="adv"/></l> 
         <r>on<b/>impulse<s n="adv"/></r> 
@@ -15029,10 +15065,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bat-batean<s n="adv"/></l> 
         <r>out<b/>of<b/>the<b/>blue<s n="adv"/></r> 
@@ -15095,10 +15131,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bata<b/>bestearen<b/>atzean<s n="adv"/></l> 
         <r>single<b/>file<s n="adv"/></r> 
@@ -15106,10 +15142,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bata<b/>bestearen<b/>atzetik<s n="adv"/></l> 
         <r>one<b/>after<b/>another<s n="adv"/></r> 
@@ -15150,10 +15186,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bataiatu<s n="vblex"/></l> 
         <r>dub<s n="vblex"/></r> 
@@ -15205,10 +15241,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>batera<s n="adv"/></l> 
         <r>at<b/>a<b/>time<s n="adv"/></r> 
@@ -15282,10 +15318,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bateratu<s n="vblex"/></l> 
         <r>unite<s n="vblex"/></r> 
@@ -15315,10 +15351,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>batez<b/>ere<s n="adv"/></l> 
         <r>above<b/>all<s n="adv"/></r> 
@@ -15348,10 +15384,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>batik<b/>bat<s n="adv"/></l> 
         <r>above<b/>all<s n="adv"/></r> 
@@ -15370,10 +15406,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>batu<s n="vblex"/></l> 
         <r>assemble<s n="vblex"/></r> 
@@ -15381,10 +15417,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>batu<s n="vblex"/></l> 
         <r>bring<g><b/>together</g><s n="vblex"/></r> 
@@ -15436,10 +15472,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>batzartu<s n="vblex"/></l> 
         <r>assemble<s n="vblex"/></r> 
@@ -15447,10 +15483,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>batzartu<s n="vblex"/></l> 
         <r>bring<g><b/>together</g><s n="vblex"/></r> 
@@ -15777,10 +15813,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>begiratu<s n="vblex"/></l> 
         <r>glance<s n="vblex"/></r> 
@@ -15799,10 +15835,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="(television)">
+    <e r="RL" c="(television)">
       <p>
         <l>begiratu<s n="vblex"/></l> 
         <r>watch<s n="vblex"/></r> 
@@ -15931,13 +15967,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>beharbada<s n="adv"/></l> 
         <r>maybe<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
+      <p>
+        <l>beharbada<s n="adv"/></l> 
+        <r>perhaps<s n="adv"/></r> 
       </p>
     </e>
 
@@ -15975,10 +16022,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behartu<s n="vblex"/></l> 
         <r>bind<s n="vblex"/></r> 
@@ -15997,10 +16044,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behartu<s n="vblex"/></l> 
         <r>compel<s n="vblex"/></r> 
@@ -16217,10 +16264,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<b/>egin<s n="vblex"/></l> 
         <r>drop<s n="vblex"/></r> 
@@ -16239,10 +16286,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<b/>egin<s n="vblex"/></l> 
         <r>lower<s n="vblex"/></r> 
@@ -16250,10 +16297,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<b/>egin<s n="vblex"/></l> 
         <r>bring<g><b/>down</g><s n="vblex"/></r> 
@@ -16261,10 +16308,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<b/>egin<s n="vblex"/></l> 
         <r>get<g><b/>down</g><s n="vblex"/></r> 
@@ -16294,10 +16341,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>beheratu<s n="vblex"/></l> 
         <r>drop<s n="vblex"/></r> 
@@ -16316,10 +16363,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>beheratu<s n="vblex"/></l> 
         <r>lower<s n="vblex"/></r> 
@@ -16327,10 +16374,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>beheratu<s n="vblex"/></l> 
         <r>bring<g><b/>down</g><s n="vblex"/></r> 
@@ -16338,10 +16385,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>beheratu<s n="vblex"/></l> 
         <r>get<g><b/>down</g><s n="vblex"/></r> 
@@ -16448,10 +16495,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behin<b/>betiko<s n="adv"/></l> 
         <r>for<b/>ever<b/>and<b/>ever<s n="adv"/></r> 
@@ -16470,10 +16517,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behin<b/>eta<b/>betiko<s n="adv"/></l> 
         <r>for<b/>ever<b/>and<b/>ever<s n="adv"/></r> 
@@ -16481,10 +16528,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behingoan<s n="adv"/></l> 
         <r>at<b/>a<b/>time<s n="adv"/></r> 
@@ -16745,10 +16792,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bene-benetan<s n="adv"/></l> 
         <r>outright<s n="adv"/></r> 
@@ -16987,10 +17034,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berehala<s n="adv"/></l> 
         <r>forthwith<s n="adv"/></r> 
@@ -17009,10 +17056,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berehala<s n="adv"/></l> 
         <r>in<b/>a<b/>little<b/>while<s n="adv"/></r> 
@@ -17020,10 +17067,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berehala<s n="adv"/></l> 
         <r>in<b/>short<b/>order<s n="adv"/></r> 
@@ -17031,10 +17078,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berehala<s n="adv"/></l> 
         <r>right<b/>away<s n="adv"/></r> 
@@ -17042,10 +17089,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berehala<s n="adv"/></l> 
         <r>straight<b/>away<s n="adv"/></r> 
@@ -17053,10 +17100,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berehala<s n="adv"/></l> 
         <r>then<b/>and<b/>there<s n="adv"/></r> 
@@ -17064,10 +17111,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berehala<s n="adv"/></l> 
         <r>there<b/>and<b/>then<s n="adv"/></r> 
@@ -17075,10 +17122,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berehala<s n="adv"/></l> 
         <r>at<b/>a<b/>moment's<b/>notice<s n="adv"/></r> 
@@ -17141,10 +17188,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bereizi<s n="vblex"/></l> 
         <r>part<s n="vblex"/></r> 
@@ -17218,10 +17265,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bereziki<s n="adv"/></l> 
         <r>specially<s n="adv"/></r> 
@@ -17394,10 +17441,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berotu<s n="vblex"/></l> 
         <r>warm<s n="vblex"/></r> 
@@ -17504,10 +17551,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berreraiki<s n="vblex"/></l> 
         <r>rebuild<s n="vblex"/></r> 
@@ -17537,10 +17584,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berreskuratu<s n="vblex"/></l> 
         <r>recuperate<s n="vblex"/></r> 
@@ -17548,10 +17595,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berreskuratu<s n="vblex"/></l> 
         <r>retrieve<s n="vblex"/></r> 
@@ -17570,10 +17617,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berretu<s n="vblex"/></l> 
         <r>boost<s n="vblex"/></r> 
@@ -17592,10 +17639,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berretu<s n="vblex"/></l> 
         <r>raise<s n="vblex"/></r> 
@@ -17603,10 +17650,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berretu<s n="vblex"/></l> 
         <r>rise<s n="vblex"/></r> 
@@ -17823,10 +17870,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>berriz<b/>gertatu<s n="vblex"/></l> 
         <r>play<s n="vblex"/></r> 
@@ -17911,10 +17958,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bertan<b/>behera<s n="adv"/></l> 
         <r>all<b/>of<b/>a<b/>sudden<s n="adv"/></r> 
@@ -17922,10 +17969,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bertan<b/>behera<s n="adv"/></l> 
         <r>on<b/>impulse<s n="adv"/></r> 
@@ -17933,10 +17980,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bertan<b/>behera<s n="adv"/></l> 
         <r>out<b/>of<b/>the<b/>blue<s n="adv"/></r> 
@@ -18142,10 +18189,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bete<s n="vblex"/></l> 
         <r>crowd<s n="vblex"/></r> 
@@ -18153,10 +18200,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bete<s n="vblex"/></l> 
         <r>accomplish<s n="vblex"/></r> 
@@ -18175,10 +18222,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="(requirements, deures)">
+    <e r="RL" c="(requirements, deures)">
       <p>
         <l>bete<s n="vblex"/></l> 
         <r>meet<s n="vblex"/></r> 
@@ -18340,10 +18387,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>betiko<s n="adv"/></l> 
         <r>for<b/>ever<b/>and<b/>ever<s n="adv"/></r> 
@@ -18494,10 +18541,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bidali<s n="vblex"/></l> 
         <r>forward<s n="vblex"/></r> 
@@ -18516,10 +18563,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bidali<s n="vblex"/></l> 
         <r>send<g><b/>in</g><s n="vblex"/></r> 
@@ -18626,10 +18673,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bide-erdi<s n="adv"/></l> 
         <r>midway<s n="adv"/></r> 
@@ -18857,10 +18904,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bihurritu<s n="vblex"/></l> 
         <r>curve<s n="vblex"/></r> 
@@ -18879,10 +18926,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bihurtu<s n="vblex"/></l> 
         <r>come<g><b/>back</g><s n="vblex"/></r> 
@@ -18901,10 +18948,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bihurtu<s n="vblex"/></l> 
         <r>get<g><b/>back</g><s n="vblex"/></r> 
@@ -19165,10 +19212,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bilatu<s n="vblex"/></l> 
         <r>search<s n="vblex"/></r> 
@@ -19176,10 +19223,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bilatu<s n="vblex"/></l> 
         <r>search<g><b/>for</g><s n="vblex"/></r> 
@@ -19187,10 +19234,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bilatu<s n="vblex"/></l> 
         <r>seek<s n="vblex"/></r> 
@@ -19220,10 +19267,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bildu<s n="vblex"/></l> 
         <r>assemble<s n="vblex"/></r> 
@@ -19231,10 +19278,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bildu<s n="vblex"/></l> 
         <r>bring<g><b/>together</g><s n="vblex"/></r> 
@@ -19429,10 +19476,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>biluzi<s n="vblex"/></l> 
         <r>strip<s n="vblex"/></r> 
@@ -19594,10 +19641,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>birlotu<s n="vblex"/></l> 
         <r>assemble<s n="vblex"/></r> 
@@ -19605,10 +19652,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>birlotu<s n="vblex"/></l> 
         <r>bring<g><b/>together</g><s n="vblex"/></r> 
@@ -19704,10 +19751,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bisitatu<s n="vblex"/></l> 
         <r>tour<s n="vblex"/></r> 
@@ -19748,10 +19795,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bitartean<s n="adv"/></l> 
         <r>in<b/>the<b/>interim<s n="adv"/></r> 
@@ -19770,10 +19817,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bitartean<s n="adv"/></l> 
         <r>in<b/>the<b/>meanwhile<s n="adv"/></r> 
@@ -19781,10 +19828,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bitartean<s n="adv"/></l> 
         <r>meantime<s n="adv"/></r> 
@@ -20100,10 +20147,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bizkortu<s n="vblex"/></l> 
         <r>speed<s n="vblex"/></r> 
@@ -20441,10 +20488,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>borrokatu<s n="vblex"/></l> 
         <r>fight<s n="vblex"/></r> 
@@ -20672,10 +20719,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="reflexivo, alegrarse">
+    <e r="RL" c="reflexivo, alegrarse">
       <p>
         <l>bozkariatu<s n="vblex"/></l> 
         <r>cheer<s n="vblex"/></r> 
@@ -20870,10 +20917,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bukatu<s n="vblex"/></l> 
         <r>end<s n="vblex"/></r> 
@@ -20892,10 +20939,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bukatu<s n="vblex"/></l> 
         <r>round<g><b/>off</g><s n="vblex"/></r> 
@@ -21013,10 +21060,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bultzatu<s n="vblex"/></l> 
         <r>thrust<s n="vblex"/></r> 
@@ -21035,10 +21082,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bultzatu<s n="vblex"/></l> 
         <r>prompt<s n="vblex"/></r> 
@@ -21222,10 +21269,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>burutik<b/>oinera<s n="adv"/></l> 
         <r>head<b/>over<b/>heels<s n="adv"/></r> 
@@ -21233,10 +21280,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>burutu<s n="vblex"/></l> 
         <r>accomplish<s n="vblex"/></r> 
@@ -21255,10 +21302,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="(requirements, deures)">
+    <e r="RL" c="(requirements, deures)">
       <p>
         <l>burutu<s n="vblex"/></l> 
         <r>meet<s n="vblex"/></r> 
@@ -21442,10 +21489,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>dardaratu<s n="vblex"/></l> 
         <r>tremble<s n="vblex"/></r> 
@@ -21552,10 +21599,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>debekatu<s n="vblex"/></l> 
         <r>ban<s n="vblex"/></r> 
@@ -21607,10 +21654,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>defendatu<s n="vblex"/></l> 
         <r>advocate<s n="vblex"/></r> 
@@ -21750,10 +21797,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>deitu<s n="vblex"/></l> 
         <r>set<g><b/>up</g><s n="vblex"/></r> 
@@ -21827,10 +21874,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>deklaratu<s n="vblex"/></l> 
         <r>state<s n="vblex"/></r> 
@@ -22267,10 +22314,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>desafio<b/>egin<s n="vblex"/></l> 
         <r>dare<s n="vblex"/></r> 
@@ -22575,10 +22622,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>desiratu<s n="vblex"/></l> 
         <r>desire<s n="vblex"/></r> 
@@ -22608,10 +22655,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>deskargatu<s n="vblex"/></l> 
         <r>discharge<s n="vblex"/></r> 
@@ -22652,10 +22699,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>deskribatu<s n="vblex"/></l> 
         <r>depict<s n="vblex"/></r> 
@@ -22806,10 +22853,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="en el teatro">
+    <e r="RL" c="en el teatro">
       <p>
         <l>destatu<s n="vblex"/></l> 
         <r>prompt<s n="vblex"/></r> 
@@ -22817,10 +22864,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>destatu<s n="vblex"/></l> 
         <r>target<s n="vblex"/></r> 
@@ -22982,10 +23029,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>dezente<s n="adv"/></l> 
         <r>rather<s n="adv"/></r> 
@@ -24049,10 +24096,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ebaluatu<s n="vblex"/></l> 
         <r>assess<s n="vblex"/></r> 
@@ -24148,10 +24195,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>edeki<s n="vblex"/></l> 
         <r>pull<g><b/>out</g><s n="vblex"/></r> 
@@ -24159,10 +24206,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>edeki<s n="vblex"/></l> 
         <r>remove<s n="vblex"/></r> 
@@ -24170,10 +24217,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>edeki<s n="vblex"/></l> 
         <r>take<g><b/>away</g><s n="vblex"/></r> 
@@ -24181,10 +24228,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>edeki<s n="vblex"/></l> 
         <r>take<g><b/>off</g><s n="vblex"/></r> 
@@ -24236,10 +24283,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ederki<s n="adv"/></l> 
         <r>all<b/>right<s n="adv"/></r> 
@@ -24247,10 +24294,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ederki<s n="adv"/></l> 
         <r>alright<s n="adv"/></r> 
@@ -24258,10 +24305,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ederki<s n="adv"/></l> 
         <r>fine<s n="adv"/></r> 
@@ -24269,10 +24316,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ederki<s n="adv"/></l> 
         <r>good<s n="adv"/></r> 
@@ -24280,10 +24327,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ederki<s n="adv"/></l> 
         <r>right<s n="adv"/></r> 
@@ -24720,10 +24767,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
+    <e r="RL" c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
       <p>
         <l>eduki<s n="vblex"/></l> 
         <r>have<b/>got<s n="vblex"/></r> 
@@ -24731,10 +24778,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eduki<s n="vblex"/></l> 
         <r>have<g><b/>got</g><s n="vblex"/></r> 
@@ -24742,10 +24789,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eduki<s n="vblex"/></l> 
         <r>own<s n="vblex"/></r> 
@@ -24907,10 +24954,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egiaztatu<s n="vblex"/></l> 
         <r>check<g><b/>out</g><s n="vblex"/></r> 
@@ -25017,10 +25064,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egin<s n="vblex"/></l> 
         <r>make<g><b/>up</g><s n="vblex"/></r> 
@@ -25028,10 +25075,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egin<s n="vblex"/></l> 
         <r>make<s n="vblex"/></r> 
@@ -25039,10 +25086,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="(walk, picture, break, test, exam, course, look, trip, photograph, photo)">
+    <e r="RL" c="(walk, picture, break, test, exam, course, look, trip, photograph, photo)">
       <p>
         <l>egin<s n="vblex"/></l> 
         <r>take<s n="vblex"/></r> 
@@ -25061,10 +25108,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egin<s n="vblex"/></l> 
         <r>practice<s n="vblex"/></r> 
@@ -25083,10 +25130,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egin<s n="vblex"/></l> 
         <r>realise<s n="vblex"/></r> 
@@ -25545,10 +25592,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="(intransitiu)">
+    <e r="RL" c="(intransitiu)">
       <p>
         <l>egon<s n="vblex"/></l> 
         <r>stand<s n="vblex"/></r> 
@@ -26590,10 +26637,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eliminatu<s n="vblex"/></l> 
         <r>eliminate<s n="vblex"/></r> 
@@ -26645,10 +26692,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>elkar<b/>jo<s n="vblex"/></l> 
         <r>crash<s n="vblex"/></r> 
@@ -26722,10 +26769,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>elkarretaratu<s n="vblex"/></l> 
         <r>assemble<s n="vblex"/></r> 
@@ -26733,10 +26780,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>elkarretaratu<s n="vblex"/></l> 
         <r>bring<g><b/>together</g><s n="vblex"/></r> 
@@ -26865,10 +26912,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>elkartu<s n="vblex"/></l> 
         <r>assemble<s n="vblex"/></r> 
@@ -26876,10 +26923,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>elkartu<s n="vblex"/></l> 
         <r>bring<g><b/>together</g><s n="vblex"/></r> 
@@ -27030,10 +27077,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eman<s n="vblex"/></l> 
         <r>grant<s n="vblex"/></r> 
@@ -27052,10 +27099,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eman<s n="vblex"/></l> 
         <r>donate<s n="vblex"/></r> 
@@ -27107,10 +27154,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eman<s n="vblex"/></l> 
         <r>assume<s n="vblex"/></r> 
@@ -27195,10 +27242,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>emigratu<s n="vblex"/></l> 
         <r>migrate<s n="vblex"/></r> 
@@ -27316,10 +27363,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e c="MG: He fell off his chair">
+    <e r="RL" c="MG: He fell off his chair">
       <p>
         <l>en<s n="post"/></l> 
         <r>off<s n="pr"/></r> 
@@ -27393,10 +27440,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>engainatu<s n="vblex"/></l> 
         <r>cheat<s n="vblex"/></r> 
@@ -27415,10 +27462,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>engainatu<s n="vblex"/></l> 
         <r>dupe<s n="vblex"/></r> 
@@ -27580,10 +27627,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>entregatu<s n="vblex"/></l> 
         <r>submit<s n="vblex"/></r> 
@@ -27690,10 +27737,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>entzat<s n="post"/></l> 
         <r>in<b/>order<b/>to<s n="pr"/></r> 
@@ -27921,10 +27968,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>epe<b/>motzera<s n="adv"/></l> 
         <r>on<b/>a<b/>short-term<b/>basis<s n="adv"/></r> 
@@ -27932,10 +27979,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>epe<b/>motzera<s n="adv"/></l> 
         <r>on<b/>a<b/>small<b/>scale<s n="adv"/></r> 
@@ -28196,10 +28243,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erabili<s n="vblex"/></l> 
         <r>operate<s n="vblex"/></r> 
@@ -28328,10 +28375,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eragin<s n="vblex"/></l> 
         <r>inflict<s n="vblex"/></r> 
@@ -28383,10 +28430,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eragin<s n="vblex"/></l> 
         <r>provoke<s n="vblex"/></r> 
@@ -28394,10 +28441,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eragin<s n="vblex"/></l> 
         <r>trigger<s n="vblex"/></r> 
@@ -28460,10 +28507,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eragotzi<s n="vblex"/></l> 
         <r>preclude<s n="vblex"/></r> 
@@ -28504,10 +28551,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eraiki<s n="vblex"/></l> 
         <r>construct<s n="vblex"/></r> 
@@ -28515,10 +28562,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eraiki<s n="vblex"/></l> 
         <r>erect<s n="vblex"/></r> 
@@ -28614,10 +28661,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eraitsi<s n="vblex"/></l> 
         <r>drop<s n="vblex"/></r> 
@@ -28636,10 +28683,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eraitsi<s n="vblex"/></l> 
         <r>lower<s n="vblex"/></r> 
@@ -28647,10 +28694,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eraitsi<s n="vblex"/></l> 
         <r>bring<g><b/>down</g><s n="vblex"/></r> 
@@ -28658,10 +28705,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eraitsi<s n="vblex"/></l> 
         <r>get<g><b/>down</g><s n="vblex"/></r> 
@@ -28845,10 +28892,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erakutsi<s n="vblex"/></l> 
         <r>display<s n="vblex"/></r> 
@@ -28900,10 +28947,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eraman<s n="vblex"/></l> 
         <r>conduct<s n="vblex"/></r> 
@@ -29120,10 +29167,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erantzun<s n="vblex"/></l> 
         <r>reply<s n="vblex"/></r> 
@@ -29175,10 +29222,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="Mil.">
+    <e r="RL" c="Mil.">
       <p>
         <l>eraso<s n="vblex"/></l> 
         <r>strike<s n="vblex"/></r> 
@@ -29186,10 +29233,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eraso<s n="vblex"/></l> 
         <r>blast<s n="vblex"/></r> 
@@ -29230,10 +29277,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="Mil.">
+    <e r="RL" c="Mil.">
       <p>
         <l>erasotu<s n="vblex"/></l> 
         <r>strike<s n="vblex"/></r> 
@@ -29241,10 +29288,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erasotu<s n="vblex"/></l> 
         <r>blast<s n="vblex"/></r> 
@@ -29428,10 +29475,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erdietsi<s n="vblex"/></l> 
         <r>get<g><b/>hold<b/>of</g><s n="vblex"/></r> 
@@ -29494,10 +29541,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erdiratu<s n="vblex"/></l> 
         <r>centre<s n="vblex"/></r> 
@@ -29505,10 +29552,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erdiratu<s n="vblex"/></l> 
         <r>focus<s n="vblex"/></r> 
@@ -29571,10 +29618,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ere<s n="adv"/></l> 
         <r>as<b/>well<s n="adv"/></r> 
@@ -29582,10 +29629,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ere<s n="adv"/></l> 
         <r>too<s n="adv"/></r> 
@@ -29604,10 +29651,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="frases negatives">
+    <e r="RL" c="frases negatives">
       <p>
         <l>ere<b/>ez<s n="adv"/></l> 
         <r>either<s n="adv"/></r> 
@@ -29923,10 +29970,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erori<s n="vblex"/></l> 
         <r>drop<s n="vblex"/></r> 
@@ -29945,10 +29992,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erori<s n="vblex"/></l> 
         <r>fall<g><b/>down</g><s n="vblex"/></r> 
@@ -30506,10 +30553,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>errefusatu<s n="vblex"/></l> 
         <r>dismiss<s n="vblex"/></r> 
@@ -30792,10 +30839,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erreklamazioa<b/>egin<s n="vblex"/></l> 
         <r>claim<s n="vblex"/></r> 
@@ -30935,10 +30982,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>errepikatu<s n="vblex"/></l> 
         <r>echo<s n="vblex"/></r> 
@@ -31144,10 +31191,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erretiratu<s n="vblex"/></l> 
         <r>recall<s n="vblex"/></r> 
@@ -31386,10 +31433,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>errodatu<s n="vblex"/></l> 
         <r>roll<s n="vblex"/></r> 
@@ -31892,10 +31939,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="reflexivo: sentarse">
+    <e r="RL" c="reflexivo: sentarse">
       <p>
         <l>eseri<s n="vblex"/></l> 
         <r>sit<s n="vblex"/></r> 
@@ -31903,10 +31950,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="reflexivo: sentarse">
+    <e r="RL" c="reflexivo: sentarse">
       <p>
         <l>eseri<s n="vblex"/></l> 
         <r>sit<g><b/>down</g><s n="vblex"/></r> 
@@ -32002,10 +32049,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskaini<s n="vblex"/></l> 
         <r>dedicate<s n="vblex"/></r> 
@@ -32134,10 +32181,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskatu<s n="vblex"/></l> 
         <r>ask<g><b/>for</g><s n="vblex"/></r> 
@@ -32145,10 +32192,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskatu<s n="vblex"/></l> 
         <r>call<g><b/>for</g><s n="vblex"/></r> 
@@ -32156,10 +32203,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskatu<s n="vblex"/></l> 
         <r>request<s n="vblex"/></r> 
@@ -32189,10 +32236,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskatu<s n="vblex"/></l> 
         <r>apply<g><b/>for</g><s n="vblex"/></r> 
@@ -32200,10 +32247,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskatu<s n="vblex"/></l> 
         <r>solicit<s n="vblex"/></r> 
@@ -32387,10 +32434,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>esku<b/>hartu<s n="vblex"/></l> 
         <r>intervene<s n="vblex"/></r> 
@@ -32585,10 +32632,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskura<s n="adv"/></l> 
         <r>at<b/>hand<s n="adv"/></r> 
@@ -32596,10 +32643,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskura<s n="adv"/></l> 
         <r>by<b/>hand<s n="adv"/></r> 
@@ -32607,10 +32654,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskura<s n="adv"/></l> 
         <r>close<b/>at<b/>hand<s n="adv"/></r> 
@@ -32618,10 +32665,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskura<s n="adv"/></l> 
         <r>in<b/>hand<s n="adv"/></r> 
@@ -32629,10 +32676,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskura<s n="adv"/></l> 
         <r>longhand<s n="adv"/></r> 
@@ -32651,10 +32698,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskura<s n="adv"/></l> 
         <r>on<b/>hand<s n="adv"/></r> 
@@ -32662,10 +32709,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskura<s n="adv"/></l> 
         <r>up<b/>for<b/>grabs<s n="adv"/></r> 
@@ -32695,10 +32742,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskuratu<s n="vblex"/></l> 
         <r>get<g><b/>hold<b/>of</g><s n="vblex"/></r> 
@@ -32761,10 +32808,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskuz<s n="adv"/></l> 
         <r>at<b/>hand<s n="adv"/></r> 
@@ -32772,10 +32819,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskuz<s n="adv"/></l> 
         <r>by<b/>hand<s n="adv"/></r> 
@@ -32783,10 +32830,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskuz<s n="adv"/></l> 
         <r>close<b/>at<b/>hand<s n="adv"/></r> 
@@ -32794,10 +32841,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskuz<s n="adv"/></l> 
         <r>in<b/>hand<s n="adv"/></r> 
@@ -32805,10 +32852,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskuz<s n="adv"/></l> 
         <r>longhand<s n="adv"/></r> 
@@ -32827,10 +32874,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskuz<s n="adv"/></l> 
         <r>on<b/>hand<s n="adv"/></r> 
@@ -32838,10 +32885,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eskuz<s n="adv"/></l> 
         <r>up<b/>for<b/>grabs<s n="adv"/></r> 
@@ -32882,10 +32929,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="despertar el interés de alguien">
+    <e r="RL" c="despertar el interés de alguien">
       <p>
         <l>esnatu<s n="vblex"/></l> 
         <r>arouse<s n="vblex"/></r> 
@@ -32893,10 +32940,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>esnatu<s n="vblex"/></l> 
         <r>awaken<s n="vblex"/></r> 
@@ -32904,10 +32951,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>esnatu<s n="vblex"/></l> 
         <r>awake<s n="vblex"/></r> 
@@ -32915,10 +32962,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>esnatu<s n="vblex"/></l> 
         <r>wake<s n="vblex"/></r> 
@@ -33729,10 +33776,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>estutu<s n="vblex"/></l> 
         <r>thrust<s n="vblex"/></r> 
@@ -33850,10 +33897,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eten<s n="vblex"/></l> 
         <r>smash<s n="vblex"/></r> 
@@ -34202,10 +34249,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>euria<b/>ari<b/>edun<s n="vblex"/></l> 
         <r>shower<s n="vblex"/></r> 
@@ -34334,10 +34381,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>eutsi<s n="vblex"/></l> 
         <r>bear<s n="vblex"/></r> 
@@ -34356,10 +34403,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="(transitiu)">
+    <e r="RL" c="(transitiu)">
       <p>
         <l>eutsi<s n="vblex"/></l> 
         <r>stand<s n="vblex"/></r> 
@@ -34466,10 +34513,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="MG: davant d'un nom (la no col·laboració : non-collaboration)">
+    <e r="RL" c="MG: davant d'un nom (la no col·laboració : non-collaboration)">
       <p>
         <l>ez<s n="adv"/></l> 
         <r>non<s n="adv"/></r> 
@@ -34477,10 +34524,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="MG: Després d'un verb (lèxic, modal, do, have)">
+    <e r="RL" c="MG: Després d'un verb (lèxic, modal, do, have)">
       <p>
         <l>ez<s n="adv"/></l> 
         <r>not<s n="adv"/></r> 
@@ -34576,10 +34623,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ezagutarazi<s n="vblex"/></l> 
         <r>disclose<s n="vblex"/></r> 
@@ -34620,10 +34667,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ezagutu<s n="vblex"/></l> 
         <r>meet<s n="vblex"/></r> 
@@ -34906,10 +34953,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ezin<b/>hobeki<s n="adv"/></l> 
         <r>flawlessly<s n="adv"/></r> 
@@ -35214,10 +35261,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ezkutatu<s n="vblex"/></l> 
         <r>obscure<s n="vblex"/></r> 
@@ -35225,10 +35272,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ezkutatu<s n="vblex"/></l> 
         <r>secrete<s n="vblex"/></r> 
@@ -35302,10 +35349,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="frases negatives">
+    <e r="RL" c="frases negatives">
       <p>
         <l>ezta<b/>ere<s n="adv"/></l> 
         <r>either<s n="adv"/></r> 
@@ -35372,6 +35419,17 @@
       vblex
     -->
     <e>
+      <p>
+        <l>eztabaidatu<s n="vblex"/></l> 
+        <r>debate<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
       <p>
         <l>eztabaidatu<s n="vblex"/></l> 
         <r>debate<s n="vblex"/></r> 
@@ -35830,10 +35888,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>fidatu<s n="vblex"/></l> 
         <r>entrust<s n="vblex"/></r> 
@@ -35841,10 +35899,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>fidatu<s n="vblex"/></l> 
         <r>rely<s n="vblex"/></r> 
@@ -36050,10 +36108,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>finantzatu<s n="vblex"/></l> 
         <r>finance<s n="vblex"/></r> 
@@ -36083,10 +36141,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="fijar la hora">
+    <e r="RL" c="fijar la hora">
       <p>
         <l>finkatu<s n="vblex"/></l> 
         <r>appoint<s n="vblex"/></r> 
@@ -36611,10 +36669,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>franko<s n="adv"/></l> 
         <r>awfully<s n="adv"/></r> 
@@ -36622,10 +36680,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>franko<s n="adv"/></l> 
         <r>dearly<s n="adv"/></r> 
@@ -36633,10 +36691,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>franko<s n="adv"/></l> 
         <r>greatly<s n="adv"/></r> 
@@ -36644,10 +36702,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>franko<s n="adv"/></l> 
         <r>hugely<s n="adv"/></r> 
@@ -36655,10 +36713,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>franko<s n="adv"/></l> 
         <r>much<s n="adv"/></r> 
@@ -36666,10 +36724,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>franko<s n="adv"/></l> 
         <r>very<b/>much<s n="adv"/></r> 
@@ -36798,10 +36856,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>frogatu<s n="vblex"/></l> 
         <r>demonstrate<s n="vblex"/></r> 
@@ -36996,10 +37054,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>funtzionatu<s n="vblex"/></l> 
         <r>function<s n="vblex"/></r> 
@@ -37007,10 +37065,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>funtzionatu<s n="vblex"/></l> 
         <r>operate<s n="vblex"/></r> 
@@ -37018,10 +37076,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>funtzionatu<s n="vblex"/></l> 
         <r>run<s n="vblex"/></r> 
@@ -37117,10 +37175,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gabe<s n="post"/></l> 
         <r>with<b/>no<s n="pr"/></r> 
@@ -37315,10 +37373,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainditu<s n="vblex"/></l> 
         <r>exceed<s n="vblex"/></r> 
@@ -37414,10 +37472,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/></l> 
         <r>additionally<s n="adv"/></r> 
@@ -37436,10 +37494,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/></l> 
         <r>furthermore<s n="adv"/></r> 
@@ -37447,10 +37505,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/></l> 
         <r>in<b/>addition<s n="adv"/></r> 
@@ -37458,10 +37516,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/></l> 
         <r>into<b/>the<b/>bargain<s n="adv"/></r> 
@@ -37469,10 +37527,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/></l> 
         <r>moreover<s n="adv"/></r> 
@@ -37480,10 +37538,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/></l> 
         <r>there<b/>again<s n="adv"/></r> 
@@ -37645,10 +37703,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gaitzetsi<s n="vblex"/></l> 
         <r>convict<s n="vblex"/></r> 
@@ -37733,10 +37791,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gaizki<s n="adv"/></l> 
         <r>wrong<s n="adv"/></r> 
@@ -37810,10 +37868,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>galarazi<s n="vblex"/></l> 
         <r>preclude<s n="vblex"/></r> 
@@ -38492,10 +38550,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>garraiatu<s n="vblex"/></l> 
         <r>convey<s n="vblex"/></r> 
@@ -38723,10 +38781,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>garrasi<b/>egin<s n="vblex"/></l> 
         <r>cry<s n="vblex"/></r> 
@@ -38932,10 +38990,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gatik<s n="post"/></l> 
         <r>per<s n="pr"/></r> 
@@ -39240,10 +39298,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehiago<s n="adv"/></l> 
         <r>any<b/>more<s n="adv"/></r> 
@@ -39251,10 +39309,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehiago<s n="adv"/></l> 
         <r>best<s n="adv"/></r> 
@@ -39262,10 +39320,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehiago<s n="adv"/></l> 
         <r>else<s n="adv"/></r> 
@@ -39284,10 +39342,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="per al superlatiu: the most interesting - el més interessant, i tb adv normal - what I like most">
+    <e r="RL" c="per al superlatiu: the most interesting - el més interessant, i tb adv normal - what I like most">
       <p>
         <l>gehiago<s n="adv"/></l> 
         <r>most<s n="adv"/></r> 
@@ -39394,10 +39452,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehien<s n="adv"/></l> 
         <r>any<b/>more<s n="adv"/></r> 
@@ -39405,10 +39463,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehien<s n="adv"/></l> 
         <r>best<s n="adv"/></r> 
@@ -39416,10 +39474,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehien<s n="adv"/></l> 
         <r>else<s n="adv"/></r> 
@@ -39438,10 +39496,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="per al superlatiu: the most interesting - el més interessant, i tb adv normal - what I like most">
+    <e r="RL" c="per al superlatiu: the most interesting - el més interessant, i tb adv normal - what I like most">
       <p>
         <l>gehien<s n="adv"/></l> 
         <r>most<s n="adv"/></r> 
@@ -39504,10 +39562,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehitu<s n="vblex"/></l> 
         <r>boost<s n="vblex"/></r> 
@@ -39526,10 +39584,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehitu<s n="vblex"/></l> 
         <r>raise<s n="vblex"/></r> 
@@ -39537,10 +39595,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gehitu<s n="vblex"/></l> 
         <r>rise<s n="vblex"/></r> 
@@ -39636,10 +39694,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gelditu<s n="vblex"/></l> 
         <r>halt<s n="vblex"/></r> 
@@ -39647,10 +39705,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gelditu<s n="vblex"/></l> 
         <r>pause<s n="vblex"/></r> 
@@ -39669,10 +39727,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gelditu<s n="vblex"/></l> 
         <r>stall<s n="vblex"/></r> 
@@ -39889,10 +39947,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gero<s n="adv"/></l> 
         <r>after<s n="adv"/></r> 
@@ -39911,10 +39969,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gero<s n="adv"/></l> 
         <r>thereafter<s n="adv"/></r> 
@@ -40186,10 +40244,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gertu<s n="adv"/></l> 
         <r>near<b/>here<s n="adv"/></r> 
@@ -40318,10 +40376,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>giltzaperatu<s n="vblex"/></l> 
         <r>enclose<s n="vblex"/></r> 
@@ -40659,10 +40717,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gobernatu<s n="vblex"/></l> 
         <r>rule<s n="vblex"/></r> 
@@ -40758,10 +40816,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gogoan<b/>hartu<s n="vblex"/></l> 
         <r>regard<s n="vblex"/></r> 
@@ -40769,10 +40827,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gogoan<b/>hartu<s n="vblex"/></l> 
         <r>reckon<s n="vblex"/></r> 
@@ -40923,10 +40981,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gogoratu<s n="vblex"/></l> 
         <r>recall<s n="vblex"/></r> 
@@ -41374,10 +41432,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gorde<s n="vblex"/></l> 
         <r>book<s n="vblex"/></r> 
@@ -42056,10 +42114,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gurutzatu<s n="vblex"/></l> 
         <r>intersect<s n="vblex"/></r> 
@@ -42089,10 +42147,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="MG: potser eliminar marca de polisèmia i fer-ho pel transfer? (I enjoy + ing)">
+    <e r="RL" c="MG: potser eliminar marca de polisèmia i fer-ho pel transfer? (I enjoy + ing)">
       <p>
         <l>gustatu<s n="vblex"/></l> 
         <r>enjoy<s n="vblex"/></r> 
@@ -42100,10 +42158,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gustatu<s n="vblex"/></l> 
         <r>fancy<s n="vblex"/></r> 
@@ -42232,6 +42290,17 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
+      <p>
+        <l>gutxi<s n="adv"/></l> 
+        <r>little<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       adv
     -->
@@ -42276,10 +42345,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="per al superlatiu: the least interesting - el menys interessant, i tb adv normal - what I like least">
+    <e r="RL" c="per al superlatiu: the least interesting - el menys interessant, i tb adv normal - what I like least">
       <p>
         <l>gutxiago<s n="adv"/></l> 
         <r>least<s n="adv"/></r> 
@@ -42408,10 +42477,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>the<b/>skin<b/>of<b/>one's<b/>teeth<s n="adv"/></r> 
@@ -42419,10 +42488,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>the<b/>skin<b/>of<b/>my<b/>teeth<s n="adv"/></r> 
@@ -42430,10 +42499,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>the<b/>skin<b/>of<b/>your<b/>teeth<s n="adv"/></r> 
@@ -42441,10 +42510,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>the<b/>skin<b/>of<b/>his<b/>teeth<s n="adv"/></r> 
@@ -42452,10 +42521,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>the<b/>skin<b/>of<b/>her<b/>teeth<s n="adv"/></r> 
@@ -42463,10 +42532,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>the<b/>skin<b/>of<b/>its<b/>teeth<s n="adv"/></r> 
@@ -42474,10 +42543,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>the<b/>skin<b/>of<b/>our<b/>teeth<s n="adv"/></r> 
@@ -42485,10 +42554,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>the<b/>skin<b/>of<b/>their<b/>teeth<s n="adv"/></r> 
@@ -42496,10 +42565,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gutxigatik<s n="adv"/></l> 
         <r>by<b/>a<b/>whisker<s n="adv"/></r> 
@@ -42540,10 +42609,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>guztiz<s n="adv"/></l> 
         <r>all<b/>the<b/>way<s n="adv"/></r> 
@@ -42551,10 +42620,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>guztiz<s n="adv"/></l> 
         <r>completely<s n="adv"/></r> 
@@ -42573,10 +42642,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>guztiz<s n="adv"/></l> 
         <r>right<b/>through<s n="adv"/></r> 
@@ -42584,10 +42653,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>guztiz<s n="adv"/></l> 
         <r>straight<b/>through<s n="adv"/></r> 
@@ -42595,10 +42664,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>guztiz<s n="adv"/></l> 
         <r>to<b/>capacity<s n="adv"/></r> 
@@ -42606,10 +42675,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>guztiz<s n="adv"/></l> 
         <r>to<b/>the<b/>ground<s n="adv"/></r> 
@@ -42617,10 +42686,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>guztiz<s n="adv"/></l> 
         <r>wholly<s n="adv"/></r> 
@@ -42859,10 +42928,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hala<s n="adv"/></l> 
         <r>thereby<s n="adv"/></r> 
@@ -42870,13 +42939,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hala<s n="adv"/></l> 
         <r>thus<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
+      <p>
+        <l>hala<b/>ere<s n="adv"/></l> 
+        <r>however<s n="adv"/></r> 
       </p>
     </e>
 
@@ -42892,10 +42972,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hala<b/>ere<s n="adv"/></l> 
         <r>though<s n="adv"/></r> 
@@ -43068,10 +43148,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>han<s n="adv"/></l> 
         <r>out<b/>there<s n="adv"/></r> 
@@ -43079,10 +43159,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>han<s n="adv"/></l> 
         <r>over<b/>there<s n="adv"/></r> 
@@ -43233,10 +43313,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>handitu<s n="vblex"/></l> 
         <r>get<g><b/>bigger</g><s n="vblex"/></r> 
@@ -43244,10 +43324,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>handitu<s n="vblex"/></l> 
         <r>boost<s n="vblex"/></r> 
@@ -43266,10 +43346,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>handitu<s n="vblex"/></l> 
         <r>raise<s n="vblex"/></r> 
@@ -43277,10 +43357,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>handitu<s n="vblex"/></l> 
         <r>rise<s n="vblex"/></r> 
@@ -43332,10 +43412,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hara<s n="adv"/></l> 
         <r>out<b/>there<s n="adv"/></r> 
@@ -43343,10 +43423,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hara<s n="adv"/></l> 
         <r>over<b/>there<s n="adv"/></r> 
@@ -43387,10 +43467,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>harantzago<s n="adv"/></l> 
         <r>beyond<s n="adv"/></r> 
@@ -43717,10 +43797,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hartu<s n="vblex"/></l> 
         <r>catch<s n="vblex"/></r> 
@@ -43728,10 +43808,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="(a taxi, the flu)">
+    <e r="RL" c="(a taxi, the flu)">
       <p>
         <l>hartu<s n="vblex"/></l> 
         <r>get<s n="vblex"/></r> 
@@ -43739,10 +43819,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hartu<s n="vblex"/></l> 
         <r>grasp<s n="vblex"/></r> 
@@ -43750,10 +43830,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hartu<s n="vblex"/></l> 
         <r>pick<g><b/>up</g><s n="vblex"/></r> 
@@ -43761,10 +43841,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hartu<s n="vblex"/></l> 
         <r>reach<g><b/>for</g><s n="vblex"/></r> 
@@ -43772,10 +43852,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hartu<s n="vblex"/></l> 
         <r>seize<s n="vblex"/></r> 
@@ -43915,10 +43995,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hasi<s n="vblex"/></l> 
         <r>commence<s n="vblex"/></r> 
@@ -43937,10 +44017,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hasi<s n="vblex"/></l> 
         <r>start<s n="vblex"/></r> 
@@ -43948,10 +44028,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hasi<s n="vblex"/></l> 
         <r>get<g><b/>started</g><s n="vblex"/></r> 
@@ -43959,10 +44039,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hasi<s n="vblex"/></l> 
         <r>tackle<s n="vblex"/></r> 
@@ -44003,10 +44083,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hasi<s n="vblex"/></l> 
         <r>pioneer<s n="vblex"/></r> 
@@ -44322,10 +44402,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hautatu<s n="vblex"/></l> 
         <r>elect<s n="vblex"/></r> 
@@ -44333,10 +44413,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hautatu<s n="vblex"/></l> 
         <r>pick<s n="vblex"/></r> 
@@ -44421,10 +44501,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hautetsi<s n="vblex"/></l> 
         <r>elect<s n="vblex"/></r> 
@@ -44432,10 +44512,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hautetsi<s n="vblex"/></l> 
         <r>pick<s n="vblex"/></r> 
@@ -44476,10 +44556,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hautsi<s n="vblex"/></l> 
         <r>smash<s n="vblex"/></r> 
@@ -44531,10 +44611,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hazi<s n="vblex"/></l> 
         <r>get<g><b/>bigger</g><s n="vblex"/></r> 
@@ -44641,10 +44721,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hedatu<s n="vblex"/></l> 
         <r>spread<s n="vblex"/></r> 
@@ -44652,10 +44732,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hedatu<s n="vblex"/></l> 
         <r>stretch<s n="vblex"/></r> 
@@ -44729,10 +44809,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hegan<b/>egin<s n="vblex"/></l> 
         <r>blast<s n="vblex"/></r> 
@@ -45092,10 +45172,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hemen<s n="adv"/></l> 
         <r>up<b/>to<b/>here<s n="adv"/></r> 
@@ -45114,10 +45194,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hemen<s n="adv"/></l> 
         <r>over<b/>here<s n="adv"/></r> 
@@ -45136,10 +45216,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hemendik<b/>aurrera<s n="adv"/></l> 
         <r>henceforth<s n="adv"/></r> 
@@ -45147,10 +45227,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hemendik<b/>aurrera<s n="adv"/></l> 
         <r>henceforward<s n="adv"/></r> 
@@ -45158,10 +45238,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hemendik<b/>aurrera<s n="adv"/></l> 
         <r>hereafter<s n="adv"/></r> 
@@ -45169,10 +45249,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hemendik<b/>aurrera<s n="adv"/></l> 
         <r>hereby<s n="adv"/></r> 
@@ -45180,10 +45260,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hemendik<b/>aurrera<s n="adv"/></l> 
         <r>hereinafter<s n="adv"/></r> 
@@ -45191,10 +45271,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hementxe<s n="adv"/></l> 
         <r>just<b/>here<s n="adv"/></r> 
@@ -45290,10 +45370,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>herenegun<b/>gauean<s n="adv"/></l> 
         <r>the<b/>evening<b/>before<b/>last<s n="adv"/></r> 
@@ -45752,6 +45832,17 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
+      <p>
+        <l>hil<s n="vblex"/></l> 
+        <r>die<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       nom-1
     -->
@@ -46104,10 +46195,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hitz<b/>egin<s n="vblex"/></l> 
         <r>discuss<s n="vblex"/></r> 
@@ -46126,10 +46217,21 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
+      <p>
+        <l>hitz<b/>egin<s n="vblex"/></l> 
+        <r>speak<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
       <p>
         <l>hitz<b/>egin<s n="vblex"/></l> 
         <r>talk<s n="vblex"/></r> 
@@ -46291,10 +46393,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hobera<b/>egin<s n="vblex"/></l> 
         <r>get<g><b/>better</g><s n="vblex"/></r> 
@@ -46313,10 +46415,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hobetu<s n="vblex"/></l> 
         <r>get<g><b/>better</g><s n="vblex"/></r> 
@@ -46401,10 +46503,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hona<s n="adv"/></l> 
         <r>over<b/>here<s n="adv"/></r> 
@@ -46533,10 +46635,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>honela<s n="adv"/></l> 
         <r>after<b/>this<b/>manner<s n="adv"/></r> 
@@ -46544,10 +46646,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>honela<s n="adv"/></l> 
         <r>in<b/>this<b/>fashion<s n="adv"/></r> 
@@ -46566,10 +46668,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>honela<s n="adv"/></l> 
         <r>this<b/>way<s n="adv"/></r> 
@@ -46647,6 +46749,17 @@
       adv
     -->
     <e c="sols singular">
+      <p>
+        <l>honenbeste<s n="adv"/></l> 
+        <r>so<b/>much<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL" c="both David and his wife - tant David com la seva dona">
       <p>
         <l>honenbeste<s n="adv"/></l> 
         <r>so<b/>much<s n="adv"/></r> 
@@ -46995,10 +47108,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hunkitu<s n="vblex"/></l> 
         <r>shock<s n="vblex"/></r> 
@@ -47061,10 +47174,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hurbil<s n="adv"/></l> 
         <r>near<b/>here<s n="adv"/></r> 
@@ -47226,10 +47339,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>i<s n="post"/></l> 
         <r>into<s n="pr"/></r> 
@@ -47237,10 +47350,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>i<s n="post"/></l> 
         <r>onto<s n="pr"/></r> 
@@ -47259,10 +47372,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>i<s n="post"/></l> 
         <r>upon<s n="pr"/></r> 
@@ -47270,10 +47383,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ia<s n="adv"/></l> 
         <r>narrowly<s n="adv"/></r> 
@@ -47468,10 +47581,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>idatzi<s n="vblex"/></l> 
         <r>type<s n="vblex"/></r> 
@@ -47688,10 +47801,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>igaro<s n="vblex"/></l> 
         <r>pass<s n="vblex"/></r> 
@@ -47853,10 +47966,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>igo<s n="vblex"/></l> 
         <r>get<g><b/>on</g><s n="vblex"/></r> 
@@ -47897,10 +48010,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>igorri<s n="vblex"/></l> 
         <r>forward<s n="vblex"/></r> 
@@ -47919,10 +48032,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>igorri<s n="vblex"/></l> 
         <r>send<g><b/>in</g><s n="vblex"/></r> 
@@ -48018,10 +48131,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ihes<b/>egin<s n="vblex"/></l> 
         <r>flee<s n="vblex"/></r> 
@@ -48117,10 +48230,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ikaratu<s n="vblex"/></l> 
         <r>frighten<s n="vblex"/></r> 
@@ -48480,10 +48593,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ikusi<s n="vblex"/></l> 
         <r>view<s n="vblex"/></r> 
@@ -48667,10 +48780,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ilea<b/>moztu<s n="vblex"/></l> 
         <r>shell<s n="vblex"/></r> 
@@ -48689,10 +48802,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>iltzatu<s n="vblex"/></l> 
         <r>pin<s n="vblex"/></r> 
@@ -48777,10 +48890,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ilundu<s n="vblex"/></l> 
         <r>get<g><b/>dark</g><s n="vblex"/></r> 
@@ -48854,10 +48967,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>imajinatu<s n="vblex"/></l> 
         <r>figure<s n="vblex"/></r> 
@@ -49382,10 +49495,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>informatu<s n="vblex"/></l> 
         <r>brief<s n="vblex"/></r> 
@@ -49404,10 +49517,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>informatu<s n="vblex"/></l> 
         <r>report<s n="vblex"/></r> 
@@ -49624,10 +49737,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="preguntes, condicional">
+    <e r="RL" c="preguntes, condicional">
       <p>
         <l>inoiz<s n="adv"/></l> 
         <r>ever<s n="adv"/></r> 
@@ -49657,10 +49770,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="preguntes, condicional">
+    <e r="RL" c="preguntes, condicional">
       <p>
         <l>inoiz<b/>ez<s n="adv"/></l> 
         <r>ever<s n="adv"/></r> 
@@ -49976,10 +50089,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>instalatu<s n="vblex"/></l> 
         <r>set<g><b/>up</g><s n="vblex"/></r> 
@@ -50229,10 +50342,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>interpretatu<s n="vblex"/></l> 
         <r>play<s n="vblex"/></r> 
@@ -50570,10 +50683,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>iragan<s n="vblex"/></l> 
         <r>pass<s n="vblex"/></r> 
@@ -51043,10 +51156,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>iritsi<s n="vblex"/></l> 
         <r>get<s n="vblex"/></r> 
@@ -51076,10 +51189,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>iritzi<s n="vblex"/></l> 
         <r>appear<s n="vblex"/></r> 
@@ -51307,6 +51420,17 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
+      <p>
+        <l>irribarre<b/>egin<s n="vblex"/></l> 
+        <r>smile<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       nom-0
     -->
@@ -51340,10 +51464,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>irrikatu<s n="vblex"/></l> 
         <r>desire<s n="vblex"/></r> 
@@ -51505,10 +51629,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>irudikatu<s n="vblex"/></l> 
         <r>figure<s n="vblex"/></r> 
@@ -51538,10 +51662,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>iruditu<s n="vblex"/></l> 
         <r>appear<s n="vblex"/></r> 
@@ -51670,10 +51794,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>isilean<s n="adv"/></l> 
         <r>under<b/>cover<s n="adv"/></r> 
@@ -51780,10 +51904,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>istant<b/>batean<s n="adv"/></l> 
         <r>in<b/>a<b/>blink<b/>of<b/>the<b/>eye<s n="adv"/></r> 
@@ -51791,10 +51915,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>istant<b/>batean<s n="adv"/></l> 
         <r>in<b/>a<b/>trice<s n="adv"/></r> 
@@ -51879,10 +52003,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>isuri<s n="vblex"/></l> 
         <r>shed<s n="vblex"/></r> 
@@ -52066,10 +52190,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>itsatsi<s n="vblex"/></l> 
         <r>punch<s n="vblex"/></r> 
@@ -52209,10 +52333,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>itxi<s n="vblex"/></l> 
         <r>lock<s n="vblex"/></r> 
@@ -52220,10 +52344,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>itxi<s n="vblex"/></l> 
         <r>shut<s n="vblex"/></r> 
@@ -52231,10 +52355,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>itxi<s n="vblex"/></l> 
         <r>shut<g><b/>down</g><s n="vblex"/></r> 
@@ -52290,6 +52414,17 @@
       vblex
     -->
     <e>
+      <p>
+        <l>itxuratu<s n="vblex"/></l> 
+        <r>configure<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
       <p>
         <l>itxuratu<s n="vblex"/></l> 
         <r>configure<s n="vblex"/></r> 
@@ -52418,6 +52553,28 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
+      <p>
+        <l>itzuli<s n="vblex"/></l> 
+        <r>return<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
+      <p>
+        <l>itzuli<s n="vblex"/></l> 
+        <r>send<g><b/>back</g><s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       vblex
     -->
@@ -52435,26 +52592,15 @@
     <e>
       <p>
         <l>itzuli<s n="vblex"/></l> 
-        <r>send<g><b/>back</g><s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      vblex
-    -->
-    <e>
-      <p>
-        <l>itzuli<s n="vblex"/></l> 
         <r>translate<s n="vblex"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>itzuli<s n="vblex"/></l> 
         <r>come<g><b/>back</g><s n="vblex"/></r> 
@@ -52473,10 +52619,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>itzuli<s n="vblex"/></l> 
         <r>get<g><b/>back</g><s n="vblex"/></r> 
@@ -52561,10 +52707,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izan<s n="vblex"/></l> 
         <r>turn<g><b/>out</g><s n="vblex"/></r> 
@@ -52583,10 +52729,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izan<b/>ere<s n="adv"/></l> 
         <r>actually<s n="adv"/></r> 
@@ -52594,10 +52740,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izan<b/>ere<s n="adv"/></l> 
         <r>as<b/>a<b/>matter<b/>of<b/>fact<s n="adv"/></r> 
@@ -52616,10 +52762,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izan<b/>ere<s n="adv"/></l> 
         <r>indeed<s n="adv"/></r> 
@@ -52693,10 +52839,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izenburua<b/>edun<s n="vblex"/></l> 
         <r>entitle<s n="vblex"/></r> 
@@ -52748,10 +52894,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izendatu<s n="vblex"/></l> 
         <r>name<s n="vblex"/></r> 
@@ -52759,10 +52905,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izendatu<s n="vblex"/></l> 
         <r>denominate<s n="vblex"/></r> 
@@ -52913,10 +53059,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izutu<s n="vblex"/></l> 
         <r>frighten<s n="vblex"/></r> 
@@ -53023,10 +53169,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="reflexivo: levantarse">
+    <e r="RL" c="reflexivo: levantarse">
       <p>
         <l>jaiki<s n="vblex"/></l> 
         <r>erect<s n="vblex"/></r> 
@@ -53144,10 +53290,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jaitsi<s n="vblex"/></l> 
         <r>drop<s n="vblex"/></r> 
@@ -53166,10 +53312,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jaitsi<s n="vblex"/></l> 
         <r>lower<s n="vblex"/></r> 
@@ -53177,10 +53323,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jaitsi<s n="vblex"/></l> 
         <r>bring<g><b/>down</g><s n="vblex"/></r> 
@@ -53188,10 +53334,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jaitsi<s n="vblex"/></l> 
         <r>get<g><b/>down</g><s n="vblex"/></r> 
@@ -53375,10 +53521,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jan<s n="vblex"/></l> 
         <r>lunch<s n="vblex"/></r> 
@@ -53529,10 +53675,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarraiki<s n="vblex"/></l> 
         <r>track<s n="vblex"/></r> 
@@ -53584,10 +53730,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarraitu<s n="vblex"/></l> 
         <r>go<g><b/>on</g><s n="vblex"/></r> 
@@ -53595,10 +53741,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="keep + ger (keep doing...) -> transfer?. En direcció ca-en tb s'hauria de detectar la construcció amb gerundi">
+    <e r="RL" c="keep + ger (keep doing...) -> transfer?. En direcció ca-en tb s'hauria de detectar la construcció amb gerundi">
       <p>
         <l>jarraitu<s n="vblex"/></l> 
         <r>keep<s n="vblex"/></r> 
@@ -53606,10 +53752,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarraitu<s n="vblex"/></l> 
         <r>keep<g><b/>on</g><s n="vblex"/></r> 
@@ -53628,10 +53774,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarraitu<s n="vblex"/></l> 
         <r>track<s n="vblex"/></r> 
@@ -53738,10 +53884,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarri<s n="vblex"/></l> 
         <r>enforce<s n="vblex"/></r> 
@@ -53749,10 +53895,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarri<s n="vblex"/></l> 
         <r>dispose<s n="vblex"/></r> 
@@ -53771,10 +53917,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarri<s n="vblex"/></l> 
         <r>position<s n="vblex"/></r> 
@@ -53782,10 +53928,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarri<s n="vblex"/></l> 
         <r>lay<s n="vblex"/></r> 
@@ -53804,10 +53950,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarri<s n="vblex"/></l> 
         <r>set<s n="vblex"/></r> 
@@ -53826,10 +53972,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarri<s n="vblex"/></l> 
         <r>sit<s n="vblex"/></r> 
@@ -53837,10 +53983,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jarri<s n="vblex"/></l> 
         <r>sit<g><b/>down</g><s n="vblex"/></r> 
@@ -53881,10 +54027,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jaso<s n="vblex"/></l> 
         <r>pick<s n="vblex"/></r> 
@@ -54024,10 +54170,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jaurti<s n="vblex"/></l> 
         <r>cast<s n="vblex"/></r> 
@@ -54046,10 +54192,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jaurti<s n="vblex"/></l> 
         <r>sling<s n="vblex"/></r> 
@@ -54101,10 +54247,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jauzi<b/>egin<s n="vblex"/></l> 
         <r>leap<s n="vblex"/></r> 
@@ -54112,10 +54258,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jauzi<b/>egin<s n="vblex"/></l> 
         <r>spring<s n="vblex"/></r> 
@@ -54167,10 +54313,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="Mil.">
+    <e r="RL" c="Mil.">
       <p>
         <l>jazarri<s n="vblex"/></l> 
         <r>strike<s n="vblex"/></r> 
@@ -54178,10 +54324,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jazarri<s n="vblex"/></l> 
         <r>blast<s n="vblex"/></r> 
@@ -54321,10 +54467,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jo<s n="vblex"/></l> 
         <r>bang<s n="vblex"/></r> 
@@ -54332,10 +54478,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>jo<s n="vblex"/></l> 
         <r>knock<s n="vblex"/></r> 
@@ -54420,10 +54566,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>joan<s n="vblex"/></l> 
         <r>get<g><b/>along</g><s n="vblex"/></r> 
@@ -54431,10 +54577,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>joan<s n="vblex"/></l> 
         <r>get<g><b/>off</g><s n="vblex"/></r> 
@@ -54838,10 +54984,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="MG: 'he was just leaving'">
+    <e r="RL" c="MG: 'he was just leaving'">
       <p>
         <l>justu<s n="adv"/></l> 
         <r>just<s n="adv"/></r> 
@@ -55047,10 +55193,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kalifikatu<s n="vblex"/></l> 
         <r>zone<s n="vblex"/></r> 
@@ -55113,10 +55259,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kalkulatu<s n="vblex"/></l> 
         <r>reckon<s n="vblex"/></r> 
@@ -55421,10 +55567,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kanpoan<s n="adv"/></l> 
         <r>away<s n="adv"/></r> 
@@ -55432,10 +55578,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kanpoan<s n="adv"/></l> 
         <r>off<s n="adv"/></r> 
@@ -55450,6 +55596,17 @@
       <p>
         <l>kanpoan<s n="adv"/></l> 
         <r>out<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
+      <p>
+        <l>kanpoan<s n="adv"/></l> 
+        <r>outside<s n="adv"/></r> 
       </p>
     </e>
 
@@ -55509,10 +55666,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kanpora<s n="adv"/></l> 
         <r>away<s n="adv"/></r> 
@@ -55520,10 +55677,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kanpora<s n="adv"/></l> 
         <r>off<s n="adv"/></r> 
@@ -55542,10 +55699,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kanpora<s n="adv"/></l> 
         <r>outside<s n="adv"/></r> 
@@ -56422,10 +56579,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kendu<s n="vblex"/></l> 
         <r>pull<g><b/>out</g><s n="vblex"/></r> 
@@ -56433,10 +56590,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kendu<s n="vblex"/></l> 
         <r>remove<s n="vblex"/></r> 
@@ -56444,10 +56601,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kendu<s n="vblex"/></l> 
         <r>take<g><b/>away</g><s n="vblex"/></r> 
@@ -56455,10 +56612,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kendu<s n="vblex"/></l> 
         <r>take<g><b/>off</g><s n="vblex"/></r> 
@@ -56928,10 +57085,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e c="MG: He fell off his chair">
+    <e r="RL" c="MG: He fell off his chair">
       <p>
         <l>ko<s n="post"/></l> 
         <r>off<s n="pr"/></r> 
@@ -57170,10 +57327,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kokatu<s n="vblex"/></l> 
         <r>set<g><b/>up</g><s n="vblex"/></r> 
@@ -57555,10 +57712,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>komunikatu<s n="vblex"/></l> 
         <r>get<g><b/>across</g><s n="vblex"/></r> 
@@ -57731,10 +57888,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kondenatu<s n="vblex"/></l> 
         <r>convict<s n="vblex"/></r> 
@@ -57929,10 +58086,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>konplitu<s n="vblex"/></l> 
         <r>accomplish<s n="vblex"/></r> 
@@ -57951,10 +58108,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="(requirements, deures)">
+    <e r="RL" c="(requirements, deures)">
       <p>
         <l>konplitu<s n="vblex"/></l> 
         <r>meet<s n="vblex"/></r> 
@@ -57984,10 +58141,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>konpondu<s n="vblex"/></l> 
         <r>arrange<s n="vblex"/></r> 
@@ -58336,10 +58493,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kontratatu<s n="vblex"/></l> 
         <r>hire<g><b/>out</g><s n="vblex"/></r> 
@@ -58457,10 +58614,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kontrolatu<s n="vblex"/></l> 
         <r>monitor<s n="vblex"/></r> 
@@ -59095,10 +59252,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>korrika<b/>egin<s n="vblex"/></l> 
         <r>race<s n="vblex"/></r> 
@@ -59117,10 +59274,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>korritu<s n="vblex"/></l> 
         <r>race<s n="vblex"/></r> 
@@ -59634,10 +59791,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kulunkatu<s n="vblex"/></l> 
         <r>sway<s n="vblex"/></r> 
@@ -59887,10 +60044,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>labur<s n="adv"/></l> 
         <r>briefly<s n="adv"/></r> 
@@ -59931,10 +60088,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>laga<s n="vblex"/></l> 
         <r>allow<s n="vblex"/></r> 
@@ -60437,10 +60594,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>landu<s n="vblex"/></l> 
         <r>farm<s n="vblex"/></r> 
@@ -60448,10 +60605,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>landu<s n="vblex"/></l> 
         <r>grow<s n="vblex"/></r> 
@@ -60921,10 +61078,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>laster<b/>arte<s n="adv"/></l> 
         <r>as<b/>yet<s n="adv"/></r> 
@@ -60932,10 +61089,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>laster<b/>arte<s n="adv"/></l> 
         <r>heretofore<s n="adv"/></r> 
@@ -60943,10 +61100,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>laster<b/>arte<s n="adv"/></l> 
         <r>to<b/>this<b/>very<b/>day<s n="adv"/></r> 
@@ -60954,10 +61111,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>laster<b/>arte<s n="adv"/></l> 
         <r>up<b/>till<b/>now<s n="adv"/></r> 
@@ -60976,10 +61133,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>laster<b/>arte<s n="adv"/></l> 
         <r>up<b/>to<b/>the<b/>present<s n="adv"/></r> 
@@ -60987,10 +61144,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>laster<b/>arte<s n="adv"/></l> 
         <r>up<b/>until<b/>now<s n="adv"/></r> 
@@ -61416,10 +61573,21 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
+      <p>
+        <l>lehen<s n="adv"/></l> 
+        <r>first<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
       <p>
         <l>lehen<s n="adv"/></l> 
         <r>first<b/>and<b/>foremost<s n="adv"/></r> 
@@ -61427,10 +61595,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>lehen<s n="adv"/></l> 
         <r>firstly<s n="adv"/></r> 
@@ -61486,6 +61654,17 @@
       adv
     -->
     <e>
+      <p>
+        <l>lehendabizi<s n="adv"/></l> 
+        <r>first<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
       <p>
         <l>lehendabizi<s n="adv"/></l> 
         <r>first<s n="adv"/></r> 
@@ -61559,6 +61738,17 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
+      <p>
+        <l>lehenengo<s n="adv"/></l> 
+        <r>first<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       vblex
     -->
@@ -61570,10 +61760,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>leheneratu<s n="vblex"/></l> 
         <r>recuperate<s n="vblex"/></r> 
@@ -61581,10 +61771,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>leheneratu<s n="vblex"/></l> 
         <r>retrieve<s n="vblex"/></r> 
@@ -61640,6 +61830,17 @@
       adv
     -->
     <e>
+      <p>
+        <l>lehenik<s n="adv"/></l> 
+        <r>first<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
       <p>
         <l>lehenik<s n="adv"/></l> 
         <r>first<s n="adv"/></r> 
@@ -61988,10 +62189,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>leporatu<s n="vblex"/></l> 
         <r>burden<s n="vblex"/></r> 
@@ -62032,10 +62233,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>lerrokatu<s n="vblex"/></l> 
         <r>line<g><b/>up</g><s n="vblex"/></r> 
@@ -62109,10 +62310,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>leundu<s n="vblex"/></l> 
         <r>smooth<s n="vblex"/></r> 
@@ -62164,10 +62365,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="liberar presos">
+    <e r="RL" c="liberar presos">
       <p>
         <l>liberatu<s n="vblex"/></l> 
         <r>discharge<s n="vblex"/></r> 
@@ -62186,10 +62387,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>liberatu<s n="vblex"/></l> 
         <r>release<s n="vblex"/></r> 
@@ -62824,10 +63025,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>lortu<s n="vblex"/></l> 
         <r>get<g><b/>hold<b/>of</g><s n="vblex"/></r> 
@@ -62857,10 +63058,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>lortu<s n="vblex"/></l> 
         <r>reach<s n="vblex"/></r> 
@@ -62868,10 +63069,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>lortu<s n="vblex"/></l> 
         <r>gain<s n="vblex"/></r> 
@@ -62978,10 +63179,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>lotu<s n="vblex"/></l> 
         <r>bind<s n="vblex"/></r> 
@@ -64045,10 +64246,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>margotu<s n="vblex"/></l> 
         <r>colour<s n="vblex"/></r> 
@@ -65266,10 +65467,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>miatu<s n="vblex"/></l> 
         <r>scour<s n="vblex"/></r> 
@@ -65552,10 +65753,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>min<b/>egin<s n="vblex"/></l> 
         <r>harm<s n="vblex"/></r> 
@@ -65739,10 +65940,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>mintzatu<s n="vblex"/></l> 
         <r>discuss<s n="vblex"/></r> 
@@ -65761,10 +65962,21 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
+      <p>
+        <l>mintzatu<s n="vblex"/></l> 
+        <r>speak<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
       <p>
         <l>mintzatu<s n="vblex"/></l> 
         <r>talk<s n="vblex"/></r> 
@@ -66135,10 +66347,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>moldatu<s n="vblex"/></l> 
         <r>suit<s n="vblex"/></r> 
@@ -66168,10 +66380,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>molestatu<s n="vblex"/></l> 
         <r>annoy<s n="vblex"/></r> 
@@ -66509,10 +66721,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>moztu<s n="vblex"/></l> 
         <r>discontinue<s n="vblex"/></r> 
@@ -66619,10 +66831,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="limutar o restringir">
+    <e r="RL" c="limutar o restringir">
       <p>
         <l>mugatu<s n="vblex"/></l> 
         <r>confine<s n="vblex"/></r> 
@@ -66696,10 +66908,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>mugitu<s n="vblex"/></l> 
         <r>shift<s n="vblex"/></r> 
@@ -67180,10 +67392,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>muzin<b/>egin<s n="vblex"/></l> 
         <r>dismiss<s n="vblex"/></r> 
@@ -67477,10 +67689,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>nagusiki<s n="adv"/></l> 
         <r>chiefly<s n="adv"/></r> 
@@ -67499,10 +67711,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>nagusiki<s n="adv"/></l> 
         <r>primarily<s n="adv"/></r> 
@@ -67510,10 +67722,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>nagusiki<s n="adv"/></l> 
         <r>principally<s n="adv"/></r> 
@@ -67664,10 +67876,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>nahi<b/>izan<s n="vblex"/></l> 
         <r>intend<s n="vblex"/></r> 
@@ -67741,10 +67953,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>nahiko<s n="adv"/></l> 
         <r>rather<s n="adv"/></r> 
@@ -68060,10 +68272,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>negar<b/>egin<s n="vblex"/></l> 
         <r>weep<s n="vblex"/></r> 
@@ -68775,10 +68987,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizbehinka<s n="adv"/></l> 
         <r>once<b/>in<b/>a<b/>while<s n="adv"/></r> 
@@ -68786,10 +68998,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizbehinka<s n="adv"/></l> 
         <r>every<b/>now<b/>and<b/>then<s n="adv"/></r> 
@@ -68797,10 +69009,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizbehinka<s n="adv"/></l> 
         <r>every<b/>so<b/>often<s n="adv"/></r> 
@@ -68808,10 +69020,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizbehinka<s n="adv"/></l> 
         <r>now<b/>and<b/>again<s n="adv"/></r> 
@@ -68819,10 +69031,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizbehinka<s n="adv"/></l> 
         <r>now<b/>and<b/>then<s n="adv"/></r> 
@@ -68830,10 +69042,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizbehinka<s n="adv"/></l> 
         <r>on<b/>occasion<s n="adv"/></r> 
@@ -68863,10 +69075,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizean<b/>behin<s n="adv"/></l> 
         <r>once<b/>in<b/>a<b/>while<s n="adv"/></r> 
@@ -68874,10 +69086,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizean<b/>behin<s n="adv"/></l> 
         <r>every<b/>now<b/>and<b/>then<s n="adv"/></r> 
@@ -68885,10 +69097,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizean<b/>behin<s n="adv"/></l> 
         <r>every<b/>so<b/>often<s n="adv"/></r> 
@@ -68896,10 +69108,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizean<b/>behin<s n="adv"/></l> 
         <r>now<b/>and<b/>again<s n="adv"/></r> 
@@ -68907,10 +69119,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizean<b/>behin<s n="adv"/></l> 
         <r>now<b/>and<b/>then<s n="adv"/></r> 
@@ -68918,10 +69130,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>noizean<b/>behin<s n="adv"/></l> 
         <r>on<b/>occasion<s n="adv"/></r> 
@@ -68933,6 +69145,17 @@
       adv
     -->
     <e>
+      <p>
+        <l>nola<s n="adv"/></l> 
+        <r>how<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL" c="as you - com tu">
       <p>
         <l>nola<s n="adv"/></l> 
         <r>how<s n="adv"/></r> 
@@ -69534,10 +69757,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ofizialki<s n="adv"/></l> 
         <r>on<b/>record<s n="adv"/></r> 
@@ -69886,10 +70109,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oihu<b/>egin<s n="vblex"/></l> 
         <r>cry<s n="vblex"/></r> 
@@ -70029,10 +70252,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>okertu<s n="vblex"/></l> 
         <r>incline<s n="vblex"/></r> 
@@ -70282,10 +70505,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>onartu<s n="vblex"/></l> 
         <r>concede<s n="vblex"/></r> 
@@ -70359,10 +70582,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ondo<s n="adv"/></l> 
         <r>all<b/>right<s n="adv"/></r> 
@@ -70370,10 +70593,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ondo<s n="adv"/></l> 
         <r>alright<s n="adv"/></r> 
@@ -70381,10 +70604,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ondo<s n="adv"/></l> 
         <r>fine<s n="adv"/></r> 
@@ -70392,10 +70615,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ondo<s n="adv"/></l> 
         <r>good<s n="adv"/></r> 
@@ -70403,10 +70626,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ondo<s n="adv"/></l> 
         <r>right<s n="adv"/></r> 
@@ -70645,10 +70868,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ongi<s n="adv"/></l> 
         <r>all<b/>right<s n="adv"/></r> 
@@ -70656,10 +70879,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ongi<s n="adv"/></l> 
         <r>alright<s n="adv"/></r> 
@@ -70667,10 +70890,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ongi<s n="adv"/></l> 
         <r>fine<s n="adv"/></r> 
@@ -70678,10 +70901,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ongi<s n="adv"/></l> 
         <r>good<s n="adv"/></r> 
@@ -70689,10 +70912,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ongi<s n="adv"/></l> 
         <r>right<s n="adv"/></r> 
@@ -70722,10 +70945,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>onik<s n="adv"/></l> 
         <r>all<b/>right<s n="adv"/></r> 
@@ -70733,10 +70956,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>onik<s n="adv"/></l> 
         <r>alright<s n="adv"/></r> 
@@ -70744,10 +70967,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>onik<s n="adv"/></l> 
         <r>fine<s n="adv"/></r> 
@@ -70755,10 +70978,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>onik<s n="adv"/></l> 
         <r>good<s n="adv"/></r> 
@@ -70766,10 +70989,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>onik<s n="adv"/></l> 
         <r>right<s n="adv"/></r> 
@@ -70909,10 +71132,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ontzian<s n="adv"/></l> 
         <r>aboard<s n="adv"/></r> 
@@ -70920,10 +71143,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ontziratu<s n="vblex"/></l> 
         <r>embark<s n="vblex"/></r> 
@@ -71195,10 +71418,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>orain<b/>arte<s n="adv"/></l> 
         <r>as<b/>yet<s n="adv"/></r> 
@@ -71206,10 +71429,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>orain<b/>arte<s n="adv"/></l> 
         <r>heretofore<s n="adv"/></r> 
@@ -71217,10 +71440,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>orain<b/>arte<s n="adv"/></l> 
         <r>to<b/>this<b/>very<b/>day<s n="adv"/></r> 
@@ -71228,10 +71451,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>orain<b/>arte<s n="adv"/></l> 
         <r>up<b/>till<b/>now<s n="adv"/></r> 
@@ -71250,10 +71473,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>orain<b/>arte<s n="adv"/></l> 
         <r>up<b/>to<b/>the<b/>present<s n="adv"/></r> 
@@ -71261,10 +71484,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>orain<b/>arte<s n="adv"/></l> 
         <r>up<b/>until<b/>now<s n="adv"/></r> 
@@ -71294,10 +71517,21 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      advRL
+    -->
+    <e r="RL">
+      <p>
+        <l>oraindik<s n="adv"/></l> 
+        <r>yet<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       adv
     -->
-    <e>
+    <e c="frases negatives">
       <p>
         <l>oraindik<s n="adv"/></l> 
         <r>yet<s n="adv"/></r> 
@@ -71327,10 +71561,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oraingoz<s n="adv"/></l> 
         <r>for<b/>the<b/>meantime<s n="adv"/></r> 
@@ -71415,10 +71649,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ordea<s n="adv"/></l> 
         <r>conversely<s n="adv"/></r> 
@@ -71470,10 +71704,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ordenatu<s n="vblex"/></l> 
         <r>sort<s n="vblex"/></r> 
@@ -71844,10 +72078,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oro<b/>har<s n="adv"/></l> 
         <r>all<b/>in<b/>all<s n="adv"/></r> 
@@ -71855,10 +72089,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oro<b/>har<s n="adv"/></l> 
         <r>by<b/>and<b/>large<s n="adv"/></r> 
@@ -71866,10 +72100,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oro<b/>har<s n="adv"/></l> 
         <r>generally<b/>speaking<s n="adv"/></r> 
@@ -71888,10 +72122,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oro<b/>har<s n="adv"/></l> 
         <r>in<b/>the<b/>generality<s n="adv"/></r> 
@@ -71899,10 +72133,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oro<b/>har<s n="adv"/></l> 
         <r>in<b/>the<b/>main<s n="adv"/></r> 
@@ -71910,10 +72144,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oro<b/>har<s n="adv"/></l> 
         <r>on<b/>the<b/>whole<s n="adv"/></r> 
@@ -71921,10 +72155,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oro<b/>har<s n="adv"/></l> 
         <r>overall<s n="adv"/></r> 
@@ -71965,10 +72199,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oroitu<s n="vblex"/></l> 
         <r>recall<s n="vblex"/></r> 
@@ -72515,10 +72749,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ostatatu<s n="vblex"/></l> 
         <r>billet<s n="vblex"/></r> 
@@ -73087,10 +73321,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>paratu<s n="vblex"/></l> 
         <r>lay<s n="vblex"/></r> 
@@ -73109,10 +73343,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>paratu<s n="vblex"/></l> 
         <r>set<s n="vblex"/></r> 
@@ -73351,10 +73585,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>parte<b/>hartu<s n="vblex"/></l> 
         <r>participate<s n="vblex"/></r> 
@@ -73549,10 +73783,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pasatu<s n="vblex"/></l> 
         <r>pass<s n="vblex"/></r> 
@@ -73934,10 +74168,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pe<s n="adv"/></l> 
         <r>under<s n="adv"/></r> 
@@ -73956,10 +74190,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pe<s n="adv"/></l> 
         <r>beneath<s n="adv"/></r> 
@@ -73989,10 +74223,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pean<s n="post"/></l> 
         <r>below<s n="pr"/></r> 
@@ -74539,10 +74773,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pintatu<s n="vblex"/></l> 
         <r>colour<s n="vblex"/></r> 
@@ -74759,10 +74993,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pixka<b/>bat<s n="adv"/></l> 
         <r>a<b/>little<b/>bit<s n="adv"/></r> 
@@ -74770,10 +75004,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pixka<b/>bat<s n="adv"/></l> 
         <r>mildly<s n="adv"/></r> 
@@ -74781,10 +75015,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pixka<b/>bat<s n="adv"/></l> 
         <r>some<s n="adv"/></r> 
@@ -74792,10 +75026,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pixka<b/>bat<s n="adv"/></l> 
         <r>somewhat<s n="adv"/></r> 
@@ -74924,10 +75158,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>planteatu<s n="vblex"/></l> 
         <r>state<s n="vblex"/></r> 
@@ -75034,10 +75268,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>plegatu<s n="vblex"/></l> 
         <r>double<s n="vblex"/></r> 
@@ -75188,10 +75422,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>poliki<s n="adv"/></l> 
         <r>slow<s n="adv"/></r> 
@@ -75584,10 +75818,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>postaren<b/>itzuleran<s n="adv"/></l> 
         <r>by<b/>return<b/>mail<s n="adv"/></r> 
@@ -75716,10 +75950,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="reflexivo, alegrarse">
+    <e r="RL" c="reflexivo, alegrarse">
       <p>
         <l>poztu<s n="vblex"/></l> 
         <r>cheer<s n="vblex"/></r> 
@@ -76101,10 +76335,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>prestatu<s n="vblex"/></l> 
         <r>prime<s n="vblex"/></r> 
@@ -76321,10 +76555,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>probatu<s n="vblex"/></l> 
         <r>prove<s n="vblex"/></r> 
@@ -76332,10 +76566,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>probatu<s n="vblex"/></l> 
         <r>taste<s n="vblex"/></r> 
@@ -76673,10 +76907,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>proportzionalki<s n="adv"/></l> 
         <r>proportionately<s n="adv"/></r> 
@@ -76684,10 +76918,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>proportzionatu<s n="vblex"/></l> 
         <r>afford<s n="vblex"/></r> 
@@ -77014,10 +77248,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>puntuan<s n="adv"/></l> 
         <r>into<b/>shape<s n="adv"/></r> 
@@ -77025,10 +77259,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>puntuan<s n="adv"/></l> 
         <r>ready<b/>to<b/>operate<s n="adv"/></r> 
@@ -77113,10 +77347,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ra<s n="post"/></l> 
         <r>into<s n="pr"/></r> 
@@ -77124,10 +77358,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ra<s n="post"/></l> 
         <r>onto<s n="pr"/></r> 
@@ -77146,10 +77380,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ra<s n="post"/></l> 
         <r>upon<s n="pr"/></r> 
@@ -77245,10 +77479,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>saiakuntzak<b/>egin<s n="vblex"/></l> 
         <r>undergo<s n="vblex"/></r> 
@@ -77267,10 +77501,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>saiatu<s n="vblex"/></l> 
         <r>attempt<s n="vblex"/></r> 
@@ -77443,10 +77677,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sakatu<s n="vblex"/></l> 
         <r>pull<g><b/>out</g><s n="vblex"/></r> 
@@ -77454,10 +77688,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sakatu<s n="vblex"/></l> 
         <r>remove<s n="vblex"/></r> 
@@ -77465,10 +77699,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sakatu<s n="vblex"/></l> 
         <r>take<g><b/>away</g><s n="vblex"/></r> 
@@ -77476,10 +77710,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sakatu<s n="vblex"/></l> 
         <r>take<g><b/>off</g><s n="vblex"/></r> 
@@ -77663,10 +77897,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>salatu<s n="vblex"/></l> 
         <r>denounce<s n="vblex"/></r> 
@@ -78147,10 +78381,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sartu<s n="vblex"/></l> 
         <r>come<g><b/>in</g><s n="vblex"/></r> 
@@ -78169,10 +78403,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sartu<s n="vblex"/></l> 
         <r>step<g><b/>into</g><s n="vblex"/></r> 
@@ -78180,10 +78414,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sartu<s n="vblex"/></l> 
         <r>get<g><b/>in</g><s n="vblex"/></r> 
@@ -78213,10 +78447,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sartu<s n="vblex"/></l> 
         <r>introduce<s n="vblex"/></r> 
@@ -78411,10 +78645,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segitu<s n="vblex"/></l> 
         <r>track<s n="vblex"/></r> 
@@ -78422,10 +78656,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segituan<s n="adv"/></l> 
         <r>forthwith<s n="adv"/></r> 
@@ -78444,10 +78678,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segituan<s n="adv"/></l> 
         <r>in<b/>a<b/>little<b/>while<s n="adv"/></r> 
@@ -78455,10 +78689,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segituan<s n="adv"/></l> 
         <r>in<b/>short<b/>order<s n="adv"/></r> 
@@ -78466,10 +78700,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segituan<s n="adv"/></l> 
         <r>right<b/>away<s n="adv"/></r> 
@@ -78477,10 +78711,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segituan<s n="adv"/></l> 
         <r>straight<b/>away<s n="adv"/></r> 
@@ -78488,10 +78722,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segituan<s n="adv"/></l> 
         <r>then<b/>and<b/>there<s n="adv"/></r> 
@@ -78499,10 +78733,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segituan<s n="adv"/></l> 
         <r>there<b/>and<b/>then<s n="adv"/></r> 
@@ -78510,10 +78744,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>segituan<s n="adv"/></l> 
         <r>at<b/>a<b/>moment's<b/>notice<s n="adv"/></r> 
@@ -78587,10 +78821,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>seguru<s n="adv"/></l> 
         <r>for<b/>sure<s n="adv"/></r> 
@@ -78620,10 +78854,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>seinalatu<s n="vblex"/></l> 
         <r>point<s n="vblex"/></r> 
@@ -78708,10 +78942,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e c="preguntes, condicional">
+    <e r="RL" c="preguntes, condicional">
       <p>
         <l>sekula<s n="adv"/></l> 
         <r>ever<s n="adv"/></r> 
@@ -79104,10 +79338,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sentitu<s n="vblex"/></l> 
         <r>be<g><b/>sorry</g><s n="vblex"/></r> 
@@ -79907,10 +80141,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>sortu<s n="vblex"/></l> 
         <r>raise<s n="vblex"/></r> 
@@ -80776,10 +81010,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>talka<b/>egin<s n="vblex"/></l> 
         <r>crash<s n="vblex"/></r> 
@@ -80908,10 +81142,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tarteka<s n="adv"/></l> 
         <r>once<b/>in<b/>a<b/>while<s n="adv"/></r> 
@@ -80919,10 +81153,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tarteka<s n="adv"/></l> 
         <r>every<b/>now<b/>and<b/>then<s n="adv"/></r> 
@@ -80930,10 +81164,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tarteka<s n="adv"/></l> 
         <r>every<b/>so<b/>often<s n="adv"/></r> 
@@ -80941,10 +81175,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tarteka<s n="adv"/></l> 
         <r>now<b/>and<b/>again<s n="adv"/></r> 
@@ -80952,10 +81186,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tarteka<s n="adv"/></l> 
         <r>now<b/>and<b/>then<s n="adv"/></r> 
@@ -80963,10 +81197,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tarteka<s n="adv"/></l> 
         <r>on<b/>occasion<s n="adv"/></r> 
@@ -81249,10 +81483,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tenkatu<s n="vblex"/></l> 
         <r>strain<s n="vblex"/></r> 
@@ -81634,10 +81868,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tiro<b/>egin<s n="vblex"/></l> 
         <r>fire<s n="vblex"/></r> 
@@ -81854,10 +82088,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>topatu<s n="vblex"/></l> 
         <r>come<g><b/>across</g><s n="vblex"/></r> 
@@ -81865,10 +82099,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>topatu<s n="vblex"/></l> 
         <r>encounter<s n="vblex"/></r> 
@@ -82316,10 +82550,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>transmititu<s n="vblex"/></l> 
         <r>convey<s n="vblex"/></r> 
@@ -82404,10 +82638,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tratatu<s n="vblex"/></l> 
         <r>deal<s n="vblex"/></r> 
@@ -82415,10 +82649,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tratatu<s n="vblex"/></l> 
         <r>deal<g><b/>with</g><s n="vblex"/></r> 
@@ -83317,10 +83551,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e c="as you - com tu">
+    <e r="RL" c="as you - com tu">
       <p>
         <l>tzat<s n="post"/></l> 
         <r>as<s n="pr"/></r> 
@@ -83328,10 +83562,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot">
+    <e r="RL" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot">
       <p>
         <l>tzat<s n="post"/></l> 
         <r>as<b/>a<s n="pr"/></r> 
@@ -83350,10 +83584,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      post-pr
+	forced 'RL' restriction
+      post-prRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>tzat<s n="post"/></l> 
         <r>such<b/>as<s n="pr"/></r> 
@@ -83504,10 +83738,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ugaldu<s n="vblex"/></l> 
         <r>boost<s n="vblex"/></r> 
@@ -83526,10 +83760,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ugaldu<s n="vblex"/></l> 
         <r>raise<s n="vblex"/></r> 
@@ -83537,10 +83771,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ugaldu<s n="vblex"/></l> 
         <r>rise<s n="vblex"/></r> 
@@ -83603,10 +83837,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ugaritu<s n="vblex"/></l> 
         <r>boost<s n="vblex"/></r> 
@@ -83625,10 +83859,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ugaritu<s n="vblex"/></l> 
         <r>raise<s n="vblex"/></r> 
@@ -83636,10 +83870,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ugaritu<s n="vblex"/></l> 
         <r>rise<s n="vblex"/></r> 
@@ -83790,10 +84024,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e c="no sé si és bona trad">
+    <e r="RL" c="no sé si és bona trad">
       <p>
         <l>ukitu<s n="vblex"/></l> 
         <r>tap<s n="vblex"/></r> 
@@ -84285,10 +84519,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>urpetu<s n="vblex"/></l> 
         <r>drown<s n="vblex"/></r> 
@@ -84307,10 +84541,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>urpetu<s n="vblex"/></l> 
         <r>inundate<s n="vblex"/></r> 
@@ -84747,10 +84981,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>utzi<s n="vblex"/></l> 
         <r>permit<s n="vblex"/></r> 
@@ -84758,10 +84992,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>utzi<s n="vblex"/></l> 
         <r>allow<s n="vblex"/></r> 
@@ -85451,10 +85685,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zain<b/>egon<s n="vblex"/></l> 
         <r>await<s n="vblex"/></r> 
@@ -85583,6 +85817,17 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
+      <p>
+        <l>zalantza<b/>egin<s n="vblex"/></l> 
+        <r>hesitate<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       vblex
     -->
@@ -85605,10 +85850,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zalantzarik<b/>gabe<s n="adv"/></l> 
         <r>no<b/>doubt<s n="adv"/></r> 
@@ -85616,10 +85861,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zalantzarik<b/>gabe<s n="adv"/></l> 
         <r>beyond<b/>question<s n="adv"/></r> 
@@ -85627,10 +85872,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zalantzarik<b/>gabe<s n="adv"/></l> 
         <r>without<b/>a<b/>doubt<s n="adv"/></r> 
@@ -85638,10 +85883,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zalantzarik<b/>gabe<s n="adv"/></l> 
         <r>without<b/>doubt<s n="adv"/></r> 
@@ -85649,10 +85894,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zalantzarik<b/>gabe<s n="adv"/></l> 
         <r>without<b/>question<s n="adv"/></r> 
@@ -85671,10 +85916,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zalantzarik<b/>gabe<s n="adv"/></l> 
         <r>beyond<b/>a<b/>doubt<s n="adv"/></r> 
@@ -85682,10 +85927,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zalantzarik<b/>gabe<s n="adv"/></l> 
         <r>beyond<b/>all<b/>shadow<b/>of<b/>a<b/>doubt<s n="adv"/></r> 
@@ -85759,10 +86004,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zamatu<s n="vblex"/></l> 
         <r>burden<s n="vblex"/></r> 
@@ -85891,10 +86136,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zarratu<s n="vblex"/></l> 
         <r>lock<s n="vblex"/></r> 
@@ -85902,10 +86147,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zarratu<s n="vblex"/></l> 
         <r>shut<s n="vblex"/></r> 
@@ -85913,10 +86158,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zarratu<s n="vblex"/></l> 
         <r>shut<g><b/>down</g><s n="vblex"/></r> 
@@ -86089,10 +86334,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zehar<s n="adv"/></l> 
         <r>edgewise<s n="adv"/></r> 
@@ -86111,10 +86356,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zeharka<s n="adv"/></l> 
         <r>edgewise<s n="adv"/></r> 
@@ -86166,10 +86411,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zeharkatu<s n="vblex"/></l> 
         <r>get<g><b/>across</g><s n="vblex"/></r> 
@@ -87255,10 +87500,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zilegitu<s n="vblex"/></l> 
         <r>permit<s n="vblex"/></r> 
@@ -87288,10 +87533,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zin<b/>egin<s n="vblex"/></l> 
         <r>vow<s n="vblex"/></r> 
@@ -87420,10 +87665,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zirikatu<s n="vblex"/></l> 
         <r>provoke<s n="vblex"/></r> 
@@ -87431,10 +87676,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zirikatu<s n="vblex"/></l> 
         <r>trigger<s n="vblex"/></r> 
@@ -87574,10 +87819,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zitatu<s n="vblex"/></l> 
         <r>cite<s n="vblex"/></r> 
@@ -87651,10 +87896,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ziur<s n="adv"/></l> 
         <r>for<b/>sure<s n="adv"/></r> 
@@ -87970,10 +88215,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zorionez<s n="adv"/></l> 
         <r>happily<s n="adv"/></r> 
@@ -87981,10 +88226,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zorionez<s n="adv"/></l> 
         <r>luckily<s n="adv"/></r> 
@@ -87992,10 +88237,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      adv
+	forced 'RL' restriction
+      advRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zorionez<s n="adv"/></l> 
         <r>thankfully<s n="adv"/></r> 
@@ -88344,10 +88589,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zutitu<s n="vblex"/></l> 
         <r>erect<s n="vblex"/></r> 
@@ -88531,10 +88776,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zuzendu<s n="vblex"/></l> 
         <r>address<s n="vblex"/></r> 
@@ -88542,10 +88787,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zuzendu<s n="vblex"/></l> 
         <r>aim<s n="vblex"/></r> 
@@ -88553,10 +88798,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zuzendu<s n="vblex"/></l> 
         <r>conduct<s n="vblex"/></r> 
@@ -88575,10 +88820,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zuzendu<s n="vblex"/></l> 
         <r>lead<s n="vblex"/></r> 
@@ -88586,10 +88831,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      vblex
+	forced 'RL' restriction
+      vblex-RL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zuzendu<s n="vblex"/></l> 
         <r>manage<s n="vblex"/></r> 

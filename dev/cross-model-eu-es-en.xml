@@ -57,6 +57,34 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="post-prRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="post"/></l> 
+        <r>$lemmaB<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="pr"/></l> 
+        <r>$lemmaC<s n="pr"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="post"/></l> 
+        <r>$lemmaC<s n="pr"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 <cross-action id="vblex">
 	<pattern>
     <e>
@@ -85,6 +113,34 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="vblex-RL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="vblex"/></l> 
+        <r>$lemmaB<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="vblex"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="vblex"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 <cross-action id="adv">
 	<pattern>
     <e>
@@ -105,6 +161,34 @@
 <action-set>
 <action>
     <e>
+      <p>
+        <l>$lemmaA<s n="adv"/></l> 
+        <r>$lemmaC<s n="adv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="advRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/></l> 
+        <r>$lemmaB<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="adv"/></l> 
+        <r>$lemmaC<s n="adv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
       <p>
         <l>$lemmaA<s n="adv"/></l> 
         <r>$lemmaC<s n="adv"/></r> 
@@ -217,6 +301,118 @@
 <action-set>
 <action>
     <e>
+      <p>
+        <l>$lemmaA<s n="vbsint"/></l> 
+        <r>$lemmaC<s n="vbmod"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="vbsint-vblexRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="vbsint"/></l> 
+        <r>$lemmaB<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="vblex"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="vbsint"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="vbsint-vbserRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="vbsint"/></l> 
+        <r>$lemmaB<s n="vbser"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="vbser"/></l> 
+        <r>$lemmaC<s n="vbser"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="vbsint"/></l> 
+        <r>$lemmaC<s n="vbser"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="vbsint-vbhaverRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="vbsint"/></l> 
+        <r>$lemmaB<s n="vbhaver"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="vbhaver"/></l> 
+        <r>$lemmaC<s n="vbhaver"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="vbsint"/></l> 
+        <r>$lemmaC<s n="vbhaver"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="vbsint-vbmodRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="vbsint"/></l> 
+        <r>$lemmaB<s n="vbmod"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="vbmod"/></l> 
+        <r>$lemmaC<s n="vbmod"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
       <p>
         <l>$lemmaA<s n="vbsint"/></l> 
         <r>$lemmaC<s n="vbmod"/></r> 
