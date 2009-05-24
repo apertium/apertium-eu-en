@@ -12028,15 +12028,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <clip pos="2" side="tl" part="a_verb"/>
           <lit-tag v="vbhaver"/>
         </let>
-        <out>
-          <chunk name="adv" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SADV"/></tag>
-              <tag><clip pos="1" side="tl" part="a_adv"/></tag>
-            </tags>
-          </chunk>
-          <b pos="1"/>
-        </out>
         <let><!--porque los proclíticos dentro de la macro verbal_flex se envían con caseFirstWord-->
           <var n="caseFirstWord"/>
           <lit v="aa"/>
