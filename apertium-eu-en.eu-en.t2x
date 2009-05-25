@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="ISO-8859-1"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
 
@@ -6,7 +7,7 @@
       <cat-item tags="SN.*"/>
     </def-cat>  
     <def-cat n="prnpers">
-      <cat-item lemma="prnpers"  tags="PRN.*"/>
+      <cat-item lemma="prnpers" tags="PRN.*"/>
     </def-cat> 
 
 
@@ -16,7 +17,7 @@
  
     <def-cat n="SN_prn">
       <cat-item tags="SN.*"/>
-      <cat-item lemma="prnpers"  tags="PRN.*"/>
+      <cat-item lemma="prnpers" tags="PRN.*"/>
     </def-cat>
     <def-cat n="SPR"><!--sintagma preposicional -->
       <cat-item tags="SPR.*"/>
@@ -285,6 +286,74 @@
       </choose>
     </def-macro>
 
+ <def-macro n="generate_subject" npar="1">  <!--ATENCIÓN: se si crean nuevos chunks verbales en el t1x con nuevos lemas, hay que añadirlos a la lista SV_personals en el caso de que sean SV con formas personales. De lo contrario no se creará el sujeto correspondiente cuando aparezcan en un texto. -->
+     
+   <choose>
+     <when>
+       <test>
+	   <in caseless="yes">
+	     <clip pos="1" part="lem"/>
+	     <list n="SV_personals"/>
+	   </in>
+       </test>
+	<choose>
+	  <when>
+	    <test>
+	      <equal>
+		<var n="fifrase"/>
+		<lit v="yes"/>
+	      </equal>
+	    </test>		
+	    <choose>
+	      <when>
+		<test>
+		  <not>
+		    <equal>
+		      <clip pos="1" part="temps"/>
+		      <lit-tag v="imp"/>
+		    </equal>
+		  </not>
+		</test>
+		<out>
+		  <chunk>
+		    <get-case-from pos="1">
+		      <lit v="subj"/>
+		    </get-case-from>
+		    <lit-tag v="prn.subj"/>
+		    <clip pos="1" part="pers"/>
+		    <lit-tag v="GD"/>
+		    <clip pos="1" part="nbr"/>
+		    <lit v="{^"/>
+		    <get-case-from pos="1">
+		      <lit v="prpers"/>
+		    </get-case-from>
+		    <lit-tag v="prn.subj.3.4.5"/>
+		    <lit v="$}"/>
+		  </chunk>
+		  <b/>	   
+		</out>
+		<choose>
+		  <when>
+		    <test>
+		      <equal>
+			<case-of pos="1" part="lem"/>
+			<lit v="Aa"/>
+		      </equal>
+		    </test>
+		    <modify-case>
+		      <clip pos="1" part="lem"/>
+		      <lit v="aa"/>
+		    </modify-case>
+		  </when>
+		</choose>
+	      </when>
+	    </choose>
+	  </when>
+	</choose>
+     </when>
+   </choose>
+ </def-macro>
+
   </section-def-macros>
 
   <section-rules>
@@ -305,20 +374,6 @@
 	    <let>
 	      <clip pos="1" part="tipus_det"/>
 	      <lit-tag v="def"/>
-	    </let>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="1" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="1" part="gen"/>
-	      <lit-tag v="m"/>
 	    </let>
 	  </when>
 	</choose>
@@ -350,20 +405,6 @@
 	<pattern-item n="SA"/>
       </pattern>
       <action>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="1" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="1" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
 	<choose>
 	  <when>
 	    <test>
@@ -402,20 +443,6 @@
 	    <let>
 	      <clip pos="1" part="tipus_det"/>
 	      <lit-tag v="def"/>
-	    </let>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="1" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="1" part="gen"/>
-	      <lit-tag v="m"/>
 	    </let>
 	  </when>
 	</choose>
@@ -482,20 +509,6 @@
 	  <when>
 	    <test>
 	      <equal>
-		<clip pos="2" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="2" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
 		<clip pos="2" part="nbr"/>
 		<lit-tag v="ND"/>
 	      </equal>
@@ -504,44 +517,6 @@
 	      <clip pos="2" part="nbr"/>
 	      <lit-tag v="sg"/>
 	    </let>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<clip pos="1" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <choose>
-	      <when>
-		<test>
-		  <and>
-		    <equal>
-		      <clip pos="1" part="temps"/>
-		      <lit-tag v="pp"/>
-		    </equal>
-		    <not>
-		      <equal>
-			<clip pos="2" part="gen"/>
-			<lit-tag v="mf"/>
-		      </equal>
-		    </not>
-		  </and>
-		</test>
-		<let>
-		  <clip pos="1" part="gen"/>
-		  <clip pos="2" part="gen"/>
-		</let>
-	      </when>
-	      <otherwise>
-		<let>
-		  <clip pos="1" part="gen"/>
-		  <lit-tag v="m"/>
-		</let>
-	      </otherwise>
-	    </choose>
 	  </when>
 	</choose>
 	<choose>
@@ -3179,7 +3154,7 @@
 
 
 
-<rule comment="tzeko + SN (osatzeko aukera -> opción para componer)">
+<rule comment="tzeko + SN (osatzeko aukera -&gt; opción para componer)">
   <pattern>
     <pattern-item n="tzeko"/>
     <pattern-item n="SN"/>
@@ -3249,7 +3224,7 @@
 </rule>
 
 
-<rule comment="SN + tzeko + SN (gobernua osatzeko aukera -> opción para componer el gobierno)">
+<rule comment="SN + tzeko + SN (gobernua osatzeko aukera -&gt; opción para componer el gobierno)">
   <pattern>
     <pattern-item n="SN"/>
     <pattern-item n="tzeko"/>
@@ -4252,7 +4227,7 @@
 </rule>
 
 
-<rule comment="PP + cnjadv (egin ezik -> a menos que hacer:-/)">
+<rule comment="PP + cnjadv (egin ezik -&gt; a menos que hacer:-/)">
   <pattern>
     <pattern-item n="pp"/>
     <pattern-item n="cnjadv2"/>
@@ -4301,7 +4276,7 @@
 </rule>
 
 
-<rule comment="SUBJ + PP + cnjadv (nik egin ezik -> a menos que yo haga)">
+<rule comment="SUBJ + PP + cnjadv (nik egin ezik -&gt; a menos que yo haga)">
   <pattern>
     <pattern-item n="prnpers"/>
     <pattern-item n="pp"/>
