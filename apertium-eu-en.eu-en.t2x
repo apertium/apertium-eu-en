@@ -236,7 +236,16 @@
     <def-var n="EOS"/>
     <def-var n="genere"/>
     <def-var n="nombre"/>
+    <def-var n="fifrase" v="yes"/>
   </section-def-vars>
+  
+  <section-def-lists>
+    <def-list n="SV_personals"> 
+      <list-item v="vbconj"/>
+      <list-item v="have_pp"/>
+    </def-list>
+
+  </section-def-lists>
 
   <section-def-macros>
 
