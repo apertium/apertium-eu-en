@@ -11614,7 +11614,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="m.sg"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -11734,10 +11733,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="1" side="tl" part="temps"/>
-          <lit-tag v="inf"/>
+          <lit-tag v="ger"/>
         </let>
         <out>
-          <chunk name="pr_inf" case="caseFirstWord">
+          <chunk name="pr_ger" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="1" side="tl" part="a_verb"/></tag>
@@ -11772,10 +11771,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="1" side="tl" part="temps"/>
-          <lit-tag v="inf"/>
+          <lit-tag v="ger"/>
         </let>
         <out>
-          <chunk name="pr_inf" case="caseFirstWord">
+          <chunk name="pr_ger" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="1" side="tl" part="a_verb"/></tag>
@@ -11812,7 +11811,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <clip pos="1" side="tl" part="temps"/>
           <lit-tag v="inf"/>
         </let>
-        <out>
+        <out> <!-- probably ger_inf -->
           <chunk name="inf_inf" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
@@ -11848,7 +11847,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <tag><lit-tag v="ger"/></tag>
             </tags>
             <lu>
-              <lit v="haber"/>
+              <lit v="have"/>
               <lit-tag v="vbhaver.ger"/>
             </lu>
             <b/>
@@ -11856,7 +11855,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="m.sg"/>
             </lu>
           </chunk>
         </out>
@@ -11878,10 +11876,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="1" side="tl" part="temps"/>
-          <lit-tag v="inf"/>
+          <lit-tag v="ger"/>
         </let>
         <out> 
-          <chunk name="pr_inf" case="caseFirstWord"> 
+          <chunk name="pr_ger" case="caseFirstWord"> 
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><clip pos="1" side="tl" part="a_verb"/></tag>
@@ -12040,10 +12038,11 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               </equal>
             </test>
             <out>
-              <chunk name="vbconj">
+              <chunk name="vbconj_not_pp">
                 <tags>
-                  <tag><lit-tag v="SV.NEG"/></tag>
+                  <tag><lit-tag v="SVneg"/></tag>
                   <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="2" side="tl" part="temps"/></tag>
                   <tag><clip pos="2" side="tl" part="persnbr"/></tag>
                   <tag><clip pos="2" side="sl" part="nor"/></tag>
                   <tag><clip pos="2" side="sl" part="nori"/></tag>
@@ -12085,8 +12084,9 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <out>
               <chunk name="vbconj">
                 <tags>
-                  <tag><lit-tag v="SV"/></tag>
+                  <tag><lit-tag v="SVneg"/></tag>
                   <tag><clip pos="3" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="3" side="tl" part="temps"/></tag>
                   <tag><clip pos="2" side="tl" part="persnbr"/></tag>
                   <tag><clip pos="2" side="sl" part="nor"/></tag>
                   <tag><clip pos="2" side="sl" part="nori"/></tag>
@@ -12125,22 +12125,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="3"/>
           <with-param pos="2"/>
         </call-macro>
-        <out>
-          <chunk name="adv" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SADV"/></tag>
-              <tag><clip pos="1" side="tl" part="a_adv"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-          <b pos="1"/>
-        </out>
-        <let><!--porque los proclíticos dentro de la macro verbal_flex se envían con caseFirstWord-->
-          <var n="caseFirstWord"/>
-          <lit v="aa"/>
-        </let>
         <call-macro n="verbal_flex">
           <with-param pos="2"/>
         </call-macro>
@@ -12173,8 +12157,9 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <out>
           <chunk name="vbconj">
             <tags>
-              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="SVneg"/></tag>
               <tag><clip pos="3" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="3" side="tl" part="temps"/></tag>
               <tag><clip pos="2" side="tl" part="persnbr"/></tag>
               <tag><clip pos="2" side="sl" part="nor"/></tag>
               <tag><clip pos="2" side="sl" part="nori"/></tag>
@@ -12273,6 +12258,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="3" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="3" side="tl" part="temps"/></tag>
               <tag><clip pos="2" side="tl" part="persnbr"/></tag>
               <tag><clip pos="2" side="sl" part="nor"/></tag>
               <tag><clip pos="2" side="sl" part="nori"/></tag>
