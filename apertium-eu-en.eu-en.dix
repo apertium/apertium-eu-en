@@ -27325,6 +27325,8 @@
       </p>
     </e>
 
+    <e r="LR"><p><l>k<s n="post"/></l><r></r></p></e>
+
     <!-- 
 	forced 'null' restriction
       vblex
@@ -42955,6 +42957,8 @@
         <r>likewise<s n="adv"/></r> 
       </p>
     </e>
+
+    <e r="LR"><p><l>bat<s n="num"/></l><r>a<s n="det"/><s n="ind"/><s n="ND"/></r></p></e>
 
     <!-- 
 	forced 'null' restriction
