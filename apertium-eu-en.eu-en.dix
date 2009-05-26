@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8112
+	Entries: 8165
 	Sdefs: 277
       
       Patterns applied:
@@ -23,7 +23,7 @@
       	run1-4 (17 times)
       	run1-5 (178 times)
       	run1-6 (130 times)
-      	ND-5 (56 times)
+      	ND-5 (87 times)
       	loc-1 (49 times)
       	loc-2 (34 times)
       	prn-1 (2 times)
@@ -31,7 +31,7 @@
       	nom-0 (1867 times)
       	nom-1 (1607 times)
       	nom-3 (116 times)
-      	cog-0 (13 times)
+      	cog-0 (35 times)
       	advgen (27 times)
       	advgenRL (54 times)
       	mayor (5 times)
@@ -519,6 +519,39 @@
 
     <!-- 
 	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Agirre<s n="np"/><s n="ant"/></l> 
+        <r>Agirre<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Aingeru<s n="np"/><s n="ant"/></l> 
+        <r>Aingeru<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Aintzane<s n="np"/><s n="ant"/></l> 
+        <r>Aintzane<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-5
     -->
     <e>
@@ -677,6 +710,28 @@
     -->
     <e>
       <p>
+        <l>Arrosa<s n="np"/><s n="ant"/></l> 
+        <r>Arrosa<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Arzalluz<s n="np"/><s n="ant"/></l> 
+        <r>Arzalluz<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
         <l>Asia<s n="np"/><s n="ant"/></l> 
         <r>Asia<s n="np"/><s n="ant"/></r> 
       </p>
@@ -695,12 +750,56 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Asier<s n="np"/><s n="ant"/></l> 
+        <r>Asier<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Atutxa<s n="np"/><s n="ant"/></l> 
+        <r>Atutxa<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Aurkene<s n="np"/><s n="ant"/></l> 
+        <r>Aurkene<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       loc-1
     -->
     <e>
       <p>
         <l>Austria<s n="np"/><s n="loc"/></l> 
         <r>Austria<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Azkarate<s n="np"/><s n="ant"/></l> 
+        <r>Azkarate<s n="np"/><s n="cog"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -734,6 +833,17 @@
       <p>
         <l>Bagdad<s n="np"/><s n="loc"/></l> 
         <r>Baghdad<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Bakarne<s n="np"/><s n="ant"/></l> 
+        <r>Bakarne<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -794,6 +904,28 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Benedikto<s n="np"/><s n="ant"/></l> 
+        <r>Benedikto<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Bernart<s n="np"/><s n="ant"/></l> 
+        <r>Bernart<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -811,6 +943,28 @@
       <p>
         <l>Bielorrusia<s n="np"/><s n="loc"/></l> 
         <r>Byelorussia<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Bilbao<s n="np"/><s n="ant"/></l> 
+        <r>Bilbao<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Bilbo<s n="np"/><s n="ant"/></l> 
+        <r>Bilbao<s n="np"/><s n="cog"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -915,6 +1069,28 @@
 
     <!-- 
 	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Carod-Rovira<s n="np"/><s n="ant"/></l> 
+        <r>Carod-Rovira<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Castro<s n="np"/><s n="ant"/></l> 
+        <r>Castro<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       loc-2
     -->
     <e>
@@ -1014,12 +1190,34 @@
 
     <!-- 
 	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Egibar<s n="np"/><s n="ant"/></l> 
+        <r>Egibar<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       loc-2
     -->
     <e>
       <p>
         <l>Egipto<s n="np"/><s n="loc"/></l> 
         <r>Egypt<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Erkoreka<s n="np"/><s n="ant"/></l> 
+        <r>Erkoreka<s n="np"/><s n="cog"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1086,6 +1284,17 @@
       <p>
         <l>Estrasburgo<s n="np"/><s n="loc"/></l> 
         <r>Strasbourg<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Etxeberria<s n="np"/><s n="ant"/></l> 
+        <r>Etxeberria<s n="np"/><s n="cog"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1168,6 +1377,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Frantzisko<s n="np"/><s n="ant"/></l> 
+        <r>Frantzisko<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       loc-1
     -->
     <e>
@@ -1238,8 +1458,30 @@
     -->
     <e>
       <p>
+        <l>Goirizelaia<s n="np"/><s n="ant"/></l> 
+        <r>Goirizelaia<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
         <l>Gonzalez<s n="np"/><s n="ant"/></l> 
         <r>González<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Gorka<s n="np"/><s n="ant"/></l> 
+        <r>Gorka<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1289,12 +1531,56 @@
 
     <!-- 
 	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Huegun<s n="np"/><s n="ant"/></l> 
+        <r>Huegun<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Hussein<s n="np"/><s n="ant"/></l> 
+        <r>Hussein<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Ibarretxe<s n="np"/><s n="ant"/></l> 
+        <r>Ibarretxe<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-5
     -->
     <e>
       <p>
         <l>Igor<s n="np"/><s n="ant"/></l> 
         <r>Igor<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Imaz<s n="np"/><s n="ant"/></l> 
+        <r>Imaz<s n="np"/><s n="cog"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1405,6 +1691,17 @@
       <p>
         <l>Japonia<s n="np"/><s n="loc"/></l> 
         <r>Japan<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Jasone<s n="np"/><s n="ant"/></l> 
+        <r>Jasone<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1579,8 +1876,30 @@
     -->
     <e>
       <p>
+        <l>Joseba<s n="np"/><s n="ant"/></l> 
+        <r>Joseba<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
         <l>Josu<s n="np"/><s n="ant"/></l> 
         <r>Josu<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Joxe<s n="np"/><s n="ant"/></l> 
+        <r>Joxe<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1641,6 +1960,28 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Jurgi<s n="np"/><s n="ant"/></l> 
+        <r>Jurgi<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Justi<s n="np"/><s n="ant"/></l> 
+        <r>Justi<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       loc-2
     -->
     <e>
@@ -1663,12 +2004,45 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Karmele<s n="np"/><s n="ant"/></l> 
+        <r>Karmele<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Katalina<s n="np"/><s n="ant"/></l> 
+        <r>Katalina<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       loc-1
     -->
     <e>
       <p>
         <l>Katalunia<s n="np"/><s n="loc"/></l> 
         <r>Catalonia<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Koldo<s n="np"/><s n="ant"/></l> 
+        <r>Koldo<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1691,6 +2065,17 @@
       <p>
         <l>Kongo<s n="np"/><s n="loc"/></l> 
         <r>Congo<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Kontxesi<s n="np"/><s n="ant"/></l> 
+        <r>Kontxesi<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1894,6 +2279,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Maitane<s n="np"/><s n="ant"/></l> 
+        <r>Maitane<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-5
     -->
     <e>
@@ -1942,6 +2338,17 @@
     -->
     <e>
       <p>
+        <l>Mari<s n="np"/><s n="ant"/></l> 
+        <r>Mari<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
         <l>Maria<s n="np"/><s n="ant"/></l> 
         <r>Maria<s n="np"/><s n="ant"/></r> 
       </p>
@@ -1977,6 +2384,17 @@
       <p>
         <l>Marino<s n="np"/><s n="ant"/></l> 
         <r>Marino<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Marko<s n="np"/><s n="ant"/></l> 
+        <r>Marko<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2096,6 +2514,17 @@
     -->
     <e>
       <p>
+        <l>Miren<s n="np"/><s n="ant"/></l> 
+        <r>Miren<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
         <l>Modesto<s n="np"/><s n="ant"/></l> 
         <r>Modesto<s n="np"/><s n="ant"/></r> 
       </p>
@@ -2202,6 +2631,28 @@
 
     <!-- 
 	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Olano<s n="np"/><s n="ant"/></l> 
+        <r>Olano<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Otegi<s n="np"/><s n="ant"/></l> 
+        <r>Otegi<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -2268,6 +2719,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Patxi<s n="np"/><s n="ant"/></l> 
+        <r>Patxi<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -2285,6 +2747,17 @@
       <p>
         <l>Paulina<s n="np"/><s n="ant"/></l> 
         <r>Paulina<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Paulo<s n="np"/><s n="ant"/></l> 
+        <r>Paulo<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2329,6 +2802,17 @@
       <p>
         <l>Pirinio<s n="np"/></l> 
         <r>Pyrenees<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Rafa<s n="np"/><s n="ant"/></l> 
+        <r>Rafa<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2406,6 +2890,28 @@
       <p>
         <l>Saddam<s n="np"/><s n="ant"/></l> 
         <r>Saddam<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Saez<s n="np"/><s n="ant"/></l> 
+        <r>Sáez<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Salbatore<s n="np"/><s n="ant"/></l> 
+        <r>Salbatore<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2554,6 +3060,17 @@
 
     <!-- 
 	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Ugalde<s n="np"/><s n="ant"/></l> 
+        <r>Ugalde<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       loc-1
     -->
     <e>
@@ -2569,8 +3086,30 @@
     -->
     <e>
       <p>
+        <l>Unai<s n="np"/><s n="ant"/></l> 
+        <r>Unai<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
         <l>Urbano<s n="np"/><s n="ant"/></l> 
         <r>Urbano<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Urkullu<s n="np"/><s n="ant"/></l> 
+        <r>Urkullu<s n="np"/><s n="cog"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2593,6 +3132,17 @@
       <p>
         <l>Venezuela<s n="np"/><s n="loc"/></l> 
         <r>Venezuela<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Viktoria<s n="np"/><s n="ant"/></l> 
+        <r>Viktoria<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2631,6 +3181,28 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Xabier<s n="np"/><s n="ant"/></l> 
+        <r>Xabier<s n="np"/><s n="ant"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cog-0
+    -->
+    <e>
+      <p>
+        <l>Zabaleta<s n="np"/><s n="ant"/></l> 
+        <r>Zabaleta<s n="np"/><s n="cog"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       cog-0
     -->
     <e>
@@ -2648,6 +3220,17 @@
       <p>
         <l>Zimbawe<s n="np"/><s n="loc"/></l> 
         <r>Zimbabwe<s n="np"/><s n="loc"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-5
+    -->
+    <e>
+      <p>
+        <l>Zorione<s n="np"/><s n="ant"/></l> 
+        <r>Zorione<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
