@@ -29,6 +29,174 @@
             </action>
         </action-set>
     </cross-action>
+<cross-action id="cnjsub-adv">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjsub"/></l> 
+        <r>$lemmaB<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="cnjadv"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjsub"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="cnjsub-adv1">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="cnjsub"/></l> 
+        <r>$lemmaB<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="cnjadv"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="cnjsub"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="cnjsub-advRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjsub"/></l> 
+        <r>$lemmaB<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="cnjadv"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="cnjsub"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="vbper-vblex">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="vbper"/></l> 
+        <r>$lemmaB<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="vblex"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="vbper"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="vbper-vblexRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="vbper"/></l> 
+        <r>$lemmaB<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="vblex"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="vbper"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="vbper-vblex1">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="vbper"/></l> 
+        <r>$lemmaB<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="vblex"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="vbper"/></l> 
+        <r>$lemmaC<s n="vblex"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 <cross-action id="post-pr">
 	<pattern>
     <e>
@@ -915,5 +1083,60 @@
 
 </cross-action>
 <!-- 27 entries like this -->
+<cross-action id="bat-un-1">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>bat<s n="num"/></l> 
+        <r>uno<s n="det"/><s n="ind"/><s n="GD"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>uno<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l> 
+        <r>a<s n="det"/><s n="ind"/><s n="GD"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>bat<s n="num"/></l> 
+        <r>a<s n="det"/><s n="ind"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="ND-205">
+	<pattern>
+    <e>
+      <p>
+        <l>Kristo<s n="np"/><s n="ant"/></l> 
+        <r>Cristo<s n="np"/><s n="al"/></r> 
+      </p>
+    </e>
+    <!-- This is incorrect in en-es -->
+    <e>
+      <i>Cristo<s n="np"/></i> 
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>Kristo<s n="np"/><s n="ant"/></l> 
+        <r>Christ<s n="np"/><s n="al"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+
+</cross-action>
+<!-- 1 entries like this -->
 
 </cross-model>

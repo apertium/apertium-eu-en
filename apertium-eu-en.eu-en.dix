@@ -3,11 +3,14 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8055
+	Entries: 8095
 	Sdefs: 277
       
       Patterns applied:
-      	default (1080 times)
+      	default (1083 times)
+      	cnjsub-adv (4 times)
+      	vbper-vblex (19 times)
+      	vbper-vblexRL (11 times)
       	post-pr (29 times)
       	post-prRL (18 times)
       	vblex (1155 times)
@@ -16,17 +19,17 @@
       	advRL (285 times)
       	vbsint-vblex (43 times)
       	vbsint-vbser (2 times)
-      	run1-2 (571 times)
+      	run1-2 (572 times)
       	run1-3 (9 times)
       	run1-4 (16 times)
       	run1-5 (177 times)
-      	run1-6 (129 times)
+      	run1-6 (130 times)
       	ND-5 (56 times)
       	loc-1 (49 times)
       	loc-2 (34 times)
       	prn-1 (2 times)
       	prn-2 (2 times)
-      	nom-0 (1866 times)
+      	nom-0 (1867 times)
       	nom-1 (1606 times)
       	nom-3 (116 times)
       	cog-0 (13 times)
@@ -3808,6 +3811,61 @@
       <p>
         <l>agentzia<s n="n"/></l> 
         <r>bureau<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL">
+      <p>
+        <l>ageri<b/>edun<s n="vbper"/></l> 
+        <r>display<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>ageri<b/>edun<s n="vbper"/></l> 
+        <r>show<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>ageri<b/>izan<s n="vbper"/></l> 
+        <r>appear<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL">
+      <p>
+        <l>ageri<b/>izan<s n="vbper"/></l> 
+        <r>show<g><b/>up</g><s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL">
+      <p>
+        <l>ageri<b/>izan<s n="vbper"/></l> 
+        <r>turn<g><b/>up</g><s n="vblex"/></r> 
       </p>
     </e>
 
@@ -8454,6 +8512,17 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL" c="(intransitiu)">
+      <p>
+        <l>ari<b/>izan<s n="vbper"/></l> 
+        <r>stand<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       nom-1
     -->
@@ -9731,6 +9800,17 @@
 
     <!-- 
 	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>artzain<s n="adj"/></l> 
+        <r>pastoral<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -10984,6 +11064,39 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL" c="MG: potser eliminar marca de polisèmia i fer-ho pel transfer? (I enjoy + ing)">
+      <p>
+        <l>atsegin<b/>izan<s n="vbper"/></l> 
+        <r>enjoy<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL">
+      <p>
+        <l>atsegin<b/>izan<s n="vbper"/></l> 
+        <r>fancy<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>atsegin<b/>izan<s n="vbper"/></l> 
+        <r>like<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       vblex
     -->
@@ -12140,6 +12253,17 @@
 
     <!-- 
 	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>aurretik_baden<s n="adj"/></l> 
+        <r>pre-existing<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -13240,6 +13364,39 @@
 
     <!-- 
 	forced 'null' restriction
+      cnjsub-adv
+    -->
+    <e>
+      <p>
+        <l>ba<s n="cnjsub"/></l> 
+        <r>if<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjsub-adv
+    -->
+    <e>
+      <p>
+        <l>ba<s n="cnjsub"/></l> 
+        <r>provided<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjsub-adv
+    -->
+    <e c="MG: Generalment després de verb o pronom personal (I doubt whether.../ Tell me whether...)">
+      <p>
+        <l>ba<s n="cnjsub"/></l> 
+        <r>whether<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -13944,6 +14101,17 @@
 
     <!-- 
 	forced 'null' restriction
+      cnjsub-adv
+    -->
+    <e>
+      <p>
+        <l>baldin<b/>eta<s n="cnjsub"/></l> 
+        <r>if<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -14103,6 +14271,28 @@
     <e>
       <p>
         <l>balio<b/>izan<s n="vblex"/></l> 
+        <r>cost<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL">
+      <p>
+        <l>balio<b/>izan<s n="vbper"/></l> 
+        <r>be<g><b/>worth</g><s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>balio<b/>izan<s n="vbper"/></l> 
         <r>cost<s n="vblex"/></r> 
       </p>
     </e>
@@ -15957,6 +16147,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>behar<b/>izan<s n="vbper"/></l> 
+        <r>need<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       adv
     -->
     <e>
@@ -16700,6 +16901,17 @@
       <p>
         <l>beldur<s n="n"/></l> 
         <r>fear<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>beldur<b/>izan<s n="vbper"/></l> 
+        <r>fear<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -19967,6 +20179,17 @@
       <p>
         <l>bizi-alargun<s n="adj"/></l> 
         <r>separate<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>bizi<b/>izan<s n="vbper"/></l> 
+        <r>live<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -24733,10 +24956,58 @@
       </p>
     </e>
 
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
+      <p>
+        <l>eduki<s n="vbsint"/></l> 
+        <r>have<b/>got<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>eduki<s n="vbsint"/></l> 
+        <r>have<g><b/>got</g><s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vblex
+    -->
     <e>
       <p>
         <l>eduki<s n="vblex"/></l> 
         <r>have<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL" c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
+      <p>
+        <l>eduki<s n="vblex"/></l> 
+        <r>have<b/>got<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vblex-RL
+    -->
+    <e r="RL">
+      <p>
+        <l>eduki<s n="vblex"/></l> 
+        <r>have<g><b/>got</g><s n="vblex"/></r> 
       </p>
     </e>
 
@@ -27324,8 +27595,6 @@
         <r>off<s n="pr"/></r> 
       </p>
     </e>
-
-    <e r="LR"><p><l>k<s n="post"/></l><r></r></p></e>
 
     <!-- 
 	forced 'null' restriction
@@ -33158,6 +33427,50 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL">
+      <p>
+        <l>espero<b/>izan<s n="vbper"/></l> 
+        <r>await<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>espero<b/>izan<s n="vbper"/></l> 
+        <r>expect<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>espero<b/>izan<s n="vbper"/></l> 
+        <r>hope<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>espero<b/>izan<s n="vbper"/></l> 
+        <r>wait<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       nom-0
     -->
@@ -34030,7 +34343,7 @@
 	forced 'null' restriction
       nom-0
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>etxe<s n="n"/></l> 
         <r>home<s n="n"/><s n="ND"/></r> 
@@ -34052,7 +34365,7 @@
 	forced 'null' restriction
       nom-0
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>etxe<s n="n"/></l> 
         <r>household<s n="n"/><s n="ND"/></r> 
@@ -34063,7 +34376,7 @@
 	forced 'null' restriction
       nom-0
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>etxe<s n="n"/></l> 
         <r>mansion<s n="n"/><s n="ND"/></r> 
@@ -34661,6 +34974,28 @@
       <p>
         <l>ezan<s n="vbsint"/></l> 
         <r>have<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
+      <p>
+        <l>ezan<s n="vbsint"/></l> 
+        <r>have<b/>got<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ezan<s n="vbsint"/></l> 
+        <r>have<g><b/>got</g><s n="vblex"/></r> 
       </p>
     </e>
 
@@ -35563,6 +35898,17 @@
       <p>
         <l>falta<s n="n"/></l> 
         <r>fault<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>falta<b/>izan<s n="vbper"/></l> 
+        <r>be<g><b/>missing</g><s n="vblex"/></r> 
       </p>
     </e>
 
@@ -40814,6 +41160,39 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL" c="MG: potser eliminar marca de polisèmia i fer-ho pel transfer? (I enjoy + ing)">
+      <p>
+        <l>gogoko<b/>izan<s n="vbper"/></l> 
+        <r>enjoy<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL">
+      <p>
+        <l>gogoko<b/>izan<s n="vbper"/></l> 
+        <r>fancy<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>gogoko<b/>izan<s n="vbper"/></l> 
+        <r>like<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       run1-6
     -->
@@ -41569,6 +41948,17 @@
       <p>
         <l>gorroto<s n="n"/></l> 
         <r>hate<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>gorroto<b/>izan<s n="vbper"/></l> 
+        <r>hate<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -42958,8 +43348,6 @@
       </p>
     </e>
 
-    <e r="LR"><p><l>bat<s n="num"/></l><r>a<s n="det"/><s n="ind"/><s n="ND"/></r></p></e>
-
     <!-- 
 	forced 'null' restriction
       default
@@ -43666,6 +44054,17 @@
 
     <!-- 
 	forced 'null' restriction
+      run1-6
+    -->
+    <e>
+      <p>
+        <l>harritsu<s n="adj"/></l> 
+        <r>rocky<s n="adj"/><s n="sint"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -44155,7 +44554,7 @@
     <e c="hau, hauek">
       <p>
         <l>hau<s n="det"/><s n="dem"/></l> 
-        <r>this<s n="det"/><s n="dem"/></r> 
+        <r>this<s n="det"/></r> 
       </p>
     </e>
 
@@ -63785,6 +64184,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>maite<b/>izan<s n="vbper"/></l> 
+        <r>love<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-6
     -->
     <e>
@@ -65012,6 +65422,28 @@
       <p>
         <l>menu<s n="n"/></l> 
         <r>menu<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>merezi<b/>izan<s n="vbper"/></l> 
+        <r>deserve<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      vbper-vblexRL
+    -->
+    <e r="RL">
+      <p>
+        <l>merezi<b/>izan<s n="vbper"/></l> 
+        <r>merit<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -67828,6 +68260,39 @@
       <p>
         <l>nahi<b/>izan<s n="vblex"/></l> 
         <r>pretend<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>nahi<b/>izan<s n="vbper"/></l> 
+        <r>love<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>nahi<b/>izan<s n="vbper"/></l> 
+        <r>want<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>nahiago<b/>izan<s n="vbper"/></l> 
+        <r>prefer<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -73916,6 +74381,17 @@
 
     <!-- 
 	forced 'null' restriction
+      run1-2
+    -->
+    <e>
+      <p>
+        <l>patetiko<s n="adj"/></l> 
+        <r>poignant<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-1
     -->
     <e>
@@ -74307,6 +74783,17 @@
       <p>
         <l>penintsula<s n="n"/></l> 
         <r>peninsula<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>penintsular<s n="adj"/></l> 
+        <r>peninsular<s n="adj"/></r> 
       </p>
     </e>
 
@@ -83893,6 +84380,39 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j">
+      <p>
+        <l>ukan<s n="vbsint"/></l> 
+        <r>have<b/>got<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ukan<s n="vbsint"/></l> 
+        <r>have<g><b/>got</g><s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vblex
+    -->
+    <e>
+      <p>
+        <l>ukan<s n="vblex"/></l> 
+        <r>have<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -84806,6 +85326,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbper-vblex
+    -->
+    <e>
+      <p>
+        <l>uste<b/>izan<s n="vbper"/></l> 
+        <r>believe<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -85263,6 +85794,17 @@
       <p>
         <l>xuxurlatu<s n="vblex"/></l> 
         <r>whisper<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>yarda<s n="n"/></l> 
+        <r>yard<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
