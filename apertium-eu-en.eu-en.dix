@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8108
+	Entries: 8112
 	Sdefs: 277
       
       Patterns applied:
-      	default (977 times)
+      	default (979 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -19,7 +19,7 @@
       	advRL (285 times)
       	vbsint-vblex (43 times)
       	vbsint-vbser (2 times)
-      	run1-2 (576 times)
+      	run1-2 (577 times)
       	run1-4 (17 times)
       	run1-5 (178 times)
       	run1-6 (130 times)
@@ -29,7 +29,7 @@
       	prn-1 (2 times)
       	prn-2 (2 times)
       	nom-0 (1867 times)
-      	nom-1 (1606 times)
+      	nom-1 (1607 times)
       	nom-3 (116 times)
       	cog-0 (13 times)
       	advgen (27 times)
@@ -60694,6 +60694,17 @@
     <e>
       <p>
         <l>lagun<s n="adj"/></l> 
+        <r>accompanying<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>lagun<s n="adj"/></l> 
         <r>fellow<s n="adj"/></r> 
       </p>
     </e>
@@ -79197,6 +79208,39 @@
       <p>
         <l>sedimentu<s n="n"/></l> 
         <r>sediment<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>seduktore<s n="n"/></l> 
+        <r>seducer<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>seduktore<s n="n"/></l> 
+        <r>seductress<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-2
+    -->
+    <e>
+      <p>
+        <l>seduktore<s n="adj"/></l> 
+        <r>seductive<s n="adj"/></r> 
       </p>
     </e>
 
