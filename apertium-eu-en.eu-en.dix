@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8098
+	Entries: 8100
 	Sdefs: 277
       
       Patterns applied:
-      	default (1005 times)
+      	default (975 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -20,7 +20,6 @@
       	vbsint-vblex (43 times)
       	vbsint-vbser (2 times)
       	run1-2 (572 times)
-      	run1-3 (9 times)
       	run1-4 (16 times)
       	run1-5 (177 times)
       	run1-6 (130 times)
@@ -35,6 +34,8 @@
       	cog-0 (13 times)
       	advgen (27 times)
       	advgenRL (54 times)
+      	mayor (5 times)
+      	moreadj (36 times)
 
 -->
 <dictionary>
@@ -3377,10 +3378,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      mayor
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>adingabe<s n="adj"/></l> 
         <r>low<s n="adj"/><s n="sint"/><s n="comp"/></r> 
@@ -3410,10 +3411,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      mayor
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>adingabeko<s n="adj"/></l> 
         <r>low<s n="adj"/><s n="sint"/><s n="comp"/></r> 
@@ -5885,10 +5886,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alfer<s n="adj"/></l> 
         <r>useless<s n="adj"/></r> 
@@ -7165,6 +7166,17 @@
       default
     -->
     <e>
+      <p>
+        <l>antzeko<s n="adj"/></l> 
+        <r>similar<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      moreadj
+    -->
+    <e r="RL">
       <p>
         <l>antzeko<s n="adj"/></l> 
         <r>similar<s n="adj"/></r> 
@@ -12046,7 +12058,7 @@
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -12056,10 +12068,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurreko<s n="adj"/></l> 
         <r>previous<s n="adj"/></r> 
@@ -12386,10 +12398,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ausart<s n="adj"/></l> 
         <r>audacious<s n="adj"/></r> 
@@ -15147,10 +15159,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>basati<s n="adj"/></l> 
         <r>brutal<s n="adj"/></r> 
@@ -17942,7 +17954,7 @@
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -19262,7 +19274,7 @@
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -19272,10 +19284,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bikain<s n="adj"/></l> 
         <r>remarkable<s n="adj"/></r> 
@@ -25147,7 +25159,7 @@
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -25157,10 +25169,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egiazko<s n="adj"/></l> 
         <r>real<s n="adj"/></r> 
@@ -25168,10 +25180,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egiazko<s n="adj"/></l> 
         <r>royal<s n="adj"/></r> 
@@ -25784,10 +25796,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egoki<s n="adj"/></l> 
         <r>convenient<s n="adj"/></r> 
@@ -25806,10 +25818,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egoki<s n="adj"/></l> 
         <r>pertinent<s n="adj"/></r> 
@@ -25818,7 +25830,7 @@
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -28380,10 +28392,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erabateko<s n="adj"/></l> 
         <r>radical<s n="adj"/></r> 
@@ -28391,10 +28403,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>erabateko<s n="adj"/></l> 
         <r>cutting<s n="adj"/></r> 
@@ -39534,10 +39546,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gazte<s n="adj"/></l> 
         <r>juvenile<s n="adj"/></r> 
@@ -39930,10 +39942,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>geldi<s n="adj"/></l> 
         <r>motionless<s n="adj"/></r> 
@@ -40326,10 +40338,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>geroko<s n="adj"/></l> 
         <r>back<s n="adj"/></r> 
@@ -40338,7 +40350,7 @@
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -41228,10 +41240,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gogor<s n="adj"/></l> 
         <r>relentless<s n="adj"/></r> 
@@ -41240,7 +41252,7 @@
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -41492,10 +41504,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>goiztiar<s n="adj"/></l> 
         <r>precocious<s n="adj"/></r> 
@@ -43527,19 +43539,19 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>handi<s n="adj"/></l> 
-        <r>able<s n="adj"/><s n="sint"/></r> 
+        <r>able<s n="adj"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -43593,10 +43605,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      mayor
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>handiago<s n="adj"/></l> 
         <r>great<s n="adj"/><s n="sint"/><s n="comp"/></r> 
@@ -44070,6 +44082,17 @@
       default
     -->
     <e>
+      <p>
+        <l>harrigarri<s n="adj"/></l> 
+        <r>surprising<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      moreadj
+    -->
+    <e r="RL">
       <p>
         <l>harrigarri<s n="adj"/></l> 
         <r>surprising<s n="adj"/></r> 
@@ -53394,10 +53417,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izugarri<s n="adj"/></l> 
         <r>horrible<s n="adj"/></r> 
@@ -60379,10 +60402,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>labur<s n="adj"/></l> 
         <r>brief<s n="adj"/></r> 
@@ -64097,10 +64120,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      mayor
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>maior<s n="adj"/></l> 
         <r>great<s n="adj"/><s n="sint"/><s n="comp"/></r> 
@@ -65164,13 +65187,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>mehe<s n="adj"/></l> 
-        <r>subtle<s n="adj"/><s n="sint"/></r> 
+        <r>subtle<s n="adj"/></r> 
       </p>
     </e>
 
@@ -68014,7 +68037,7 @@
 
     <!-- 
 	forced 'RL' restriction
-      run1-3
+      moreadj
     -->
     <e r="RL">
       <p>
@@ -68024,10 +68047,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>nagusi<s n="adj"/></l> 
         <r>predominant<s n="adj"/></r> 
@@ -70620,10 +70643,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>oinarrizko<s n="adj"/></l> 
         <r>elementary<s n="adj"/></r> 
@@ -73128,10 +73151,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ospetsu<s n="adj"/></l> 
         <r>solemn<s n="adj"/></r> 
@@ -83787,10 +83810,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      mayor
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>txikiago<s n="adj"/></l> 
         <r>low<s n="adj"/><s n="sint"/><s n="comp"/></r> 
@@ -85107,10 +85130,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>urrun<s n="adj"/></l> 
         <r>distant<s n="adj"/></r> 
@@ -88781,10 +88804,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      moreadj
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>zorrotz<s n="adj"/></l> 
         <r>demanding<s n="adj"/></r> 
