@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8100
+	Entries: 8106
 	Sdefs: 277
       
       Patterns applied:
-      	default (975 times)
+      	default (977 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -19,9 +19,9 @@
       	advRL (285 times)
       	vbsint-vblex (43 times)
       	vbsint-vbser (2 times)
-      	run1-2 (572 times)
-      	run1-4 (16 times)
-      	run1-5 (177 times)
+      	run1-2 (574 times)
+      	run1-4 (17 times)
+      	run1-5 (178 times)
       	run1-6 (130 times)
       	ND-5 (56 times)
       	loc-1 (49 times)
@@ -21858,6 +21858,17 @@
     </e>
 
     <!-- 
+	forced 'null' restriction
+      run1-5
+    -->
+    <e>
+      <p>
+        <l>deabru<s n="n"/></l> 
+        <r>devil<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'RL' restriction
       vblex-RL
     -->
@@ -35549,6 +35560,17 @@
       <p>
         <l>ezkontza<s n="n"/></l> 
         <r>marriage<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>ezkor<s n="adj"/></l> 
+        <r>pessimistic<s n="adj"/></r> 
       </p>
     </e>
 
@@ -50910,6 +50932,17 @@
 
     <!-- 
 	forced 'null' restriction
+      run1-2
+    -->
+    <e>
+      <p>
+        <l>iparramerikar<s n="adj"/></l> 
+        <r>North<b/>American<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -53549,6 +53582,17 @@
     </e>
 
     <!-- 
+	forced 'null' restriction
+      run1-4
+    -->
+    <e>
+      <p>
+        <l>jaiegun<s n="n"/></l> 
+        <r>holiday<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'RL' restriction
       vblex-RL
     -->
@@ -55723,6 +55767,17 @@
       <p>
         <l>kaltegarri<s n="adj"/></l> 
         <r>harmful<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>kaltegarri<s n="adj"/></l> 
+        <r>hurtful<s n="adj"/></r> 
       </p>
     </e>
 
@@ -61652,6 +61707,17 @@
       <p>
         <l>latindar<s n="adj"/></l> 
         <r>latin<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-2
+    -->
+    <e>
+      <p>
+        <l>latinoamerikar<s n="adj"/></l> 
+        <r>Latin<b/>American<s n="adj"/></r> 
       </p>
     </e>
 
