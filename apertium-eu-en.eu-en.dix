@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8106
+	Entries: 8108
 	Sdefs: 277
       
       Patterns applied:
@@ -19,7 +19,7 @@
       	advRL (285 times)
       	vbsint-vblex (43 times)
       	vbsint-vbser (2 times)
-      	run1-2 (574 times)
+      	run1-2 (576 times)
       	run1-4 (17 times)
       	run1-5 (178 times)
       	run1-6 (130 times)
@@ -14759,6 +14759,17 @@
       <p>
         <l>baratze<s n="n"/></l> 
         <r>orchard<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-2
+    -->
+    <e>
+      <p>
+        <l>barbaro<s n="adj"/></l> 
+        <r>barbaric<s n="adj"/></r> 
       </p>
     </e>
 
@@ -38662,6 +38673,17 @@
       <p>
         <l>garaikide<s n="adj"/></l> 
         <r>contemporary<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-2
+    -->
+    <e>
+      <p>
+        <l>garaile<s n="adj"/></l> 
+        <r>victorious<s n="adj"/></r> 
       </p>
     </e>
 
