@@ -1138,5 +1138,62 @@
 
 </cross-action>
 <!-- 1 entries like this -->
+<cross-action id="advgen">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/><s n="gen"/></l> 
+        <r>$lemmaB<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="adv"/></l> 
+        <r>$lemmaC<s n="adv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/><s n="gen"/></l> 
+        <r>$lemmaC<s n="adv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="advgenRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/><s n="gen"/></l> 
+        <r>$lemmaB<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="adv"/></l> 
+        <r>$lemmaC<s n="adv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="adv"/><s n="gen"/></l> 
+        <r>$lemmaC<s n="adv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 161 entries like this -->
 
 </cross-model>

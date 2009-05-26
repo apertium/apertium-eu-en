@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8095
+	Entries: 8098
 	Sdefs: 277
       
       Patterns applied:
-      	default (1083 times)
+      	default (1005 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -33,6 +33,8 @@
       	nom-1 (1606 times)
       	nom-3 (116 times)
       	cog-0 (13 times)
+      	advgen (27 times)
+      	advgenRL (54 times)
 
 -->
 <dictionary>
@@ -11274,9 +11276,20 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
+      <p>
+        <l>atzean<s n="adv"/><s n="gen"/></l> 
+        <r>behind<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advgenRL
+    -->
+    <e r="RL">
       <p>
         <l>atzean<s n="adv"/><s n="gen"/></l> 
         <r>behind<s n="adv"/></r> 
@@ -11295,10 +11308,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>atzera<s n="adv"/><s n="gen"/></l> 
         <r>back<s n="adv"/></r> 
@@ -11307,9 +11320,20 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
+      <p>
+        <l>atzera<s n="adv"/><s n="gen"/></l> 
+        <r>backwards<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advgenRL
+    -->
+    <e r="RL">
       <p>
         <l>atzera<s n="adv"/><s n="gen"/></l> 
         <r>backwards<s n="adv"/></r> 
@@ -11901,7 +11925,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -11911,10 +11935,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurrean<s n="adv"/><s n="gen"/></l> 
         <r>at<b/>the<b/>front<s n="adv"/></r> 
@@ -11922,10 +11946,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurrean<s n="adv"/><s n="gen"/></l> 
         <r>in<b/>the<b/>lead<s n="adv"/></r> 
@@ -11933,10 +11957,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurrean<s n="adv"/><s n="gen"/></l> 
         <r>to<b/>the<b/>fore<s n="adv"/></r> 
@@ -11944,10 +11968,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurrean<s n="adv"/><s n="gen"/></l> 
         <r>to<b/>the<b/>front<s n="adv"/></r> 
@@ -12109,10 +12133,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurrera<s n="adv"/><s n="gen"/></l> 
         <r>ahead<s n="adv"/></r> 
@@ -12120,10 +12144,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>aurrera<s n="adv"/><s n="gen"/></l> 
         <r>forth<s n="adv"/></r> 
@@ -12132,7 +12156,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -13088,10 +13112,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azpian<s n="adv"/><s n="gen"/></l> 
         <r>under<s n="adv"/></r> 
@@ -13100,7 +13124,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -13110,10 +13134,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azpian<s n="adv"/><s n="gen"/></l> 
         <r>beneath<s n="adv"/></r> 
@@ -13122,7 +13146,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -13198,10 +13222,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azpira<s n="adv"/><s n="gen"/></l> 
         <r>below<s n="adv"/></r> 
@@ -13210,7 +13234,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -13220,10 +13244,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azpira<s n="adv"/><s n="gen"/></l> 
         <r>down<b/>below<s n="adv"/></r> 
@@ -13231,10 +13255,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azpira<s n="adv"/><s n="gen"/></l> 
         <r>downstairs<s n="adv"/></r> 
@@ -13242,10 +13266,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azpira<s n="adv"/><s n="gen"/></l> 
         <r>downward<s n="adv"/></r> 
@@ -13253,10 +13277,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azpira<s n="adv"/><s n="gen"/></l> 
         <r>low<s n="adv"/></r> 
@@ -13264,10 +13288,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>azpira<s n="adv"/><s n="gen"/></l> 
         <r>quietly<s n="adv"/></r> 
@@ -13276,7 +13300,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -13287,7 +13311,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -14980,10 +15004,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>barruan<s n="adv"/><s n="gen"/></l> 
         <r>in<s n="adv"/></r> 
@@ -14992,7 +15016,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -15002,10 +15026,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>barruan<s n="adv"/><s n="gen"/></l> 
         <r>within<s n="adv"/></r> 
@@ -15047,7 +15071,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -16311,10 +16335,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behean<s n="adv"/><s n="gen"/></l> 
         <r>below<s n="adv"/></r> 
@@ -16323,7 +16347,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -16333,10 +16357,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behean<s n="adv"/><s n="gen"/></l> 
         <r>down<b/>below<s n="adv"/></r> 
@@ -16344,10 +16368,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behean<s n="adv"/><s n="gen"/></l> 
         <r>downstairs<s n="adv"/></r> 
@@ -16355,10 +16379,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behean<s n="adv"/><s n="gen"/></l> 
         <r>downward<s n="adv"/></r> 
@@ -16366,10 +16390,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behean<s n="adv"/><s n="gen"/></l> 
         <r>low<s n="adv"/></r> 
@@ -16377,10 +16401,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behean<s n="adv"/><s n="gen"/></l> 
         <r>quietly<s n="adv"/></r> 
@@ -16388,10 +16412,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<s n="adv"/><s n="gen"/></l> 
         <r>below<s n="adv"/></r> 
@@ -16400,7 +16424,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -16410,10 +16434,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<s n="adv"/><s n="gen"/></l> 
         <r>down<b/>below<s n="adv"/></r> 
@@ -16421,10 +16445,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<s n="adv"/><s n="gen"/></l> 
         <r>downstairs<s n="adv"/></r> 
@@ -16432,10 +16456,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<s n="adv"/><s n="gen"/></l> 
         <r>downward<s n="adv"/></r> 
@@ -16443,10 +16467,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<s n="adv"/><s n="gen"/></l> 
         <r>low<s n="adv"/></r> 
@@ -16454,10 +16478,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>behera<s n="adv"/><s n="gen"/></l> 
         <r>quietly<s n="adv"/></r> 
@@ -37673,10 +37697,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainean<s n="adv"/><s n="gen"/></l> 
         <r>above<s n="adv"/></r> 
@@ -37685,7 +37709,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -37695,10 +37719,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainean<s n="adv"/><s n="gen"/></l> 
         <r>over<s n="adv"/></r> 
@@ -37706,10 +37730,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainean<s n="adv"/><s n="gen"/></l> 
         <r>uppermost<s n="adv"/></r> 
@@ -37827,10 +37851,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/><s n="gen"/></l> 
         <r>above<s n="adv"/></r> 
@@ -37839,7 +37863,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -37849,10 +37873,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/><s n="gen"/></l> 
         <r>over<s n="adv"/></r> 
@@ -37860,10 +37884,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gainera<s n="adv"/><s n="gen"/></l> 
         <r>uppermost<s n="adv"/></r> 
@@ -37894,7 +37918,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -41358,10 +41382,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>goian<s n="adv"/><s n="gen"/></l> 
         <r>aloft<s n="adv"/></r> 
@@ -41369,10 +41393,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>goian<s n="adv"/><s n="gen"/></l> 
         <r>on<b/>top<s n="adv"/></r> 
@@ -41381,7 +41405,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -41391,10 +41415,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>goian<s n="adv"/><s n="gen"/></l> 
         <r>upward<s n="adv"/></r> 
@@ -41567,10 +41591,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gora<s n="adv"/><s n="gen"/></l> 
         <r>aloft<s n="adv"/></r> 
@@ -41578,10 +41602,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gora<s n="adv"/><s n="gen"/></l> 
         <r>on<b/>top<s n="adv"/></r> 
@@ -41590,7 +41614,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -41600,10 +41624,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gora<s n="adv"/><s n="gen"/></l> 
         <r>upward<s n="adv"/></r> 
@@ -41656,7 +41680,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -49950,7 +49974,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -49994,7 +50018,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -71091,10 +71115,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ondoren<s n="adv"/><s n="gen"/></l> 
         <r>after<s n="adv"/></r> 
@@ -71103,7 +71127,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -71113,10 +71137,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ondoren<s n="adv"/><s n="gen"/></l> 
         <r>thereafter<s n="adv"/></r> 
@@ -71213,9 +71237,20 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
+      <p>
+        <l>ondotik<s n="adv"/><s n="gen"/></l> 
+        <r>behind<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      advgenRL
+    -->
+    <e r="RL">
       <p>
         <l>ondotik<s n="adv"/><s n="gen"/></l> 
         <r>behind<s n="adv"/></r> 
@@ -73203,10 +73238,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ostean<s n="adv"/><s n="gen"/></l> 
         <r>after<s n="adv"/></r> 
@@ -73215,7 +73250,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -73225,10 +73260,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ostean<s n="adv"/><s n="gen"/></l> 
         <r>thereafter<s n="adv"/></r> 
@@ -73776,7 +73811,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -73786,10 +73821,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>parean<s n="adv"/><s n="gen"/></l> 
         <r>at<b/>the<b/>front<s n="adv"/></r> 
@@ -73797,10 +73832,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>parean<s n="adv"/><s n="gen"/></l> 
         <r>in<b/>the<b/>lead<s n="adv"/></r> 
@@ -73808,10 +73843,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>parean<s n="adv"/><s n="gen"/></l> 
         <r>to<b/>the<b/>fore<s n="adv"/></r> 
@@ -73819,10 +73854,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>parean<s n="adv"/><s n="gen"/></l> 
         <r>to<b/>the<b/>front<s n="adv"/></r> 
@@ -74644,10 +74679,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pean<s n="adv"/><s n="gen"/></l> 
         <r>under<s n="adv"/></r> 
@@ -74656,7 +74691,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
@@ -74666,10 +74701,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      advgenRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>pean<s n="adv"/><s n="gen"/></l> 
         <r>beneath<s n="adv"/></r> 
@@ -74678,7 +74713,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      advgen
     -->
     <e>
       <p>
