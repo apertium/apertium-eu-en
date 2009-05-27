@@ -3277,6 +3277,56 @@
         </p>
       </e>
     </pardef>
+    <pardef n="rot__vblex">
+      <e>
+        <p>
+          <l/>
+          <r><s n="vblex"/><sa/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r><s n="vblex"/><sa/><s n="pres"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r><s n="vblex"/><sa/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ted</l>
+          <r><s n="vblex"/><sa/><s n="past"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ten</l>
+          <r><s n="vblex"/><sa/><s n="pp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ting</l>
+          <r><s n="vblex"/><sa/><s n="ger"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ting</l>
+          <r><s n="vblex"/><sa/><s n="pprs"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ting</l>
+          <r><s n="vblex"/><sa/><s n="subs"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="fit__vblex">
       <e>
         <p>
@@ -14964,7 +15014,7 @@
     <e lm="Peru"><i>Peru</i><par n="Barcelona__np"/>    </e>
     <e lm="Peter"><i>Peter</i><par n="Mark__np"/>    </e>
     <e lm="Philip"><i>Philip</i><par n="Mark__np"/>    </e>
-    <e lm="Philippines"><i>Philippines</i><par n="Barcelona__np"/>    </e>
+    <e lm="Philippines"><i>Philippines</i><par n="United_Nations__np"/>    </e>
     <e lm="Poland"><i>Poland</i><par n="Barcelona__np"/>    </e>
     <e lm="Portugal"><i>Portugal</i><par n="Barcelona__np"/>    </e>
     <e lm="Prague"><i>Prague</i><par n="Barcelona__np"/>    </e>
@@ -22527,6 +22577,7 @@
     <e lm="bounce"><i>bounc</i><par n="liv/e__vblex"/>    </e>
     <e lm="boycott"><i>boycott</i><par n="accept__vblex"/>    </e>
     <e lm="bring together"><i>br</i><par n="br/ing__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>together</l><r><g><b/>together</g></r></p></e>
+    <e lm="throw off balance"><i>thr</i><par n="bl/ow__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>off<b/>balance</l><r><g><b/>off<b/>balance</g></r></p></e>
     <e lm="break"><i>br</i><par n="br/eak__vblex"/>    </e>
     <e lm="bring"><i>br</i><par n="br/ing__vblex"/>    </e>
     <e lm="brake"><i>brak</i><par n="liv/e__vblex"/>    </e>
@@ -22550,6 +22601,7 @@
     <e lm="come in"><i>c</i><par n="bec/ome__vblex"/>      <p>        <l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="come back"><i>c</i><par n="bec/ome__vblex"/>      <p>        <l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="come across"><i>c</i><par n="bec/ome__vblex"/>      <p>        <l><b/>across</l><r><g><b/>across</g></r></p></e>
+    <e lm="come close"><i>c</i><par n="bec/ome__vblex"/>      <p>        <l><b/>close</l><r><g><b/>close</g></r></p></e>
     <e lm="catch"><i>ca</i><par n="ca/tch__vblex"/>    </e>
     <e lm="calculate"><i>calculat</i><par n="liv/e__vblex"/>    </e>
     <e lm="recall"><i>recall</i><par n="accept__vblex"/>    </e>
@@ -30115,15 +30167,105 @@
 <e lm="weekend"><i>weekend</i><par n="house__n"/></e>
 <e lm="vulgarity"><i>vulgarit</i><par n="bab/y__n"/></e>
 <e lm="pasture"><i>pasture</i><par n="house__n"/></e>
-<e lm="charming"><i>charming</i><par n="expensive__n"/></e>
-<e lm="circular"><i>circular</i><par n="expensive__n"/></e>
-<e lm="suicidal"><i>suicidal</i><par n="expensive__n"/></e>
+<e lm="charming"><i>charming</i><par n="expensive__adj"/></e>
+<e lm="circular"><i>circular</i><par n="expensive__adj"/></e>
+<e lm="suicidal"><i>suicidal</i><par n="expensive__adj"/></e>
 <e lm="adhesion"><i>adhesion</i><par n="house__n"/></e>
 <e lm="fisherman"><i>fisherm</i><par n="m/an__n"/></e>
 <e lm="fisherwoman"><i>fisherwom</i><par n="m/an__n"/></e>
 <e lm="step forward"><i>step</i><par n="house__n"/><p><l><b/>forward</l><r><g><b/>forward</g></r></p></e>
 <e lm="embargo"><i>embargo</i><par n="access__n"/></e>
+<e lm="workday"><i>workday</i><par n="house__n"/></e>
+<e lm="work day"><i>work<b/>day</i><par n="house__n"/></e>
+<e lm="working day"><i>working<b/>day</i><par n="house__n"/></e>
+<e lm="working time"><i>working<b/>time</i><par n="house__n"/></e>
+<e lm="wedding day"><i>wedding<b/>day</i><par n="house__n"/></e>
+<e lm="payday"><i>payday</i><par n="house__n"/></e>
 
+    <e lm="enrich"><i>enrich</i><par n="approach__vblex"/>    </e>
+    <e lm="absolve"><i>absolv</i><par n="liv/e__vblex"/>    </e>
+    <e lm="abstain"><i>abstain</i><par n="accept__vblex"/>    </e>
+    <e lm="reissue"><i>reissu</i><par n="liv/e__vblex"/>    </e>
+    <e lm="redo"><i>red</i><par n="d/o__vblex"/>    </e>
+    <e lm="dine"><i>din</i><par n="liv/e__vblex"/>    </e>
+    <e lm="groan"><i>groan</i><par n="accept__vblex"/>    </e>
+    <e lm="thin"><i>thin</i><par n="plan__vblex"/>    </e>
+    <e lm="complain"><i>complain</i><par n="accept__vblex"/>    </e>
+    <e lm="plunder"><i>plunder</i><par n="accept__vblex"/>    </e>
+    <e lm="bore"><i>bor</i><par n="liv/e__vblex"/>    </e>
+    <e lm="cease"><i>ceas</i><par n="liv/e__vblex"/>    </e>
+    <e lm="reproach"><i>reproach</i><par n="approach__vblex"/>    </e>
+    <e lm="sift"><i>sift</i><par n="accept__vblex"/>    </e>
+    <e lm="discern"><i>discern</i><par n="accept__vblex"/>    </e>
+    <e lm="kneel"><i>kneel</i><par n="accept__vblex"/>    </e>
+    <e lm="equalise"><i>equalis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="equalize" c="en-US"><p><l>equaliz</l><r>equalis</r></p><par n="liv/e__vblex"/>    </e>
+    <e lm="reanimate"><i>reanimate</i><par n="liv/e__vblex"/>    </e>
+    <e lm="reedit"><i>reedit</i><par n="accept__vblex"/>    </e>
+    <e lm="rearm"><i>rearm</i><par n="accept__vblex"/>    </e>
+    <e lm="reexamine"><i>reexamin</i><par n="liv/e__vblex"/>    </e>
+    <e lm="rerun"><i>rer</i><par n="r/un__vblex"/>    </e>
+    <e lm="ratify"><i>ratif</i><par n="appl/y__vblex"/>    </e>
+    <e lm="perpetuate"><i>perpetuat</i><par n="accept__vblex"/>    </e>
+    <e lm="redistribute"><i>redistribut</i><par n="accept__vblex"/>    </e>
+    <e lm="remodel"><i>remodel</i><par n="control__vblex"/>    </e>
+    <e lm="recreate"><i>recreat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="re-create"><i>re-creat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="embroider"><i>embroider</i><par n="accept__vblex"/>    </e>
+    <e lm="box"><i>box</i><par n="approach__vblex"/>    </e>
+    <e lm="refrain"><i>refrain</i><par n="accept__vblex"/>    </e>
+    <e lm="bronze"><i>bronze</i><par n="liv/e__vblex"/>    </e>
+    <e lm="trick"><i>trick</i><par n="accept__vblex"/>    </e>
+    <e lm="exasperate"><i>exasperat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="demoralise"><i>demoralis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="demoralize" c="en-US"><p><l>demoraliz</l><r>demoralis</r></p><par n="liv/e__vblex"/>    </e>
+    <e lm="denaturalise"><i>denaturalis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="denaturalize" c="en-US"><p><l>denaturaliz</l><r>denaturalis</r></p><par n="liv/e__vblex"/>    </e>
+    <e lm="denationalise"><i>denationalis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="denationalize" c="en-US"><p><l>denationaliz</l><r>denationalis</r></p><par n="liv/e__vblex"/>    </e>
+    <e lm="differentiate"><i>differentiat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="dissemble"><i>dissembl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="dispense"><i>dispens</i><par n="liv/e__vblex"/>    </e>
+    <e lm="endow"><i>endow</i><par n="accept__vblex"/>    </e>
+    <e lm="sieve"><i>siev</i><par n="liv/e__vblex"/>    </e>
+    <e lm="grind"><i>grind</i><par n="accept__vblex"/>    </e>
+    <e lm="drain"><i>drain</i><par n="accept__vblex"/>    </e>
+    <e lm="seed"><i>seed</i><par n="accept__vblex"/>    </e>
+    <e lm="madden"><i>madden</i><par n="accept__vblex"/>    </e>
+    <e lm="irrigate"><i>irrigat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="rot"><i>rot</i><par n="rot__vblex"/>    </e>
+    <e lm="ruin"><i>ruin</i><par n="accept__vblex"/>    </e>
+    <e lm="scrape"><i>scrap</i><par n="liv/e__vblex"/>    </e>
+    <e lm="capitulate"><i>capitulat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="clone"><i>clon</i><par n="liv/e__vblex"/>    </e>
+    <e lm="square"><i>squar</i><par n="liv/e__vblex"/>    </e>
+    <e lm="fuse"><i>fus</i><par n="liv/e__vblex"/>    </e>
+    <e lm="fuse"><i>fuse</i><par n="house__n"/>    </e>
+    <e lm="grease"><i>greas</i><par n="liv/e__vblex"/>    </e>
+    <e lm="grease"><i>grease</i><par n="house__n"/>    </e>
+    <e lm="stutter"><i>stutter</i><par n="accept__vblex"/>    </e>
+    <e lm="stammer"><i>stammer</i><par n="accept__vblex"/>    </e>
+    <e lm="stutter"><i>stutter</i><par n="house__n"/>    </e>
+    <e lm="stammer"><i>stammer</i><par n="house__n"/>    </e>
+    <e lm="colonise"><i>colonis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="colonize" c="en-US"><p><l>coloniz</l><r>colonis</r></p><par n="liv/e__vblex"/>    </e>
+    <e lm="compress"><i>compress</i><par n="approach__vblex"/>    </e>
+    <e lm="crystallise"><i>crystallis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="crystallize" c="en-US"><p><l>crystalliz</l><r>crystallis</r></p><par n="liv/e__vblex"/>    </e>
+    <e lm="conserve"><i>conserv</i><par n="liv/e__vblex"/>    </e>
+    <e lm="reign"><i>reign</i><par n="accept__vblex"/>    </e>
+    <e lm="remedy"><i>remed</i><par n="appl/y__vblex"/>    </e>
+    <e lm="scandalise"><i>scandalis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="scandalise" c="en-US"><p><l>scandaliz</l><r>scandalis</r></p><par n="liv/e__vblex"/>    </e>
+    <e lm="specialise"><i>specialis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="specialise" c="en-US"><p><l>specializ</l><r>specialis</r></p><par n="liv/e__vblex"/>    </e>
+    <e lm="spy"><i>sp</i><par n="appl/y__vblex"/>    </e>
+    <e lm="première"><i>premièr</i><par n="liv/e__vblex"/>    </e>
+    <e lm="congratulate"><i>congratulat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="transcribe"><i>transcrib</i><par n="liv/e__vblex"/>    </e>
+    <e lm="threaten"><i>threaten</i><par n="accept__vblex"/>    </e>
+    <e lm="settle down"><i>settl</i><par n="liv/e__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p>    </e>
+    <e lm="make public"><i>ma</i><par n="ma/ke__vblex"/><p><l><b/>public</l><r><g><b/>public</g></r></p></e>
   </section>   
 
 
