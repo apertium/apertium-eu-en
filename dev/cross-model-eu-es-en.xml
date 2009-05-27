@@ -253,6 +253,118 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="det-ord1">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>$lemmaB<s n="det"/></l> 
+        <r>$lemmaC<s n="det"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaC<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="det-ord2">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></l> 
+        <r>$lemmaC<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaC<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="det-ord3">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>$lemmaB<s n="det"/></l> 
+        <r>$lemmaC<s n="det"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaC<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="det-ord4">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></l> 
+        <r>$lemmaC<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaC<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 <cross-action id="vblex">
 	<pattern>
     <e>
@@ -1254,19 +1366,19 @@
 </action-set>
 </cross-action>
 <!-- 931 entries like this -->
-<cross-action id="det.ord1">
+<cross-action id="nacr-51">
 	<pattern>
     <e>
       <p>
-        <l>$lemmaA<s n="adj"/></l> 
-        <r>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/></r> 
+        <l>$lemmaA<s n="n"/><s n="acr"/></l> 
+        <r>$lemmaB<s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
-    <e r="LR">
+    <e>
       <p>
-        <l>$lemmaB<s n="det"/></l> 
-        <r>$lemmaC<s n="det"/></r> 
+        <l>$lemmaB<s n="n"/><s n="acr"/><s n="m"/></l> 
+        <r>$lemmaC<s n="n"/><s n="acr"/></r> 
       </p>
     </e>
 
@@ -1275,40 +1387,13 @@
 <action>
     <e>
       <p>
-        <l>$lemmaA<s n="adj"/></l> 
-        <r>$lemmaC<s n="det"/><s n="ord"/></r> 
+        <l>$lemmaA<s n="n"/><s n="acr"/></l> 
+        <r>$lemmaC<s n="n"/><s n="acr"/></r> 
       </p>
     </e>
 </action>
 </action-set>
 </cross-action>
-<cross-action id="det.ord2">
-	<pattern>
-    <e>
-      <p>
-        <l>$lemmaA<s n="adj"/></l> 
-        <r>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <e r="RL">
-      <p>
-        <l>$lemmaB<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></l> 
-        <r>$lemmaC<s n="det"/><s n="ord"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-	</pattern>
-<action-set>
-<action>
-    <e>
-      <p>
-        <l>$lemmaA<s n="adj"/></l> 
-        <r>$lemmaC<s n="det"/><s n="ord"/></r> 
-      </p>
-    </e>
-</action>
-</action-set>
-</cross-action>
+<!-- 7 entries like this -->
 
 </cross-model>

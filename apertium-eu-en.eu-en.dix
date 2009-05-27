@@ -3,16 +3,18 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8210
+	Entries: 8246
 	Sdefs: 277
       
       Patterns applied:
-      	default (983 times)
+      	default (979 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
       	post-pr (29 times)
       	post-prRL (18 times)
+      	det-ord1 (17 times)
+      	det-ord2 (19 times)
       	vblex (1155 times)
       	vblex-RL (459 times)
       	adv (318 times)
@@ -36,6 +38,7 @@
       	advgenRL (54 times)
       	mayor (5 times)
       	moreadj (36 times)
+      	nacr-51 (4 times)
 
 -->
 <dictionary>
@@ -816,7 +819,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nacr-51
     -->
     <e>
       <p>
@@ -1157,7 +1160,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nacr-51
     -->
     <e>
       <p>
@@ -2653,7 +2656,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nacr-51
     -->
     <e>
       <p>
@@ -2664,7 +2667,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nacr-51
     -->
     <e>
       <p>
@@ -13091,6 +13094,28 @@
     </e>
 
     <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>aurren<s n="adj"/></l> 
+        <r>first<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>aurreneko<s n="adj"/></l> 
+        <r>first<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'RL' restriction
       advgenRL
     -->
@@ -13961,6 +13986,17 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>azken<s n="adj"/></l> 
+        <r>last<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       adv
     -->
     <e>
@@ -14022,6 +14058,17 @@
       <p>
         <l>azkenean<s n="adv"/></l> 
         <r>in<b/>the<b/>end<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>azkeneko<s n="adj"/></l> 
+        <r>last<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -16600,6 +16647,17 @@
     </e>
 
     <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e c="hogeita batgarren">
+      <p>
+        <l>batgarren<s n="adj"/></l> 
+        <r>first<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'RL' restriction
       advRL
     -->
@@ -16937,6 +16995,17 @@
       <p>
         <l>bedeinkazio<s n="n"/></l> 
         <r>blessing<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>bederatzigarren<s n="adj"/></l> 
+        <r>ninth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -19164,6 +19233,28 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>berrogeigarren<s n="adj"/></l> 
+        <r>fortieth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>berrogeigarren<s n="adj"/></l> 
+        <r>four<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-3
     -->
     <e>
@@ -20006,6 +20097,17 @@
       <p>
         <l>bideragarri<s n="adj"/></l> 
         <r>viable<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>bigarren<s n="adj"/></l> 
+        <r>second<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -21788,6 +21890,28 @@
       <p>
         <l>bortxatu<s n="vblex"/></l> 
         <r>force<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>bosgarren<s n="adj"/></l> 
+        <r>fifth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>bostgarren<s n="adj"/></l> 
+        <r>fifth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -27321,6 +27445,17 @@
       <p>
         <l>ehuneko<s n="n"/></l> 
         <r>percentage<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>ehungarren<s n="adj"/></l> 
+        <r>hundredth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -44442,6 +44577,28 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamabigarren<s n="adj"/></l> 
+        <r>twelfth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamabosgarren<s n="adj"/></l> 
+        <r>fifteenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -44464,6 +44621,17 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamahirugarren<s n="adj"/></l> 
+        <r>thirteenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -44475,12 +44643,34 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamaikagarren<s n="adj"/></l> 
+        <r>eleventh<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
       <p>
         <l>hamalau<s n="num"/><s n="pl"/></l> 
         <r>fourteen<s n="num"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamalaugarren<s n="adj"/></l> 
+        <r>fourteenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -44508,6 +44698,17 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamargarren<s n="adj"/></l> 
+        <r>tenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -44530,6 +44731,17 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamaseigarren<s n="adj"/></l> 
+        <r>sixteenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -44541,12 +44753,34 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamazazpigarren<s n="adj"/></l> 
+        <r>seventeenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
       <p>
         <l>hamazortzi<s n="num"/><s n="pl"/></l> 
         <r>eighteen<s n="num"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hamazortzigarren<s n="adj"/></l> 
+        <r>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46730,12 +46964,34 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hemeretzigarren<s n="adj"/></l> 
+        <r>nineteenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
       <p>
         <l>hemezortzi<s n="num"/><s n="pl"/></l> 
         <r>eighteen<s n="num"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hemezortzigarren<s n="adj"/></l> 
+        <r>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46769,6 +47025,17 @@
       <p>
         <l>hereditario<s n="adj"/></l> 
         <r>hereditary<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>heren<s n="adj"/></l> 
+        <r>third<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -47522,12 +47789,34 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>hirugarren<s n="adj"/></l> 
+        <r>third<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-1
     -->
     <e>
       <p>
         <l>hiruhileko<s n="n"/></l> 
         <r>quarter<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hirurogeigarren<s n="adj"/></l> 
+        <r>sixtieth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -47869,6 +48158,17 @@
       <p>
         <l>hodei<s n="n"/></l> 
         <r>cloud<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>hogeigarren<s n="adj"/></l> 
+        <r>twentieth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -62812,6 +63112,17 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>laugarren<s n="adj"/></l> 
+        <r>fourth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-1
     -->
     <e>
@@ -62829,6 +63140,17 @@
       <p>
         <l>laurden<s n="n"/></l> 
         <r>chamber<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>laurogeigarren<s n="adj"/></l> 
+        <r>eightieth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -63043,6 +63365,17 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>lehen<s n="adj"/></l> 
+        <r>first<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -63175,6 +63508,17 @@
 
     <!-- 
 	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>lehendabiziko<s n="adj"/></l> 
+        <r>first<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -63225,6 +63569,17 @@
       <p>
         <l>lehendakariorde<s n="n"/></l> 
         <r>vice<b/>president<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>lehenengo<s n="adj"/></l> 
+        <r>first<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -67141,6 +67496,17 @@
       <p>
         <l>mila<s n="n"/></l> 
         <r>thousand<s n="n"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>milagarren<s n="adj"/></l> 
+        <r>thousandth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -80510,6 +80876,17 @@
     </e>
 
     <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>seigarren<s n="adj"/></l> 
+        <r>sixth<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'RL' restriction
       vblex-RL
     -->
@@ -88023,6 +88400,17 @@
     </e>
 
     <!-- 
+	forced 'null' restriction
+      det-ord2
+    -->
+    <e>
+      <p>
+        <l>zazpigarren<s n="adj"/></l> 
+        <r>seventh<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'RL' restriction
       advRL
     -->
@@ -90043,6 +90431,17 @@
       <p>
         <l>zorroztasun<s n="n"/></l> 
         <r>rigour<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      det-ord1
+    -->
+    <e>
+      <p>
+        <l>zortzigarren<s n="adj"/></l> 
+        <r>eighth<s n="det"/><s n="ord"/><s n="sp"/></r> 
       </p>
     </e>
 
