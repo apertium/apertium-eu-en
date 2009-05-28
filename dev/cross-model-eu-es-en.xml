@@ -1395,5 +1395,173 @@
 </action-set>
 </cross-action>
 <!-- 7 entries like this -->
+<cross-action id="adv-cnjadv">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/></l> 
+        <r>$lemmaB<s n="cnjadv"/></r> 
+      </p>
+    </e>
 
+    <e>
+      <p>
+        <l>$lemmaB<s n="cnjadv"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="adv-pr">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/></l> 
+        <r>$lemmaB<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="pr"/></l> 
+        <r>$lemmaC<s n="pr"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/></l> 
+        <r>$lemmaC<s n="pr"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+
+<cross-action id="adv-cnjadv">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/></l> 
+        <r>$lemmaB<s n="ij"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="ij"/></l> 
+        <r>$lemmaC<s n="ij"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adv"/></l> 
+        <r>$lemmaC<s n="ij"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="cnjloc-adv">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjloc"/></l> 
+        <r>$lemmaB<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="adv"/></l> 
+        <r>$lemmaC<s n="adv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjloc"/></l> 
+        <r>$lemmaC<s n="adv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="cnjloc-cnjadv">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjloc"/></l> 
+        <r>$lemmaB<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="cnjadv"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjloc"/></l> 
+        <r>$lemmaC<s n="cnjadv"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="cnjloc-cnjcoo">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjloc"/></l> 
+        <r>$lemmaB<s n="cnjcoo"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="cnjcoo"/></l> 
+        <r>$lemmaC<s n="cnjcoo"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjloc"/></l> 
+        <r>$lemmaC<s n="cnjcoo"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 </cross-model>

@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8412
+	Entries: 8428
 	Sdefs: 277
       
       Patterns applied:
@@ -39,6 +39,9 @@
       	mayor (5 times)
       	moreadj (36 times)
       	nacr-51 (4 times)
+      	cnjloc-adv (12 times)
+      	cnjloc-cnjadv (2 times)
+      	cnjloc-cnjcoo (2 times)
 
 -->
 <dictionary>
@@ -15207,6 +15210,28 @@
 
     <!-- 
 	forced 'null' restriction
+      cnjloc-cnjcoo
+    -->
+    <e>
+      <p>
+        <l>baino<s n="cnjloc"/></l> 
+        <r>but<s n="cnjcoo"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-cnjcoo
+    -->
+    <e>
+      <p>
+        <l>baino<s n="cnjloc"/></l> 
+        <r>but<b/>rather<s n="cnjcoo"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       adv
     -->
     <e>
@@ -18287,6 +18312,17 @@
 
     <!-- 
 	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>behintzat<s n="cnjloc"/></l> 
+        <r>at<b/>least<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -18634,6 +18670,17 @@
       <p>
         <l>beraz<s n="adv"/></l> 
         <r>therefore<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-cnjadv
+    -->
+    <e>
+      <p>
+        <l>beraz<s n="cnjloc"/></l> 
+        <r>therefore<s n="cnjadv"/></r> 
       </p>
     </e>
 
@@ -19739,6 +19786,17 @@
 
     <!-- 
 	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>berriz<s n="cnjloc"/></l> 
+        <r>again<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -20031,6 +20089,28 @@
       <p>
         <l>beso<s n="n"/></l> 
         <r>shoulder<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>bestalde<s n="cnjloc"/></l> 
+        <r>on<b/>the<b/>other<b/>hand<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>bestalde<s n="cnjloc"/></l> 
+        <r>on<b/>the<b/>other<b/>side<s n="adv"/></r> 
       </p>
     </e>
 
@@ -40276,6 +40356,83 @@
 
     <!-- 
 	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>gainera<s n="cnjloc"/></l> 
+        <r>additionally<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>gainera<s n="cnjloc"/></l> 
+        <r>besides<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>gainera<s n="cnjloc"/></l> 
+        <r>furthermore<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>gainera<s n="cnjloc"/></l> 
+        <r>in<b/>addition<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>gainera<s n="cnjloc"/></l> 
+        <r>into<b/>the<b/>bargain<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>gainera<s n="cnjloc"/></l> 
+        <r>moreover<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>gainera<s n="cnjloc"/></l> 
+        <r>there<b/>again<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-1
     -->
     <e>
@@ -49901,6 +50058,17 @@
 
     <!-- 
 	forced 'null' restriction
+      cnjloc-cnjadv
+    -->
+    <e>
+      <p>
+        <l>hortaz<s n="cnjloc"/></l> 
+        <r>therefore<s n="cnjadv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-1
     -->
     <e>
@@ -56441,6 +56609,17 @@
       <p>
         <l>jakin-nahi<s n="n"/></l> 
         <r>curiosity<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      cnjloc-adv
+    -->
+    <e>
+      <p>
+        <l>jakina<s n="cnjloc"/></l> 
+        <r>of<b/>course<s n="adv"/></r> 
       </p>
     </e>
 
