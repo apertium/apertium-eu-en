@@ -253,6 +253,62 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="spost-pr">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="spost"/></l> 
+        <r>$lemmaB<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="pr"/></l> 
+        <r>$lemmaC<s n="pr"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="spost"/></l> 
+        <r>$lemmaC<s n="pr"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="spost-prRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="spost"/></l> 
+        <r>$lemmaB<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="pr"/></l> 
+        <r>$lemmaC<s n="pr"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="spost"/></l> 
+        <r>$lemmaC<s n="pr"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 <cross-action id="det-ord1">
 	<pattern>
     <e>

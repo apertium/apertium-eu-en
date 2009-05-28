@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8438
+	Entries: 8490
 	Sdefs: 277
       
       Patterns applied:
@@ -13,6 +13,8 @@
       	vbper-vblexRL (11 times)
       	post-pr (29 times)
       	post-prRL (18 times)
+      	spost-pr (26 times)
+      	spost-prRL (26 times)
       	det-ord1 (17 times)
       	det-ord2 (19 times)
       	vblex (1276 times)
@@ -6392,6 +6394,28 @@
 
     <!-- 
 	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>aldera<s n="spost"/></l> 
+        <r>to<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>aldera<s n="spost"/></l> 
+        <r>towards<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -6530,6 +6554,28 @@
       <p>
         <l>alderdi<s n="n"/></l> 
         <r>party<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>aldetik<s n="spost"/></l> 
+        <r>as<b/>for<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>aldetik<s n="spost"/></l> 
+        <r>regarding<s n="pr"/></r> 
       </p>
     </e>
 
@@ -8239,6 +8285,50 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL" c="as you - com tu">
+      <p>
+        <l>antzera<s n="spost"/></l> 
+        <r>as<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot">
+      <p>
+        <l>antzera<s n="spost"/></l> 
+        <r>as<b/>a<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>antzera<s n="spost"/></l> 
+        <r>like<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>antzera<s n="spost"/></l> 
+        <r>such<b/>as<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       nom-0
     -->
@@ -8895,6 +8985,28 @@
       <p>
         <l>ar<s n="adj"/></l> 
         <r>masculine<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>arabera<s n="spost"/></l> 
+        <r>according<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>arabera<s n="spost"/></l> 
+        <r>according<b/>to<s n="pr"/></r> 
       </p>
     </e>
 
@@ -10858,12 +10970,56 @@
 
     <!-- 
 	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>arte<s n="spost"/></l> 
+        <r>until<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>arte<s n="spost"/></l> 
+        <r>up<b/>to<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-3
     -->
     <e>
       <p>
         <l>arte<s n="n"/></l> 
         <r>art<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>arteraino<s n="spost"/></l> 
+        <r>until<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>arteraino<s n="spost"/></l> 
+        <r>up<b/>to<s n="pr"/></r> 
       </p>
     </e>
 
@@ -13020,6 +13176,17 @@
       <p>
         <l>aurizki<s n="vblex"/></l> 
         <r>step<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>aurka<s n="spost"/></l> 
+        <r>against<s n="pr"/></r> 
       </p>
     </e>
 
@@ -16298,6 +16465,17 @@
       <p>
         <l>baretu<s n="vblex"/></l> 
         <r>calm<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>barik<s n="spost"/></l> 
+        <r>without<s n="pr"/></r> 
       </p>
     </e>
 
@@ -20846,6 +21024,17 @@
 
     <!-- 
 	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>bidez<s n="spost"/></l> 
+        <r>by<b/>means<b/>of<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       det-ord1
     -->
     <e>
@@ -21945,6 +22134,50 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>bitarte<s n="spost"/></l> 
+        <r>amid<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>bitarte<s n="spost"/></l> 
+        <r>among<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>bitarte<s n="spost"/></l> 
+        <r>amongst<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>bitarte<s n="spost"/></l> 
+        <r>between<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       adv
     -->
@@ -22007,6 +22240,28 @@
       <p>
         <l>bitarteko<b/>izan<s n="vblex"/></l> 
         <r>take<g><b/>part</g><s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>bitartez<s n="spost"/></l> 
+        <r>through<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>bitartez<s n="spost"/></l> 
+        <r>across<s n="pr"/></r> 
       </p>
     </e>
 
@@ -23635,6 +23890,50 @@
       <p>
         <l>burutu<s n="vblex"/></l> 
         <r>meet<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL" c="possible polisèmia sobre - on/about">
+      <p>
+        <l>buruz<s n="spost"/></l> 
+        <r>about<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>buruz<s n="spost"/></l> 
+        <r>on<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>buruz<s n="spost"/></l> 
+        <r>over<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>buruz<s n="spost"/></l> 
+        <r>at<b/>about<s n="pr"/></r> 
       </p>
     </e>
 
@@ -34563,6 +34862,17 @@
 
     <!-- 
 	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>esanetan<s n="spost"/></l> 
+        <r>according<b/>to<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -35009,6 +35319,17 @@
       <p>
         <l>eskematiko<s n="adj"/></l> 
         <r>schematic<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>esker<s n="spost"/></l> 
+        <r>thanks<b/>to<s n="pr"/></r> 
       </p>
     </e>
 
@@ -40030,6 +40351,28 @@
 
     <!-- 
 	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>gabe<s n="spost"/></l> 
+        <r>without<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>gabe<s n="spost"/></l> 
+        <r>with<b/>no<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -40157,6 +40500,17 @@
       <p>
         <l>gailur<s n="n"/></l> 
         <r>summit<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>gain<s n="spost"/></l> 
+        <r>in<b/>addition<b/>to<s n="pr"/></r> 
       </p>
     </e>
 
@@ -40311,6 +40665,17 @@
       <p>
         <l>gaineko<s n="adj"/></l> 
         <r>upper<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>gainera<s n="spost"/></l> 
+        <r>in<b/>addition<b/>to<s n="pr"/></r> 
       </p>
     </e>
 
@@ -42890,6 +43255,17 @@
 
     <!-- 
 	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>gero<s n="spost"/></l> 
+        <r>after<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-1
     -->
     <e>
@@ -43347,6 +43723,50 @@
       <p>
         <l>giltzaperatu<s n="vblex"/></l> 
         <r>shut<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL" c="as you - com tu">
+      <p>
+        <l>gisa<s n="spost"/></l> 
+        <r>as<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot">
+      <p>
+        <l>gisa<s n="spost"/></l> 
+        <r>as<b/>a<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>gisa<s n="spost"/></l> 
+        <r>like<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>gisa<s n="spost"/></l> 
+        <r>such<b/>as<s n="pr"/></r> 
       </p>
     </e>
 
@@ -44326,6 +44746,28 @@
       <p>
         <l>gorabehera<s n="n"/></l> 
         <r>disorder<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>gorabehera<s n="spost"/></l> 
+        <r>despite<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>gorabehera<s n="spost"/></l> 
+        <r>in<b/>spite<b/>of<s n="pr"/></r> 
       </p>
     </e>
 
@@ -56034,6 +56476,39 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>izan<b/>ezik<s n="spost"/></l> 
+        <r>but<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>izan<b/>ezik<s n="spost"/></l> 
+        <r>except<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>izan<b/>ezik<s n="spost"/></l> 
+        <r>except<b/>for<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       nom-0
     -->
@@ -58857,6 +59332,39 @@
       <p>
         <l>kanpatu<s n="vblex"/></l> 
         <r>camp<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>kanpo<s n="spost"/></l> 
+        <r>out<b/>of<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>kanpo<s n="spost"/></l> 
+        <r>out<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>kanpo<s n="spost"/></l> 
+        <r>outside<s n="pr"/></r> 
       </p>
     </e>
 
@@ -61871,6 +62379,17 @@
       <p>
         <l>kontinente<s n="n"/></l> 
         <r>continent<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>kontra<s n="spost"/></l> 
+        <r>against<s n="pr"/></r> 
       </p>
     </e>
 
@@ -81829,6 +82348,39 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>salbu<s n="spost"/></l> 
+        <r>but<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>salbu<s n="spost"/></l> 
+        <r>except<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>salbu<s n="spost"/></l> 
+        <r>except<b/>for<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       nom-0
     -->
@@ -90460,6 +91012,28 @@
       <p>
         <l>zazpigarren<s n="adj"/></l> 
         <r>seventh<s n="det"/><s n="ord"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      spost-pr
+    -->
+    <e>
+      <p>
+        <l>zehar<s n="spost"/></l> 
+        <r>through<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      spost-prRL
+    -->
+    <e r="RL">
+      <p>
+        <l>zehar<s n="spost"/></l> 
+        <r>across<s n="pr"/></r> 
       </p>
     </e>
 
