@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8376
+	Entries: 8412
 	Sdefs: 277
       
       Patterns applied:
-      	default (978 times)
+      	default (987 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -15,23 +15,23 @@
       	post-prRL (18 times)
       	det-ord1 (17 times)
       	det-ord2 (19 times)
-      	vblex (1274 times)
+      	vblex (1276 times)
       	vblex-RL (464 times)
       	adv (318 times)
       	advRL (285 times)
       	vbsint-vblex (43 times)
       	vbsint-vbser (2 times)
       	run1-2 (579 times)
-      	run1-4 (17 times)
-      	run1-5 (180 times)
+      	run1-4 (18 times)
+      	run1-5 (183 times)
       	run1-6 (130 times)
       	ND-5 (87 times)
       	loc-1 (50 times)
       	loc-2 (34 times)
       	prn-1 (2 times)
       	prn-2 (2 times)
-      	nom-0 (1890 times)
-      	nom-1 (1627 times)
+      	nom-0 (1898 times)
+      	nom-1 (1640 times)
       	nom-3 (116 times)
       	cog-0 (35 times)
       	advgen (27 times)
@@ -4950,6 +4950,17 @@
       <p>
         <l>ahal<b/>dela<s n="adv"/></l> 
         <r>possibly<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vblex
+    -->
+    <e>
+      <p>
+        <l>ahalbidetu<s n="vblex"/></l> 
+        <r>make<g><b/>possible</g><s n="vblex"/></r> 
       </p>
     </e>
 
@@ -11698,6 +11709,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>astegun<s n="n"/></l> 
+        <r>business<b/>day<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -14023,6 +14045,17 @@
     -->
     <e>
       <p>
+        <l>axolagabetasun<s n="n"/></l> 
+        <r>indifference<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
         <l>azal<s n="n"/></l> 
         <r>cover<s n="n"/><s n="ND"/></r> 
       </p>
@@ -14650,6 +14683,17 @@
     -->
     <e>
       <p>
+        <l>aztarna<s n="n"/></l> 
+        <r>indication<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
         <l>azterketa<s n="n"/></l> 
         <r>exam<s n="n"/><s n="ND"/></r> 
       </p>
@@ -14855,6 +14899,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>bagoi<s n="n"/></l> 
+        <r>wagon<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -14883,6 +14938,17 @@
       <p>
         <l>bahia<b/>atera<s n="vblex"/></l> 
         <r>exert<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>bahiketa<s n="n"/></l> 
+        <r>kidnapping<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18980,6 +19046,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>berezitasun<s n="n"/></l> 
+        <r>peculiarity<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -21928,6 +22005,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>bizibide<s n="n"/></l> 
+        <r>way<g><b/>of<b/>life</g><s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -22020,6 +22108,17 @@
     -->
     <e>
       <p>
+        <l>bizimodu<s n="n"/></l> 
+        <r>way<g><b/>of<b/>life</g><s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
         <l>bizio<s n="n"/></l> 
         <r>vice<s n="n"/><s n="ND"/></r> 
       </p>
@@ -22099,6 +22198,28 @@
       <p>
         <l>bizkarralde<s n="n"/></l> 
         <r>backrest<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>bizkartzain<s n="n"/></l> 
+        <r>bodyguard<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>bizkartzain<s n="n"/></l> 
+        <r>bodyguard<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -29452,6 +29573,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>emankortasun<s n="n"/></l> 
+        <r>fecundity<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-1
     -->
     <e>
@@ -29997,6 +30129,17 @@
       <p>
         <l>entzierro<s n="n"/></l> 
         <r>closing<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>entziklopedia<s n="n"/></l> 
+        <r>encyclopaedia<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33940,6 +34083,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>erruduntasun<s n="n"/></l> 
+        <r>culpability<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -34507,6 +34661,17 @@
       <p>
         <l>eskala<s n="n"/></l> 
         <r>scale<s n="n"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-4
+    -->
+    <e>
+      <p>
+        <l>eskale<s n="n"/></l> 
+        <r>beggar<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36014,6 +36179,17 @@
       <p>
         <l>estatua<s n="n"/></l> 
         <r>statue<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-5
+    -->
+    <e>
+      <p>
+        <l>estatuburu<s n="n"/></l> 
+        <r>head<g><b/>of<b/>state</g><s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -43279,6 +43455,28 @@
 
     <!-- 
 	forced 'null' restriction
+      run1-5
+    -->
+    <e>
+      <p>
+        <l>gobernuburu<s n="n"/></l> 
+        <r>head<g><b/>of<b/>government</g><s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      run1-5
+    -->
+    <e>
+      <p>
+        <l>gobernuburu<s n="n"/></l> 
+        <r>government<b/>head<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -47008,6 +47206,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>haurtzaro<s n="n"/></l> 
+        <r>infancy<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -47553,6 +47762,17 @@
       <p>
         <l>hegazkin<s n="n"/></l> 
         <r>plane<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>hegazti<s n="n"/></l> 
+        <r>bird<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -55797,6 +56017,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>izozki-denda<s n="n"/></l> 
+        <r>ice<b/>cream<b/>parlour<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -63651,6 +63882,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>lanegun<s n="n"/></l> 
+        <r>business<b/>day<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -66852,6 +67094,17 @@
 
     <!-- 
 	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>maiordomo<s n="n"/></l> 
+        <r>majordomo<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-4
     -->
     <e>
@@ -67391,6 +67644,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>marihuana<s n="n"/></l> 
+        <r>marijuana<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -67463,6 +67727,50 @@
       <p>
         <l>markatu<s n="vblex"/></l> 
         <r>score<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>markes<s n="n"/></l> 
+        <r>marquis<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>markes<s n="n"/></l> 
+        <r>marchioness<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>markes<s n="n"/></l> 
+        <r>marquess<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>markes<s n="n"/></l> 
+        <r>marquise<s n="n"/></r> 
       </p>
     </e>
 
@@ -68156,6 +68464,17 @@
       <p>
         <l>menditsu<s n="adj"/></l> 
         <r>mountainous<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>mendizale<s n="n"/></l> 
+        <r>mountaineer<s n="n"/></r> 
       </p>
     </e>
 
@@ -69575,6 +69894,17 @@
       <p>
         <l>monarka<s n="n"/></l> 
         <r>monarch<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>monasterio<s n="n"/></l> 
+        <r>monastery<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71344,6 +71674,17 @@
     -->
     <e>
       <p>
+        <l>nazioarte<s n="n"/></l> 
+        <r>international<b/>community<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
         <l>nazioarteko<s n="adj"/></l> 
         <r>international<s n="adj"/></r> 
       </p>
@@ -72886,17 +73227,6 @@
       <p>
         <l>obra<s n="n"/></l> 
         <r>drama<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-0
-    -->
-    <e>
-      <p>
-        <l>obra<s n="n"/></l> 
-        <r>work<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78952,6 +79282,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vblex
+    -->
+    <e>
+      <p>
+        <l>portatu<s n="vblex"/></l> 
+        <r>carry<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-1
     -->
     <e>
@@ -79475,6 +79816,28 @@
       <p>
         <l>presidentearen<s n="adj"/></l> 
         <r>presidential<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>presidentegai<s n="n"/></l> 
+        <r>presidential<b/>candidate<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>presidentegai<s n="n"/></l> 
+        <r>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/></r> 
       </p>
     </e>
 
@@ -88614,6 +88977,17 @@
     -->
     <e>
       <p>
+        <l>webgune<s n="n"/></l> 
+        <r>website<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
         <l>whiski<s n="n"/></l> 
         <r>whisky<s n="n"/><s n="ND"/></r> 
       </p>
@@ -89463,6 +89837,17 @@
       <p>
         <l>zanpatu<s n="vblex"/></l> 
         <r>crush<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>zantzu<s n="n"/></l> 
+        <r>indication<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -91058,6 +91443,17 @@
       <p>
         <l>zinemagintza<s n="n"/></l> 
         <r>cinema<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>zinemaldi<s n="n"/></l> 
+        <r>film<b/>festival<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
