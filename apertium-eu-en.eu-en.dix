@@ -7,7 +7,7 @@
 	Sdefs: 277
       
       Patterns applied:
-      	default (987 times)
+      	default (985 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -48,6 +48,8 @@
       	graexc-adv (1 times)
       	grasup-adv (1 times)
       	grabast-adv (3 times)
+      	ND-120 (1 times)
+      	prnitg-1 (1 times)
 
 -->
 <dictionary>
@@ -2819,12 +2821,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-120
     -->
     <e>
       <p>
         <l>Pirinio<s n="np"/></l> 
-        <r>Pyrenees<s n="np"/><s n="loc"/></r> 
+        <r>Pyrenees<s n="np"/><s n="loc"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -73582,7 +73584,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      prnitg-1
     -->
     <e>
       <p>
