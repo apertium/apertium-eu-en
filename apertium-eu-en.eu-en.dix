@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8428
+	Entries: 8438
 	Sdefs: 277
       
       Patterns applied:
@@ -42,6 +42,10 @@
       	cnjloc-adv (12 times)
       	cnjloc-cnjadv (2 times)
       	cnjloc-cnjcoo (2 times)
+      	gracomp-adv (5 times)
+      	graexc-adv (1 times)
+      	grasup-adv (1 times)
+      	grabast-adv (3 times)
 
 -->
 <dictionary>
@@ -4843,6 +4847,61 @@
       <p>
         <l>agitatu<s n="vblex"/></l> 
         <r>wave<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      gracomp-adv
+    -->
+    <e>
+      <p>
+        <l>ago<s n="gra"/><s n="comp"/></l> 
+        <r>any<b/>more<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      gracomp-adv
+    -->
+    <e>
+      <p>
+        <l>ago<s n="gra"/><s n="comp"/></l> 
+        <r>best<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      gracomp-adv
+    -->
+    <e>
+      <p>
+        <l>ago<s n="gra"/><s n="comp"/></l> 
+        <r>else<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      gracomp-adv
+    -->
+    <e>
+      <p>
+        <l>ago<s n="gra"/><s n="comp"/></l> 
+        <r>more<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      gracomp-adv
+    -->
+    <e c="per al superlatiu: the most interesting - el més interessant, i tb adv normal - what I like most">
+      <p>
+        <l>ago<s n="gra"/><s n="comp"/></l> 
+        <r>most<s n="adv"/></r> 
       </p>
     </e>
 
@@ -27288,6 +27347,17 @@
 
     <!-- 
 	forced 'null' restriction
+      graexc-adv
+    -->
+    <e c="MG: Crec que 'too much' i 'too many' s'haurien de posar en un sol paradigma per tal de posar ND en la direcció cat-en">
+      <p>
+        <l>egi<s n="gra"/><s n="exc"/></l> 
+        <r>too<b/>much<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -29824,6 +29894,17 @@
       <p>
         <l>en<s n="post"/></l> 
         <r>off<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      grasup-adv
+    -->
+    <e>
+      <p>
+        <l>en<s n="gra"/><s n="sup"/></l> 
+        <r>more<s n="adv"/></r> 
       </p>
     </e>
 
@@ -81920,6 +82001,39 @@
       <p>
         <l>saltzaile<s n="n"/></l> 
         <r>vendor<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      grabast-adv
+    -->
+    <e>
+      <p>
+        <l>samar<s n="gra"/><s n="bast"/></l> 
+        <r>enough<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      grabast-adv
+    -->
+    <e c="no preadverbi">
+      <p>
+        <l>samar<s n="gra"/><s n="bast"/></l> 
+        <r>quite<b/>a<b/>lot<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      grabast-adv
+    -->
+    <e>
+      <p>
+        <l>samar<s n="gra"/><s n="bast"/></l> 
+        <r>rather<s n="adv"/></r> 
       </p>
     </e>
 
