@@ -7,7 +7,7 @@
 	Sdefs: 277
       
       Patterns applied:
-      	default (911 times)
+      	default (456 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -52,6 +52,10 @@
       	prnitg-1 (1 times)
       	ND-3 (43 times)
       	ND-4 (29 times)
+      	adj-dropmf (420 times)
+      	ant-3 (21 times)
+      	numberRL (2 times)
+      	number (12 times)
 
 -->
 <dictionary>
@@ -579,7 +583,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -678,7 +682,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1085,7 +1089,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1151,7 +1155,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1360,7 +1364,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1470,7 +1474,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1756,7 +1760,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1778,7 +1782,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1789,7 +1793,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1822,7 +1826,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1844,7 +1848,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1877,7 +1881,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -1943,7 +1947,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -2273,7 +2277,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -2350,7 +2354,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -2383,7 +2387,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -2438,7 +2442,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -2449,7 +2453,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -2504,7 +2508,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -2757,7 +2761,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -2856,7 +2860,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ant-3
     -->
     <e>
       <p>
@@ -3461,7 +3465,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -4044,7 +4048,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -4077,7 +4081,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -4099,7 +4103,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -4110,7 +4114,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -4132,7 +4136,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -4979,7 +4983,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -5067,7 +5071,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -5177,7 +5181,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -5188,7 +5192,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -5353,7 +5357,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -5364,7 +5368,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -6079,7 +6083,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -6200,7 +6204,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -6211,7 +6215,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -7861,7 +7865,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -7927,7 +7931,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -7993,7 +7997,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -8224,7 +8228,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -8235,7 +8239,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -8334,7 +8338,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -8620,7 +8624,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -8631,7 +8635,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -9016,7 +9020,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -9324,7 +9328,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -9335,7 +9339,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -9621,7 +9625,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e c="check">
       <p>
@@ -9786,7 +9790,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -10534,7 +10538,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -10578,7 +10582,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -10589,7 +10593,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -10820,7 +10824,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -11018,7 +11022,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -11172,7 +11176,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -11931,7 +11935,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -12492,7 +12496,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -12580,7 +12584,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -13185,7 +13189,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -13471,7 +13475,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -13691,7 +13695,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -13801,7 +13805,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -14241,7 +14245,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -14252,7 +14256,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -14329,7 +14333,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -14340,7 +14344,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -14747,7 +14751,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -14758,7 +14762,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -15319,7 +15323,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -15825,7 +15829,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -15858,7 +15862,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -15902,7 +15906,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -15913,7 +15917,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -16045,7 +16049,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -16177,7 +16181,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -16232,7 +16236,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -16782,7 +16786,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -16793,7 +16797,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -17233,7 +17237,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -17244,7 +17248,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -17255,7 +17259,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -17728,7 +17732,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -17772,7 +17776,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -17915,7 +17919,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -17959,7 +17963,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -18465,7 +18469,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -18476,7 +18480,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -18773,7 +18777,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -18795,7 +18799,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -19015,7 +19019,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -19026,7 +19030,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -19081,7 +19085,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -19092,7 +19096,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -19114,7 +19118,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -19257,7 +19261,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -19323,7 +19327,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -19334,7 +19338,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -20280,7 +20284,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -20665,7 +20669,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -21072,7 +21076,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -21193,7 +21197,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -21204,7 +21208,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -21347,7 +21351,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -21435,7 +21439,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -21446,7 +21450,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -22007,7 +22011,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -22502,7 +22506,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -22634,7 +22638,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -23910,7 +23914,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -24746,7 +24750,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e c="check">
       <p>
@@ -25362,7 +25366,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -25802,7 +25806,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -25967,7 +25971,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -25978,7 +25982,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -26451,7 +26455,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -26462,7 +26466,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -26616,7 +26620,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -26726,7 +26730,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -28057,7 +28061,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -28321,7 +28325,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -28838,7 +28842,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -28915,7 +28919,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -28926,7 +28930,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -29047,7 +29051,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -29058,7 +29062,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -29102,7 +29106,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -29344,7 +29348,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -29388,7 +29392,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -30125,7 +30129,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -30279,7 +30283,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -30565,7 +30569,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -31137,7 +31141,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -31192,7 +31196,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -31467,7 +31471,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -31478,7 +31482,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -32039,7 +32043,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -32435,7 +32439,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -32446,7 +32450,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -32534,7 +32538,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -32710,7 +32714,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -33249,7 +33253,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -33469,7 +33473,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -33777,7 +33781,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -33821,7 +33825,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -34492,7 +34496,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -34712,7 +34716,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -35086,7 +35090,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -35625,7 +35629,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -35702,7 +35706,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -36131,7 +36135,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -36285,7 +36289,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -36296,7 +36300,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -36395,7 +36399,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -36571,7 +36575,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -36758,7 +36762,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -36824,7 +36828,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -37330,7 +37334,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e c="check">
       <p>
@@ -37825,7 +37829,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38111,7 +38115,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38177,7 +38181,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38188,7 +38192,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38210,7 +38214,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38298,7 +38302,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38309,7 +38313,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38386,7 +38390,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38452,7 +38456,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38628,7 +38632,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38782,7 +38786,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38793,7 +38797,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -38914,7 +38918,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -39090,7 +39094,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -39101,7 +39105,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -39233,7 +39237,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e c="check">
       <p>
@@ -39277,7 +39281,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -39321,7 +39325,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -39706,7 +39710,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -39838,7 +39842,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -40311,7 +40315,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -40421,7 +40425,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -40454,7 +40458,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -40927,7 +40931,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -40938,7 +40942,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -40949,7 +40953,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42082,7 +42086,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42269,7 +42273,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42280,7 +42284,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42291,7 +42295,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42302,7 +42306,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42313,7 +42317,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42423,7 +42427,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42665,7 +42669,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42676,7 +42680,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -42687,7 +42691,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -43138,7 +43142,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -43457,7 +43461,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -43688,7 +43692,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -43754,7 +43758,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -43765,7 +43769,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -43776,7 +43780,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -44106,7 +44110,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -44304,7 +44308,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -44315,7 +44319,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -44425,7 +44429,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -44524,7 +44528,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -44810,7 +44814,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -44821,7 +44825,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -44832,7 +44836,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -45096,7 +45100,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -45228,7 +45232,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -45437,7 +45441,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -45470,7 +45474,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -45569,7 +45573,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -45888,7 +45892,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -46130,7 +46134,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -46757,7 +46761,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -46779,12 +46783,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamabi<s n="num"/><s n="pl"/></l> 
-        <r>twelve<s n="num"/></r> 
+        <r>twelve<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46812,23 +46816,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamabost<s n="num"/><s n="pl"/></l> 
-        <r>fifteen<s n="num"/></r> 
+        <r>fifteen<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamahiru<s n="num"/><s n="pl"/></l> 
-        <r>thirteen<s n="num"/></r> 
+        <r>thirteen<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46845,12 +46849,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamaika<s n="num"/><s n="pl"/></l> 
-        <r>eleven<s n="num"/></r> 
+        <r>eleven<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46867,12 +46871,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamalau<s n="num"/><s n="pl"/></l> 
-        <r>fourteen<s n="num"/></r> 
+        <r>fourteen<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46889,12 +46893,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamar<s n="num"/><s n="pl"/></l> 
-        <r>ten<s n="num"/></r> 
+        <r>ten<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46933,12 +46937,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamasei<s n="num"/><s n="pl"/></l> 
-        <r>sixteen<s n="num"/></r> 
+        <r>sixteen<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46955,12 +46959,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamazazpi<s n="num"/><s n="pl"/></l> 
-        <r>seventeen<s n="num"/></r> 
+        <r>seventeen<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -46977,12 +46981,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hamazortzi<s n="num"/><s n="pl"/></l> 
-        <r>eighteen<s n="num"/></r> 
+        <r>eighteen<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -47065,7 +47069,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -47109,7 +47113,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -48022,7 +48026,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -48154,7 +48158,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -48187,7 +48191,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -48198,7 +48202,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -48319,7 +48323,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -48352,7 +48356,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -48825,7 +48829,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -49199,12 +49203,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hemeretzi<s n="num"/><s n="pl"/></l> 
-        <r>nineteen<s n="num"/></r> 
+        <r>nineteen<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -49221,12 +49225,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>hemezortzi<s n="num"/><s n="pl"/></l> 
-        <r>eighteen<s n="num"/></r> 
+        <r>eighteen<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -49452,7 +49456,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -49496,7 +49500,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -49727,7 +49731,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -49859,7 +49863,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -50233,7 +50237,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -50475,7 +50479,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -50805,7 +50809,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -51047,7 +51051,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -51058,7 +51062,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -51069,7 +51073,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -51432,7 +51436,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -51663,7 +51667,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -52158,7 +52162,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -52191,7 +52195,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -52202,7 +52206,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -52213,7 +52217,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -52532,7 +52536,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -52543,7 +52547,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -52554,7 +52558,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -52796,7 +52800,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -53170,7 +53174,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -53214,7 +53218,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -53291,7 +53295,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -53357,7 +53361,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -53654,7 +53658,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -54171,7 +54175,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -54237,7 +54241,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -54292,7 +54296,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -54303,7 +54307,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -54314,7 +54318,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -54490,7 +54494,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -55018,7 +55022,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -55381,7 +55385,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -55898,7 +55902,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -56459,7 +56463,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -56536,7 +56540,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -56844,7 +56848,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -57097,7 +57101,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -57119,7 +57123,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -58505,7 +58509,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -58923,7 +58927,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -59451,7 +59455,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -59770,7 +59774,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -59781,7 +59785,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -59792,7 +59796,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -59803,7 +59807,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -59814,7 +59818,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -60408,7 +60412,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -60419,7 +60423,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -60639,7 +60643,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -60870,7 +60874,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -60947,7 +60951,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -61453,7 +61457,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -61915,7 +61919,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -61970,7 +61974,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -62069,7 +62073,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -62113,7 +62117,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -62333,7 +62337,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -62597,7 +62601,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -62619,7 +62623,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -62729,7 +62733,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -62861,7 +62865,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -63026,7 +63030,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -63279,7 +63283,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -63312,7 +63316,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -63323,7 +63327,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -63466,7 +63470,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -63565,7 +63569,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -63994,7 +63998,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -64005,7 +64009,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -64137,7 +64141,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -64742,7 +64746,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -64841,7 +64845,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -64929,7 +64933,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -65842,7 +65846,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -66282,7 +66286,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -66843,7 +66847,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -67382,7 +67386,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -67448,7 +67452,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -67866,7 +67870,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -67921,7 +67925,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -68251,7 +68255,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -68482,7 +68486,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -68493,7 +68497,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69043,7 +69047,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69131,7 +69135,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69241,7 +69245,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69538,7 +69542,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69549,7 +69553,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69604,7 +69608,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69659,7 +69663,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69802,7 +69806,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69868,7 +69872,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -69879,7 +69883,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -70175,24 +70179,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      numberRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>mila<s n="num"/><s n="pl"/></l> 
-        <r>ten<b/>hundred<s n="num"/></r> 
+        <r>ten<b/>hundred<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      numberRL
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>mila<s n="num"/><s n="pl"/></l> 
-        <r>thousand<s n="num"/></r> 
+        <r>thousand<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -70308,7 +70312,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e c="check">
       <p>
@@ -70330,7 +70334,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -70418,7 +70422,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -70473,7 +70477,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -70693,7 +70697,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -70726,7 +70730,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -70913,7 +70917,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -71133,7 +71137,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -71166,7 +71170,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -71661,7 +71665,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -71672,7 +71676,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -71804,7 +71808,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72024,7 +72028,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72123,7 +72127,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72156,7 +72160,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72310,7 +72314,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72321,7 +72325,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72332,7 +72336,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72662,7 +72666,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72706,7 +72710,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72772,7 +72776,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72794,7 +72798,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72805,7 +72809,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72816,7 +72820,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72849,7 +72853,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72860,7 +72864,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72893,7 +72897,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -72992,7 +72996,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -73091,7 +73095,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -73157,7 +73161,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -73872,7 +73876,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -74147,7 +74151,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -74158,7 +74162,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -74279,7 +74283,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -74290,7 +74294,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -74433,7 +74437,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -74631,7 +74635,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -74708,7 +74712,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -75148,7 +75152,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -75170,7 +75174,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -75423,7 +75427,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -75489,7 +75493,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -76479,7 +76483,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -76732,7 +76736,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -76908,7 +76912,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -77260,7 +77264,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -77271,7 +77275,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -77282,7 +77286,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -77359,7 +77363,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -77612,7 +77616,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -78118,7 +78122,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -78129,7 +78133,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -78151,7 +78155,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -78162,7 +78166,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -78360,7 +78364,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -78393,7 +78397,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -79053,7 +79057,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -79075,7 +79079,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -79273,7 +79277,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -80010,7 +80014,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -80285,7 +80289,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -80483,7 +80487,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -80615,7 +80619,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -80659,7 +80663,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -80747,7 +80751,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -80857,7 +80861,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -80934,7 +80938,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -81352,7 +81356,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -81440,7 +81444,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -81627,7 +81631,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -81748,7 +81752,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -82276,7 +82280,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -82287,7 +82291,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -82738,7 +82742,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -82749,7 +82753,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84146,7 +84150,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84168,7 +84172,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84223,7 +84227,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84278,7 +84282,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84388,7 +84392,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84432,7 +84436,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84454,7 +84458,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84498,7 +84502,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -84861,7 +84865,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -85114,7 +85118,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -85147,7 +85151,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -85235,7 +85239,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -85290,7 +85294,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -85378,7 +85382,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -85653,7 +85657,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -86566,7 +86570,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -87160,7 +87164,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -87611,7 +87615,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -87765,7 +87769,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -87776,7 +87780,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -87831,7 +87835,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -88205,7 +88209,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -88227,7 +88231,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -88524,7 +88528,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -88678,7 +88682,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -88953,7 +88957,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -88964,7 +88968,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -89162,7 +89166,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -89261,7 +89265,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e c="check">
       <p>
@@ -89360,7 +89364,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -89393,7 +89397,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -89712,7 +89716,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -89723,7 +89727,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -89844,7 +89848,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -90559,7 +90563,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -90889,7 +90893,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -91670,7 +91674,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -91780,7 +91784,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -91791,7 +91795,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -91857,7 +91861,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -91868,7 +91872,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -92198,12 +92202,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      number
     -->
     <e>
       <p>
         <l>zero<s n="num"/><s n="pl"/></l> 
-        <r>zero<s n="num"/></r> 
+        <r>zero<s n="num"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -92297,7 +92301,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -92792,7 +92796,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -93111,7 +93115,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -93122,7 +93126,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -93188,7 +93192,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -93386,7 +93390,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>
@@ -93529,7 +93533,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-dropmf
     -->
     <e>
       <p>

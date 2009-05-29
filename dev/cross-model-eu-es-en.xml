@@ -1849,4 +1849,120 @@
 </action-set>
 </cross-action>
 <!-- 75 entries like this -->
+<cross-action id="adj-dropmf">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaB<s n="adj"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="adj"/><s n="mf"/></l> 
+        <r>$lemmaC<s n="adj"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaC<s n="adj"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 877 entries like this -->
+<cross-action id="ant-3">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/></l> 
+        <r>$lemmaB<s n="np"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="np"/></l> 
+        <r>$lemmaC<s n="np"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="np"/></l> 
+        <r>$lemmaC<s n="np"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 43 entries like this -->
+<cross-action id="numberRL">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="num"/><s n="pl"/></l> 
+        <r>$lemmaB<s n="num"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="num"/><s n="mf"/></l> 
+        <r>$lemmaC<s n="num"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="num"/><s n="pl"/></l> 
+        <r>$lemmaC<s n="num"/><s n="sp"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 27 entries like this -->
+<cross-action id="number">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="num"/><s n="pl"/></l> 
+        <r>$lemmaB<s n="num"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="num"/><s n="mf"/></l> 
+        <r>$lemmaC<s n="num"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="num"/><s n="pl"/></l> 
+        <r>$lemmaC<s n="num"/><s n="sp"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+
 </cross-model>
