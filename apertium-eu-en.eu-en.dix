@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8490
+	Entries: 8530
 	Sdefs: 277
       
       Patterns applied:
-      	default (985 times)
+      	default (988 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -32,9 +32,9 @@
       	loc-2 (34 times)
       	prn-1 (2 times)
       	prn-2 (2 times)
-      	nom-0 (1898 times)
-      	nom-1 (1640 times)
-      	nom-3 (116 times)
+      	nom-0 (1916 times)
+      	nom-1 (1658 times)
+      	nom-3 (117 times)
       	cog-0 (35 times)
       	advgen (27 times)
       	advgenRL (54 times)
@@ -16201,6 +16201,17 @@
     -->
     <e>
       <p>
+        <l>balkoi<s n="n"/></l> 
+        <r>balcony<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
         <l>baloi<s n="n"/></l> 
         <r>balloon<s n="n"/><s n="ND"/></r> 
       </p>
@@ -16324,6 +16335,17 @@
       <p>
         <l>banatzaile<s n="adj"/></l> 
         <r>divisional<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>banbu<s n="n"/></l> 
+        <r>bamboo<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -16621,6 +16643,17 @@
       <p>
         <l>barra<s n="n"/></l> 
         <r>rail<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>barraka<s n="n"/></l> 
+        <r>barrack<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17138,6 +17171,17 @@
       <p>
         <l>bataila<s n="n"/></l> 
         <r>battle<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>bataio<s n="n"/></l> 
+        <r>baptism<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -19530,6 +19574,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>berpizkunde<s n="n"/></l> 
+        <r>resurrection<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -19833,6 +19888,17 @@
       <p>
         <l>berretzaile<s n="n"/></l> 
         <r>exponent<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>berreziketa<s n="n"/></l> 
+        <r>reeducation<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20658,6 +20724,17 @@
       <p>
         <l>betikotu<s n="vblex"/></l> 
         <r>perpetuate<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>betile<s n="n"/></l> 
+        <r>eyelash<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -22720,6 +22797,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>bobeda<s n="n"/></l> 
+        <r>vault<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -23287,6 +23375,17 @@
       <p>
         <l>bozketa<s n="n"/></l> 
         <r>vote<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>brasildar<s n="n"/></l> 
+        <r>Brazilian<s n="n"/></r> 
       </p>
     </e>
 
@@ -25404,6 +25503,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>desleialtasun<s n="n"/></l> 
+        <r>infidelity<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -25936,6 +26046,17 @@
     -->
     <e>
       <p>
+        <l>difusio<s n="n"/></l> 
+        <r>diffusion<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
         <l>diktadura<s n="n"/></l> 
         <r>dictatorship<s n="n"/><s n="ND"/></r> 
       </p>
@@ -25971,6 +26092,17 @@
       <p>
         <l>dimentsio<s n="n"/></l> 
         <r>dimension<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>dimisio<s n="n"/></l> 
+        <r>resignation<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -30310,6 +30442,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>enperadore<s n="n"/></l> 
+        <r>emperor<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -34424,6 +34567,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>erromaniko<s n="n"/></l> 
+        <r>romance<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -34441,6 +34595,17 @@
       <p>
         <l>erromantiko<s n="adj"/></l> 
         <r>romantic<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>erromantze<s n="n"/></l> 
+        <r>romance<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -34864,6 +35029,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>esanahi<s n="n"/></l> 
+        <r>significance<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       spost-pr
     -->
     <e>
@@ -35189,6 +35365,17 @@
       <p>
         <l>eskas<s n="adj"/></l> 
         <r>scarce<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>eskasia<s n="n"/></l> 
+        <r>shortage<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36701,6 +36888,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>estela<s n="n"/></l> 
+        <r>trail<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -37438,6 +37636,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>eurodiputatu<s n="n"/></l> 
+        <r>euro-deputy<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-5
     -->
     <e>
@@ -37878,6 +38087,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>ezarpen<s n="n"/></l> 
+        <r>instauration<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -37950,6 +38170,17 @@
       <p>
         <l>ezaugarri<b/>izan<s n="vblex"/></l> 
         <r>characterize<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>ezbehar<s n="n"/></l> 
+        <r>accident<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38038,6 +38269,17 @@
       <p>
         <l>ezetz<s n="n"/></l> 
         <r>refusal<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>ezezagun<s n="n"/></l> 
+        <r>stranger<s n="n"/></r> 
       </p>
     </e>
 
@@ -39103,6 +39345,17 @@
     -->
     <e>
       <p>
+        <l>fideltasun<s n="n"/></l> 
+        <r>fidelity<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
         <l>figura<s n="n"/></l> 
         <r>figure<s n="n"/><s n="ND"/></r> 
       </p>
@@ -39253,6 +39506,28 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>finalaurreko<s n="n"/></l> 
+        <r>semifinal<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>finalerdi<s n="n"/></l> 
+        <r>semifinal<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -39303,6 +39578,17 @@
       <p>
         <l>finantziazio<s n="n"/></l> 
         <r>funding<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>finkapen<s n="n"/></l> 
+        <r>fixation<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40100,6 +40386,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>fundamentu<s n="n"/></l> 
+        <r>foundation<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -40282,6 +40579,17 @@
       <p>
         <l>furgoneta<s n="n"/></l> 
         <r>van<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>fusil<s n="n"/></l> 
+        <r>rifle<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -42592,6 +42900,17 @@
       <p>
         <l>gaztetasun<s n="n"/></l> 
         <r>youth<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>gaztetxe<s n="n"/></l> 
+        <r>youth<b/>centre<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48086,6 +48405,17 @@
 
     <!-- 
 	forced 'null' restriction
+      default
+    -->
+    <e>
+      <p>
+        <l>hautetsi<s n="n"/></l> 
+        <r>elected<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       vblex
     -->
     <e>
@@ -49989,12 +50319,45 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-3
+    -->
+    <e>
+      <p>
+        <l>hizkuntzalari<s n="n"/></l> 
+        <r>linguist<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>hizkuntzalaritza<s n="n"/></l> 
+        <r>linguistics<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       run1-2
     -->
     <e>
       <p>
         <l>hizkuntzaren<s n="adj"/></l> 
         <r>linguistic<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>hizpide<s n="n"/></l> 
+        <r>topic<g><b/>of<b/>conversation</g><s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58855,6 +59218,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>kafesne<s n="n"/></l> 
+        <r>coffee<g><b/>with<b/>milk</g><s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -59675,6 +60049,17 @@
       <p>
         <l>kapera<s n="n"/></l> 
         <r>chapel<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>kapilau<s n="n"/></l> 
+        <r>chaplain<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61363,6 +61748,17 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>kolonizatzaile<s n="n"/></l> 
+        <r>coloniser<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -61589,6 +61985,17 @@
       <p>
         <l>komiko<s n="n"/></l> 
         <r>comic<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>komisario<s n="n"/></l> 
+        <r>commissioner<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -64773,6 +65180,28 @@
 
     <!-- 
 	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>lantoki<s n="n"/></l> 
+        <r>work<b/>centre<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-1
+    -->
+    <e>
+      <p>
+        <l>lantoki<s n="n"/></l> 
+        <r>job<b/>centre<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       nom-0
     -->
     <e>
@@ -66517,6 +66946,17 @@
       <p>
         <l>libertate<s n="n"/></l> 
         <r>freedom<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      nom-0
+    -->
+    <e>
+      <p>
+        <l>libra<s n="n"/></l> 
+        <r>pound<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
