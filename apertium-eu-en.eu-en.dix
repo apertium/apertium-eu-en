@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8520
+	Entries: 8523
 	Sdefs: 277
       
       Patterns applied:
-      	default (456 times)
+      	default (444 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -56,6 +56,10 @@
       	ant-3 (21 times)
       	numberRL (2 times)
       	number (12 times)
+      	indizl1 (6 times)
+      	indizl2 (3 times)
+      	indizl4 (3 times)
+      	indizl5 (3 times)
 
 -->
 <dictionary>
@@ -46562,10 +46566,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      indizl1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hainbat<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>so<b/>much<s n="det"/><s n="qnt"/></r> 
@@ -46573,10 +46577,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      indizl1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>hainbat<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>so<b/>many<s n="det"/><s n="qnt"/></r> 
@@ -46584,10 +46588,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      indizl1
     -->
-    <e c="'as much time'. Cal afegir també 'as many'?">
+    <e r="RL" c="'as much time'. Cal afegir també 'as many'?">
       <p>
         <l>hainbat<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>as<b/>much<s n="det"/><s n="qnt"/></r> 
@@ -46595,10 +46599,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      indizl2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>hainbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r> 
@@ -46606,12 +46610,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      indizl4
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>hainbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      indizl5
+    -->
+    <e r="LR">
+      <p>
+        <l>hainbeste<s n="det"/><s n="indizl"/><s n="pl"/></l> 
         <r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r> 
       </p>
     </e>
@@ -50687,10 +50702,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      indizl1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>so<b/>much<s n="det"/><s n="qnt"/></r> 
@@ -50698,10 +50713,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      indizl2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r> 
@@ -50709,10 +50724,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      indizl1
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>so<b/>many<s n="det"/><s n="qnt"/></r> 
@@ -50720,10 +50735,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      indizl4
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r> 
@@ -50731,10 +50746,21 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      indizl5
     -->
-    <e c="'as much time'. Cal afegir també 'as many'?">
+    <e r="LR">
+      <p>
+        <l>honenbeste<s n="det"/><s n="indizl"/><s n="pl"/></l> 
+        <r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      indizl1
+    -->
+    <e r="RL" c="'as much time'. Cal afegir també 'as many'?">
       <p>
         <l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>as<b/>much<s n="det"/><s n="qnt"/></r> 
@@ -50874,10 +50900,10 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      indizl2
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>horrenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r> 
@@ -50885,12 +50911,23 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      indizl4
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>horrenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      indizl5
+    -->
+    <e r="LR">
+      <p>
+        <l>horrenbeste<s n="det"/><s n="indizl"/><s n="pl"/></l> 
         <r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r> 
       </p>
     </e>

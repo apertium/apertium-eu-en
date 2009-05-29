@@ -1964,5 +1964,146 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="indizl1">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="det"/><s n="qnt"/><s n="GD"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 23 entries like this -->
+<cross-action id="indizl2">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>$lemmaB<s n="det"/><s n="qnt"/><s n="m"/><s n="sg"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/><s n="sg"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="indizl3">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>$lemmaB<s n="det"/><s n="qnt"/><s n="f"/><s n="sg"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/><s n="sg"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="indizl4">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>$lemmaB<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/><s n="pl"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="indizl5">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="sp"/></l> 
+        <r>$lemmaB<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>$lemmaB<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="det"/><s n="indizl"/><s n="pl"/></l> 
+        <r>$lemmaC<s n="det"/><s n="qnt"/><s n="pl"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 
 </cross-model>
