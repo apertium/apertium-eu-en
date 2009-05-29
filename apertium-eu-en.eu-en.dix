@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8530
+	Entries: 8520
 	Sdefs: 277
       
       Patterns applied:
-      	default (988 times)
+      	default (911 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -25,7 +25,7 @@
       	vbsint-vbser (2 times)
       	run1-2 (579 times)
       	run1-4 (18 times)
-      	run1-5 (183 times)
+      	run1-5 (182 times)
       	run1-6 (130 times)
       	ND-5 (87 times)
       	loc-1 (50 times)
@@ -33,13 +33,13 @@
       	prn-1 (2 times)
       	prn-2 (2 times)
       	nom-0 (1916 times)
-      	nom-1 (1658 times)
+      	nom-1 (1656 times)
       	nom-3 (117 times)
       	cog-0 (35 times)
       	advgen (27 times)
       	advgenRL (54 times)
       	mayor (5 times)
-      	moreadj (36 times)
+      	moreadj (34 times)
       	nacr-51 (4 times)
       	cnjloc-adv (12 times)
       	cnjloc-cnjadv (2 times)
@@ -50,6 +50,8 @@
       	grabast-adv (3 times)
       	ND-120 (1 times)
       	prnitg-1 (1 times)
+      	ND-3 (43 times)
+      	ND-4 (29 times)
 
 -->
 <dictionary>
@@ -3888,7 +3890,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -5373,7 +5375,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -5384,7 +5386,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -5648,12 +5650,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>aitona<s n="n"/></l> 
-        <r>grandmother<s n="n"/></r> 
+        <r>grandmother<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7364,12 +7366,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>amaiera<s n="n"/></l> 
-        <r>final<s n="n"/></r> 
+        <r>final<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7683,12 +7685,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>anai<s n="n"/></l> 
-        <r>sister<s n="n"/></r> 
+        <r>sister<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7727,12 +7729,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>anaia<s n="n"/></l> 
-        <r>sister<s n="n"/></r> 
+        <r>sister<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -8156,17 +8158,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>antolatzaile<s n="n"/></l> 
-        <r>organizer<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -8475,12 +8466,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>apaiz<s n="n"/></l> 
-        <r>cure<s n="n"/></r> 
+        <r>cure<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10345,12 +10336,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>arrantzale<s n="n"/></l> 
-        <r>fisherwoman<s n="n"/></r> 
+        <r>fisherwoman<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10785,7 +10776,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -11467,7 +11458,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -12017,7 +12008,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -14547,12 +14538,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>azken<s n="n"/></l> 
-        <r>final<s n="n"/></r> 
+        <r>final<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -16912,7 +16903,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -19013,7 +19004,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -19497,7 +19488,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -21796,12 +21787,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>biloba<s n="n"/></l> 
-        <r>granddaughter<s n="n"/></r> 
+        <r>granddaughter<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -23578,12 +23569,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>bukaera<s n="n"/></l> 
-        <r>final<s n="n"/></r> 
+        <r>final<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -26449,7 +26440,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -26482,7 +26473,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -26746,7 +26737,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -26933,12 +26924,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>ebaki<s n="n"/></l> 
-        <r>court<s n="n"/></r> 
+        <r>court<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33357,7 +33348,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -34699,7 +34690,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -36899,7 +36890,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -38560,12 +38551,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>ezkonberri<s n="n"/></l> 
-        <r>bride<s n="n"/></r> 
+        <r>bride<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38582,12 +38573,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>ezkonberri<s n="n"/></l> 
-        <r>girlfriend<s n="n"/></r> 
+        <r>girlfriend<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38934,7 +38925,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -39495,12 +39486,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>final<s n="n"/></l> 
-        <r>final<s n="n"/></r> 
+        <r>final<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -39677,17 +39668,6 @@
       <p>
         <l>fisikari<s n="n"/></l> 
         <r>physicist<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>fisikari<s n="n"/></l> 
-        <r>physicist<s n="n"/></r> 
       </p>
     </e>
 
@@ -41585,17 +41565,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>galego<s n="n"/></l> 
-        <r>Galician<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -42861,7 +42830,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -45479,7 +45448,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -45512,7 +45481,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -45776,7 +45745,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -45787,7 +45756,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -47062,13 +47031,13 @@
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      moreadj
+	forced 'null' restriction
+      ND-3
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>handi<s n="adj"/></l> 
-        <r>able<s n="adj"/></r> 
+        <r>able<s n="adj"/><s n="sint"/></r> 
       </p>
     </e>
 
@@ -47085,7 +47054,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -47107,7 +47076,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -47118,7 +47087,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -50374,23 +50343,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
         <l>hobe<s n="adj"/></l> 
-        <r>good<s n="adj"/><s n="sint"/><s n="comp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="MG: cal fer regla ca-en per al superlatiu">
-      <p>
-        <l>hobe<s n="adj"/></l> 
-        <r>good<s n="adj"/><s n="sint"/><s n="sup"/></r> 
+        <r>good<s n="adj"/><s n="sint"/></r> 
       </p>
     </e>
 
@@ -53234,7 +53192,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -55357,7 +55315,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -61880,12 +61838,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>koma<s n="n"/></l> 
-        <r>comma<s n="n"/></r> 
+        <r>comma<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -65213,18 +65171,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>lapur<s n="n"/></l> 
-        <r>thief<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      run1-5
+      ND-4
     -->
     <e>
       <p>
@@ -65323,7 +65270,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -66973,7 +66920,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -68964,12 +68911,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>markes<s n="n"/></l> 
-        <r>marchioness<s n="n"/></r> 
+        <r>marchioness<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -68986,12 +68933,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>markes<s n="n"/></l> 
-        <r>marquise<s n="n"/></r> 
+        <r>marquise<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -69447,13 +69394,13 @@
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      moreadj
+	forced 'null' restriction
+      ND-3
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>mehe<s n="adj"/></l> 
-        <r>subtle<s n="adj"/></r> 
+        <r>subtle<s n="adj"/><s n="sint"/></r> 
       </p>
     </e>
 
@@ -71967,12 +71914,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>mutiko<s n="n"/></l> 
-        <r>girl<s n="n"/></r> 
+        <r>girl<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71989,12 +71936,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>mutil<s n="n"/></l> 
-        <r>girl<s n="n"/></r> 
+        <r>girl<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -72033,12 +71980,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>mutil-lagun<s n="n"/></l> 
-        <r>bride<s n="n"/></r> 
+        <r>bride<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -72055,12 +72002,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>mutil-lagun<s n="n"/></l> 
-        <r>girlfriend<s n="n"/></r> 
+        <r>girlfriend<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73012,12 +72959,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>neba<s n="n"/></l> 
-        <r>sister<s n="n"/></r> 
+        <r>sister<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73650,12 +73597,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>nini<s n="n"/></l> 
-        <r>girl<s n="n"/></r> 
+        <r>girl<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73705,7 +73652,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -76422,29 +76369,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>ordena<s n="n"/></l> 
-        <r>command<s n="n"/></r> 
+        <r>command<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ordena<s n="n"/></l> 
-        <r>order<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-1
+      ND-4
     -->
     <e>
       <p>
@@ -77680,17 +77616,6 @@
     -->
     <e>
       <p>
-        <l>otso<s n="n"/></l> 
-        <r>wolf<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
         <l>otzan<s n="adj"/></l> 
         <r>docile<s n="adj"/></r> 
       </p>
@@ -78842,18 +78767,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>patroi<s n="n"/></l> 
-        <r>patron<b/>saint<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-1
+      ND-4
     -->
     <e>
       <p>
@@ -79260,17 +79174,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>peoi<s n="n"/></l> 
-        <r>hodman<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       run1-2
     -->
     <e>
@@ -79458,12 +79361,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>piko<s n="n"/></l> 
-        <r>court<s n="n"/></r> 
+        <r>court<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80129,7 +80032,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -83550,12 +83453,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>seduktore<s n="n"/></l> 
-        <r>seductress<s n="n"/></r> 
+        <r>seductress<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83979,12 +83882,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-4
     -->
     <e>
       <p>
         <l>seme<s n="n"/></l> 
-        <r>daughter<s n="n"/></r> 
+        <r>daughter<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -84133,7 +84036,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -84606,7 +84509,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -85343,7 +85246,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -85354,7 +85257,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -88225,23 +88128,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
         <l>txarrago<s n="adj"/></l> 
-        <r>bad<s n="adj"/><s n="sint"/><s n="comp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>txarrago<s n="adj"/></l> 
-        <r>bad<s n="adj"/><s n="sint"/><s n="sup"/></r> 
+        <r>bad<s n="adj"/><s n="sint"/></r> 
       </p>
     </e>
 
@@ -89193,7 +89085,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -91107,7 +90999,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -92636,7 +92528,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -93428,7 +93320,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
@@ -93505,7 +93397,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-3
     -->
     <e>
       <p>
