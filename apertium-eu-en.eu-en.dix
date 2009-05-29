@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-en
 	Sections: 1
-	Entries: 8523
+	Entries: 8526
 	Sdefs: 277
       
       Patterns applied:
-      	default (444 times)
+      	default (439 times)
       	cnjsub-adv (4 times)
       	vbper-vblex (19 times)
       	vbper-vblexRL (11 times)
@@ -60,6 +60,7 @@
       	indizl2 (3 times)
       	indizl4 (3 times)
       	indizl5 (3 times)
+      	ND-15 (8 times)
 
 -->
 <dictionary>
@@ -33653,6 +33654,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-15
+    -->
+    <e>
+      <p>
+        <l>errefuxiatu<s n="n"/></l> 
+        <r>refugee<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -41606,6 +41618,17 @@
 
     <!-- 
 	forced 'null' restriction
+      ND-15
+    -->
+    <e>
+      <p>
+        <l>galiziar<s n="n"/></l> 
+        <r>Galician<s n="n"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -42019,6 +42042,17 @@
       <p>
         <l>garatu<s n="vblex"/></l> 
         <r>develop<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-15
+    -->
+    <e>
+      <p>
+        <l>garatzaile<s n="n"/></l> 
+        <r>developer<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48118,23 +48152,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-15
     -->
     <e>
       <p>
         <l>haur<s n="n"/></l> 
-        <r>boy<s n="n"/></r> 
+        <r>boy<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-15
     -->
     <e>
       <p>
         <l>haur<s n="n"/></l> 
-        <r>child<s n="n"/></r> 
+        <r>child<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -84110,12 +84144,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-15
     -->
     <e>
       <p>
         <l>senide<s n="n"/></l> 
-        <r>brother<s n="n"/></r> 
+        <r>brother<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -89049,23 +89083,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-15
     -->
     <e>
       <p>
         <l>ume<s n="n"/></l> 
-        <r>boy<s n="n"/></r> 
+        <r>boy<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND-15
     -->
     <e>
       <p>
         <l>ume<s n="n"/></l> 
-        <r>child<s n="n"/></r> 
+        <r>child<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
