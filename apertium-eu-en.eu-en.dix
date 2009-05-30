@@ -8803,7 +8803,7 @@
     <e><p><l>uste<b/>izan<s n="vbper"/></l><r>believe<s n="vblex"/></r></p></e>
 
 
-    <!-- Punctuation etc.
+    <!-- Punctuation etc. -->
 
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
@@ -8828,6 +8828,6 @@
     <e><re>[A-Z][A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][0-9]+([0-9])?</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e c="números romanos"><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l><s n="adj"/><s n="mf"/><s n="sp"/></l><r><s n="adj"/><s n="izl"/></r></p></e>
--->
+
   </section>
 </dictionary>
