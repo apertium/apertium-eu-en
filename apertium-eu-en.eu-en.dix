@@ -527,7 +527,7 @@
     <e>
       <p>
         <l>Afganistan<s n="np"/><s n="loc"/></l> 
-        <r>Afghanistan<s n="np"/><s n="loc"/></r> 
+        <r>Afghanistan<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -538,7 +538,7 @@
     <e>
       <p>
         <l>Afrika<s n="np"/><s n="loc"/></l> 
-        <r>Africa<s n="np"/><s n="loc"/></r> 
+        <r>Africa<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -560,7 +560,7 @@
     <e>
       <p>
         <l>Aingeru<s n="np"/><s n="ant"/></l> 
-        <r>Aingeru<s n="np"/><s n="ant"/></r> 
+        <r>Aingeru<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -571,7 +571,7 @@
     <e>
       <p>
         <l>Aintzane<s n="np"/><s n="ant"/></l> 
-        <r>Aintzane<s n="np"/><s n="ant"/></r> 
+        <r>Aintzane<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -582,7 +582,7 @@
     <e>
       <p>
         <l>Alberto<s n="np"/><s n="ant"/></l> 
-        <r>Alberto<s n="np"/><s n="ant"/></r> 
+        <r>Alberto<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -604,7 +604,7 @@
     <e>
       <p>
         <l>Alemania<s n="np"/><s n="loc"/></l> 
-        <r>Germany<s n="np"/><s n="loc"/></r> 
+        <r>Germany<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -615,7 +615,7 @@
     <e>
       <p>
         <l>Ameriketako<b/>Estatu<b/>Batu<s n="np"/><s n="loc"/></l> 
-        <r>United<b/>States<s n="np"/><s n="loc"/></r> 
+        <r>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -626,7 +626,7 @@
     <e>
       <p>
         <l>Ameriketako<b/>Estatu<b/>Batuak<s n="np"/><s n="loc"/></l> 
-        <r>United<b/>States<s n="np"/><s n="loc"/></r> 
+        <r>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></r> 
       </p>
     </e>
 
@@ -637,7 +637,7 @@
     <e>
       <p>
         <l>Ana<s n="np"/><s n="ant"/></l> 
-        <r>Ana<s n="np"/><s n="ant"/></r> 
+        <r>Ana<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -648,7 +648,7 @@
     <e>
       <p>
         <l>Andaluzia<s n="np"/><s n="loc"/></l> 
-        <r>Andalucia<s n="np"/><s n="loc"/></r> 
+        <r>Andalucia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -681,7 +681,7 @@
     <e>
       <p>
         <l>Antonio<s n="np"/><s n="ant"/></l> 
-        <r>Antonio<s n="np"/><s n="ant"/></r> 
+        <r>Antonio<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -725,7 +725,7 @@
     <e>
       <p>
         <l>Argentina<s n="np"/><s n="loc"/></l> 
-        <r>Argentina<s n="np"/><s n="loc"/></r> 
+        <r>Argentina<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -736,7 +736,7 @@
     <e>
       <p>
         <l>Arnaldo<s n="np"/><s n="ant"/></l> 
-        <r>Arnaldo<s n="np"/><s n="ant"/></r> 
+        <r>Arnaldo<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -747,7 +747,7 @@
     <e>
       <p>
         <l>Arrosa<s n="np"/><s n="ant"/></l> 
-        <r>Arrosa<s n="np"/><s n="ant"/></r> 
+        <r>Arrosa<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -769,7 +769,7 @@
     <e>
       <p>
         <l>Asia<s n="np"/><s n="ant"/></l> 
-        <r>Asia<s n="np"/><s n="ant"/></r> 
+        <r>Asia<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -780,7 +780,7 @@
     <e>
       <p>
         <l>Asia<s n="np"/><s n="loc"/></l> 
-        <r>Asia<s n="np"/><s n="loc"/></r> 
+        <r>Asia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -791,7 +791,7 @@
     <e>
       <p>
         <l>Asier<s n="np"/><s n="ant"/></l> 
-        <r>Asier<s n="np"/><s n="ant"/></r> 
+        <r>Asier<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -813,7 +813,7 @@
     <e>
       <p>
         <l>Aurkene<s n="np"/><s n="ant"/></l> 
-        <r>Aurkene<s n="np"/><s n="ant"/></r> 
+        <r>Aurkene<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -824,7 +824,7 @@
     <e>
       <p>
         <l>Austria<s n="np"/><s n="loc"/></l> 
-        <r>Austria<s n="np"/><s n="loc"/></r> 
+        <r>Austria<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -868,7 +868,7 @@
     <e>
       <p>
         <l>Bagdad<s n="np"/><s n="loc"/></l> 
-        <r>Baghdad<s n="np"/><s n="loc"/></r> 
+        <r>Baghdad<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -879,7 +879,7 @@
     <e>
       <p>
         <l>Bakarne<s n="np"/><s n="ant"/></l> 
-        <r>Bakarne<s n="np"/><s n="ant"/></r> 
+        <r>Bakarne<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -890,7 +890,7 @@
     <e>
       <p>
         <l>Baltasar<s n="np"/><s n="ant"/></l> 
-        <r>Baltasar<s n="np"/><s n="ant"/></r> 
+        <r>Baltasar<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -901,7 +901,7 @@
     <e>
       <p>
         <l>Bartzelona<s n="np"/><s n="loc"/></l> 
-        <r>Barcelona<s n="np"/><s n="loc"/></r> 
+        <r>Barcelona<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -912,7 +912,7 @@
     <e>
       <p>
         <l>Basauri<s n="np"/><s n="loc"/></l> 
-        <r>Basauri<s n="np"/><s n="loc"/></r> 
+        <r>Basauri<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -923,7 +923,7 @@
     <e>
       <p>
         <l>Begoña<s n="np"/><s n="ant"/></l> 
-        <r>Begoña<s n="np"/><s n="ant"/></r> 
+        <r>Begoña<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -934,7 +934,7 @@
     <e>
       <p>
         <l>Belgika<s n="np"/><s n="loc"/></l> 
-        <r>Belgium<s n="np"/><s n="loc"/></r> 
+        <r>Belgium<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -945,7 +945,7 @@
     <e>
       <p>
         <l>Benedikto<s n="np"/><s n="ant"/></l> 
-        <r>Benedikto<s n="np"/><s n="ant"/></r> 
+        <r>Benedikto<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -956,7 +956,7 @@
     <e>
       <p>
         <l>Bernart<s n="np"/><s n="ant"/></l> 
-        <r>Bernart<s n="np"/><s n="ant"/></r> 
+        <r>Bernart<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -978,7 +978,7 @@
     <e>
       <p>
         <l>Bielorrusia<s n="np"/><s n="loc"/></l> 
-        <r>Byelorussia<s n="np"/><s n="loc"/></r> 
+        <r>Byelorussia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1022,7 +1022,7 @@
     <e>
       <p>
         <l>Bolivia<s n="np"/><s n="loc"/></l> 
-        <r>Bolivia<s n="np"/><s n="loc"/></r> 
+        <r>Bolivia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1033,7 +1033,7 @@
     <e>
       <p>
         <l>Bosnia<s n="np"/><s n="loc"/></l> 
-        <r>Bosnia<s n="np"/><s n="loc"/></r> 
+        <r>Bosnia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1044,7 +1044,7 @@
     <e>
       <p>
         <l>Brasil<s n="np"/><s n="loc"/></l> 
-        <r>Brazil<s n="np"/><s n="loc"/></r> 
+        <r>Brazil<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1055,7 +1055,7 @@
     <e>
       <p>
         <l>Brusela<s n="np"/><s n="loc"/></l> 
-        <r>Brussels<s n="np"/><s n="loc"/></r> 
+        <r>Brussels<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1066,7 +1066,7 @@
     <e>
       <p>
         <l>Bulgaria<s n="np"/><s n="loc"/></l> 
-        <r>Bulgaria<s n="np"/><s n="loc"/></r> 
+        <r>Bulgaria<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1088,7 +1088,7 @@
     <e>
       <p>
         <l>Carlos<s n="np"/><s n="ant"/></l> 
-        <r>Carlos<s n="np"/><s n="ant"/></r> 
+        <r>Carlos<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1132,7 +1132,7 @@
     <e>
       <p>
         <l>Dakar<s n="np"/><s n="loc"/></l> 
-        <r>Dakar<s n="np"/><s n="loc"/></r> 
+        <r>Dakar<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1143,7 +1143,7 @@
     <e>
       <p>
         <l>Danimarka<s n="np"/><s n="loc"/></l> 
-        <r>Denmark<s n="np"/><s n="loc"/></r> 
+        <r>Denmark<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1154,7 +1154,7 @@
     <e>
       <p>
         <l>David<s n="np"/><s n="ant"/></l> 
-        <r>David<s n="np"/><s n="ant"/></r> 
+        <r>David<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1176,7 +1176,7 @@
     <e>
       <p>
         <l>Domingo<s n="np"/><s n="ant"/></l> 
-        <r>Domingo<s n="np"/><s n="ant"/></r> 
+        <r>Domingo<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1187,7 +1187,7 @@
     <e>
       <p>
         <l>Dublin<s n="np"/><s n="loc"/></l> 
-        <r>Dublin<s n="np"/><s n="loc"/></r> 
+        <r>Dublin<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1242,7 +1242,7 @@
     <e>
       <p>
         <l>Egipto<s n="np"/><s n="loc"/></l> 
-        <r>Egypt<s n="np"/><s n="loc"/></r> 
+        <r>Egypt<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1264,7 +1264,7 @@
     <e>
       <p>
         <l>Erresuma<b/>Batua<s n="np"/><s n="loc"/></l> 
-        <r>United<b/>Kingdom<s n="np"/><s n="loc"/></r> 
+        <r>United<b/>Kingdom<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1272,10 +1272,10 @@
 	forced 'null' restriction
       loc-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>Erresuma<b/>Batua<s n="np"/><s n="loc"/></l> 
-        <r>UK<s n="np"/><s n="loc"/></r> 
+        <r>UK<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1286,7 +1286,7 @@
     <e>
       <p>
         <l>Errumania<s n="np"/><s n="loc"/></l> 
-        <r>Romania<s n="np"/><s n="loc"/></r> 
+        <r>Romania<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1297,7 +1297,7 @@
     <e>
       <p>
         <l>Errusia<s n="np"/><s n="loc"/></l> 
-        <r>Russia<s n="np"/><s n="loc"/></r> 
+        <r>Russia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1308,7 +1308,7 @@
     <e>
       <p>
         <l>Espainia<s n="np"/><s n="loc"/></l> 
-        <r>Spain<s n="np"/><s n="loc"/></r> 
+        <r>Spain<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1319,7 +1319,7 @@
     <e>
       <p>
         <l>Estrasburgo<s n="np"/><s n="loc"/></l> 
-        <r>Strasbourg<s n="np"/><s n="loc"/></r> 
+        <r>Strasbourg<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1341,7 +1341,7 @@
     <e>
       <p>
         <l>Europa<s n="np"/><s n="loc"/></l> 
-        <r>Europe<s n="np"/><s n="loc"/></r> 
+        <r>Europe<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1363,7 +1363,7 @@
     <e>
       <p>
         <l>Fernando<s n="np"/><s n="ant"/></l> 
-        <r>Fernando<s n="np"/><s n="ant"/></r> 
+        <r>Fernando<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1385,7 +1385,7 @@
     <e>
       <p>
         <l>Filipinak<s n="np"/><s n="loc"/></l> 
-        <r>Philippines<s n="np"/><s n="loc"/></r> 
+        <r>Philippines<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1396,7 +1396,7 @@
     <e>
       <p>
         <l>Finlandia<s n="np"/><s n="loc"/></l> 
-        <r>Finland<s n="np"/><s n="loc"/></r> 
+        <r>Finland<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1407,7 +1407,7 @@
     <e>
       <p>
         <l>Frantzia<s n="np"/><s n="loc"/></l> 
-        <r>France<s n="np"/><s n="loc"/></r> 
+        <r>France<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1418,7 +1418,7 @@
     <e>
       <p>
         <l>Frantzisko<s n="np"/><s n="ant"/></l> 
-        <r>Frantzisko<s n="np"/><s n="ant"/></r> 
+        <r>Frantzisko<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1429,7 +1429,7 @@
     <e>
       <p>
         <l>Galizia<s n="np"/><s n="loc"/></l> 
-        <r>Galicia<s n="np"/><s n="loc"/></r> 
+        <r>Galicia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1451,7 +1451,7 @@
     <e>
       <p>
         <l>Gasteiz<s n="np"/><s n="loc"/></l> 
-        <r>Vitoria<s n="np"/><s n="loc"/></r> 
+        <r>Vitoria<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1462,7 +1462,7 @@
     <e>
       <p>
         <l>Gaza<s n="np"/><s n="loc"/></l> 
-        <r>Gaza<s n="np"/><s n="loc"/></r> 
+        <r>Gaza<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1473,7 +1473,7 @@
     <e>
       <p>
         <l>George<s n="np"/><s n="ant"/></l> 
-        <r>George<s n="np"/><s n="ant"/></r> 
+        <r>George<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1517,7 +1517,7 @@
     <e>
       <p>
         <l>Gorka<s n="np"/><s n="ant"/></l> 
-        <r>Gorka<s n="np"/><s n="ant"/></r> 
+        <r>Gorka<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1528,7 +1528,7 @@
     <e>
       <p>
         <l>Granada<s n="np"/><s n="loc"/></l> 
-        <r>Grenada<s n="np"/><s n="loc"/></r> 
+        <r>Grenada<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1539,7 +1539,7 @@
     <e>
       <p>
         <l>Hego<b/>Afrika<s n="np"/><s n="loc"/></l> 
-        <r>South<b/>Africa<s n="np"/><s n="loc"/></r> 
+        <r>South<b/>Africa<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1550,7 +1550,7 @@
     <e>
       <p>
         <l>Hernani<s n="np"/><s n="ant"/></l> 
-        <r>Hernani<s n="np"/><s n="ant"/></r> 
+        <r>Hernani<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1561,7 +1561,7 @@
     <e>
       <p>
         <l>Holanda<s n="np"/><s n="loc"/></l> 
-        <r>Holland<s n="np"/><s n="loc"/></r> 
+        <r>Holland<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1605,7 +1605,7 @@
     <e>
       <p>
         <l>Igor<s n="np"/><s n="ant"/></l> 
-        <r>Igor<s n="np"/><s n="ant"/></r> 
+        <r>Igor<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1627,7 +1627,7 @@
     <e>
       <p>
         <l>India<s n="np"/><s n="ant"/></l> 
-        <r>India<s n="np"/><s n="ant"/></r> 
+        <r>India<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1638,7 +1638,7 @@
     <e>
       <p>
         <l>Indonesia<s n="np"/><s n="loc"/></l> 
-        <r>Indonesia<s n="np"/><s n="loc"/></r> 
+        <r>Indonesia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1649,7 +1649,7 @@
     <e>
       <p>
         <l>Irak<s n="np"/><s n="loc"/></l> 
-        <r>Iraq<s n="np"/><s n="loc"/></r> 
+        <r>Iraq<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1660,7 +1660,7 @@
     <e>
       <p>
         <l>Iran<s n="np"/><s n="loc"/></l> 
-        <r>Iran<s n="np"/><s n="loc"/></r> 
+        <r>Iran<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1671,7 +1671,7 @@
     <e>
       <p>
         <l>Irlanda<s n="np"/><s n="loc"/></l> 
-        <r>Ireland<s n="np"/><s n="loc"/></r> 
+        <r>Ireland<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1682,7 +1682,7 @@
     <e>
       <p>
         <l>Israel<s n="np"/><s n="ant"/></l> 
-        <r>Israel<s n="np"/><s n="ant"/></r> 
+        <r>Israel<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1693,7 +1693,7 @@
     <e>
       <p>
         <l>Israel<s n="np"/><s n="loc"/></l> 
-        <r>Israel<s n="np"/><s n="loc"/></r> 
+        <r>Israel<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1704,7 +1704,7 @@
     <e>
       <p>
         <l>Italia<s n="np"/><s n="loc"/></l> 
-        <r>Italy<s n="np"/><s n="loc"/></r> 
+        <r>Italy<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1715,7 +1715,7 @@
     <e>
       <p>
         <l>Iñaki<s n="np"/><s n="ant"/></l> 
-        <r>Iñaki<s n="np"/><s n="ant"/></r> 
+        <r>Iñaki<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1726,7 +1726,7 @@
     <e>
       <p>
         <l>Japonia<s n="np"/><s n="loc"/></l> 
-        <r>Japan<s n="np"/><s n="loc"/></r> 
+        <r>Japan<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1737,7 +1737,7 @@
     <e>
       <p>
         <l>Jasone<s n="np"/><s n="ant"/></l> 
-        <r>Jasone<s n="np"/><s n="ant"/></r> 
+        <r>Jasone<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1759,7 +1759,7 @@
     <e>
       <p>
         <l>Javier<s n="np"/><s n="ant"/></l> 
-        <r>Javier<s n="np"/><s n="ant"/></r> 
+        <r>Javier<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1781,7 +1781,7 @@
     <e>
       <p>
         <l>Jean<s n="np"/><s n="ant"/></l> 
-        <r>Jean<s n="np"/><s n="ant"/></r> 
+        <r>Jean<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1814,7 +1814,7 @@
     <e>
       <p>
         <l>Jesús<s n="np"/><s n="ant"/></l> 
-        <r>Jesús<s n="np"/><s n="ant"/></r> 
+        <r>Jesús<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1825,7 +1825,7 @@
     <e>
       <p>
         <l>Joan<s n="np"/><s n="ant"/></l> 
-        <r>Joan<s n="np"/><s n="ant"/></r> 
+        <r>Joan<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1847,7 +1847,7 @@
     <e>
       <p>
         <l>Jon<s n="np"/><s n="ant"/></l> 
-        <r>Jon<s n="np"/><s n="ant"/></r> 
+        <r>Jon<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1869,7 +1869,7 @@
     <e>
       <p>
         <l>Jordania<s n="np"/><s n="loc"/></l> 
-        <r>Jordan<s n="np"/><s n="loc"/></r> 
+        <r>Jordan<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1880,7 +1880,7 @@
     <e>
       <p>
         <l>Jorge<s n="np"/><s n="ant"/></l> 
-        <r>Jorge<s n="np"/><s n="ant"/></r> 
+        <r>Jorge<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1902,7 +1902,7 @@
     <e>
       <p>
         <l>Jose<s n="np"/><s n="ant"/></l> 
-        <r>Jose<s n="np"/><s n="ant"/></r> 
+        <r>Jose<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1913,7 +1913,7 @@
     <e>
       <p>
         <l>Joseba<s n="np"/><s n="ant"/></l> 
-        <r>Joseba<s n="np"/><s n="ant"/></r> 
+        <r>Joseba<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1924,7 +1924,7 @@
     <e>
       <p>
         <l>Josu<s n="np"/><s n="ant"/></l> 
-        <r>Josu<s n="np"/><s n="ant"/></r> 
+        <r>Josu<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1935,7 +1935,7 @@
     <e>
       <p>
         <l>Joxe<s n="np"/><s n="ant"/></l> 
-        <r>Joxe<s n="np"/><s n="ant"/></r> 
+        <r>Joxe<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1946,7 +1946,7 @@
     <e>
       <p>
         <l>Juan<s n="np"/><s n="ant"/></l> 
-        <r>Juan<s n="np"/><s n="ant"/></r> 
+        <r>Juan<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1968,7 +1968,7 @@
     <e>
       <p>
         <l>Juana<s n="np"/><s n="ant"/></l> 
-        <r>Juana<s n="np"/><s n="ant"/></r> 
+        <r>Juana<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1979,7 +1979,7 @@
     <e>
       <p>
         <l>Julia<s n="np"/><s n="ant"/></l> 
-        <r>Julia<s n="np"/><s n="ant"/></r> 
+        <r>Julia<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1990,7 +1990,7 @@
     <e>
       <p>
         <l>Julio<s n="np"/><s n="ant"/></l> 
-        <r>Julio<s n="np"/><s n="ant"/></r> 
+        <r>Julio<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2001,7 +2001,7 @@
     <e>
       <p>
         <l>Jurgi<s n="np"/><s n="ant"/></l> 
-        <r>Jurgi<s n="np"/><s n="ant"/></r> 
+        <r>Jurgi<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2012,7 +2012,7 @@
     <e>
       <p>
         <l>Justi<s n="np"/><s n="ant"/></l> 
-        <r>Justi<s n="np"/><s n="ant"/></r> 
+        <r>Justi<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2023,7 +2023,7 @@
     <e>
       <p>
         <l>Kanada<s n="np"/><s n="loc"/></l> 
-        <r>Canada<s n="np"/><s n="loc"/></r> 
+        <r>Canada<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2034,7 +2034,7 @@
     <e>
       <p>
         <l>Kantabria<s n="np"/><s n="loc"/></l> 
-        <r>Cantabria<s n="np"/><s n="loc"/></r> 
+        <r>Cantabria<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2045,7 +2045,7 @@
     <e>
       <p>
         <l>Karmele<s n="np"/><s n="ant"/></l> 
-        <r>Karmele<s n="np"/><s n="ant"/></r> 
+        <r>Karmele<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2056,7 +2056,7 @@
     <e>
       <p>
         <l>Katalina<s n="np"/><s n="ant"/></l> 
-        <r>Katalina<s n="np"/><s n="ant"/></r> 
+        <r>Katalina<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2067,7 +2067,7 @@
     <e>
       <p>
         <l>Katalunia<s n="np"/><s n="loc"/></l> 
-        <r>Catalonia<s n="np"/><s n="loc"/></r> 
+        <r>Catalonia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2078,7 +2078,7 @@
     <e>
       <p>
         <l>Koldo<s n="np"/><s n="ant"/></l> 
-        <r>Koldo<s n="np"/><s n="ant"/></r> 
+        <r>Koldo<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2089,7 +2089,7 @@
     <e>
       <p>
         <l>Kolonbia<s n="np"/><s n="loc"/></l> 
-        <r>Colombia<s n="np"/><s n="loc"/></r> 
+        <r>Colombia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2100,7 +2100,7 @@
     <e>
       <p>
         <l>Kongo<s n="np"/><s n="loc"/></l> 
-        <r>Congo<s n="np"/><s n="loc"/></r> 
+        <r>Congo<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2111,7 +2111,7 @@
     <e>
       <p>
         <l>Kontxesi<s n="np"/><s n="ant"/></l> 
-        <r>Kontxesi<s n="np"/><s n="ant"/></r> 
+        <r>Kontxesi<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2122,7 +2122,7 @@
     <e>
       <p>
         <l>Korea<s n="np"/><s n="loc"/></l> 
-        <r>Korea<s n="np"/><s n="loc"/></r> 
+        <r>Korea<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2133,7 +2133,7 @@
     <e>
       <p>
         <l>Kosovo<s n="np"/><s n="loc"/></l> 
-        <r>Kosovo<s n="np"/><s n="loc"/></r> 
+        <r>Kosovo<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2144,7 +2144,7 @@
     <e>
       <p>
         <l>Kristina<s n="np"/><s n="ant"/></l> 
-        <r>Kristina<s n="np"/><s n="ant"/></r> 
+        <r>Kristina<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2155,7 +2155,7 @@
     <e>
       <p>
         <l>Kristo<s n="np"/><s n="ant"/></l> 
-        <r>Cristo<s n="np"/><s n="ant"/></r> 
+        <r>Cristo<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2166,7 +2166,7 @@
     <e>
       <p>
         <l>Kuba<s n="np"/><s n="loc"/></l> 
-        <r>Cuba<s n="np"/><s n="loc"/></r> 
+        <r>Cuba<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2188,7 +2188,7 @@
     <e>
       <p>
         <l>Kurdistan<s n="np"/><s n="loc"/></l> 
-        <r>Kurdistan<s n="np"/><s n="loc"/></r> 
+        <r>Kurdistan<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2199,7 +2199,7 @@
     <e>
       <p>
         <l>Lana<s n="np"/><s n="ant"/></l> 
-        <r>Lana<s n="np"/><s n="ant"/></r> 
+        <r>Lana<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2210,7 +2210,7 @@
     <e>
       <p>
         <l>Latinoamerika<s n="np"/><s n="loc"/></l> 
-        <r>Latin<b/>America<s n="np"/><s n="loc"/></r> 
+        <r>Latin<b/>America<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2221,7 +2221,7 @@
     <e>
       <p>
         <l>León<s n="np"/><s n="ant"/></l> 
-        <r>León<s n="np"/><s n="ant"/></r> 
+        <r>León<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2232,7 +2232,7 @@
     <e>
       <p>
         <l>Libano<s n="np"/><s n="loc"/></l> 
-        <r>Lebanon<s n="np"/><s n="loc"/></r> 
+        <r>Lebanon<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2243,7 +2243,7 @@
     <e>
       <p>
         <l>Lisboa<s n="np"/><s n="loc"/></l> 
-        <r>Lisbon<s n="np"/><s n="loc"/></r> 
+        <r>Lisbon<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2254,7 +2254,7 @@
     <e>
       <p>
         <l>Londres<s n="np"/><s n="loc"/></l> 
-        <r>London<s n="np"/><s n="loc"/></r> 
+        <r>London<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2276,7 +2276,7 @@
     <e>
       <p>
         <l>Luis<s n="np"/><s n="ant"/></l> 
-        <r>Luis<s n="np"/><s n="ant"/></r> 
+        <r>Luis<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2298,7 +2298,7 @@
     <e>
       <p>
         <l>Luisa<s n="np"/><s n="ant"/></l> 
-        <r>Luisa<s n="np"/><s n="ant"/></r> 
+        <r>Luisa<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2309,7 +2309,7 @@
     <e>
       <p>
         <l>Madril<s n="np"/><s n="loc"/></l> 
-        <r>Madrid<s n="np"/><s n="loc"/></r> 
+        <r>Madrid<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2320,7 +2320,7 @@
     <e>
       <p>
         <l>Maitane<s n="np"/><s n="ant"/></l> 
-        <r>Maitane<s n="np"/><s n="ant"/></r> 
+        <r>Maitane<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2353,7 +2353,7 @@
     <e>
       <p>
         <l>Manuel<s n="np"/><s n="ant"/></l> 
-        <r>Manuel<s n="np"/><s n="ant"/></r> 
+        <r>Manuel<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2375,7 +2375,7 @@
     <e>
       <p>
         <l>Mari<s n="np"/><s n="ant"/></l> 
-        <r>Mari<s n="np"/><s n="ant"/></r> 
+        <r>Mari<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2386,7 +2386,7 @@
     <e>
       <p>
         <l>Maria<s n="np"/><s n="ant"/></l> 
-        <r>Maria<s n="np"/><s n="ant"/></r> 
+        <r>Maria<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2408,7 +2408,7 @@
     <e>
       <p>
         <l>Mariano<s n="np"/><s n="ant"/></l> 
-        <r>Mariano<s n="np"/><s n="ant"/></r> 
+        <r>Mariano<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2419,7 +2419,7 @@
     <e>
       <p>
         <l>Marino<s n="np"/><s n="ant"/></l> 
-        <r>Marino<s n="np"/><s n="ant"/></r> 
+        <r>Marino<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2430,7 +2430,7 @@
     <e>
       <p>
         <l>Marko<s n="np"/><s n="ant"/></l> 
-        <r>Marko<s n="np"/><s n="ant"/></r> 
+        <r>Marko<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2441,7 +2441,7 @@
     <e>
       <p>
         <l>Maroko<s n="np"/><s n="loc"/></l> 
-        <r>Morocco<s n="np"/><s n="loc"/></r> 
+        <r>Morocco<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2474,7 +2474,7 @@
     <e>
       <p>
         <l>Martín<s n="np"/><s n="ant"/></l> 
-        <r>Martín<s n="np"/><s n="ant"/></r> 
+        <r>Martín<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2496,7 +2496,7 @@
     <e>
       <p>
         <l>Mexiko<s n="np"/><s n="loc"/></l> 
-        <r>Mexico<s n="np"/><s n="loc"/></r> 
+        <r>Mexico<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2507,7 +2507,7 @@
     <e>
       <p>
         <l>Miguel<s n="np"/><s n="ant"/></l> 
-        <r>Miguel<s n="np"/><s n="ant"/></r> 
+        <r>Miguel<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2529,7 +2529,7 @@
     <e>
       <p>
         <l>Mikel<s n="np"/><s n="ant"/></l> 
-        <r>Mikel<s n="np"/><s n="ant"/></r> 
+        <r>Mikel<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2540,7 +2540,7 @@
     <e>
       <p>
         <l>Milan<s n="np"/><s n="loc"/></l> 
-        <r>Milan<s n="np"/><s n="loc"/></r> 
+        <r>Milan<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2551,7 +2551,7 @@
     <e>
       <p>
         <l>Miren<s n="np"/><s n="ant"/></l> 
-        <r>Miren<s n="np"/><s n="ant"/></r> 
+        <r>Miren<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2562,7 +2562,7 @@
     <e>
       <p>
         <l>Modesto<s n="np"/><s n="ant"/></l> 
-        <r>Modesto<s n="np"/><s n="ant"/></r> 
+        <r>Modesto<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2573,7 +2573,7 @@
     <e>
       <p>
         <l>Munich<s n="np"/><s n="loc"/></l> 
-        <r>Munich<s n="np"/><s n="loc"/></r> 
+        <r>Munich<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2584,7 +2584,7 @@
     <e>
       <p>
         <l>Máximo<s n="np"/><s n="ant"/></l> 
-        <r>Máximo<s n="np"/><s n="ant"/></r> 
+        <r>Máximo<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2614,7 +2614,7 @@
 	forced 'null' restriction
       default
     -->
-    <e c="United Nations ">
+    <e c="United Nations " r="RL">
       <p>
         <l>NBE<s n="n"/><s n="acr"/></l> 
         <r>UN<s n="n"/><s n="acr"/></r> 
@@ -2628,7 +2628,7 @@
     <e>
       <p>
         <l>Nafarroa<s n="np"/><s n="loc"/></l> 
-        <r>Navarra<s n="np"/><s n="loc"/></r> 
+        <r>Navarra<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2639,7 +2639,7 @@
     <e>
       <p>
         <l>Nepal<s n="np"/><s n="loc"/></l> 
-        <r>Nepal<s n="np"/><s n="loc"/></r> 
+        <r>Nepal<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2650,7 +2650,7 @@
     <e>
       <p>
         <l>New<b/>York<s n="np"/><s n="loc"/></l> 
-        <r>New<b/>York<s n="np"/><s n="loc"/></r> 
+        <r>New<b/>York<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2661,7 +2661,7 @@
     <e>
       <p>
         <l>Nikaragua<s n="np"/><s n="loc"/></l> 
-        <r>Nicaragua<s n="np"/><s n="loc"/></r> 
+        <r>Nicaragua<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2716,7 +2716,7 @@
     <e>
       <p>
         <l>Pakistan<s n="np"/><s n="loc"/></l> 
-        <r>Pakistan<s n="np"/><s n="loc"/></r> 
+        <r>Pakistan<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2738,7 +2738,7 @@
     <e>
       <p>
         <l>Paris<s n="np"/><s n="loc"/></l> 
-        <r>Paris<s n="np"/><s n="loc"/></r> 
+        <r>Paris<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2749,7 +2749,7 @@
     <e>
       <p>
         <l>París<s n="np"/><s n="ant"/></l> 
-        <r>París<s n="np"/><s n="ant"/></r> 
+        <r>París<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2760,7 +2760,7 @@
     <e>
       <p>
         <l>Patxi<s n="np"/><s n="ant"/></l> 
-        <r>Patxi<s n="np"/><s n="ant"/></r> 
+        <r>Patxi<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2782,7 +2782,7 @@
     <e>
       <p>
         <l>Paulina<s n="np"/><s n="ant"/></l> 
-        <r>Paulina<s n="np"/><s n="ant"/></r> 
+        <r>Paulina<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2793,7 +2793,7 @@
     <e>
       <p>
         <l>Paulo<s n="np"/><s n="ant"/></l> 
-        <r>Paulo<s n="np"/><s n="ant"/></r> 
+        <r>Paulo<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2804,7 +2804,7 @@
     <e>
       <p>
         <l>Pedro<s n="np"/><s n="ant"/></l> 
-        <r>Pedro<s n="np"/><s n="ant"/></r> 
+        <r>Pedro<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2815,7 +2815,7 @@
     <e>
       <p>
         <l>Pekin<s n="np"/><s n="loc"/></l> 
-        <r>Peking<s n="np"/><s n="loc"/></r> 
+        <r>Peking<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2848,7 +2848,7 @@
     <e>
       <p>
         <l>Rafa<s n="np"/><s n="ant"/></l> 
-        <r>Rafa<s n="np"/><s n="ant"/></r> 
+        <r>Rafa<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2859,7 +2859,7 @@
     <e>
       <p>
         <l>Roberto<s n="np"/><s n="ant"/></l> 
-        <r>Roberto<s n="np"/><s n="ant"/></r> 
+        <r>Roberto<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2892,7 +2892,7 @@
     <e>
       <p>
         <l>Ruanda<s n="np"/><s n="loc"/></l> 
-        <r>Rwanda<s n="np"/><s n="loc"/></r> 
+        <r>Rwanda<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2925,7 +2925,7 @@
     <e>
       <p>
         <l>Saddam<s n="np"/><s n="ant"/></l> 
-        <r>Saddam<s n="np"/><s n="ant"/></r> 
+        <r>Saddam<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2947,7 +2947,7 @@
     <e>
       <p>
         <l>Salbatore<s n="np"/><s n="ant"/></l> 
-        <r>Salbatore<s n="np"/><s n="ant"/></r> 
+        <r>Salbatore<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2969,7 +2969,7 @@
     <e>
       <p>
         <l>Segundo<s n="np"/><s n="ant"/></l> 
-        <r>Segundo<s n="np"/><s n="ant"/></r> 
+        <r>Segundo<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2980,7 +2980,7 @@
     <e>
       <p>
         <l>Serbia<s n="np"/><s n="loc"/></l> 
-        <r>Serbia<s n="np"/><s n="loc"/></r> 
+        <r>Serbia<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2991,7 +2991,7 @@
     <e>
       <p>
         <l>Severo<s n="np"/><s n="ant"/></l> 
-        <r>Severo<s n="np"/><s n="ant"/></r> 
+        <r>Severo<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3002,7 +3002,7 @@
     <e>
       <p>
         <l>Siria<s n="np"/><s n="ant"/></l> 
-        <r>Siria<s n="np"/><s n="ant"/></r> 
+        <r>Siria<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3013,7 +3013,7 @@
     <e>
       <p>
         <l>Siria<s n="np"/><s n="loc"/></l> 
-        <r>Syria<s n="np"/><s n="loc"/></r> 
+        <r>Syria<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3024,7 +3024,7 @@
     <e>
       <p>
         <l>Suitza<s n="np"/><s n="loc"/></l> 
-        <r>Switzerland<s n="np"/><s n="loc"/></r> 
+        <r>Switzerland<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3035,7 +3035,7 @@
     <e>
       <p>
         <l>Teresa<s n="np"/><s n="ant"/></l> 
-        <r>Teresa<s n="np"/><s n="ant"/></r> 
+        <r>Teresa<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3046,7 +3046,7 @@
     <e>
       <p>
         <l>Tito<s n="np"/><s n="ant"/></l> 
-        <r>Tito<s n="np"/><s n="ant"/></r> 
+        <r>Tito<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3057,7 +3057,7 @@
     <e>
       <p>
         <l>Turkia<s n="np"/><s n="loc"/></l> 
-        <r>Turkey<s n="np"/><s n="loc"/></r> 
+        <r>Turkey<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3068,7 +3068,7 @@
     <e>
       <p>
         <l>Txekiar<b/>Errepublika<s n="np"/><s n="loc"/></l> 
-        <r>Czech<b/>Republic<s n="np"/><s n="loc"/></r> 
+        <r>Czech<b/>Republic<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3079,7 +3079,7 @@
     <e>
       <p>
         <l>Txile<s n="np"/><s n="loc"/></l> 
-        <r>Chile<s n="np"/><s n="loc"/></r> 
+        <r>Chile<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3090,7 +3090,7 @@
     <e>
       <p>
         <l>Txina<s n="np"/><s n="loc"/></l> 
-        <r>China<s n="np"/><s n="loc"/></r> 
+        <r>China<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3112,7 +3112,7 @@
     <e>
       <p>
         <l>Ukraina<s n="np"/><s n="loc"/></l> 
-        <r>Ukraine<s n="np"/><s n="loc"/></r> 
+        <r>Ukraine<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3123,7 +3123,7 @@
     <e>
       <p>
         <l>Unai<s n="np"/><s n="ant"/></l> 
-        <r>Unai<s n="np"/><s n="ant"/></r> 
+        <r>Unai<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3134,7 +3134,7 @@
     <e>
       <p>
         <l>Urbano<s n="np"/><s n="ant"/></l> 
-        <r>Urbano<s n="np"/><s n="ant"/></r> 
+        <r>Urbano<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3156,7 +3156,7 @@
     <e c="MG: revisar">
       <p>
         <l>Valencia<s n="np"/><s n="ant"/></l> 
-        <r>Valencia<s n="np"/><s n="ant"/></r> 
+        <r>Valencia<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3167,7 +3167,7 @@
     <e>
       <p>
         <l>Venezuela<s n="np"/><s n="loc"/></l> 
-        <r>Venezuela<s n="np"/><s n="loc"/></r> 
+        <r>Venezuela<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3178,7 +3178,7 @@
     <e>
       <p>
         <l>Viktoria<s n="np"/><s n="ant"/></l> 
-        <r>Viktoria<s n="np"/><s n="ant"/></r> 
+        <r>Viktoria<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3189,7 +3189,7 @@
     <e>
       <p>
         <l>Vitoria-Gasteiz<s n="np"/><s n="loc"/></l> 
-        <r>Vitoria-Gasteiz<s n="np"/><s n="loc"/></r> 
+        <r>Vitoria-Gasteiz<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3200,7 +3200,7 @@
     <e>
       <p>
         <l>Washington<s n="np"/><s n="ant"/></l> 
-        <r>Washington<s n="np"/><s n="ant"/></r> 
+        <r>Washington<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3211,7 +3211,7 @@
     <e>
       <p>
         <l>Washington<s n="np"/><s n="loc"/></l> 
-        <r>Washington<s n="np"/><s n="loc"/></r> 
+        <r>Washington<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3222,7 +3222,7 @@
     <e>
       <p>
         <l>Xabier<s n="np"/><s n="ant"/></l> 
-        <r>Xabier<s n="np"/><s n="ant"/></r> 
+        <r>Xabier<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3255,7 +3255,7 @@
     <e>
       <p>
         <l>Zimbawe<s n="np"/><s n="loc"/></l> 
-        <r>Zimbabwe<s n="np"/><s n="loc"/></r> 
+        <r>Zimbabwe<s n="np"/><s n="loc"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -3266,7 +3266,7 @@
     <e>
       <p>
         <l>Zorione<s n="np"/><s n="ant"/></l> 
-        <r>Zorione<s n="np"/><s n="ant"/></r> 
+        <r>Zorione<s n="np"/><s n="ant"/><s n="sg"/></r> 
       </p>
     </e>
 
