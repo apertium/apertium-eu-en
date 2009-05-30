@@ -828,7 +828,7 @@
     <e><p><l>atzerritar<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
     <e><p><l>aurkako<s n="adj"/></l><r>hostile<s n="adj"/></r></p></e>
     <e><p><l>aurreikus_daitekeen<s n="adj"/></l><r>predictable<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>aurreko<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
+    <e><p><l>aurreko<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
     <e r="RL"><p><l>aurreko<s n="adj"/></l><r>previous<s n="adj"/></r></p></e>
     <e><p><l>aurren<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>aurreneko<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
@@ -846,9 +846,9 @@
     <e><p><l>azaleko<s n="adj"/></l><r>shallow<s n="adj"/></r></p></e>
     <e><p><l>azaleko<s n="adj"/></l><r>superficial<s n="adj"/></r></p></e>
     <e><p><l>azido<s n="adj"/></l><r>sour<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>azkar<s n="adj"/></l><r>clever<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>azkar<s n="adj"/></l><r>clever<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>azkar<s n="adj"/></l><r>smart<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>azkar<s n="adj"/></l><r>fast<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>azkar<s n="adj"/></l><r>fast<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>azken<s n="adj"/></l><r>last<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>azkenaurreko<s n="adj"/></l><r>penultimate<s n="adj"/></r></p></e>
     <e><p><l>azkeneko<s n="adj"/></l><r>last<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
@@ -870,13 +870,13 @@
     <e><p><l>bakun<s n="adj"/></l><r>simple<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>baldintzapeko<s n="adj"/></l><r>conditional<s n="adj"/></r></p></e>
     <e><p><l>balear<s n="adj"/></l><r>balearic<s n="adj"/></r></p></e>
-    <e><p><l>baliagarri<s n="adj"/></l><r>helpful<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>baliagarri<s n="adj"/></l><r>helpful<s n="adj"/></r></p></e>
     <e><p><l>baliagarri<s n="adj"/></l><r>useful<s n="adj"/></r></p></e>
     <e><p><l>baliogabe<s n="adj"/></l><r>invalid<s n="adj"/></r></p></e>
     <e><p><l>baliokide<s n="adj"/></l><r>equivalent<s n="adj"/></r></p></e>
     <e><p><l>baliotsu<s n="adj"/></l><r>valuable<s n="adj"/></r></p></e>
     <e><p><l>baliozko<s n="adj"/></l><r>valuable<s n="adj"/></r></p></e>
-    <e><p><l>baliozko<s n="adj"/></l><r>valid<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>baliozko<s n="adj"/></l><r>valid<s n="adj"/></r></p></e>
     <e><p><l>balizko<s n="adj"/></l><r>eventual<s n="adj"/></r></p></e>
     <e><p><l>banakako<s n="adj"/></l><r>individual<s n="adj"/></r></p></e>
     <e><p><l>banatzaile<s n="adj"/></l><r>divisional<s n="adj"/></r></p></e>
@@ -884,19 +884,19 @@
     <e><p><l>barbaro<s n="adj"/></l><r>barbaric<s n="adj"/></r></p></e>
     <e><p><l>barneko<s n="adj"/></l><r>internal<s n="adj"/></r></p></e>
     <e><p><l>barregarri<s n="adj"/></l><r>ridiculous<s n="adj"/></r></p></e>
-    <e><p><l>barruko<s n="adj"/></l><r>indoor<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>barruko<s n="adj"/></l><r>indoor<s n="adj"/></r></p></e>
     <e><p><l>barruko<s n="adj"/></l><r>inner<s n="adj"/></r></p></e>
     <e><p><l>bartzelonar<s n="adj"/></l><r>barcelonan<s n="adj"/></r></p></e>
     <e r="RL"><p><l>basati<s n="adj"/></l><r>brutal<s n="adj"/></r></p></e>
     <e><p><l>basati<s n="adj"/></l><r>wild<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bat-bateko<s n="adj"/></l><r>sudden<s n="adj"/></r></p></e>
     <e><p><l>bateraezin<s n="adj"/></l><r>incompatible<s n="adj"/></r></p></e>
-    <e><p><l>bateragarri<s n="adj"/></l><r>compatible<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bateragarri<s n="adj"/></l><r>compatible<s n="adj"/></r></p></e>
     <e><p><l>bateragarri<s n="adj"/></l><r>consistent<s n="adj"/></r></p></e>
     <e><p><l>baterako<s n="adj"/></l><r>conjoint<s n="adj"/></r></p></e>
     <e c="hogeita batgarren"><p><l>batgarren<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>baxu<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>baxu<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>baxu<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bederatzigarren<s n="adj"/></l><r>ninth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>begetal<s n="adj"/></l><r>vegetal<s n="adj"/></r></p></e>
     <e><p><l>begetatibo<s n="adj"/></l><r>vegetative<s n="adj"/></r></p></e>
@@ -917,7 +917,7 @@
     <e><p><l>berant<s n="adj"/></l><r>late<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>berariazko<s n="adj"/></l><r>specific<s n="adj"/></r></p></e>
     <e><p><l>berde<s n="adj"/></l><r>green<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>berde<s n="adj"/></l><r>unripe<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>berde<s n="adj"/></l><r>unripe<s n="adj"/></r></p></e>
     <e><p><l>berdin<s n="adj"/></l><r>equal<s n="adj"/></r></p></e>
     <e><p><l>berdin-berdin<s n="adj"/></l><r>identical<s n="adj"/></r></p></e>
     <e r="RL"><p><l>berdinkide<s n="adj"/></l><r>akin<s n="adj"/></r></p></e>
@@ -930,7 +930,7 @@
     <e><p><l>berezko<s n="adj"/></l><r>characteristic<s n="adj"/></r></p></e>
     <e r="RL"><p><l>berezko<s n="adj"/></l><r>spontaneous<s n="adj"/></r></p></e>
     <e><p><l>bero<s n="adj"/></l><r>hot<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>berri<s n="adj"/></l><r>modern<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>berri<s n="adj"/></l><r>modern<s n="adj"/></r></p></e>
     <e r="RL"><p><l>berri<s n="adj"/></l><r>state-of-the-art<s n="adj"/></r></p></e>
     <e r="RL"><p><l>berri<s n="adj"/></l><r>novel<s n="adj"/></r></p></e>
     <e><p><l>berri<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
@@ -939,7 +939,7 @@
     <e><p><l>berrogeigarren<s n="adj"/></l><r>four<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>bertako<s n="adj"/></l><r>autochthonous<s n="adj"/></r></p></e>
     <e><p><l>bertikal<s n="adj"/></l><r>vertical<s n="adj"/></r></p></e>
-    <e><p><l>bete<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bete<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
     <e><p><l>bete<s n="adj"/></l><r>full<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bete-beteko<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
     <e c="check"><p><l>betearazle<s n="adj"/></l><r>executive<s n="adj"/></r></p></e>
@@ -948,22 +948,22 @@
     <e><p><l>bidegabe<s n="adj"/></l><r>unfair<s n="adj"/></r></p></e>
     <e><p><l>bideragarri<s n="adj"/></l><r>viable<s n="adj"/></r></p></e>
     <e><p><l>bigarren<s n="adj"/></l><r>second<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
-    <e><p><l>bigarren<s n="adj"/></l><r>secondary<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bigarren<s n="adj"/></l><r>secondary<s n="adj"/></r></p></e>
     <e><p><l>bigun<s n="adj"/></l><r>soft<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bihotzeko<s n="adj"/></l><r>cordial<s n="adj"/></r></p></e>
-    <e><p><l>bihotzeko<s n="adj"/></l><r>neighbourly<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bihotzeko<s n="adj"/></l><r>neighbourly<s n="adj"/></r></p></e>
     <e><p><l>bihurri<s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>bihurri<s n="adj"/></l><r>mean<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>bihurri<s n="adj"/></l><r>nasty<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>bikain<s n="adj"/></l><r>splendid<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bihurri<s n="adj"/></l><r>mean<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>bihurri<s n="adj"/></l><r>nasty<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>bikain<s n="adj"/></l><r>splendid<s n="adj"/></r></p></e>
     <e><p><l>bikain<s n="adj"/></l><r>excellent<s n="adj"/></r></p></e>
-    <e><p><l>bikain<s n="adj"/></l><r>glorious<s n="adj"/></r></p></e>
-    <e><p><l>bikain<s n="adj"/></l><r>magnificent<s n="adj"/></r></p></e>
-    <e><p><l>bikain<s n="adj"/></l><r>superb<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bikain<s n="adj"/></l><r>glorious<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bikain<s n="adj"/></l><r>magnificent<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bikain<s n="adj"/></l><r>superb<s n="adj"/></r></p></e>
     <e r="RL"><p><l>bikain<s n="adj"/></l><r>notable<s n="adj"/></r></p></e>
     <e r="RL"><p><l>bikain<s n="adj"/></l><r>remarkable<s n="adj"/></r></p></e>
     <e><p><l>bikoitz<s n="adj"/></l><r>double<s n="adj"/></r></p></e>
-    <e><p><l>bikoitz<s n="adj"/></l><r>twofold<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bikoitz<s n="adj"/></l><r>twofold<s n="adj"/></r></p></e>
     <e><p><l>biluz<s n="adj"/></l><r>nude<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>biologiko<s n="adj"/></l><r>biological<s n="adj"/></r></p></e>
     <e><p><l>biribil<s n="adj"/></l><r>round<s n="adj"/><s n="sint"/></r></p></e>
@@ -971,9 +971,9 @@
     <e><p><l>bistako<s n="adj"/></l><r>obvious<s n="adj"/></r></p></e>
     <e><p><l>bitxi<s n="adj"/></l><r>rare<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bizi<s n="adj"/></l><r>alive<s n="adj"/></r></p></e>
-    <e><p><l>bizi<s n="adj"/></l><r>intense<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bizi<s n="adj"/></l><r>intense<s n="adj"/></r></p></e>
     <e><p><l>bizi-alargun<s n="adj"/></l><r>separate<s n="adj"/></r></p></e>
-    <e><p><l>bizidun<s n="adj"/></l><r>alive<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bizidun<s n="adj"/></l><r>alive<s n="adj"/></r></p></e>
     <e><p><l>bizidun<s n="adj"/></l><r>lively<s n="adj"/></r></p></e>
     <e><p><l>bizigarri<s n="adj"/></l><r>stimulating<s n="adj"/></r></p></e>
     <e><p><l>bizitzeko<s n="adj"/></l><r>vital<s n="adj"/></r></p></e>
@@ -993,45 +993,45 @@
     <e c="check"><p><l>demokrata<s n="adj"/></l><r>democrat<s n="adj"/></r></p></e>
     <e><p><l>demokratiko<s n="adj"/></l><r>democratic<s n="adj"/></r></p></e>
     <e><p><l>dentso<s n="adj"/></l><r>dense<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>desberdin<s n="adj"/></l><r>distinct<s n="adj"/></r></p></e>
-    <e><p><l>desberdin<s n="adj"/></l><r>diverse<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>desberdin<s n="adj"/></l><r>distinct<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>desberdin<s n="adj"/></l><r>diverse<s n="adj"/></r></p></e>
     <e><p><l>desberdin<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>
     <e><p><l>desegoki<s n="adj"/></l><r>inadequate<s n="adj"/></r></p></e>
-    <e><p><l>desegoki<s n="adj"/></l><r>inappropriate<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>desegoki<s n="adj"/></l><r>inappropriate<s n="adj"/></r></p></e>
     <e><p><l>deseroso<s n="adj"/></l><r>uncomfortable<s n="adj"/></r></p></e>
     <e><p><l>desiragarri<s n="adj"/></l><r>desirable<s n="adj"/></r></p></e>
     <e><p><l>dezente<s n="adj"/></l><r>decent<s n="adj"/></r></p></e>
     <e c="check"><p><l>dibertigarri<s n="adj"/></l><r>fun<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>diferente<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
-    <e><p><l>diferente<s n="adj"/></l><r>unlike<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>diferente<s n="adj"/></l><r>unlike<s n="adj"/></r></p></e>
     <e><p><l>dinamiko<s n="adj"/></l><r>dynamic<s n="adj"/></r></p></e>
     <e><p><l>diplomatiko<s n="adj"/></l><r>diplomatic<s n="adj"/></r></p></e>
     <e><p><l>dirudun<s n="adj"/></l><r>rich<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>distiratsu<s n="adj"/></l><r>bright<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>distiratsu<s n="adj"/></l><r>brilliant<s n="adj"/></r></p></e>
-    <e><p><l>distiratsu<s n="adj"/></l><r>radiant<s n="adj"/></r></p></e>
-    <e><p><l>distiratsu<s n="adj"/></l><r>shiny<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>distiratsu<s n="adj"/></l><r>brilliant<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>distiratsu<s n="adj"/></l><r>radiant<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>distiratsu<s n="adj"/></l><r>shiny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>doako<s n="adj"/></l><r>free<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>dokumental<s n="adj"/></l><r>documentary<s n="adj"/></r></p></e>
     <e><p><l>dotore<s n="adj"/></l><r>elegant<s n="adj"/></r></p></e>
-    <e><p><l>dotore<s n="adj"/></l><r>fancy<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>dotore<s n="adj"/></l><r>fancy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>dramatiko<s n="adj"/></l><r>dramatic<s n="adj"/></r></p></e>
     <e><p><l>ebolutibo<s n="adj"/></l><r>evolutionary<s n="adj"/></r></p></e>
     <e><p><l>eder<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
-    <e><p><l>eder<s n="adj"/></l><r>handsome<s n="adj"/></r></p></e>
-    <e><p><l>eder<s n="adj"/></l><r>good-looking<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>eder<s n="adj"/></l><r>handsome<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>eder<s n="adj"/></l><r>good-looking<s n="adj"/></r></p></e>
     <e r="RL"><p><l>egiazko<s n="adj"/></l><r>actual<s n="adj"/></r></p></e>
     <e r="RL"><p><l>egiazko<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
     <e r="RL"><p><l>egiazko<s n="adj"/></l><r>royal<s n="adj"/></r></p></e>
     <e><p><l>egiazko<s n="adj"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>egin_berri<s n="adj"/></l><r>recent<s n="adj"/></r></p></e>
     <e><p><l>egiturazko<s n="adj"/></l><r>structural<s n="adj"/></r></p></e>
-    <e><p><l>egoki<s n="adj"/></l><r>felicitous<s n="adj"/></r></p></e>
-    <e><p><l>egoki<s n="adj"/></l><r>suitable<s n="adj"/></r></p></e>
-    <e><p><l>egoki<s n="adj"/></l><r>adequate<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>egoki<s n="adj"/></l><r>felicitous<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>egoki<s n="adj"/></l><r>suitable<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>egoki<s n="adj"/></l><r>adequate<s n="adj"/></r></p></e>
     <e><p><l>egoki<s n="adj"/></l><r>appropriate<s n="adj"/></r></p></e>
     <e r="RL"><p><l>egoki<s n="adj"/></l><r>convenient<s n="adj"/></r></p></e>
-    <e><p><l>egoki<s n="adj"/></l><r>timely<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>egoki<s n="adj"/></l><r>timely<s n="adj"/></r></p></e>
     <e r="RL"><p><l>egoki<s n="adj"/></l><r>pertinent<s n="adj"/></r></p></e>
     <e r="RL"><p><l>egoki<s n="adj"/></l><r>relevant<s n="adj"/></r></p></e>
     <e><p><l>eguneko<s n="adj"/></l><r>daily<s n="adj"/></r></p></e>
@@ -1041,11 +1041,11 @@
     <e><p><l>ehun_urteko<s n="adj"/></l><r>secular<s n="adj"/></r></p></e>
     <e><p><l>ehungarren<s n="adj"/></l><r>hundredth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>ekialdeko<s n="adj"/></l><r>eastern<s n="adj"/></r></p></e>
-    <e><p><l>ekialdeko<s n="adj"/></l><r>oriental<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ekialdeko<s n="adj"/></l><r>oriental<s n="adj"/></r></p></e>
     <e><p><l>ekin<s n="adj"/></l><r>persistent<s n="adj"/></r></p></e>
     <e><p><l>ekologiko<s n="adj"/></l><r>ecological<s n="adj"/></r></p></e>
     <e><p><l>ekonomiko<s n="adj"/></l><r>economic<s n="adj"/></r></p></e>
-    <e><p><l>ekonomiko<s n="adj"/></l><r>economical<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ekonomiko<s n="adj"/></l><r>economical<s n="adj"/></r></p></e>
     <e><p><l>ekuatorial<s n="adj"/></l><r>equatorial<s n="adj"/></r></p></e>
     <e><p><l>elebidun<s n="adj"/></l><r>bilingual<s n="adj"/></r></p></e>
     <e><p><l>elektriko<s n="adj"/></l><r>electrical<s n="adj"/></r></p></e>
@@ -1054,10 +1054,10 @@
     <e><p><l>elikagai<s n="adj"/></l><r>alimentary<s n="adj"/></r></p></e>
     <e><p><l>elikagarri<s n="adj"/></l><r>nutritious<s n="adj"/></r></p></e>
     <e><p><l>elkarrekiko<s n="adj"/></l><r>mutual<s n="adj"/></r></p></e>
-    <e><p><l>elkarrekiko<s n="adj"/></l><r>reciprocal<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>elkarrekiko<s n="adj"/></l><r>reciprocal<s n="adj"/></r></p></e>
     <e><p><l>elkarren_segidako<s n="adj"/></l><r>consecutive<s n="adj"/></r></p></e>
     <e><p><l>emankor<s n="adj"/></l><r>fertile<s n="adj"/></r></p></e>
-    <e><p><l>emankor<s n="adj"/></l><r>productive<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>emankor<s n="adj"/></l><r>productive<s n="adj"/></r></p></e>
     <e><p><l>emoziozko<s n="adj"/></l><r>emotional<s n="adj"/></r></p></e>
     <e><p><l>enpiriko<s n="adj"/></l><r>empirical<s n="adj"/></r></p></e>
     <e><p><l>enpresen<s n="adj"/></l><r>business<s n="adj"/></r></p></e>
@@ -1068,13 +1068,13 @@
     <e r="RL"><p><l>erabateko<s n="adj"/></l><r>cutting<s n="adj"/></r></p></e>
     <e><p><l>erabateko<s n="adj"/></l><r>total<s n="adj"/></r></p></e>
     <e><p><l>erabilgarri<s n="adj"/></l><r>usable<s n="adj"/></r></p></e>
-    <e><p><l>eragingarri<s n="adj"/></l><r>operative<s n="adj"/></r></p></e>
-    <e><p><l>eraginkor<s n="adj"/></l><r>effective<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>eragingarri<s n="adj"/></l><r>operative<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>eraginkor<s n="adj"/></l><r>effective<s n="adj"/></r></p></e>
     <e><p><l>eraginkor<s n="adj"/></l><r>efficient<s n="adj"/></r></p></e>
     <e><p><l>erakargarri<s n="adj"/></l><r>attractive<s n="adj"/></r></p></e>
     <e><p><l>eraman_handiko<s n="adj"/></l><r>patient<s n="adj"/></r></p></e>
     <e><p><l>erdi_Aroko<s n="adj"/></l><r>mediaeval<s n="adj"/></r></p></e>
-    <e><p><l>erdi_Aroko<s n="adj"/></l><r>medieval<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>erdi_Aroko<s n="adj"/></l><r>medieval<s n="adj"/></r></p></e>
     <e><p><l>erdiko<s n="adj"/></l><r>intermediate<s n="adj"/></r></p></e>
     <e><p><l>erdipurdiko<s n="adj"/></l><r>mediocre<s n="adj"/></r></p></e>
     <e><p><l>ereduzko<s n="adj"/></l><r>exemplary<s n="adj"/></r></p></e>
@@ -1101,23 +1101,23 @@
     <e><p><l>errudun<s n="adj"/></l><r>guilty<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>errugabe<s n="adj"/></l><r>innocent<s n="adj"/></r></p></e>
     <e><p><l>errusiar<s n="adj"/></l><r>russian<s n="adj"/></r></p></e>
-    <e><p><l>ertain<s n="adj"/></l><r>average<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ertain<s n="adj"/></l><r>average<s n="adj"/></r></p></e>
     <e><p><l>ertain<s n="adj"/></l><r>half<s n="adj"/></r></p></e>
     <e><p><l>eruditu<s n="adj"/></l><r>scholarly<s n="adj"/></r></p></e>
     <e><p><l>esanguratsu<s n="adj"/></l><r>meaningful<s n="adj"/></r></p></e>
-    <e><p><l>esanguratsu<s n="adj"/></l><r>significant<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>esanguratsu<s n="adj"/></l><r>significant<s n="adj"/></r></p></e>
     <e><p><l>esentzial<s n="adj"/></l><r>essential<s n="adj"/></r></p></e>
     <e><p><l>eskas<s n="adj"/></l><r>scarce<s n="adj"/></r></p></e>
     <e><p><l>eskematiko<s n="adj"/></l><r>schematic<s n="adj"/></r></p></e>
     <e><p><l>eskola<s n="adj"/></l><r>school<s n="adj"/></r></p></e>
     <e><p><l>eskualdeko<s n="adj"/></l><r>local<s n="adj"/></r></p></e>
     <e><p><l>eskuin<s n="adj"/></l><r>right<s n="adj"/></r></p></e>
-    <e><p><l>eskuin<s n="adj"/></l><r>right-hand<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>eskuin<s n="adj"/></l><r>right-hand<s n="adj"/></r></p></e>
     <e><p><l>eskuineko<s n="adj"/></l><r>right<s n="adj"/></r></p></e>
     <e><p><l>eskuzko<s n="adj"/></l><r>manual<s n="adj"/></r></p></e>
     <e><p><l>espainiar<s n="adj"/></l><r>spanish<s n="adj"/></r></p></e>
     <e><p><l>espainol<s n="adj"/></l><r>spanish<s n="adj"/></r></p></e>
-    <e><p><l>espazial<s n="adj"/></l><r>space<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>espazial<s n="adj"/></l><r>space<s n="adj"/></r></p></e>
     <e><p><l>espazial<s n="adj"/></l><r>spatial<s n="adj"/></r></p></e>
     <e><p><l>esperimental<s n="adj"/></l><r>experimental<s n="adj"/></r></p></e>
     <e><p><l>espiritual<s n="adj"/></l><r>spiritual<s n="adj"/></r></p></e>
@@ -1147,29 +1147,29 @@
     <e><p><l>ez_zuzen<s n="adj"/></l><r>wrong<s n="adj"/></r></p></e>
     <e><p><l>ezatsegin<s n="adj"/></l><r>unpleasant<s n="adj"/></r></p></e>
     <e><p><l>ezberdin<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
-    <e><p><l>ezberdin<s n="adj"/></l><r>unlike<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ezberdin<s n="adj"/></l><r>unlike<s n="adj"/></r></p></e>
     <e><p><l>ezegonkor<s n="adj"/></l><r>unstable<s n="adj"/></r></p></e>
     <e><p><l>ezezko<s n="adj"/></l><r>negative<s n="adj"/></r></p></e>
     <e><p><l>ezgai<s n="adj"/></l><r>incapable<s n="adj"/></r></p></e>
-    <e><p><l>ezgai<s n="adj"/></l><r>unable<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ezgai<s n="adj"/></l><r>unable<s n="adj"/></r></p></e>
     <e><p><l>ezinbesteko<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
     <e><p><l>ezinezko<s n="adj"/></l><r>impossible<s n="adj"/></r></p></e>
     <e><p><l>ezjakin<s n="adj"/></l><r>ignorant<s n="adj"/></r></p></e>
     <e><p><l>ezker<s n="adj"/></l><r>left<s n="adj"/></r></p></e>
     <e><p><l>ezkerreko<s n="adj"/></l><r>left<s n="adj"/></r></p></e>
-    <e><p><l>ezkerreko<s n="adj"/></l><r>sinister<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ezkerreko<s n="adj"/></l><r>sinister<s n="adj"/></r></p></e>
     <e><p><l>ezkor<s n="adj"/></l><r>pessimistic<s n="adj"/></r></p></e>
     <e><p><l>ezkutu<s n="adj"/></l><r>unseen<s n="adj"/></r></p></e>
     <e><p><l>ezohiko<s n="adj"/></l><r>extraordinary<s n="adj"/></r></p></e>
     <e><p><l>ezohizko<s n="adj"/></l><r>extraordinary<s n="adj"/></r></p></e>
     <e><p><l>eztabaidaezin<s n="adj"/></l><r>indisputable<s n="adj"/></r></p></e>
     <e><p><l>eztabaidagarri<s n="adj"/></l><r>debatable<s n="adj"/></r></p></e>
-    <e><p><l>ezti<s n="adj"/></l><r>mellow<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ezti<s n="adj"/></l><r>mellow<s n="adj"/></r></p></e>
     <e><p><l>ezti<s n="adj"/></l><r>sweet<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>faltsu<s n="adj"/></l><r>false<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>famatu<s n="adj"/></l><r>famous<s n="adj"/></r></p></e>
     <e><p><l>familiar<s n="adj"/></l><r>familiar<s n="adj"/></r></p></e>
-    <e><p><l>familiar<s n="adj"/></l><r>family<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>familiar<s n="adj"/></l><r>family<s n="adj"/></r></p></e>
     <e><p><l>fanatiko<s n="adj"/></l><r>fanatical<s n="adj"/></r></p></e>
     <e><p><l>femenino<s n="adj"/></l><r>feminine<s n="adj"/></r></p></e>
     <e c="check"><p><l>feminista<s n="adj"/></l><r>feminist<s n="adj"/></r></p></e>
@@ -1177,7 +1177,7 @@
     <e><p><l>fidel<s n="adj"/></l><r>faithful<s n="adj"/></r></p></e>
     <e><p><l>filosofiko<s n="adj"/></l><r>philosophical<s n="adj"/></r></p></e>
     <e><p><l>fin<s n="adj"/></l><r>delicate<s n="adj"/></r></p></e>
-    <e><p><l>fin<s n="adj"/></l><r>exquisite<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>fin<s n="adj"/></l><r>exquisite<s n="adj"/></r></p></e>
     <e><p><l>finantzario<s n="adj"/></l><r>financial<s n="adj"/></r></p></e>
     <e><p><l>finko<s n="adj"/></l><r>fixed<s n="adj"/></r></p></e>
     <e><p><l>fisiko<s n="adj"/></l><r>physical<s n="adj"/></r></p></e>
@@ -1189,16 +1189,16 @@
     <e><p><l>franko<s n="adj"/></l><r>frank<s n="adj"/></r></p></e>
     <e><p><l>frantses<s n="adj"/></l><r>french<s n="adj"/></r></p></e>
     <e><p><l>frantziar<s n="adj"/></l><r>french<s n="adj"/></r></p></e>
-    <e><p><l>fresko<s n="adj"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>fresko<s n="adj"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>fresko<s n="adj"/></l><r>fresh<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>frontal<s n="adj"/></l><r>frontal<s n="adj"/></r></p></e>
     <e><p><l>funtsezko<s n="adj"/></l><r>fundamental<s n="adj"/></r></p></e>
     <e><p><l>funtzional<s n="adj"/></l><r>functional<s n="adj"/></r></p></e>
-    <e><p><l>gaineko<s n="adj"/></l><r>superior<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gaineko<s n="adj"/></l><r>superior<s n="adj"/></r></p></e>
     <e><p><l>gaineko<s n="adj"/></l><r>top<s n="adj"/></r></p></e>
-    <e><p><l>gaineko<s n="adj"/></l><r>upper<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gaineko<s n="adj"/></l><r>upper<s n="adj"/></r></p></e>
     <e><p><l>gaixo<s n="adj"/></l><r>ill<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>gaizto<s n="adj"/></l><r>perverse<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gaizto<s n="adj"/></l><r>perverse<s n="adj"/></r></p></e>
     <e><p><l>gaizto<s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>galant<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
     <e><p><l>galego<s n="adj"/></l><r>galician<s n="adj"/></r></p></e>
@@ -1207,22 +1207,22 @@
     <e><p><l>garaikide<s n="adj"/></l><r>contemporary<s n="adj"/></r></p></e>
     <e><p><l>garaile<s n="adj"/></l><r>victorious<s n="adj"/></r></p></e>
     <e><p><l>garbi<s n="adj"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>garbi<s n="adj"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>garbi<s n="adj"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>garden<s n="adj"/></l><r>transparent<s n="adj"/></r></p></e>
     <e><p><l>garesti<s n="adj"/></l><r>expensive<s n="adj"/></r></p></e>
-    <e><p><l>garesti<s n="adj"/></l><r>costly<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>garesti<s n="adj"/></l><r>costly<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>garrantzirik_gabeko<s n="adj"/></l><r>trivial<s n="adj"/></r></p></e>
     <e><p><l>garrantzitsu<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
     <e><p><l>garrantzizko<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
-    <e><p><l>garrantzizko<s n="adj"/></l><r>major<s n="adj"/></r></p></e>
-    <e><p><l>garrantzizko<s n="adj"/></l><r>of<b/>note<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>garrantzizko<s n="adj"/></l><r>major<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>garrantzizko<s n="adj"/></l><r>of<b/>note<s n="adj"/></r></p></e>
     <e><p><l>garratz<s n="adj"/></l><r>sour<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>garratz<s n="adj"/></l><r>bitter<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>garratz<s n="adj"/></l><r>bitter<s n="adj"/></r></p></e>
     <e><p><l>garun<s n="adj"/></l><r>cerebral<s n="adj"/></r></p></e>
     <e><p><l>gatazkatsu<s n="adj"/></l><r>conflictive<s n="adj"/></r></p></e>
     <e><p><l>gaur_egungo<s n="adj"/></l><r>current<s n="adj"/></r></p></e>
-    <e><p><l>gaur_egungo<s n="adj"/></l><r>ongoing<s n="adj"/></r></p></e>
-    <e><p><l>gaur_egungo<s n="adj"/></l><r>up-to-date<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gaur_egungo<s n="adj"/></l><r>ongoing<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gaur_egungo<s n="adj"/></l><r>up-to-date<s n="adj"/></r></p></e>
     <e><p><l>gautar<s n="adj"/></l><r>nocturnal<s n="adj"/></r></p></e>
     <e c="check"><p><l>gaztaina-koloreko<s n="adj"/></l><r>brown<s n="adj"/></r></p></e>
     <e r="RL"><p><l>gazte<s n="adj"/></l><r>juvenile<s n="adj"/></r></p></e>
@@ -1246,8 +1246,8 @@
     <e><p><l>geroz_eta_handiagoa_den<s n="adj"/></l><r>increasing<s n="adj"/></r></p></e>
     <e c="check"><p><l>gerta_daitekeen<s n="adj"/></l><r>contingent<s n="adj"/></r></p></e>
     <e><p><l>gerta_daitekeen<s n="adj"/></l><r>likely<s n="adj"/></r></p></e>
-    <e><p><l>gerta_daitekeen<s n="adj"/></l><r>probable<s n="adj"/></r></p></e>
-    <e><p><l>gerta_daitekeen<s n="adj"/></l><r>prospective<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gerta_daitekeen<s n="adj"/></l><r>probable<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gerta_daitekeen<s n="adj"/></l><r>prospective<s n="adj"/></r></p></e>
     <e><p><l>gertu<s n="adj"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gezur<s n="adj"/></l><r>uncertain<s n="adj"/></r></p></e>
     <e><p><l>gezurrezko<s n="adj"/></l><r>false<s n="adj"/><s n="sint"/></r></p></e>
@@ -1257,7 +1257,7 @@
     <e c="check"><p><l>gizen<s n="adj"/></l><r>fat<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gizonezko<s n="adj"/></l><r>human<s n="adj"/></r></p></e>
     <e><p><l>global<s n="adj"/></l><r>global<s n="adj"/></r></p></e>
-    <e><p><l>global<s n="adj"/></l><r>overall<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>global<s n="adj"/></l><r>overall<s n="adj"/></r></p></e>
     <e><p><l>gobernuko<s n="adj"/></l><r>governmental<s n="adj"/></r></p></e>
     <e><p><l>gogaikarri<s n="adj"/></l><r>annoying<s n="adj"/></r></p></e>
     <e><p><l>gogoangarri<s n="adj"/></l><r>considerable<s n="adj"/></r></p></e>
@@ -1265,9 +1265,9 @@
     <e r="RL"><p><l>gogor<s n="adj"/></l><r>relentless<s n="adj"/></r></p></e>
     <e r="RL"><p><l>gogor<s n="adj"/></l><r>remorseless<s n="adj"/></r></p></e>
     <e><p><l>gogor<s n="adj"/></l><r>severe<s n="adj"/></r></p></e>
-    <e><p><l>goiko<s n="adj"/></l><r>superior<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>goiko<s n="adj"/></l><r>superior<s n="adj"/></r></p></e>
     <e><p><l>goiko<s n="adj"/></l><r>top<s n="adj"/></r></p></e>
-    <e><p><l>goiko<s n="adj"/></l><r>upper<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>goiko<s n="adj"/></l><r>upper<s n="adj"/></r></p></e>
     <e r="RL"><p><l>goiztiar<s n="adj"/></l><r>precocious<s n="adj"/></r></p></e>
     <e><p><l>gor<s n="adj"/></l><r>deaf<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gora<s n="adj"/></l><r>overhead<s n="adj"/></r></p></e>
@@ -1278,9 +1278,9 @@
     <e><p><l>gorri<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>gorrixka<s n="adj"/></l><r>reddish<s n="adj"/></r></p></e>
     <e><p><l>gotiko<s n="adj"/></l><r>gothic<s n="adj"/></r></p></e>
-    <e><p><l>goxo<s n="adj"/></l><r>mellow<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>goxo<s n="adj"/></l><r>mellow<s n="adj"/></r></p></e>
     <e><p><l>goxo<s n="adj"/></l><r>sweet<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>gozo<s n="adj"/></l><r>mellow<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gozo<s n="adj"/></l><r>mellow<s n="adj"/></r></p></e>
     <e><p><l>gozo<s n="adj"/></l><r>sweet<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>grafiko<s n="adj"/></l><r>graphic<s n="adj"/></r></p></e>
     <e><p><l>gramatikal<s n="adj"/></l><r>grammatical<s n="adj"/></r></p></e>
@@ -1294,7 +1294,7 @@
     <e><p><l>gustukoen<s n="adj"/></l><r>favourite<s n="adj"/></r></p></e>
     <e><p><l>gutxi_gorabeherako<s n="adj"/></l><r>approximate<s n="adj"/></r></p></e>
     <e><p><l>gutxiegi<s n="adj"/></l><r>insufficient<s n="adj"/></r></p></e>
-    <e><p><l>gutxieneko<s n="adj"/></l><r>minimal<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gutxieneko<s n="adj"/></l><r>minimal<s n="adj"/></r></p></e>
     <e><p><l>gutxieneko<s n="adj"/></l><r>minimum<s n="adj"/></r></p></e>
     <e><p><l>gutxienen<s n="adj"/></l><r>minoritary<s n="adj"/></r></p></e>
     <e><p><l>guztizko<s n="adj"/></l><r>absolute<s n="adj"/></r></p></e>
@@ -1310,12 +1310,12 @@
     <e><p><l>hamazazpigarren<s n="adj"/></l><r>seventeenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamazortzigarren<s n="adj"/></l><r>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
 
-    <e><p><l>handi<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>handi<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>handi<s n="adj"/></l><r>capable<s n="adj"/></r></p></e>
     <e><p><l>handi<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>handi<s n="adj"/></l><r>elder<s n="adj"/></r></p></e>
-    <e><p><l>handi<s n="adj"/></l><r>great<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>handi<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>handi<s n="adj"/></l><r>elder<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>handi<s n="adj"/></l><r>great<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>handi<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
     <e r="LR"><p><l>handiago<s n="adj"/></l><r>great<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
     <e><p><l>handiago<s n="adj"/></l><r>main<s n="adj"/></r></p></e>
     <e><p><l>hareazko<s n="adj"/></l><r>sandy<s n="adj"/><s n="sint"/></r></p></e>
@@ -1348,7 +1348,7 @@
     <e><p><l>hilkor<s n="adj"/></l><r>mortal<s n="adj"/></r></p></e>
     <e><p><l>hipotetiko<s n="adj"/></l><r>hypothetical<s n="adj"/></r></p></e>
     <e><p><l>hiri_inguruko<s n="adj"/></l><r>peripheral<s n="adj"/></r></p></e>
-    <e><p><l>hiritar<s n="adj"/></l><r>citizen<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>hiritar<s n="adj"/></l><r>citizen<s n="adj"/></r></p></e>
     <e><p><l>hiritar<s n="adj"/></l><r>urban<s n="adj"/></r></p></e>
     <e><p><l>hirugarren<s n="adj"/></l><r>third<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hirurogeigarren<s n="adj"/></l><r>sixtieth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
@@ -1365,17 +1365,17 @@
     <e><p><l>horizontal<s n="adj"/></l><r>horizontal<s n="adj"/></r></p></e>
     <e><p><l>hotz<s n="adj"/></l><r>cold<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>humanitario<s n="adj"/></l><r>humanitarian<s n="adj"/></r></p></e>
-    <e><p><l>hunkigarri<s n="adj"/></l><r>thrilling<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>hunkigarri<s n="adj"/></l><r>thrilling<s n="adj"/></r></p></e>
     <e><p><l>hunkigarri<s n="adj"/></l><r>impressive<s n="adj"/></r></p></e>
-    <e><p><l>hunkigarri<s n="adj"/></l><r>shocking<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>hunkigarri<s n="adj"/></l><r>shocking<s n="adj"/></r></p></e>
     <e><p><l>hurbil<s n="adj"/></l><r>near<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>hurbil<s n="adj"/></l><r>forthcoming<s n="adj"/></r></p></e>
-    <e><p><l>hurbil<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>hurbil<s n="adj"/></l><r>forthcoming<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>hurbil<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
     <e><p><l>hurko<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
     <e><p><l>hurrengo<s n="adj"/></l><r>successive<s n="adj"/></r></p></e>
     <e><p><l>huts<s n="adj"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>huts<s n="adj"/></l><r>hollow<s n="adj"/></r></p></e>
-    <e><p><l>huts<s n="adj"/></l><r>futile<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>huts<s n="adj"/></l><r>hollow<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>huts<s n="adj"/></l><r>futile<s n="adj"/></r></p></e>
     <e><p><l>ibaiko<s n="adj"/></l><r>fluvial<s n="adj"/></r></p></e>
     <e><p><l>iberiko<s n="adj"/></l><r>iberian<s n="adj"/></r></p></e>
     <e><p><l>ideal<s n="adj"/></l><r>ideal<s n="adj"/></r></p></e>
@@ -1385,8 +1385,8 @@
     <e><p><l>iheskor<s n="adj"/></l><r>fleeting<s n="adj"/></r></p></e>
     <e c="check"><p><l>iheslari<s n="adj"/></l><r>fugitive<s n="adj"/></r></p></e>
     <e><p><l>ikaragarri<s n="adj"/></l><r>awful<s n="adj"/></r></p></e>
-    <e><p><l>ikaragarri<s n="adj"/></l><r>dreadful<s n="adj"/></r></p></e>
-    <e><p><l>ikaragarri<s n="adj"/></l><r>terrible<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ikaragarri<s n="adj"/></l><r>dreadful<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ikaragarri<s n="adj"/></l><r>terrible<s n="adj"/></r></p></e>
     <e><p><l>ikusezin<s n="adj"/></l><r>invisible<s n="adj"/></r></p></e>
     <e><p><l>ikusgai<s n="adj"/></l><r>visible<s n="adj"/></r></p></e>
     <e><p><l>ikusgarri<s n="adj"/></l><r>spectacular<s n="adj"/></r></p></e>
@@ -1408,7 +1408,7 @@
     <e><p><l>intelektual<s n="adj"/></l><r>intellectual<s n="adj"/></r></p></e>
     <e><p><l>intentsibo<s n="adj"/></l><r>intensive<s n="adj"/></r></p></e>
     <e><p><l>interesgarri<s n="adj"/></l><r>interesting<s n="adj"/></r></p></e>
-    <e><p><l>interesgarri<s n="adj"/></l><r>worthwhile<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>interesgarri<s n="adj"/></l><r>worthwhile<s n="adj"/></r></p></e>
     <e><p><l>internazional<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
     <e><p><l>inuzente<s n="adj"/></l><r>innocent<s n="adj"/></r></p></e>
     <e><p><l>iparramerikar<s n="adj"/></l><r>North<b/>American<s n="adj"/></r></p></e>
@@ -1426,8 +1426,8 @@
     <e><p><l>israeldar<s n="adj"/></l><r>israeli<s n="adj"/></r></p></e>
     <e><p><l>italiar<s n="adj"/></l><r>italian<s n="adj"/></r></p></e>
     <e><p><l>itsas<s n="adj"/></l><r>marine<s n="adj"/></r></p></e>
-    <e><p><l>itsasertzeko<s n="adj"/></l><r>littoral<s n="adj"/></r></p></e>
-    <e><p><l>itsasertzeko<s n="adj"/></l><r>longshore<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>itsasertzeko<s n="adj"/></l><r>littoral<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>itsasertzeko<s n="adj"/></l><r>longshore<s n="adj"/></r></p></e>
     <e><p><l>itsasertzeko<s n="adj"/></l><r>coastal<s n="adj"/></r></p></e>
     <e><p><l>itsasoko<s n="adj"/></l><r>maritime<s n="adj"/></r></p></e>
     <e><p><l>itsastar<s n="adj"/></l><r>marine<s n="adj"/></r></p></e>
@@ -1454,17 +1454,17 @@
     <e><p><l>juridiko<s n="adj"/></l><r>juridical<s n="adj"/></r></p></e>
     <e><p><l>justu<s n="adj"/></l><r>just<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>kaltegarri<s n="adj"/></l><r>harmful<s n="adj"/></r></p></e>
-    <e><p><l>kaltegarri<s n="adj"/></l><r>hurtful<s n="adj"/></r></p></e>
-    <e><p><l>kanpoko<s n="adj"/></l><r>exterior<s n="adj"/></r></p></e>
-    <e><p><l>kanpoko<s n="adj"/></l><r>external<s n="adj"/></r></p></e>
-    <e><p><l>kanpoko<s n="adj"/></l><r>outdoor<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>kaltegarri<s n="adj"/></l><r>hurtful<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>kanpoko<s n="adj"/></l><r>exterior<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>kanpoko<s n="adj"/></l><r>external<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>kanpoko<s n="adj"/></l><r>outdoor<s n="adj"/></r></p></e>
     <e><p><l>kanpoko<s n="adj"/></l><r>outer<s n="adj"/></r></p></e>
-    <e><p><l>kanpoko<s n="adj"/></l><r>outside<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>kanpoko<s n="adj"/></l><r>outside<s n="adj"/></r></p></e>
     <e><p><l>kanpotar<s n="adj"/></l><r>intrusive<s n="adj"/></r></p></e>
     <e><p><l>kardiako<s n="adj"/></l><r>cardiac<s n="adj"/></r></p></e>
     <e c="check"><p><l>karratu<s n="adj"/></l><r>square<s n="adj"/></r></p></e>
     <e><p><l>kaskar<s n="adj"/></l><r>insignificant<s n="adj"/></r></p></e>
-    <e><p><l>kaskar<s n="adj"/></l><r>marginal<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>kaskar<s n="adj"/></l><r>marginal<s n="adj"/></r></p></e>
     <e><p><l>katalan<s n="adj"/></l><r>catalan<s n="adj"/></r></p></e>
     <e><p><l>katoliko<s n="adj"/></l><r>catholic<s n="adj"/></r></p></e>
     <e><p><l>kausal<s n="adj"/></l><r>causal<s n="adj"/></r></p></e>
@@ -1496,7 +1496,7 @@
     <e><p><l>kontsekuente<s n="adj"/></l><r>consistent<s n="adj"/></r></p></e>
     <e><p><l>kontserbadore<s n="adj"/></l><r>conservative<s n="adj"/></r></p></e>
     <e><p><l>kontzeptual<s n="adj"/></l><r>conceptual<s n="adj"/></r></p></e>
-    <e><p><l>kontziente<s n="adj"/></l><r>aware<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>kontziente<s n="adj"/></l><r>aware<s n="adj"/></r></p></e>
     <e><p><l>kontziente<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
     <e><p><l>koral<s n="adj"/></l><r>choral<s n="adj"/></r></p></e>
     <e><p><l>korporal<s n="adj"/></l><r>corporal<s n="adj"/></r></p></e>
@@ -1506,7 +1506,7 @@
     <e><p><l>kroniko<s n="adj"/></l><r>chronic<s n="adj"/></r></p></e>
     <e><p><l>kronologiko<s n="adj"/></l><r>chronological<s n="adj"/></r></p></e>
     <e><p><l>krudel<s n="adj"/></l><r>cruel<s n="adj"/></r></p></e>
-    <e><p><l>krudel<s n="adj"/></l><r>ruthless<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>krudel<s n="adj"/></l><r>ruthless<s n="adj"/></r></p></e>
     <e><p><l>kulturadun<s n="adj"/></l><r>literate<s n="adj"/></r></p></e>
     <e><p><l>kultural<s n="adj"/></l><r>cultural<s n="adj"/></r></p></e>
     <e><p><l>kurioso<s n="adj"/></l><r>curious<s n="adj"/></r></p></e>
@@ -1514,13 +1514,13 @@
     <e r="RL"><p><l>labur<s n="adj"/></l><r>brief<s n="adj"/></r></p></e>
     <e><p><l>labur<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>lagun<s n="adj"/></l><r>accompanying<s n="adj"/></r></p></e>
-    <e><p><l>lagun<s n="adj"/></l><r>fellow<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>lagun<s n="adj"/></l><r>fellow<s n="adj"/></r></p></e>
     <e><p><l>lagunkoi<s n="adj"/></l><r>friendly<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>laguntzaile<s n="adj"/></l><r>auxiliary<s n="adj"/></r></p></e>
     <e><p><l>lan<s n="adj"/></l><r>labour<s n="adj"/></r></p></e>
     <e><p><l>landatar<s n="adj"/></l><r>rural<s n="adj"/></r></p></e>
     <e><p><l>larri<s n="adj"/></l><r>grave<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>lasai<s n="adj"/></l><r>toneless<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>lasai<s n="adj"/></l><r>toneless<s n="adj"/></r></p></e>
     <e><p><l>lasai<s n="adj"/></l><r>calm<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>laster<s n="adj"/></l><r>fast<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>latindar<s n="adj"/></l><r>latin<s n="adj"/></r></p></e>
@@ -1533,7 +1533,7 @@
     <e><p><l>legezko<s n="adj"/></l><r>lawful<s n="adj"/></r></p></e>
     <e><p><l>legitimo<s n="adj"/></l><r>legitimate<s n="adj"/></r></p></e>
     <e><p><l>lehen<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
-    <e><p><l>lehen<s n="adj"/></l><r>primary<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>lehen<s n="adj"/></l><r>primary<s n="adj"/></r></p></e>
     <e c="check"><p><l>lehen<s n="adj"/></l><r>prime<s n="adj"/></r></p></e>
     <e><p><l>lehendabiziko<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>lehenengo<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
@@ -1573,7 +1573,7 @@
     <e><p><l>makur<s n="adj"/></l><r>wry<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>malenkoniatsu<s n="adj"/></l><r>melancholic<s n="adj"/></r></p></e>
     <e><p><l>malgu<s n="adj"/></l><r>flexible<s n="adj"/></r></p></e>
-    <e><p><l>malgu<s n="adj"/></l><r>floppy<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>malgu<s n="adj"/></l><r>floppy<s n="adj"/></r></p></e>
     <e><p><l>malkartsu<s n="adj"/></l><r>rugged<s n="adj"/></r></p></e>
     <e><p><l>maltzur<s n="adj"/></l><r>cunning<s n="adj"/></r></p></e>
     <e><p><l>marroi<s n="adj"/></l><r>brown<s n="adj"/></r></p></e>
@@ -1585,9 +1585,9 @@
     <e><p><l>mediko<s n="adj"/></l><r>medical<s n="adj"/></r></p></e>
     <e><p><l>mediterraneo<s n="adj"/></l><r>mediterranean<s n="adj"/></r></p></e>
     <e><p><l>mehe<s n="adj"/></l><r>fine<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>mehe<s n="adj"/></l><r>subtle<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>mehe<s n="adj"/></l><r>subtle<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>mekaniko<s n="adj"/></l><r>mechanical<s n="adj"/></r></p></e>
-    <e><p><l>mendebaldeko<s n="adj"/></l><r>occidental<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>mendebaldeko<s n="adj"/></l><r>occidental<s n="adj"/></r></p></e>
     <e><p><l>mendebaldeko<s n="adj"/></l><r>western<s n="adj"/></r></p></e>
     <e><p><l>menderatzaile<s n="adj"/></l><r>dominant<s n="adj"/></r></p></e>
     <e><p><l>menditsu<s n="adj"/></l><r>mountainous<s n="adj"/></r></p></e>
@@ -1595,7 +1595,7 @@
     <e><p><l>merezitako<s n="adj"/></l><r>worthy<s n="adj"/></r></p></e>
     <e><p><l>merkataritzako<s n="adj"/></l><r>mercantile<s n="adj"/></r></p></e>
     <e><p><l>merke<s n="adj"/></l><r>cheap<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>mesedegarri<s n="adj"/></l><r>favorable<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>mesedegarri<s n="adj"/></l><r>favorable<s n="adj"/></r></p></e>
     <e><p><l>mesedegarri<s n="adj"/></l><r>favourable<s n="adj"/></r></p></e>
     <e><p><l>metafisiko<s n="adj"/></l><r>metaphysical<s n="adj"/></r></p></e>
     <e><p><l>metaliko<s n="adj"/></l><r>metallic<s n="adj"/></r></p></e>
@@ -1609,7 +1609,7 @@
     <e><p><l>mineral<s n="adj"/></l><r>mineral<s n="adj"/></r></p></e>
     <e><p><l>mingarri<s n="adj"/></l><r>painful<s n="adj"/></r></p></e>
     <e><p><l>mingots<s n="adj"/></l><r>bitter<s n="adj"/></r></p></e>
-    <e><p><l>minimo<s n="adj"/></l><r>minimal<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>minimo<s n="adj"/></l><r>minimal<s n="adj"/></r></p></e>
     <e><p><l>minimo<s n="adj"/></l><r>minimum<s n="adj"/></r></p></e>
     <e><p><l>minuskula<s n="adj"/></l><r>tiny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>miragarri<s n="adj"/></l><r>wonderful<s n="adj"/></r></p></e>
@@ -1625,11 +1625,11 @@
     <e><p><l>morfologiko<s n="adj"/></l><r>morphological<s n="adj"/></r></p></e>
     <e><p><l>motel<s n="adj"/></l><r>slow<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>motz<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>motz<s n="adj"/></l><r>witless<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>motz<s n="adj"/></l><r>witless<s n="adj"/></r></p></e>
     <e><p><l>mugagabe<s n="adj"/></l><r>immense<s n="adj"/></r></p></e>
     <e><p><l>mugako<s n="adj"/></l><r>border<s n="adj"/></r></p></e>
     <e><p><l>munduko<s n="adj"/></l><r>world<s n="adj"/></r></p></e>
-    <e><p><l>munduko<s n="adj"/></l><r>world-wide<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>munduko<s n="adj"/></l><r>world-wide<s n="adj"/></r></p></e>
     <e><p><l>musikal<s n="adj"/></l><r>musical<s n="adj"/></r></p></e>
     <e><p><l>musulman<s n="adj"/></l><r>muslim<s n="adj"/></r></p></e>
     <e><p><l>mutiri<s n="adj"/></l><r>rebellious<s n="adj"/></r></p></e>
@@ -1638,13 +1638,13 @@
     <e><p><l>nabarmen<s n="adj"/></l><r>evident<s n="adj"/></r></p></e>
     <e r="RL"><p><l>nagusi<s n="adj"/></l><r>capital<s n="adj"/></r></p></e>
     <e r="RL"><p><l>nagusi<s n="adj"/></l><r>predominant<s n="adj"/></r></p></e>
-    <e><p><l>nagusi<s n="adj"/></l><r>leading<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>nagusi<s n="adj"/></l><r>leading<s n="adj"/></r></p></e>
     <e><p><l>nagusi<s n="adj"/></l><r>main<s n="adj"/></r></p></e>
-    <e><p><l>nagusi<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>nagusi<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
     <e><p><l>nahasi<s n="adj"/></l><r>garbled<s n="adj"/></r></p></e>
     <e><p><l>nahiko<s n="adj"/></l><r>sufficient<s n="adj"/></r></p></e>
-    <e><p><l>nahitaezko<s n="adj"/></l><r>indispensable<s n="adj"/></r></p></e>
-    <e><p><l>nahitaezko<s n="adj"/></l><r>binding<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>nahitaezko<s n="adj"/></l><r>indispensable<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>nahitaezko<s n="adj"/></l><r>binding<s n="adj"/></r></p></e>
     <e><p><l>nahitaezko<s n="adj"/></l><r>compulsory<s n="adj"/></r></p></e>
     <e><p><l>narratibo<s n="adj"/></l><r>narrative<s n="adj"/></r></p></e>
     <e><p><l>nartzisista<s n="adj"/></l><r>narcissistic<s n="adj"/></r></p></e>
@@ -1665,7 +1665,7 @@
     <e><p><l>nola-halako<s n="adj"/></l><r>mediocre<s n="adj"/></r></p></e>
     <e><p><l>nor_bere<s n="adj"/></l><r>respective<s n="adj"/></r></p></e>
     <e><p><l>normal<s n="adj"/></l><r>normal<s n="adj"/></r></p></e>
-    <e><p><l>normal<s n="adj"/></l><r>ordinary<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>normal<s n="adj"/></l><r>ordinary<s n="adj"/></r></p></e>
     <e><p><l>notario<s n="adj"/></l><r>notarial<s n="adj"/></r></p></e>
     <e><p><l>nuklear<s n="adj"/></l><r>nuclear<s n="adj"/></r></p></e>
     <e><p><l>objektibo<s n="adj"/></l><r>objective<s n="adj"/></r></p></e>
@@ -1684,7 +1684,7 @@
     <e><p><l>olinpiar<s n="adj"/></l><r>olympic<s n="adj"/></r></p></e>
     <e><p><l>olinpiko<s n="adj"/></l><r>olympic<s n="adj"/></r></p></e>
     <e><p><l>on<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>on<s n="adj"/></l><r>satisfactory<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>on<s n="adj"/></l><r>satisfactory<s n="adj"/></r></p></e>
     <e><p><l>onargarri<s n="adj"/></l><r>acceptable<s n="adj"/></r></p></e>
     <e><p><l>onartezin<s n="adj"/></l><r>intolerable<s n="adj"/></r></p></e>
     <e><p><l>ondoko<s n="adj"/></l><r>contiguous<s n="adj"/></r></p></e>
@@ -1710,8 +1710,8 @@
     <e><p><l>oso_handi<s n="adj"/></l><r>tremendous<s n="adj"/></r></p></e>
     <e><p><l>osoko<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
     <e><p><l>ospetsu<s n="adj"/></l><r>famous<s n="adj"/></r></p></e>
-    <e><p><l>ospetsu<s n="adj"/></l><r>notorious<s n="adj"/></r></p></e>
-    <e><p><l>ospetsu<s n="adj"/></l><r>prestigious<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ospetsu<s n="adj"/></l><r>notorious<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ospetsu<s n="adj"/></l><r>prestigious<s n="adj"/></r></p></e>
     <e r="RL"><p><l>ospetsu<s n="adj"/></l><r>solemn<s n="adj"/></r></p></e>
     <e><p><l>otzan<s n="adj"/></l><r>docile<s n="adj"/></r></p></e>
     <e><p><l>ozeaniko<s n="adj"/></l><r>oceanic<s n="adj"/></r></p></e>
@@ -1720,8 +1720,8 @@
     <e><p><l>paradoxiko<s n="adj"/></l><r>paradoxical<s n="adj"/></r></p></e>
     <e><p><l>paralelo<s n="adj"/></l><r>parallel<s n="adj"/></r></p></e>
     <e><p><l>paregabe<s n="adj"/></l><r>exceptional<s n="adj"/></r></p></e>
-    <e><p><l>paregabe<s n="adj"/></l><r>outstanding<s n="adj"/></r></p></e>
-    <e><p><l>pareko<s n="adj"/></l><r>akin<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>paregabe<s n="adj"/></l><r>outstanding<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>pareko<s n="adj"/></l><r>akin<s n="adj"/></r></p></e>
     <e><p><l>pareko<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
     <e><p><l>parlamentario<s n="adj"/></l><r>parliamentary<s n="adj"/></r></p></e>
     <e><p><l>partikular<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
@@ -1737,7 +1737,7 @@
     <e><p><l>piko<s n="adj"/></l><r>steep<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>pintoresko<s n="adj"/></l><r>picturesque<s n="adj"/></r></p></e>
     <e><p><l>piriniar<s n="adj"/></l><r>pyrenean<s n="adj"/></r></p></e>
-    <e c="check"><p><l>plastiko<s n="adj"/></l><r>plastic<s n="adj"/></r></p></e>
+    <e><p><l>plastiko<s n="adj"/></l><r>plastic<s n="adj"/></r></p></e>
     <e><p><l>plural<s n="adj"/></l><r>plural<s n="adj"/></r></p></e>
     <e><p><l>pobre<s n="adj"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>poetiko<s n="adj"/></l><r>poetic<s n="adj"/></r></p></e>
@@ -1770,17 +1770,17 @@
     <e><p><l>saiatu<s n="adj"/></l><r>active<s n="adj"/></r></p></e>
     <e><p><l>saihestezin<s n="adj"/></l><r>inevitable<s n="adj"/></r></p></e>
     <e><p><l>saihestezin<s n="adj"/></l><r>unavoidable<s n="adj"/></r></p></e>
-    <e><p><l>sakon<s n="adj"/></l><r>exhaustive<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>sakon<s n="adj"/></l><r>exhaustive<s n="adj"/></r></p></e>
     <e><p><l>sakon<s n="adj"/></l><r>deep<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>sakratu<s n="adj"/></l><r>holy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>salbuespenezko<s n="adj"/></l><r>exceptional<s n="adj"/></r></p></e>
-    <e><p><l>salbuespenezko<s n="adj"/></l><r>outstanding<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>salbuespenezko<s n="adj"/></l><r>outstanding<s n="adj"/></r></p></e>
     <e><p><l>samur<s n="adj"/></l><r>tender<s n="adj"/><s n="sint"/></r></p></e>
-    <e c="crec que no hauria de ser adj sinó tractament, com Sr (nom?)"><p><l>santu<s n="adj"/></l><r>saint<s n="adj"/></r></p></e>
+    <e><p><l>santu<s n="adj"/></l><r>saint<s n="adj"/></r></p></e>
     <e><p><l>sarkor<s n="adj"/></l><r>acute<s n="adj"/></r></p></e>
     <e><p><l>sarkor<s n="adj"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>seduktore<s n="adj"/></l><r>seductive<s n="adj"/></r></p></e>
-    <e><p><l>seguru<s n="adj"/></l><r>safe<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>seguru<s n="adj"/></l><r>safe<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>seguru<s n="adj"/></l><r>sure<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>seigarren<s n="adj"/></l><r>sixth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e c="check"><p><l>sekretu<s n="adj"/></l><r>secret<s n="adj"/></r></p></e>
@@ -1800,7 +1800,7 @@
     <e><p><l>singular<s n="adj"/></l><r>singular<s n="adj"/></r></p></e>
     <e><p><l>sinonimo<s n="adj"/></l><r>synonymous<s n="adj"/></r></p></e>
     <e><p><l>sinpatiko<s n="adj"/></l><r>nice<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>sinple<s n="adj"/></l><r>facile<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>sinple<s n="adj"/></l><r>facile<s n="adj"/></r></p></e>
     <e><p><l>sinple<s n="adj"/></l><r>simple<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>sintaktiko<s n="adj"/></l><r>syntactic<s n="adj"/></r></p></e>
     <e><p><l>sintetiko<s n="adj"/></l><r>synthetic<s n="adj"/></r></p></e>
@@ -1818,8 +1818,8 @@
     <e><p><l>sozioekonomiko<s n="adj"/></l><r>socioeconomic<s n="adj"/></r></p></e>
     <e><p><l>soziolinguistiko<s n="adj"/></l><r>sociolinguistic<s n="adj"/></r></p></e>
     <e><p><l>soziologiko<s n="adj"/></l><r>sociological<s n="adj"/></r></p></e>
-    <e><p><l>suabe<s n="adj"/></l><r>gentle<s n="adj"/></r></p></e>
-    <e><p><l>suabe<s n="adj"/></l><r>mild<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>suabe<s n="adj"/></l><r>gentle<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>suabe<s n="adj"/></l><r>mild<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>suabe<s n="adj"/></l><r>soft<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>subjektibo<s n="adj"/></l><r>subjective<s n="adj"/></r></p></e>
     <e><p><l>substantzial<s n="adj"/></l><r>substantial<s n="adj"/></r></p></e>
@@ -1851,7 +1851,7 @@
     <e><p><l>trinko<s n="adj"/></l><r>compact<s n="adj"/></r></p></e>
     <e><p><l>trinko<s n="adj"/></l><r>intensive<s n="adj"/></r></p></e>
     <e><p><l>triste<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
-    <e><p><l>triste<s n="adj"/></l><r>sorry<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>triste<s n="adj"/></l><r>sorry<s n="adj"/></r></p></e>
     <e><p><l>tropikal<s n="adj"/></l><r>tropical<s n="adj"/></r></p></e>
     <e><p><l>tupusteko<s n="adj"/></l><r>sudden<s n="adj"/></r></p></e>
     <e><p><l>turko<s n="adj"/></l><r>turkish<s n="adj"/></r></p></e>
@@ -1859,20 +1859,20 @@
     <e><p><l>txarrago<s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>txeratsu<s n="adj"/></l><r>affective<s n="adj"/></r></p></e>
     <e><p><l>txiki<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>txikiago<s n="adj"/></l><r>lesser<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>txikiago<s n="adj"/></l><r>lesser<s n="adj"/></r></p></e>
     <e r="LR"><p><l>txikiago<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
     <e><p><l>txikiago<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
     <e><p><l>txinatar<s n="adj"/></l><r>chinese<s n="adj"/></r></p></e>
     <e><p><l>txuri<s n="adj"/></l><r>white<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>udaleko<s n="adj"/></l><r>municipal<s n="adj"/></r></p></e>
-    <e><p><l>ugari<s n="adj"/></l><r>abundant<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ugari<s n="adj"/></l><r>abundant<s n="adj"/></r></p></e>
     <e><p><l>ugari<s n="adj"/></l><r>numerous<s n="adj"/></r></p></e>
     <e><p><l>ulergarri<s n="adj"/></l><r>comprehensible<s n="adj"/></r></p></e>
-    <e><p><l>ulergarri<s n="adj"/></l><r>comprehensive<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ulergarri<s n="adj"/></l><r>comprehensive<s n="adj"/></r></p></e>
     <e><p><l>umil<s n="adj"/></l><r>humble<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>une_bateko<s n="adj"/></l><r>momentary<s n="adj"/></r></p></e>
     <e><p><l>unibertsal<s n="adj"/></l><r>universal<s n="adj"/></r></p></e>
-    <e><p><l>unibertsitario<s n="adj"/></l><r>college<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>unibertsitario<s n="adj"/></l><r>college<s n="adj"/></r></p></e>
     <e><p><l>unibertsitario<s n="adj"/></l><r>university<s n="adj"/></r></p></e>
     <e><p><l>unibertsitateko<s n="adj"/></l><r>university<s n="adj"/></r></p></e>
     <e c="check"><p><l>uniforme<s n="adj"/></l><r>uniform<s n="adj"/></r></p></e>
@@ -1883,22 +1883,22 @@
     <e><p><l>urri<s n="adj"/></l><r>scarce<s n="adj"/></r></p></e>
     <e r="RL"><p><l>urrun<s n="adj"/></l><r>distant<s n="adj"/></r></p></e>
     <e><p><l>urrun<s n="adj"/></l><r>far<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>urrun<s n="adj"/></l><r>remote<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>urrun<s n="adj"/></l><r>remote<s n="adj"/></r></p></e>
     <e><p><l>urruti<s n="adj"/></l><r>far<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>urteko<s n="adj"/></l><r>annual<s n="adj"/></r></p></e>
-    <e><p><l>urteko<s n="adj"/></l><r>yearly<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>urteko<s n="adj"/></l><r>yearly<s n="adj"/></r></p></e>
     <e><p><l>ustekabeko<s n="adj"/></l><r>casual<s n="adj"/></r></p></e>
-    <e><p><l>ustekabeko<s n="adj"/></l><r>unexpected<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ustekabeko<s n="adj"/></l><r>unexpected<s n="adj"/></r></p></e>
     <e><p><l>ustezko<s n="adj"/></l><r>presumptive<s n="adj"/></r></p></e>
     <e><p><l>valentziar<s n="adj"/></l><r>valencian<s n="adj"/></r></p></e>
     <e><p><l>xume<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zabal<s n="adj"/></l><r>wide<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>zabal<s n="adj"/></l><r>broad<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>zabal<s n="adj"/></l><r>extensive<s n="adj"/></r></p></e>
-    <e><p><l>zabal<s n="adj"/></l><r>vast<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>zahar<s n="adj"/></l><r>elderly<s n="adj"/></r></p></e>
-    <e><p><l>zahar<s n="adj"/></l><r>ancient<s n="adj"/></r></p></e>
-    <e><p><l>zahar<s n="adj"/></l><r>antique<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zabal<s n="adj"/></l><r>broad<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>zabal<s n="adj"/></l><r>extensive<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zabal<s n="adj"/></l><r>vast<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>zahar<s n="adj"/></l><r>elderly<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zahar<s n="adj"/></l><r>ancient<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zahar<s n="adj"/></l><r>antique<s n="adj"/></r></p></e>
     <e><p><l>zahar<s n="adj"/></l><r>old<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zail<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>
     <e><p><l>zakar<s n="adj"/></l><r>brusque<s n="adj"/></r></p></e>
@@ -1909,17 +1909,17 @@
     <e><p><l>zaratatsu<s n="adj"/></l><r>noisy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zazpigarren<s n="adj"/></l><r>seventh<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>zeharkako<s n="adj"/></l><r>indirect<s n="adj"/></r></p></e>
-    <e><p><l>zehatz<s n="adj"/></l><r>concrete<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zehatz<s n="adj"/></l><r>concrete<s n="adj"/></r></p></e>
     <e><p><l>zehatz<s n="adj"/></l><r>thorough<s n="adj"/></r></p></e>
-    <e><p><l>zehaztugabe<s n="adj"/></l><r>indeterminate<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zehaztugabe<s n="adj"/></l><r>indeterminate<s n="adj"/></r></p></e>
     <e><p><l>zehaztugabe<s n="adj"/></l><r>imprecise<s n="adj"/></r></p></e>
     <e><p><l>zelai<s n="adj"/></l><r>flat<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zelular<s n="adj"/></l><r>cellular<s n="adj"/></r></p></e>
     <e><p><l>zenbakizko<s n="adj"/></l><r>numerical<s n="adj"/></r></p></e>
     <e><p><l>zenbatezin<s n="adj"/></l><r>innumerable<s n="adj"/></r></p></e>
-    <e><p><l>zenbatezin<s n="adj"/></l><r>numberless<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zenbatezin<s n="adj"/></l><r>numberless<s n="adj"/></r></p></e>
     <e><p><l>zentral<s n="adj"/></l><r>central<s n="adj"/></r></p></e>
-    <e><p><l>zentral<s n="adj"/></l><r>centre<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zentral<s n="adj"/></l><r>centre<s n="adj"/></r></p></e>
     <e><p><l>zentzudun<s n="adj"/></l><r>wise<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zentzugabe<s n="adj"/></l><r>absurd<s n="adj"/></r></p></e>
     <e><p><l>zentzuzko<s n="adj"/></l><r>wise<s n="adj"/><s n="sint"/></r></p></e>
@@ -1930,10 +1930,10 @@
     <e><p><l>zilar<s n="adj"/></l><r>shiny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zinematografiko<s n="adj"/></l><r>cinematographic<s n="adj"/></r></p></e>
     <e><p><l>zirkular<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
-    <e><p><l>ziur<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
-    <e><p><l>ziur<s n="adj"/></l><r>confident<s n="adj"/></r></p></e>
-    <e><p><l>ziur<s n="adj"/></l><r>safe<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>ziur<s n="adj"/></l><r>secure<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ziur<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ziur<s n="adj"/></l><r>confident<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ziur<s n="adj"/></l><r>safe<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>ziur<s n="adj"/></l><r>secure<s n="adj"/></r></p></e>
     <e><p><l>ziur<s n="adj"/></l><r>sure<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ziztrin<s n="adj"/></l><r>insignificant<s n="adj"/></r></p></e>
     <e><p><l>ziztrin<s n="adj"/></l><r>marginal<s n="adj"/></r></p></e>
