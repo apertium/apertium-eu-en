@@ -288,6 +288,9 @@
     <sdef n="DESK" /> 
   </sdefs>
   <section  id="main" type="standard">
+
+    <!-- Post/pre-positions -->
+
     <e><p><l>aldera<s n="spost"/></l><r>to<s n="pr"/></r></p></e>
     <e r="RL"><p><l>aldera<s n="spost"/></l><r>towards<s n="pr"/></r></p></e>
     <e r="RL"><p><l>aldetik<s n="spost"/></l><r>as<b/>for<s n="pr"/></r></p></e>
@@ -340,6 +343,62 @@
     <e r="RL"><p><l>salbu<s n="spost"/></l><r>except<b/>for<s n="pr"/></r></p></e>
     <e><p><l>zehar<s n="spost"/></l><r>through<s n="pr"/></r></p></e>
     <e r="RL"><p><l>zehar<s n="spost"/></l><r>across<s n="pr"/></r></p></e>
+
+
+    <e><p><l>aino<s n="post"/></l><r>until<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>aino<s n="post"/></l><r>up<b/>to<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>an<s n="post"/></l><r>at<s n="pr"/></r></p></e>
+    <e><p><l>an<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>an<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+    <e><p><l>antz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>antz<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
+    <e><p><l>ekin<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>en<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e><p><l>en<s n="post"/></l><r>of<s n="pr"/></r></p></e>
+    <e r="RL" c="MG: He fell off his chair"><p><l>en<s n="post"/></l><r>off<s n="pr"/></r></p></e>
+    <e><p><l>entzat<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>entzat<s n="post"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
+    <e><p><l>gabe<s n="post"/></l><r>without<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>gabe<s n="post"/></l><r>with<b/>no<s n="pr"/></r></p></e>
+    <e><p><l>gan<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>gan<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+    <e><p><l>gana<s n="post"/></l><r>at<s n="pr"/></r></p></e>
+    <e><p><l>gana<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>ganaino<s n="post"/></l><r>until<s n="pr"/></r></p></e>
+    <e><p><l>ganantz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>gandik<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e><p><l>gatik<s n="post"/></l><r>by<s n="pr"/></r></p></e>
+    <e><p><l>gatik<s n="post"/></l><r>through<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>gatik<s n="post"/></l><r>per<s n="pr"/></r></p></e>
+    <e><p><l>i<s n="post"/></l><r>at<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>i<s n="post"/></l><r>into<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>i<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
+    <e><p><l>i<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>i<s n="post"/></l><r>upon<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>ik<s n="post"/></l><r></r></p></e>
+    <e r="LR"><p><l>k<s n="post"/></l><r></r></p></e>
+    <e><p><l>ko<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e><p><l>ko<s n="post"/></l><r>of<s n="pr"/></r></p></e>
+    <e r="RL" c="MG: He fell off his chair"><p><l>ko<s n="post"/></l><r>off<s n="pr"/></r></p></e>
+    <e><p><l>pean<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>pean<s n="post"/></l><r>below<s n="pr"/></r></p></e>
+    <e><p><l>ra<s n="post"/></l><r>at<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>ra<s n="post"/></l><r>into<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>ra<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
+    <e><p><l>ra<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>ra<s n="post"/></l><r>upon<s n="pr"/></r></p></e>
+    <e><p><l>tik<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e r="RL" c="as you - com tu"><p><l>tzat<s n="post"/></l><r>as<s n="pr"/></r></p></e>
+    <e r="RL" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>tzat<s n="post"/></l><r>as<b/>a<s n="pr"/></r></p></e>
+    <e><p><l>tzat<s n="post"/></l><r>like<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>tzat<s n="post"/></l><r>such<b/>as<s n="pr"/></r></p></e>
+    <e c="por/con?"><p><l>z<s n="post"/></l><r>by<s n="pr"/></r></p></e>
+    <e c="por/con?"><p><l>z<s n="post"/></l><r>through<s n="pr"/></r></p></e>
+
+
+
+    <!-- Determiners -->
+
     <e><p><l>a<s n="det"/><s n="art"/></l><r>the<s n="det"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
@@ -398,6 +457,9 @@
     <e><p><l>nahiko<s n="det"/><s n="indizl"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/></r></p></e>
     <e><p><l>o<s n="det"/><s n="art"/></l><r>the<s n="det"/></r></p></e>
     <e c="frases afirmatives"><p><l>zenbait<s n="det"/><s n="indizl"/><s n="sp"/></l><r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+
+    <!-- Conjunctions -->
+
     <e><p><l>baino<s n="cnjloc"/></l><r>but<s n="cnjcoo"/></r></p></e>
     <e><p><l>baino<s n="cnjloc"/></l><r>but<b/>rather<s n="cnjcoo"/></r></p></e>
     <e><p><l>behintzat<s n="cnjloc"/></l><r>at<b/>least<s n="adv"/></r></p></e>
@@ -415,6 +477,9 @@
     <e><p><l>hortaz<s n="cnjloc"/></l><r>therefore<s n="cnjadv"/></r></p></e>
     <e><p><l>jakina<s n="cnjloc"/></l><r>of<b/>course<s n="adv"/></r></p></e>
     <e r="LR"><p><l>xe<s n="GRA"/><s n="IND"/></l><r></r></p></e>
+
+    <!-- Proper nouns -->
+
     <e><p><l>Afganistan<s n="np"/><s n="loc"/></l><r>Afghanistan<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Afrika<s n="np"/><s n="loc"/></l><r>Africa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Agirre<s n="np"/><s n="ant"/></l><r>Agirre<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
@@ -645,7 +710,9 @@
     <e><p><l>Zapatero<s n="np"/><s n="ant"/></l><r>Zapatero<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Zimbawe<s n="np"/><s n="loc"/></l><r>Zimbabwe<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Zorione<s n="np"/><s n="ant"/></l><r>Zorione<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e c="números romanos"><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l><s n="adj"/><s n="mf"/><s n="sp"/></l><r><s n="adj"/><s n="izl"/></r></p></e>
+
+    <!-- Adjectives -->
+
     <e><p><l>Andorrako<s n="adj"/></l><r>andorran<s n="adj"/></r></p></e>
     <e><p><l>Aragoiko<s n="adj"/></l><r>aragonese<s n="adj"/></r></p></e>
     <e><p><l>Kubako<s n="adj"/></l><r>cuban<s n="adj"/></r></p></e>
@@ -1254,6 +1321,7 @@
     <e><p><l>gutxienen<s n="adj"/></l><r>minoritary<s n="adj"/></r></p></e>
     <e><p><l>guztizko<s n="adj"/></l><r>absolute<s n="adj"/></r></p></e>
     <e><p><l>halabeharrezko<s n="adj"/></l><r>fatal<s n="adj"/></r></p></e>
+
     <e><p><l>hamabigarren<s n="adj"/></l><r>twelfth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamabosgarren<s n="adj"/></l><r>fifteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamahirugarren<s n="adj"/></l><r>thirteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
@@ -1263,6 +1331,7 @@
     <e><p><l>hamaseigarren<s n="adj"/></l><r>sixteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamazazpigarren<s n="adj"/></l><r>seventeenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamazortzigarren<s n="adj"/></l><r>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+
     <e><p><l>handi<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>handi<s n="adj"/></l><r>capable<s n="adj"/></r></p></e>
     <e><p><l>handi<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
@@ -1912,6 +1981,10 @@
     <e><p><l>zuzen<s n="adj"/></l><r>straight<s n="adj"/></r></p></e>
     <e><p><l>zuzendaritza<s n="adj"/></l><r>managerial<s n="adj"/></r></p></e>
     <e><p><l>zuzeneko<s n="adj"/></l><r>direct<s n="adj"/></r></p></e>
+
+
+    <!-- Verbs -->
+    
     <e><p><l>abandonatu<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
     <e c="MG: sería reflexivo"><p><l>aberastu<s n="vblex"/></l><r>enrich<s n="vblex"/></r></p></e>
     <e><p><l>abian<b/>jarri<s n="vblex"/></l><r>set<g><b/>up</g><s n="vblex"/></r></p></e>
@@ -3653,12 +3726,9 @@
     <e><p><l>zuzendu<s n="vblex"/></l><r>direct<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>lead<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
-    <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-    <e c="comparacions"><p><l>hain<s n="preadv"/></l><r>as<s n="preadv"/></r></p></e>
-    <e><p><l>hain<s n="preadv"/></l><r>just<b/>as<s n="preadv"/></r></p></e>
-    <e><p><l>hain<s n="preadv"/></l><r>so<s n="preadv"/></r></p></e>
-    <e><p><l>oso<s n="preadv"/></l><r>any<s n="preadv"/></r></p></e>
-    <e><p><l>oso<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
+
+    <!-- Conjunctions -->
+
     <e c="either... or... : o... o..."><p><l>ala<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
     <e><p><l>ala<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>baina<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
@@ -3670,6 +3740,15 @@
     <e><p><l>edo<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>edota<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>eta<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+
+    <!-- Adverbs -->
+
+    <e c="comparacions"><p><l>hain<s n="preadv"/></l><r>as<s n="preadv"/></r></p></e>
+    <e><p><l>hain<s n="preadv"/></l><r>just<b/>as<s n="preadv"/></r></p></e>
+    <e><p><l>hain<s n="preadv"/></l><r>so<s n="preadv"/></r></p></e>
+    <e><p><l>oso<s n="preadv"/></l><r>any<s n="preadv"/></r></p></e>
+    <e><p><l>oso<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
+
     <e><p><l>adi<s n="adv"/></l><r>attentively<s n="adv"/></r></p></e>
     <e><p><l>adibidez<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
     <e><p><l>adinaren<b/>lorean<s n="adv"/></l><r>in<b/>the<b/>prime<b/>of<b/>life<s n="adv"/></r></p></e>
@@ -4355,6 +4434,10 @@
     <e r="RL"><p><l>zorionez<s n="adv"/></l><r>happily<s n="adv"/></r></p></e>
     <e r="RL"><p><l>zorionez<s n="adv"/></l><r>luckily<s n="adv"/></r></p></e>
     <e r="RL"><p><l>zorionez<s n="adv"/></l><r>thankfully<s n="adv"/></r></p></e>
+
+
+
+
     <e><p><l>ago<s n="gra"/><s n="comp"/></l><r>any<b/>more<s n="adv"/></r></p></e>
     <e><p><l>ago<s n="gra"/><s n="comp"/></l><r>best<s n="adv"/></r></p></e>
     <e><p><l>ago<s n="gra"/><s n="comp"/></l><r>else<s n="adv"/></r></p></e>
@@ -4365,58 +4448,8 @@
     <e><p><l>samar<s n="gra"/><s n="bast"/></l><r>enough<s n="adv"/></r></p></e>
     <e c="no preadverbi"><p><l>samar<s n="gra"/><s n="bast"/></l><r>quite<b/>a<b/>lot<s n="adv"/></r></p></e>
     <e><p><l>samar<s n="gra"/><s n="bast"/></l><r>rather<s n="adv"/></r></p></e>
-    <e><p><l>aino<s n="post"/></l><r>until<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>aino<s n="post"/></l><r>up<b/>to<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>an<s n="post"/></l><r>at<s n="pr"/></r></p></e>
-    <e><p><l>an<s n="post"/></l><r>in<s n="pr"/></r></p></e>
-    <e><p><l>an<s n="post"/></l><r>on<s n="pr"/></r></p></e>
-    <e><p><l>antz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>antz<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
-    <e><p><l>ekin<s n="post"/></l><r>with<s n="pr"/></r></p></e>
-    <e><p><l>en<s n="post"/></l><r>from<s n="pr"/></r></p></e>
-    <e><p><l>en<s n="post"/></l><r>of<s n="pr"/></r></p></e>
-    <e r="RL" c="MG: He fell off his chair"><p><l>en<s n="post"/></l><r>off<s n="pr"/></r></p></e>
-    <e><p><l>entzat<s n="post"/></l><r>for<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>entzat<s n="post"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
-    <e><p><l>gabe<s n="post"/></l><r>without<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>gabe<s n="post"/></l><r>with<b/>no<s n="pr"/></r></p></e>
-    <e><p><l>gan<s n="post"/></l><r>in<s n="pr"/></r></p></e>
-    <e><p><l>gan<s n="post"/></l><r>on<s n="pr"/></r></p></e>
-    <e><p><l>gana<s n="post"/></l><r>at<s n="pr"/></r></p></e>
-    <e><p><l>gana<s n="post"/></l><r>to<s n="pr"/></r></p></e>
-    <e><p><l>ganaino<s n="post"/></l><r>until<s n="pr"/></r></p></e>
-    <e><p><l>ganantz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
-    <e><p><l>gandik<s n="post"/></l><r>from<s n="pr"/></r></p></e>
-    <e><p><l>gatik<s n="post"/></l><r>by<s n="pr"/></r></p></e>
-    <e><p><l>gatik<s n="post"/></l><r>through<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>gatik<s n="post"/></l><r>per<s n="pr"/></r></p></e>
-    <e><p><l>i<s n="post"/></l><r>at<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>i<s n="post"/></l><r>into<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>i<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
-    <e><p><l>i<s n="post"/></l><r>to<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>i<s n="post"/></l><r>upon<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>ik<s n="post"/></l><r></r></p></e>
-    <e r="LR"><p><l>k<s n="post"/></l><r></r></p></e>
-    <e><p><l>ko<s n="post"/></l><r>from<s n="pr"/></r></p></e>
-    <e><p><l>ko<s n="post"/></l><r>of<s n="pr"/></r></p></e>
-    <e r="RL" c="MG: He fell off his chair"><p><l>ko<s n="post"/></l><r>off<s n="pr"/></r></p></e>
-    <e><p><l>pean<s n="post"/></l><r>under<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>pean<s n="post"/></l><r>below<s n="pr"/></r></p></e>
-    <e><p><l>ra<s n="post"/></l><r>at<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>ra<s n="post"/></l><r>into<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>ra<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
-    <e><p><l>ra<s n="post"/></l><r>to<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>ra<s n="post"/></l><r>upon<s n="pr"/></r></p></e>
-    <e><p><l>tik<s n="post"/></l><r>from<s n="pr"/></r></p></e>
-    <e r="RL" c="as you - com tu"><p><l>tzat<s n="post"/></l><r>as<s n="pr"/></r></p></e>
-    <e r="RL" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>tzat<s n="post"/></l><r>as<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>tzat<s n="post"/></l><r>like<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>tzat<s n="post"/></l><r>such<b/>as<s n="pr"/></r></p></e>
-    <e c="por/con?"><p><l>z<s n="post"/></l><r>by<s n="pr"/></r></p></e>
-    <e c="por/con?"><p><l>z<s n="post"/></l><r>through<s n="pr"/></r></p></e>
 
-
-
+    <!-- Nouns -->
 
     <e><p><l>Andorrako<s n="n"/></l><r>Andorran<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>Aragoiko<s n="n"/></l><r>Aragonese<s n="n"/><s n="ND"/></r></p></e>
@@ -8680,7 +8713,6 @@
     <e><p><l>eskerrak<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
     <e><p><l>gero<b/>arte<s n="ij"/></l><r>see<b/>you<b/>later<s n="ij"/></r></p></e>
     <e><p><l>kaixo<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
-    <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
     <e><p><l>arren<s n="cnjadv"/></l><r>although<s n="cnjadv"/></r></p></e>
     <e><p><l>arren<s n="cnjadv"/></l><r>though<s n="cnjadv"/></r></p></e>
     <e><p><l>ere<s n="cnjadv"/></l><r>although<s n="cnjadv"/></r></p></e>
@@ -8701,16 +8733,7 @@
     <e><p><l>baldin<b/>eta<s n="cnjsub"/></l><r>if<s n="cnjadv"/></r></p></e>
     <e><p><l>la<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e c="és la n que va després dels subjuntius - dezagun- que veamos"><p><l>n<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
-    <e><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9]+([.,][0-9]+)?:[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9]+([.,][0-9]+)?\-[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[a-z.]+@[a-z.]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>(((www.)|(http://))[a-z\-]+([.][a-z]+)+)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
-    <e r="LR"><re>[0-9]+</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="num"/><s n="ord"/></r></p></e>
-    <e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
-    <e><re>[0-9]+[.:][0-5][0-9](pm|PM|am|AM)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+
     <e><p><l>hamabi<s n="num"/><s n="pl"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamabost<s n="num"/><s n="pl"/></l><r>fifteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamahiru<s n="num"/><s n="pl"/></l><r>thirteen<s n="num"/><s n="sp"/></r></p></e>
@@ -8725,9 +8748,7 @@
     <e r="RL"><p><l>mila<s n="num"/><s n="pl"/></l><r>ten<b/>hundred<s n="num"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>mila<s n="num"/><s n="pl"/></l><r>thousand<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>zero<s n="num"/><s n="pl"/></l><r>zero<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
-    <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
-    <e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
+
     <e><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -8806,12 +8827,32 @@
     <e><p><l>nahiago<b/>izan<s n="vbper"/></l><r>prefer<s n="vblex"/></r></p></e>
     <e><p><l>uste<b/>izan<s n="vbper"/></l><r>believe<s n="vblex"/></r></p></e>
 
+
+    <!-- Punctuation etc.
+
+    <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+    <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
+    <e><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)?:[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)?\-[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[a-z.]+@[a-z.]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>(((www.)|(http://))[a-z\-]+([.][a-z]+)+)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
+    <e r="LR"><re>[0-9]+</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
+    <e><re>[0-9]+[.:][0-5][0-9](pm|PM|am|AM)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
+    <e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
+
+
     <e><re>[A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][0-9]+([0-9])?</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
-
+    <e c="números romanos"><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l><s n="adj"/><s n="mf"/><s n="sp"/></l><r><s n="adj"/><s n="izl"/></r></p></e>
 
   </section>
 </dictionary>
