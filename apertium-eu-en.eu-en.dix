@@ -406,7 +406,7 @@
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e c="frases negatives. EN-CA: per trànsfer"><p><l>bat<b/>ere<s n="det"/><s n="ind"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
-    <e c="frases afirmatives"><p><l>batzuk<s n="det"/><s n="ind"/></l><r>some<s n="det"/></r></p></e>
+    <e c="frases afirmatives"><p><l>batzuk<s n="det"/><s n="ind"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>dezente<s n="det"/><s n="ind"/><s n="sp"/></l><r>enough<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>dezente<s n="det"/><s n="ind"/><s n="sp"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>dezente<s n="det"/><s n="ind"/><s n="sp"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/></r></p></e>
@@ -451,7 +451,8 @@
     <e c="hura, haiek"><p><l>hura<s n="det"/><s n="dem"/></l><r>that<s n="det"/></r></p></e>
     <e><p><l>nahiko<s n="det"/><s n="indizl"/></l><r>enough<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>nahiko<s n="det"/><s n="indizl"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
-    <e><p><l>o<s n="det"/><s n="art"/></l><r>the<s n="det"/></r></p></e>
+    <e><p><l>o<s n="det"/><s n="art"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
+
     <e c="frases afirmatives"><p><l>zenbait<s n="det"/><s n="indizl"/><s n="sp"/></l><r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
 
     <!-- Conjunctions -->
@@ -8807,7 +8808,12 @@
 
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
+    <e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
     <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
+
+<!--
+    <e c="números romanos"><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l><s n="adj"/><s n="mf"/><s n="sp"/></l><r><s n="adj"/><s n="izl"/></r></p></e>
     <e><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?:[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?\-[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
@@ -8818,16 +8824,12 @@
     <e r="LR"><re>[0-9]+</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="num"/><s n="ord"/></r></p></e>
     <e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
     <e><re>[0-9]+[.:][0-5][0-9](pm|PM|am|AM)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
-    <e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
-
 
     <e><re>[A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][0-9]+([0-9])?</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
-    <e c="números romanos"><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l><s n="adj"/><s n="mf"/><s n="sp"/></l><r><s n="adj"/><s n="izl"/></r></p></e>
 
   </section>
 </dictionary>

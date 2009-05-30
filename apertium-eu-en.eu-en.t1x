@@ -405,6 +405,7 @@
       <attr-item tags="dem"/>
       <attr-item tags="num"/>
       <attr-item tags="ord"/>
+      <attr-item tags="qnt"/>
     </def-attr>
     <def-attr n="tipus_adj">
       <attr-item tags="art"/>
@@ -414,6 +415,7 @@
       <attr-item tags="itg"/>
       <attr-item tags="dem"/>
       <attr-item tags="ord"/>
+      <attr-item tags="qnt"/>
     </def-attr>
 
     <def-attr n="a_ordinal">
