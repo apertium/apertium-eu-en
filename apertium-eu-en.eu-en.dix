@@ -309,7 +309,7 @@
     <e><p><l>barik<s n="spost"/></l><r>without<s n="pr"/></r></p></e>
     <e><p><l>bidez<s n="spost"/></l><r>by<b/>means<b/>of<s n="pr"/></r></p></e>
     <e r="RL"><p><l>bitarte<s n="spost"/></l><r>amid<s n="pr"/></r></p></e>
-    <e><p><l>bitarte<s n="spost"/></l><r>among<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>bitarte<s n="spost"/></l><r>among<s n="pr"/></r></p></e>
     <e r="RL"><p><l>bitarte<s n="spost"/></l><r>amongst<s n="pr"/></r></p></e>
     <e><p><l>bitarte<s n="spost"/></l><r>between<s n="pr"/></r></p></e>
     <e><p><l>bitartez<s n="spost"/></l><r>through<s n="pr"/></r></p></e>
@@ -349,11 +349,11 @@
     <e r="RL"><p><l>aino<s n="post"/></l><r>up<b/>to<s n="pr"/></r></p></e>
     <e r="RL"><p><l>an<s n="post"/></l><r>at<s n="pr"/></r></p></e>
     <e><p><l>an<s n="post"/></l><r>in<s n="pr"/></r></p></e>
-    <e><p><l>an<s n="post"/></l><r>on<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>an<s n="post"/></l><r>on<s n="pr"/></r></p></e>
     <e><p><l>antz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
     <e r="RL"><p><l>antz<s n="post"/></l><r>towards<s n="pr"/></r></p></e>
     <e><p><l>ekin<s n="post"/></l><r>with<s n="pr"/></r></p></e>
-    <e><p><l>en<s n="post"/></l><r>from<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>en<s n="post"/></l><r>from<s n="pr"/></r></p></e>
     <e><p><l>en<s n="post"/></l><r>of<s n="pr"/></r></p></e>
     <e r="RL" c="MG: He fell off his chair"><p><l>en<s n="post"/></l><r>off<s n="pr"/></r></p></e>
     <e><p><l>entzat<s n="post"/></l><r>for<s n="pr"/></r></p></e>
@@ -368,9 +368,9 @@
     <e><p><l>ganantz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>gandik<s n="post"/></l><r>from<s n="pr"/></r></p></e>
     <e><p><l>gatik<s n="post"/></l><r>by<s n="pr"/></r></p></e>
-    <e><p><l>gatik<s n="post"/></l><r>through<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>gatik<s n="post"/></l><r>through<s n="pr"/></r></p></e>
     <e r="RL"><p><l>gatik<s n="post"/></l><r>per<s n="pr"/></r></p></e>
-    <e><p><l>i<s n="post"/></l><r>at<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>i<s n="post"/></l><r>at<s n="pr"/></r></p></e>
     <e r="RL"><p><l>i<s n="post"/></l><r>into<s n="pr"/></r></p></e>
     <e r="RL"><p><l>i<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
     <e><p><l>i<s n="post"/></l><r>to<s n="pr"/></r></p></e>
@@ -378,7 +378,7 @@
     <e r="LR"><p><l>ik<s n="post"/></l><r></r></p></e>
     <e r="LR"><p><l>k<s n="post"/></l><r></r></p></e>
     <e><p><l>ko<s n="post"/></l><r>from<s n="pr"/></r></p></e>
-    <e><p><l>ko<s n="post"/></l><r>of<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>ko<s n="post"/></l><r>of<s n="pr"/></r></p></e>
     <e r="RL" c="MG: He fell off his chair"><p><l>ko<s n="post"/></l><r>off<s n="pr"/></r></p></e>
     <e><p><l>pean<s n="post"/></l><r>under<s n="pr"/></r></p></e>
     <e r="RL"><p><l>pean<s n="post"/></l><r>below<s n="pr"/></r></p></e>
@@ -419,12 +419,11 @@
     <e><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
-    <e><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/></r></p></e>
     <e><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>gehiago<s n="det"/><s n="ind"/></l><r>more<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e c="incomptable, per tant, amb complement singular)"><p><l>gehiegi<s n="det"/><s n="ind"/><s n="sp"/></l><r>too<b/>much<s n="det"/><s n="qnt"/></r></p></e>
     <e c="comptable, per tant, amb complement plural"><p><l>gehiegi<s n="det"/><s n="ind"/><s n="sp"/></l><r>too<b/>many<s n="det"/><s n="qnt"/></r></p></e>
-    <e c="MG: Crec que 'too much' i 'too many' s'haurien de posar en un sol paradigma per tal de posar ND en la direcció cat-en"><p><l>gehiegi<s n="det"/><s n="ind"/><s n="sp"/></l><r>too<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>gehiegi<s n="det"/><s n="ind"/><s n="sp"/></l><r>too<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e><p><l>gehiegi<s n="det"/><s n="ind"/><s n="sp"/></l><r>too<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e><p><l>gutxi<s n="det"/><s n="ind"/><s n="sp"/></l><r>little<s n="det"/><s n="qnt"/></r></p></e>
     <e c="en sg: little bread, little hope"><p><l>gutxi<s n="det"/><s n="ind"/><s n="sp"/></l><r>little<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
@@ -438,7 +437,6 @@
     <e r="RL"><p><l>hainbat<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>many<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL" c="'as much time'. Cal afegir també 'as many'?"><p><l>hainbat<s n="det"/><s n="indizl"/><s n="sp"/></l><r>as<b/>much<s n="det"/><s n="qnt"/></r></p></e>
     <e r="LR"><p><l>hainbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>hainbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>hainbeste<s n="det"/><s n="indizl"/><s n="pl"/></l><r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e c="hau, hauek"><p><l>hau<s n="det"/><s n="dem"/></l><r>this<s n="det"/></r></p></e>
     <e r="RL"><p><l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>much<s n="det"/><s n="qnt"/></r></p></e>
@@ -449,31 +447,29 @@
     <e r="RL" c="'as much time'. Cal afegir també 'as many'?"><p><l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>as<b/>much<s n="det"/><s n="qnt"/></r></p></e>
     <e c="hori, horiek"><p><l>hori<s n="det"/><s n="dem"/></l><r>this<s n="det"/></r></p></e>
     <e r="LR"><p><l>horrenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>horrenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>horrenbeste<s n="det"/><s n="indizl"/><s n="pl"/></l><r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e c="hura, haiek"><p><l>hura<s n="det"/><s n="dem"/></l><r>that<s n="det"/></r></p></e>
     <e><p><l>nahiko<s n="det"/><s n="indizl"/></l><r>enough<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
-    <e><p><l>nahiko<s n="det"/><s n="indizl"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
-    <e><p><l>nahiko<s n="det"/><s n="indizl"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/></r></p></e>
+    <e r="RL"><p><l>nahiko<s n="det"/><s n="indizl"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>o<s n="det"/><s n="art"/></l><r>the<s n="det"/></r></p></e>
     <e c="frases afirmatives"><p><l>zenbait<s n="det"/><s n="indizl"/><s n="sp"/></l><r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
 
     <!-- Conjunctions -->
 
     <e><p><l>baino<s n="cnjloc"/></l><r>but<s n="cnjcoo"/></r></p></e>
-    <e><p><l>baino<s n="cnjloc"/></l><r>but<b/>rather<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>baino<s n="cnjloc"/></l><r>but<b/>rather<s n="cnjcoo"/></r></p></e>
     <e><p><l>behintzat<s n="cnjloc"/></l><r>at<b/>least<s n="adv"/></r></p></e>
     <e><p><l>beraz<s n="cnjloc"/></l><r>therefore<s n="cnjadv"/></r></p></e>
     <e><p><l>berriz<s n="cnjloc"/></l><r>again<s n="adv"/></r></p></e>
     <e><p><l>bestalde<s n="cnjloc"/></l><r>on<b/>the<b/>other<b/>hand<s n="adv"/></r></p></e>
-    <e><p><l>bestalde<s n="cnjloc"/></l><r>on<b/>the<b/>other<b/>side<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>bestalde<s n="cnjloc"/></l><r>on<b/>the<b/>other<b/>side<s n="adv"/></r></p></e>
     <e><p><l>gainera<s n="cnjloc"/></l><r>additionally<s n="adv"/></r></p></e>
-    <e><p><l>gainera<s n="cnjloc"/></l><r>besides<s n="adv"/></r></p></e>
-    <e><p><l>gainera<s n="cnjloc"/></l><r>furthermore<s n="adv"/></r></p></e>
-    <e><p><l>gainera<s n="cnjloc"/></l><r>in<b/>addition<s n="adv"/></r></p></e>
-    <e><p><l>gainera<s n="cnjloc"/></l><r>into<b/>the<b/>bargain<s n="adv"/></r></p></e>
-    <e><p><l>gainera<s n="cnjloc"/></l><r>moreover<s n="adv"/></r></p></e>
-    <e><p><l>gainera<s n="cnjloc"/></l><r>there<b/>again<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>gainera<s n="cnjloc"/></l><r>besides<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>gainera<s n="cnjloc"/></l><r>furthermore<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>gainera<s n="cnjloc"/></l><r>in<b/>addition<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>gainera<s n="cnjloc"/></l><r>into<b/>the<b/>bargain<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>gainera<s n="cnjloc"/></l><r>moreover<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>gainera<s n="cnjloc"/></l><r>there<b/>again<s n="adv"/></r></p></e>
     <e><p><l>hortaz<s n="cnjloc"/></l><r>therefore<s n="cnjadv"/></r></p></e>
     <e><p><l>jakina<s n="cnjloc"/></l><r>of<b/>course<s n="adv"/></r></p></e>
     <e r="LR"><p><l>xe<s n="GRA"/><s n="IND"/></l><r></r></p></e>
@@ -486,14 +482,12 @@
     <e><p><l>Aingeru<s n="np"/><s n="ant"/></l><r>Aingeru<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Aintzane<s n="np"/><s n="ant"/></l><r>Aintzane<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Alberto<s n="np"/><s n="ant"/></l><r>Alberto<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Alberto<s n="np"/></l><r>Alberto<s n="np"/></r></p></e>
     <e><p><l>Alemania<s n="np"/><s n="loc"/></l><r>Germany<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Ameriketako<b/>Estatu<b/>Batu<s n="np"/><s n="loc"/></l><r>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></r></p></e>
     <e><p><l>Ameriketako<b/>Estatu<b/>Batuak<s n="np"/><s n="loc"/></l><r>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></r></p></e>
     <e><p><l>Ana<s n="np"/><s n="ant"/></l><r>Ana<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Andaluzia<s n="np"/><s n="loc"/></l><r>Andalucia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Antonio<s n="np"/><s n="ant"/></l><r>Antonio<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Antonio<s n="np"/></l><r>Antonio<s n="np"/></r></p></e>
     <e><p><l>Argentina<s n="np"/><s n="loc"/></l><r>Argentina<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Arnaldo<s n="np"/><s n="ant"/></l><r>Arnaldo<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Arrosa<s n="np"/><s n="ant"/></l><r>Arrosa<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
@@ -526,13 +520,11 @@
     <e><p><l>Bulgaria<s n="np"/><s n="loc"/></l><r>Bulgaria<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Bush<s n="np"/><s n="ant"/></l><r>Bush<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Carlos<s n="np"/><s n="ant"/></l><r>Carlos<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Carlos<s n="np"/></l><r>Carlos<s n="np"/></r></p></e>
     <e><p><l>Carod-Rovira<s n="np"/><s n="ant"/></l><r>Carod-Rovira<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Castro<s n="np"/><s n="ant"/></l><r>Castro<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Dakar<s n="np"/><s n="loc"/></l><r>Dakar<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Danimarka<s n="np"/><s n="loc"/></l><r>Denmark<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>David<s n="np"/><s n="ant"/></l><r>David<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>David<s n="np"/></l><r>David<s n="np"/></r></p></e>
     <e><p><l>Domingo<s n="np"/><s n="ant"/></l><r>Domingo<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Dublin<s n="np"/><s n="loc"/></l><r>Dublin<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Egibar<s n="np"/><s n="ant"/></l><r>Egibar<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
@@ -585,22 +577,16 @@
     <e><p><l>Javier<s n="np"/><s n="ant"/></l><r>Javier<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Javier<s n="np"/></l><r>Javier<s n="np"/></r></p></e>
     <e><p><l>Jean<s n="np"/><s n="ant"/></l><r>Jean<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Jesus<s n="np"/></l><r>Jesus<s n="np"/></r></p></e>
-    <e><p><l>Jesus<s n="np"/></l><r>Jesús<s n="np"/></r></p></e>
     <e><p><l>Jesús<s n="np"/><s n="ant"/></l><r>Jesús<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Joan<s n="np"/><s n="ant"/></l><r>Joan<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Joan<s n="np"/></l><r>Joan<s n="np"/></r></p></e>
     <e><p><l>Jon<s n="np"/><s n="ant"/></l><r>Jon<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Jon<s n="np"/></l><r>Jon<s n="np"/></r></p></e>
     <e><p><l>Jordania<s n="np"/><s n="loc"/></l><r>Jordan<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Jorge<s n="np"/><s n="ant"/></l><r>Jorge<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Jorge<s n="np"/></l><r>Jorge<s n="np"/></r></p></e>
     <e><p><l>Jose<s n="np"/><s n="ant"/></l><r>Jose<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Joseba<s n="np"/><s n="ant"/></l><r>Joseba<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Josu<s n="np"/><s n="ant"/></l><r>Josu<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Joxe<s n="np"/><s n="ant"/></l><r>Joxe<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Juan<s n="np"/><s n="ant"/></l><r>Juan<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Juan<s n="np"/></l><r>Juan<s n="np"/></r></p></e>
     <e><p><l>Juana<s n="np"/><s n="ant"/></l><r>Juana<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Julia<s n="np"/><s n="ant"/></l><r>Julia<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Julio<s n="np"/><s n="ant"/></l><r>Julio<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
@@ -629,25 +615,19 @@
     <e><p><l>Londres<s n="np"/><s n="loc"/></l><r>London<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Lopez<s n="np"/><s n="ant"/></l><r>López<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Luis<s n="np"/><s n="ant"/></l><r>Luis<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Luis<s n="np"/></l><r>Luis<s n="np"/></r></p></e>
     <e><p><l>Luisa<s n="np"/><s n="ant"/></l><r>Luisa<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Madril<s n="np"/><s n="loc"/></l><r>Madrid<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Maitane<s n="np"/><s n="ant"/></l><r>Maitane<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Manuel<s n="np"/><s n="ant"/></l><r>Manuel<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Manuel<s n="np"/></l><r>Manuel<s n="np"/></r></p></e>
     <e><p><l>Mari<s n="np"/><s n="ant"/></l><r>Mari<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Maria<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
     <e><p><l>Mariano<s n="np"/><s n="ant"/></l><r>Mariano<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Marino<s n="np"/><s n="ant"/></l><r>Marino<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Marko<s n="np"/><s n="ant"/></l><r>Marko<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Maroko<s n="np"/><s n="loc"/></l><r>Morocco<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
-    <e><p><l>Marta<s n="np"/></l><r>Marta<s n="np"/></r></p></e>
-    <e><p><l>Martin<s n="np"/></l><r>Martín<s n="np"/></r></p></e>
     <e><p><l>Martín<s n="np"/><s n="ant"/></l><r>Martín<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Mexiko<s n="np"/><s n="loc"/></l><r>Mexico<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Miguel<s n="np"/><s n="ant"/></l><r>Miguel<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Miguel<s n="np"/></l><r>Miguel<s n="np"/></r></p></e>
     <e><p><l>Mikel<s n="np"/><s n="ant"/></l><r>Mikel<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Milan<s n="np"/><s n="loc"/></l><r>Milan<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Miren<s n="np"/><s n="ant"/></l><r>Miren<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
@@ -664,7 +644,7 @@
     <e><p><l>Paris<s n="np"/><s n="loc"/></l><r>Paris<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>París<s n="np"/><s n="ant"/></l><r>París<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Patxi<s n="np"/><s n="ant"/></l><r>Patxi<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Paue<s n="np"/></l><r>Pau<s n="np"/></r></p></e>
+    <e><p><l>Paue<s n="np"/><s n="ant"/></l><r>Pau<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Paulina<s n="np"/><s n="ant"/></l><r>Paulina<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Paulo<s n="np"/><s n="ant"/></l><r>Paulo<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Pedro<s n="np"/><s n="ant"/></l><r>Pedro<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
@@ -673,7 +653,6 @@
     <e><p><l>Pirinio<s n="np"/></l><r>Pyrenees<s n="np"/><s n="loc"/><s n="pl"/></r></p></e>
     <e><p><l>Rafa<s n="np"/><s n="ant"/></l><r>Rafa<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
     <e><p><l>Roberto<s n="np"/><s n="ant"/></l><r>Roberto<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-    <e><p><l>Roberto<s n="np"/></l><r>Roberto<s n="np"/></r></p></e>
     <e><p><l>Rodriguez<s n="np"/><s n="ant"/></l><r>Rodríguez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Ruanda<s n="np"/><s n="loc"/></l><r>Rwanda<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Rubalcaba<s n="np"/><s n="ant"/></l><r>Rubalcaba<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
@@ -729,12 +708,12 @@
     <e r="RL"><p><l>adierazgarri<s n="adj"/></l><r>representative<s n="adj"/></r></p></e>
     <e><p><l>adierazgarri<s n="adj"/></l><r>significant<s n="adj"/></r></p></e>
     <e><p><l>adimentsu<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
-    <e><p><l>adingabe<s n="adj"/></l><r>lesser<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>adingabe<s n="adj"/></l><r>lesser<s n="adj"/></r></p></e>
     <e r="LR"><p><l>adingabe<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e><p><l>adingabe<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
-    <e><p><l>adingabeko<s n="adj"/></l><r>lesser<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>adingabe<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>adingabeko<s n="adj"/></l><r>lesser<s n="adj"/></r></p></e>
     <e r="LR"><p><l>adingabeko<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e><p><l>adingabeko<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>adingabeko<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
     <e c="check"><p><l>aditu<s n="adj"/></l><r>expert<s n="adj"/></r></p></e>
     <e><p><l>administratibo<s n="adj"/></l><r>administrative<s n="adj"/></r></p></e>
     <e><p><l>afrikar<s n="adj"/></l><r>african<s n="adj"/></r></p></e>
@@ -752,7 +731,7 @@
     <e><p><l>aktibo<s n="adj"/></l><r>active<s n="adj"/></r></p></e>
     <e><p><l>alboko<s n="adj"/></l><r>lateral<s n="adj"/></r></p></e>
     <e><p><l>aldakor<s n="adj"/></l><r>variable<s n="adj"/></r></p></e>
-    <e><p><l>aldakor<s n="adj"/></l><r>varying<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>aldakor<s n="adj"/></l><r>varying<s n="adj"/></r></p></e>
     <e><p><l>alderantzizko<s n="adj"/></l><r>reverse<s n="adj"/></r></p></e>
     <e><p><l>aldez<b/>aurreko<s n="adj"/></l><r>previous<s n="adj"/></r></p></e>
     <e><p><l>aldibereko<s n="adj"/></l><r>simultaneous<s n="adj"/></r></p></e>
@@ -768,7 +747,7 @@
     <e><p><l>alpino<s n="adj"/></l><r>alpine<s n="adj"/></r></p></e>
     <e><p><l>alternatibo<s n="adj"/></l><r>alternative<s n="adj"/></r></p></e>
     <e><p><l>altu<s n="adj"/></l><r>high<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>altu<s n="adj"/></l><r>tall<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>altu<s n="adj"/></l><r>tall<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>amerikar<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
     <e><p><l>anbiguo<s n="adj"/></l><r>ambiguous<s n="adj"/></r></p></e>
     <e><p><l>anbizio_handiko<s n="adj"/></l><r>ambitious<s n="adj"/></r></p></e>
@@ -787,7 +766,7 @@
     <e><p><l>antzertiaren<s n="adj"/></l><r>theatrical<s n="adj"/></r></p></e>
     <e><p><l>apaingarri<s n="adj"/></l><r>decorative<s n="adj"/></r></p></e>
     <e><p><l>apal<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>apal<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>apal<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>aparta<s n="adj"/></l><r>exceptional<s n="adj"/></r></p></e>
     <e r="RL"><p><l>aparta<s n="adj"/></l><r>outstanding<s n="adj"/></r></p></e>
     <e><p><l>apetatsu<s n="adj"/></l><r>wayward<s n="adj"/></r></p></e>
@@ -802,7 +781,7 @@
     <e><p><l>arduradun<s n="adj"/></l><r>responsible<s n="adj"/></r></p></e>
     <e><p><l>arduratsu<s n="adj"/></l><r>responsible<s n="adj"/></r></p></e>
     <e><p><l>argal<s n="adj"/></l><r>thin<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>argal<s n="adj"/></l><r>lean<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>argal<s n="adj"/></l><r>lean<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>argentinar<s n="adj"/></l><r>argentinian<s n="adj"/></r></p></e>
     <e><p><l>argi<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>argi<s n="adj"/></l><r>light<s n="adj"/><s n="sint"/></r></p></e>
