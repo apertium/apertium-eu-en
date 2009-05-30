@@ -1113,7 +1113,6 @@
     <e><p><l>erregular<s n="adj"/></l><r>regular<s n="adj"/></r></p></e>
     <e><p><l>erregulatzaile<s n="adj"/></l><r>regulatory<s n="adj"/></r></p></e>
     <e><p><l>errepublikako<s n="adj"/></l><r>republican<s n="adj"/></r></p></e>
-    <e><p><l>errepublikano<s n="adj"/></l><r>republican<s n="adj"/></r></p></e>
     <e><p><l>errepublikazale<s n="adj"/></l><r>republican<s n="adj"/></r></p></e>
     <e><p><l>erretoriko<s n="adj"/></l><r>rhetorical<s n="adj"/></r></p></e>
     <e><p><l>erritual<s n="adj"/></l><r>ritual<s n="adj"/></r></p></e>
@@ -8701,38 +8700,37 @@
     <e><p><l>jarraiki<s n="vbsint"/></l><r>follow<s n="vblex"/></r></p></e>
     <e><p><l>joan<s n="vbsint"/></l><r>go<s n="vblex"/></r></p></e>
     <e><p><l>ukan<s n="vbsint"/></l><r>have<s n="vblex"/></r></p></e>
-    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j"><p><l>ukan<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
-    <e><p><l>ukan<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
-    <e><p><l>utzi<s n="vbsint"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ukan<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ukan<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>utzi<s n="vbsint"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>utzi<s n="vbsint"/></l><r>leave<s n="vblex"/></r></p></e>
     <e><p><l>utzi<s n="vbsint"/></l><r>lend<s n="vblex"/></r></p></e>
     <e><p><l>utzi<s n="vbsint"/></l><r>let<s n="vblex"/></r></p></e>
     <e><p><l>agur<s n="ij"/></l><r>goodbye<s n="ij"/></r></p></e>
     <e><p><l>egun<b/>on<s n="ij"/></l><r>good<b/>morning<s n="ij"/></r></p></e>
     <e><p><l>eskerrak<s n="ij"/></l><r>thank<b/>you<s n="ij"/></r></p></e>
-    <e><p><l>eskerrak<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
+    <e r="RL"><p><l>eskerrak<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
     <e><p><l>gero<b/>arte<s n="ij"/></l><r>see<b/>you<b/>later<s n="ij"/></r></p></e>
     <e><p><l>kaixo<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
     <e><p><l>arren<s n="cnjadv"/></l><r>although<s n="cnjadv"/></r></p></e>
-    <e><p><l>arren<s n="cnjadv"/></l><r>though<s n="cnjadv"/></r></p></e>
-    <e><p><l>ere<s n="cnjadv"/></l><r>although<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>arren<s n="cnjadv"/></l><r>though<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>ere<s n="cnjadv"/></l><r>although<s n="cnjadv"/></r></p></e>
     <e><p><l>ere<s n="cnjadv"/></l><r>though<s n="cnjadv"/></r></p></e>
     <e><p><l>ezik<s n="cnjadv"/></l><r>unless<s n="cnjadv"/></r></p></e>
     <e><p><l>harik<b/>eta<s n="cnjadv"/></l><r>until<s n="cnjadv"/></r></p></e>
     <e><p><l>lako<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
     <e><p><l>nahiz<s n="cnjadv"/></l><r>although<s n="cnjadv"/></r></p></e>
-    <e><p><l>nahiz<s n="cnjadv"/></l><r>though<s n="cnjadv"/></r></p></e>
     <e><p><l>nean<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
-    <e><p><l>nean<s n="cnjadv"/></l><r>as<s n="cnjadv"/></r></p></e>
-    <e><p><l>neko<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>nean<s n="cnjadv"/></l><r>as<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>neko<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
     <e><p><l>neko<s n="cnjadv"/></l><r>as<s n="cnjadv"/></r></p></e>
     <e><p><l>nez<s n="cnjadv"/></l><r>as<s n="cnjadv"/></r></p></e>
     <e><p><l>ba<s n="cnjsub"/></l><r>if<s n="cnjadv"/></r></p></e>
-    <e><p><l>ba<s n="cnjsub"/></l><r>provided<s n="cnjadv"/></r></p></e>
-    <e c="MG: Generalment després de verb o pronom personal (I doubt whether.../ Tell me whether...)"><p><l>ba<s n="cnjsub"/></l><r>whether<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>ba<s n="cnjsub"/></l><r>provided<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>ba<s n="cnjsub"/></l><r>whether<s n="cnjadv"/></r></p></e>
     <e><p><l>baldin<b/>eta<s n="cnjsub"/></l><r>if<s n="cnjadv"/></r></p></e>
     <e><p><l>la<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
-    <e c="és la n que va després dels subjuntius - dezagun- que veamos"><p><l>n<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>n<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
     <e><p><l>hamabi<s n="num"/><s n="pl"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamabost<s n="num"/><s n="pl"/></l><r>fifteen<s n="num"/><s n="sp"/></r></p></e>
@@ -8765,13 +8763,13 @@
     <e c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>edozer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
-    <e><p><l>edozer<s n="prn"/><s n="ind"/></l><r>whatever<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>edozer<s n="prn"/><s n="ind"/></l><r>whatever<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
     <e c="frases negatives"><p><l>ezer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/></r></p></e>
     <e><p><l>ezer<s n="prn"/><s n="ind"/></l><r>nothing<s n="prn"/></r></p></e>
     <e r="LR"><p><l>hi<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
     <e c="preguntes i negatives"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="frases negatives"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>inor<s n="prn"/><s n="ind"/></l><r>no<b/>one<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>no<b/>one<s n="prn"/></r></p></e>
     <e><p><l>inor<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/></r></p></e>
     <e c="preguntes i negatives"><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/></r></p></e>
@@ -8788,14 +8786,14 @@
     <e><p><l>norbera<s n="prn"/><s n="ind"/></l><r>each<s n="prn"/></r></p></e>
     <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>nornahi<s n="prn"/><s n="ind"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>zein<s n="prn"/><s n="itg"/></l><r>which<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>zein<s n="prn"/><s n="itg"/></l><r>which<b/>one<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>zein<s n="prn"/><s n="itg"/></l><r>which<b/>one<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="Per ara tot serà sg en català, però mirar després frases del tipus: 'what are your fauvorite dishes'-quins són... Però: 'What are fractals'- què son..."><p><l>zer<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     <e c="preguntes, condicional"><p><l>zerbait<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/></r></p></e>
     <e><p><l>zerbait<s n="prn"/><s n="ind"/></l><r>something<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
     <e><p><l>zertxobait<s n="prn"/><s n="ind"/></l><r>something<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
     <e><p><l>n<s n="rel"/></l><r>that<s n="rel"/></r></p></e>
-    <e><p><l>n<s n="rel"/></l><r>which<s n="rel"/><s n="an"/></r></p></e>
-    <e><p><l>n<s n="rel"/></l><r>who<s n="rel"/></r></p></e>
+    <e r="RL"><p><l>n<s n="rel"/></l><r>which<s n="rel"/><s n="an"/></r></p></e>
+    <e r="RL"><p><l>n<s n="rel"/></l><r>who<s n="rel"/></r></p></e>
     <e r="RL"><p><l>ageri<b/>edun<s n="vbper"/></l><r>display<s n="vblex"/></r></p></e>
     <e><p><l>ageri<b/>edun<s n="vbper"/></l><r>show<s n="vblex"/></r></p></e>
     <e><p><l>ageri<b/>izan<s n="vbper"/></l><r>appear<s n="vblex"/></r></p></e>
@@ -8853,6 +8851,6 @@
     <e><re>[A-Z][A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][0-9]+([0-9])?</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e c="números romanos"><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l><s n="adj"/><s n="mf"/><s n="sp"/></l><r><s n="adj"/><s n="izl"/></r></p></e>
-
+-->
   </section>
 </dictionary>
