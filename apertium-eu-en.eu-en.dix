@@ -17519,17 +17519,6 @@
 	forced 'null' restriction
       default
     -->
-    <e c="interrogatives, condicional">
-      <p>
-        <l>batzuk<s n="det"/><s n="ind"/></l> 
-        <r>any<s n="det"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e c="frases afirmatives">
       <p>
         <l>batzuk<s n="det"/><s n="ind"/></l> 
@@ -17540,24 +17529,13 @@
     <!-- 
 	forced 'null' restriction
       default
-    -->
     <e c="interrogatives, condicional">
       <p>
         <l>batzuok<s n="det"/><s n="ind"/></l> 
         <r>any<s n="det"/></r> 
       </p>
     </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
     -->
-    <e c="frases afirmatives">
-      <p>
-        <l>batzuok<s n="det"/><s n="ind"/></l> 
-        <r>some<s n="det"/></r> 
-      </p>
-    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -29964,28 +29942,6 @@
       <p>
         <l>emaitza<s n="n"/></l> 
         <r>result<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-0
-    -->
-    <e>
-      <p>
-        <l>emakume<s n="n"/></l> 
-        <r>female<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-0
-    -->
-    <e>
-      <p>
-        <l>emakume<s n="n"/></l> 
-        <r>wife<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60917,50 +60873,6 @@
     <e>
       <p>
         <l>kide<s n="n"/></l> 
-        <r>colleague<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>kide<s n="n"/></l> 
-        <r>companion<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>kide<s n="n"/></l> 
-        <r>mate<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>kide<s n="n"/></l> 
-        <r>partner<s n="n"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-3
-    -->
-    <e>
-      <p>
-        <l>kide<s n="n"/></l> 
         <r>member<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
@@ -91713,13 +91625,13 @@
     <!-- 
 	forced 'null' restriction
       default
-    -->
     <e c="interrogatives, condicional">
       <p>
         <l>zenbait<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>any<s n="det"/></r> 
       </p>
     </e>
+    -->
 
     <!-- 
 	forced 'null' restriction
@@ -91729,17 +91641,6 @@
       <p>
         <l>zenbait<s n="det"/><s n="indizl"/><s n="sp"/></l> 
         <r>some<s n="det"/><s n="qnt"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="frases afirmatives">
-      <p>
-        <l>zenbait<s n="det"/><s n="indizl"/><s n="sp"/></l> 
-        <r>some<s n="det"/></r> 
       </p>
     </e>
 
