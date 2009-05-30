@@ -509,6 +509,25 @@
       </p>
     </e>
 
+    <e r="LR">
+      <p>
+        <l>k<s n="post"/></l>
+        <r></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>ik<s n="post"/></l>
+        <r></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>xe<s n="GRA"/><s n="IND"/></l>
+        <r></r>
+      </p>
+    </e>
+
     <!-- 
 	forced 'null' restriction
       default
