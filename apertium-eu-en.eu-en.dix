@@ -38785,17 +38785,6 @@
     <e>
       <p>
         <l>eztabaida<s n="n"/></l> 
-        <r>argument<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-0
-    -->
-    <e>
-      <p>
-        <l>eztabaida<s n="n"/></l> 
         <r>discussion<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
@@ -50325,17 +50314,6 @@
       <p>
         <l>hizkuntza<s n="n"/></l> 
         <r>language<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-0
-    -->
-    <e>
-      <p>
-        <l>hizkuntza<s n="n"/></l> 
-        <r>tongue<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 

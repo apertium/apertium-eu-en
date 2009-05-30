@@ -597,6 +597,7 @@
     <def-var n="tipusdet"/>
     <def-var n="procltags"/>
     <def-var n="subjtags"/>
+    <def-var n="procltags"/>
     <def-var n="objtags"/>
     <def-var n="verbo"/>
     <def-var n="adverbio"/>
@@ -3017,14 +3018,12 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <chunk name="nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN.UNDET"/></tag>
-              <tag><clip pos="1" side="tl" part="gen"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="gen" link-to="3"/>
-              <lit-tag v="4"/>
+              <lit-tag v="3"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
           </chunk>
@@ -3056,7 +3055,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
             </lu>
           </chunk>
@@ -3301,7 +3300,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
@@ -3354,7 +3353,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -3362,14 +3361,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_adj"/>
               <clip pos="2" side="tl" part="tipus_adj"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
@@ -3400,7 +3399,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
@@ -3469,7 +3468,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
@@ -3509,7 +3508,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
               <!--   <clip pos="1" side="tl" part="a_adv"/>-->
-              <lit-tag v="4"/>
+              <lit-tag v="3"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
           </chunk>
@@ -3611,14 +3610,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
@@ -3666,7 +3665,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -3679,7 +3678,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
@@ -3861,14 +3860,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b/>
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -3930,14 +3929,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b/>
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -3996,7 +3995,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -4525,14 +4524,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="tipus_adj"/>
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
             <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
@@ -4583,7 +4582,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
@@ -4624,7 +4623,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -4637,7 +4636,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
@@ -4695,7 +4694,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b/>
@@ -4708,7 +4707,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -4767,14 +4766,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="tipus_adj"/>
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -4840,7 +4839,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b/>
@@ -4853,7 +4852,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -4915,7 +4914,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -4928,7 +4927,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
@@ -4975,7 +4974,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
@@ -5017,7 +5016,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -5027,7 +5026,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="tipus_adj"/>
             </lu>
             <b pos="2"/>
-            <lu> 
+            <lu>
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_adj"/>
             </lu>
@@ -5035,7 +5034,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
@@ -5086,7 +5085,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -5104,7 +5103,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
@@ -5148,14 +5147,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -5219,14 +5218,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -5310,14 +5309,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -5413,14 +5412,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -5480,7 +5479,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -5493,7 +5492,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -5580,7 +5579,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="6" side="tl" part="lem"/> 
               <clip pos="6" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="6" side="tl" part="ND" link-to="4"/>
+              <clip pos="6" side="tl" part="ND" link-to="3"/>
               <clip pos="6" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -5593,7 +5592,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -5691,7 +5690,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="6" side="tl" part="lem"/> 
               <clip pos="6" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="6" side="tl" part="ND" link-to="4"/>
+              <clip pos="6" side="tl" part="ND" link-to="3"/>
               <clip pos="6" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -5704,7 +5703,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -5806,14 +5805,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="8" side="tl" part="lem"/> 
               <clip pos="8" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="8" side="tl" part="ND" link-to="4"/>
+              <clip pos="8" side="tl" part="ND" link-to="3"/>
               <clip pos="8" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -5911,14 +5910,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="7" side="tl" part="lem"/> 
               <clip pos="7" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="7" side="tl" part="ND" link-to="4"/>
+              <clip pos="7" side="tl" part="ND" link-to="3"/>
               <clip pos="7" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="6" side="tl" part="lemh"/> 
               <clip pos="6" side="tl" part="a_nom"/>
-              <clip pos="6" side="tl" part="ND" link-to="4"/>
+              <clip pos="6" side="tl" part="ND" link-to="3"/>
               <clip pos="6" side="tl" part="sp"/>
               <clip pos="6" side="tl" part="lemq"/> 
             </lu>
@@ -6032,14 +6031,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="7" side="tl" part="lem"/> 
               <clip pos="7" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="7" side="tl" part="ND" link-to="4"/>
+              <clip pos="7" side="tl" part="ND" link-to="3"/>
               <clip pos="7" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="6" side="tl" part="lemh"/> 
               <clip pos="6" side="tl" part="a_nom"/>
-              <clip pos="6" side="tl" part="ND" link-to="4"/>
+              <clip pos="6" side="tl" part="ND" link-to="3"/>
               <clip pos="6" side="tl" part="sp"/>
               <clip pos="6" side="tl" part="lemq"/> 
             </lu>
@@ -6174,14 +6173,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="8" side="tl" part="lem"/> 
               <clip pos="8" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="8" side="tl" part="ND" link-to="4"/>
+              <clip pos="8" side="tl" part="ND" link-to="3"/>
               <clip pos="8" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
             <lu> 
               <clip pos="7" side="tl" part="lemh"/> 
               <clip pos="7" side="tl" part="a_nom"/>
-              <clip pos="7" side="tl" part="ND" link-to="4"/>
+              <clip pos="7" side="tl" part="ND" link-to="3"/>
               <clip pos="7" side="tl" part="sp"/>
               <clip pos="7" side="tl" part="lemq"/> 
             </lu>
@@ -6329,14 +6328,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="8" side="tl" part="lem"/> 
               <clip pos="8" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="8" side="tl" part="ND" link-to="4"/>
+              <clip pos="8" side="tl" part="ND" link-to="3"/>
               <clip pos="8" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
             <lu> 
               <clip pos="7" side="tl" part="lemh"/> 
               <clip pos="7" side="tl" part="a_nom"/>
-              <clip pos="7" side="tl" part="ND" link-to="4"/>
+              <clip pos="7" side="tl" part="ND" link-to="3"/>
               <clip pos="7" side="tl" part="sp"/>
               <clip pos="7" side="tl" part="lemq"/> 
             </lu>
@@ -6587,7 +6586,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <clip pos="3" side="tl" part="lem"/> 
                   <clip pos="3" side="tl" part="a_det"/> 
                   <lit-tag v="2"/> 
-                  <clip pos="3" side="tl" part="ND" link-to="4"/>
+                  <clip pos="3" side="tl" part="ND" link-to="3"/>
                   <clip pos="3" side="tl" part="sp"/>
                 </lu>
               </chunk>
@@ -6606,7 +6605,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <clip pos="3" side="tl" part="lem"/> 
                   <clip pos="3" side="tl" part="a_det"/> 
                   <lit-tag v="2"/> 
-                  <clip pos="3" side="tl" part="ND" link-to="4"/>
+                  <clip pos="3" side="tl" part="ND" link-to="3"/>
                   <clip pos="3" side="tl" part="sp"/>
                 </lu>
                 <b pos="1"/>
@@ -6680,7 +6679,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -6879,7 +6878,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_det"/>
               <lit-tag v="2"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -7204,7 +7203,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <clip pos="4" side="tl" part="lem"/> 
                   <clip pos="4" side="tl" part="a_det"/> 
                   <lit-tag v="2"/> 
-                  <clip pos="4" side="tl" part="ND" link-to="4"/>
+                  <clip pos="4" side="tl" part="ND" link-to="3"/>
                   <clip pos="4" side="tl" part="sp"/>
                 </lu>
                 <b pos="1"/>
@@ -7287,7 +7286,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -7612,7 +7611,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -7706,7 +7705,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -7801,7 +7800,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -8000,7 +7999,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -8095,7 +8094,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -8154,7 +8153,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_det"/> 
               <lit-tag v="3"/>
-              <clip pos="2" side="tl" part="nbr" link-to="4"/>
+              <clip pos="2" side="tl" part="nbr" link-to="3"/>
             </lu>
             <b/>
             <lu>
@@ -8212,7 +8211,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_det"/> 
               <lit-tag v="3"/>
-              <clip pos="2" side="tl" part="nbr" link-to="4"/>
+              <clip pos="2" side="tl" part="nbr" link-to="3"/>
             </lu>
             <b/>
             <lu>
@@ -8362,7 +8361,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="nbr" link-to="4"/>
+              <clip pos="5" side="tl" part="nbr" link-to="3"/>
             </lu>
             <b/>
             <lu>
@@ -8456,7 +8455,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="5" side="tl" part="lem"/> 
               <clip pos="5" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="nbr" link-to="4"/>
+              <clip pos="5" side="tl" part="nbr" link-to="3"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -8967,7 +8966,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="3" side="tl" part="a_adj"/>
               <clip pos="3" side="tl" part="GD" link-to="3"/>
               <clip pos="3" side="tl" part="mf"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
             </lu>
           </chunk>
@@ -9005,7 +9004,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+              <clip pos="1" side="tl" part="nbr" link-to="3"/>
             </lu>
           </chunk>
         </out>
@@ -9049,14 +9048,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -9104,14 +9103,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -9153,7 +9152,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
@@ -9166,7 +9165,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -9216,7 +9215,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
@@ -9229,7 +9228,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="4"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
@@ -9271,7 +9270,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
@@ -9284,7 +9283,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -9335,7 +9334,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
@@ -9348,7 +9347,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="4" side="tl" part="lemh"/> 
               <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="ND" link-to="4"/>
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
               <clip pos="4" side="tl" part="lemq"/> 
             </lu>
@@ -9399,14 +9398,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="6" side="tl" part="lem"/> 
               <clip pos="6" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="6" side="tl" part="ND" link-to="4"/>
+              <clip pos="6" side="tl" part="ND" link-to="3"/>
               <clip pos="6" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="5" side="tl" part="lemh"/> 
               <clip pos="5" side="tl" part="a_nom"/>
-              <clip pos="5" side="tl" part="ND" link-to="4"/>
+              <clip pos="5" side="tl" part="ND" link-to="3"/>
               <clip pos="5" side="tl" part="sp"/>
               <clip pos="5" side="tl" part="lemq"/> 
             </lu>
@@ -9484,14 +9483,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="7" side="tl" part="lem"/> 
               <clip pos="7" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="7" side="tl" part="ND" link-to="4"/>
+              <clip pos="7" side="tl" part="ND" link-to="3"/>
               <clip pos="7" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="6" side="tl" part="lemh"/> 
               <clip pos="6" side="tl" part="a_nom"/>
-              <clip pos="6" side="tl" part="ND" link-to="4"/>
+              <clip pos="6" side="tl" part="ND" link-to="3"/>
               <clip pos="6" side="tl" part="sp"/>
               <clip pos="6" side="tl" part="lemq"/> 
             </lu>
@@ -10493,7 +10492,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="2" side="tl" part="ND" link-to="4"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
@@ -10617,7 +10616,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="3" side="tl" part="lem"/> 
               <clip pos="3" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="3" side="tl" part="nbr" link-to="4"/>
+              <clip pos="3" side="tl" part="nbr" link-to="3"/>
             </lu>
             <b/>
             <lu>
@@ -14620,7 +14619,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                 <lu>
                   <clip pos="1" side="tl" part="lem"/>
                   <clip pos="1" side="tl" part="a_adv"/>
-                  <clip pos="1" side="tl" part="ND" link-to="4"/>
+                  <clip pos="1" side="tl" part="ND" link-to="3"/>
                   <clip pos="1" side="tl" part="sp"/>
                 </lu>
               </chunk>
@@ -14687,7 +14686,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="1" side="tl" part="ND" link-to="4"/>
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
             </lu>
           </chunk>
