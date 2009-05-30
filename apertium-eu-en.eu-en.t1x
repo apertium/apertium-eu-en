@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+﻿<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
 
@@ -595,8 +595,8 @@
     <def-var n="palabra"/>
     <def-var n="chunk"/>
     <def-var n="tipusdet"/>
-    <def-var n="procl"/>
-    <def-var n="procltags"/>
+    <def-var n="subjtags"/>
+    <def-var n="objtags"/>
     <def-var n="verbo"/>
     <def-var n="adverbio"/>
     <def-var n="lema"/>
@@ -2433,7 +2433,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 <tag><lit-tag v="adv"/></tag>
               </tags>
               <lu>
-                <lit v="quizá"/>
+                <lit v="perhaps"/>
                 <lit-tag v="adv"/>
               </lu>
             </chunk>
@@ -2464,12 +2464,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="me"/>
-              </let>
-              <let>
-                <var n="procltags"/>
-                <lit-tag v="prn.pro.p1.mf.sg"/>
+                <var n="objtags"/>
+                <lit-tag v="prn.obj.p1.mf.sg"/>
               </let>
             </when>
             <when>
@@ -2486,12 +2482,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </or>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="te"/>
-              </let>
-              <let>
-                <var n="procltags"/>
-                <lit-tag v="prn.pro.p2.mf.sg"/>
+                <var n="objtags"/>
+                <lit-tag v="prn.obj.p2.mf.sg"/>
               </let>
             </when>
             <when>
@@ -2501,13 +2493,9 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                   <lit-tag v="NI_HU"/>
                 </equal>
               </test>
-              <let>
-                <var n="procl"/>
-                <lit v="le"/>
-              </let>
-              <let>
-                <var n="procltags"/>
-                <lit-tag v="prn.pro.p3.mf.sg"/>
+              <let> <!-- make this configurable -->
+                <var n="objtags"/>
+                <lit-tag v="prn.obj.p3.m.sg"/>
               </let>
             </when>
             <when>
@@ -2518,12 +2506,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="nos"/>
-              </let>
-              <let>
-                <var n="procltags"/>
-                <lit-tag v="prn.pro.p1.mf.pl"/>
+                <var n="objtags"/>
+                <lit-tag v="prn.obj.p1.mf.pl"/>
               </let>
             </when>
             <when>
@@ -2534,12 +2518,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="os"/>
-              </let>
-              <let>
-                <var n="procltags"/>
-                <lit-tag v="prn.pro.p2.mf.pl"/>
+                <var n="objtags"/>
+                <lit-tag v="prn.obj.p2.mf.pl"/>
               </let>
             </when>
             <when>
@@ -2550,15 +2530,12 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="le"/>
-              </let>
-              <let>
-                <var n="procltags"/>
-                <lit-tag v="prn.pro.p3.mf.pl"/>
+                <var n="objtags"/>
+                <lit-tag v="prn.obj.p3.mf.pl"/>
               </let>
             </when>
           </choose>
+          <!--
           <out>
             <chunk name="procl" case="caseFirstWord">
               <tags>
@@ -2574,7 +2551,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
           <let>
             <var n="caseSecondWord"/>
             <lit v="aa"/>
-          </let>
+          </let> -->
         </when>
         <when>
           <test><!--Si se trata de un verbo NOR-NORK cuyo NOR no sea 3a sg o 3a pl, envía proclítico con valor de NOR -->
@@ -2608,12 +2585,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="me"/>
-              </let>
-              <let>
                 <var n="procltags"/>
-                <lit-tag v="prn.pro.p1.mf.sg"/>
+                <lit-tag v="prn.obj.p1.mf.sg"/>
               </let>
             </when>
             <when>
@@ -2630,12 +2603,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </or>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="te"/>
-              </let>
-              <let>
                 <var n="procltags"/>
-                <lit-tag v="prn.pro.p2.mf.sg"/>
+                <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
             <!--   <when>
@@ -2662,12 +2631,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="nos"/>
-              </let>
-              <let>
                 <var n="procltags"/>
-                <lit-tag v="prn.pro.p1.mf.pl"/>
+                <lit-tag v="prn.obj.p1.mf.pl"/>
               </let>
             </when>
             <when>
@@ -2678,12 +2643,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
-                <var n="procl"/>
-                <lit v="os"/>
-              </let>
-              <let>
                 <var n="procltags"/>
-                <lit-tag v="prn.pro.p2.mf.pl"/>
+                <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
             <!--   <when>
@@ -2703,7 +2664,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                  </let>
                  </when> -->
           </choose>
-          <out>
+          <!--<out>
             <chunk name="procl" case="caseFirstWord">
               <tags>
                 <tag><var n="procltags"/></tag>
@@ -2718,7 +2679,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
           <let>
             <var n="caseSecondWord"/>
             <lit v="aa"/>
-          </let>
+          </let> -->
         </when>
         <otherwise>
           <let>
@@ -2744,7 +2705,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                   <clip pos="1" side="sl" part="nork"/>
                   <lit-tag v="NK_NI"/>
                 </equal>
-              </test>
+              </test> <!-- Extra test for 'be' -->
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p1.sg"/>
@@ -2758,9 +2719,13 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p2.mf.sp"/>
+              </let>
+              <!--<let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p2.sg"/>
-              </let>
+              </let>-->
             </when>
             <when>
               <test>
@@ -2770,9 +2735,13 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p2.mf.sp"/>
+              </let>
+              <!--<let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p2.sg"/>
-              </let>
+              </let>-->
             </when>
             <when>
               <test>
@@ -2781,6 +2750,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                   <lit-tag v="NK_HU"/>
                 </equal>
               </test>
+              <let> <!-- make this configurable -->
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p3.m.sg"/>
+              </let>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p3.sg"/>
@@ -2794,6 +2767,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p1.mf.pl"/>
+              </let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p1.pl"/>
               </let>
@@ -2806,6 +2783,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p2.mf.sp"/>
+              </let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p2.pl"/>
               </let>
@@ -2817,6 +2798,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                   <lit-tag v="NK_HK"/>
                 </equal>
               </test>
+              <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p3.mf.pl"/>
+              </let>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p3.pl"/>
@@ -2834,6 +2819,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p1.mf.sg"/>
+              </let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p1.sg"/>
               </let>
@@ -2845,6 +2834,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                   <lit-tag v="NR_ZU"/>
                 </equal>
               </test>
+              <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p2.mf.sp"/>
+              </let>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p2.sg"/>
@@ -2858,6 +2851,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p2.mf.sp"/>
+              </let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p2.sg"/>
               </let>
@@ -2869,6 +2866,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                   <lit-tag v="NR_HU"/>
                 </equal>
               </test>
+              <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p3.m.sg"/>
+              </let>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p3.sg"/>
@@ -2882,6 +2883,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p1.mf.pl"/>
+              </let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p1.pl"/>
               </let>
@@ -2893,6 +2898,10 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                   <lit-tag v="NR_ZK"/>
                 </equal>
               </test>
+              <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p2.mf.sp"/>
+              </let>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p2.pl"/>
@@ -2906,11 +2915,31 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p3.mf.pl"/>
+              </let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p3.pl"/>
               </let>
             </when>
           </choose>
+            <out>
+              <chunk name="prnsubj" case="caseFirstWord">
+                <tags>
+                  <tag><var n="subjtags"/></tag>
+                </tags>
+                <lu>
+                  <lit v="prpers"/>
+                  <var n="subjtags"/>
+                </lu>
+              </chunk>
+              <b/>
+            </out>
+            <let>
+              <var n="caseSecondWord"/>
+              <lit v="aa"/>
+            </let>
         </otherwise>
         
       </choose>
