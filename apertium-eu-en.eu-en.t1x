@@ -595,6 +595,7 @@
     <def-var n="palabra"/>
     <def-var n="chunk"/>
     <def-var n="tipusdet"/>
+    <def-var n="procltags"/>
     <def-var n="subjtags"/>
     <def-var n="objtags"/>
     <def-var n="verbo"/>
