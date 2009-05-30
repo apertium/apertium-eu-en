@@ -2074,13 +2074,13 @@
     <e><p><l>aplikatu<s n="vblex"/></l><r>apply<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aplikatu<s n="vblex"/></l><r>enforce<s n="vblex"/></r></p></e>
     <e><p><l>aprobetxatu<s n="vblex"/></l><r>take<g><b/>advantage<b/>of</g><s n="vblex"/></r></p></e>
-    <e><p><l>apuntatu<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
-    <e><p><l>apuntatu<s n="vblex"/></l><r>note<g><b/>down</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>apuntatu<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>apuntatu<s n="vblex"/></l><r>note<g><b/>down</g><s n="vblex"/></r></p></e>
     <e><p><l>apuntatu<s n="vblex"/></l><r>point<s n="vblex"/></r></p></e>
     <e r="RL" c="en el teatro"><p><l>apuntatu<s n="vblex"/></l><r>prompt<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>apuntatu<s n="vblex"/></l><r>target<s n="vblex"/></r></p></e>
     <e><p><l>apustu<b/>egin<s n="vblex"/></l><r>bet<s n="vblex"/></r></p></e>
-    <e><p><l>arakatu<s n="vblex"/></l><r>investigate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>arakatu<s n="vblex"/></l><r>investigate<s n="vblex"/></r></p></e>
     <e><p><l>arakatu<s n="vblex"/></l><r>research<s n="vblex"/></r></p></e>
     <e><p><l>arautu<s n="vblex"/></l><r>regulate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>arbuiatu<s n="vblex"/></l><r>dismiss<s n="vblex"/></r></p></e>
@@ -2092,7 +2092,7 @@
     <e r="RL" c="publicar una revista"><p><l>argitaratu<s n="vblex"/></l><r>issue<s n="vblex"/></r></p></e>
     <e><p><l>argitaratu<s n="vblex"/></l><r>publish<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>argitu<s n="vblex"/></l><r>clarify<s n="vblex"/></r></p></e>
-    <e><p><l>argitu<s n="vblex"/></l><r>clear<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>argitu<s n="vblex"/></l><r>clear<s n="vblex"/></r></p></e>
     <e><p><l>argitu<s n="vblex"/></l><r>light<s n="vblex"/></r></p></e>
     <e><p><l>argudiatu<s n="vblex"/></l><r>argue<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>arindu<s n="vblex"/></l><r>ease<s n="vblex"/></r></p></e>
@@ -2116,44 +2116,44 @@
     <e><p><l>asebete<s n="vblex"/></l><r>satiate<s n="vblex"/></r></p></e>
     <e><p><l>aseguratu<s n="vblex"/></l><r>ensure<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aseguratu<s n="vblex"/></l><r>assure<s n="vblex"/></r></p></e>
-    <e><p><l>aseguratu<s n="vblex"/></l><r>insure<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aseguratu<s n="vblex"/></l><r>insure<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aseguratu<s n="vblex"/></l><r>secure<s n="vblex"/></r></p></e>
     <e><p><l>asimilatu<s n="vblex"/></l><r>assimilate<s n="vblex"/></r></p></e>
     <e><p><l>askatu<s n="vblex"/></l><r>drop<s n="vblex"/></r></p></e>
-    <e><p><l>askatu<s n="vblex"/></l><r>release<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>askatu<s n="vblex"/></l><r>release<s n="vblex"/></r></p></e>
     <e><p><l>asmatu<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
-    <e><p><l>asmatu<s n="vblex"/></l><r>invent<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>asmatu<s n="vblex"/></l><r>invent<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>asmatu<s n="vblex"/></l><r>make<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>aspertu<s n="vblex"/></l><r>bore<s n="vblex"/></r></p></e>
     <e><p><l>aspiratu<s n="vblex"/></l><r>inhale<s n="vblex"/></r></p></e>
     <e><p><l>astindu<s n="vblex"/></l><r>shake<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>astindu<s n="vblex"/></l><r>rock<s n="vblex"/></r></p></e>
     <e><p><l>atentatu<s n="vblex"/></l><r>attack<s n="vblex"/></r></p></e>
-    <e><p><l>atera<s n="vblex"/></l><r>extract<s n="vblex"/></r></p></e>
-    <e><p><l>atera<s n="vblex"/></l><r>adduce<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>atera<s n="vblex"/></l><r>pull<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atera<s n="vblex"/></l><r>extract<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atera<s n="vblex"/></l><r>adduce<s n="vblex"/></r></p></e>
+    <e><p><l>atera<s n="vblex"/></l><r>pull<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>take<g><b/>away</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>take<g><b/>off</g><s n="vblex"/></r></p></e>
-    <e><p><l>atera<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atera<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>come<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>exit<s n="vblex"/></r></p></e>
-    <e><p><l>atera<s n="vblex"/></l><r>go<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atera<s n="vblex"/></l><r>go<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>work<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>get<g><b/>out</g><s n="vblex"/></r></p></e>
     <e><p><l>ateratzen<b/>hasi<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
-    <e><p><l>ateratzen<b/>hasi<s n="vblex"/></l><r>prompt<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ateratzen<b/>hasi<s n="vblex"/></l><r>prompt<s n="vblex"/></r></p></e>
     <e><p><l>atertu<s n="vblex"/></l><r>cease<s n="vblex"/></r></p></e>
     <e><p><l>atsegin<b/>eman<s n="vblex"/></l><r>please<s n="vblex"/></r></p></e>
     <e><p><l>atsegindu<s n="vblex"/></l><r>enjoy<s n="vblex"/></r></p></e>
     <e><p><l>atxiki<s n="vblex"/></l><r>keep<s n="vblex"/></r></p></e>
-    <e><p><l>atxiki<s n="vblex"/></l><r>maintain<s n="vblex"/></r></p></e>
-    <e><p><l>atxilotu<s n="vblex"/></l><r>detain<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atxiki<s n="vblex"/></l><r>maintain<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atxilotu<s n="vblex"/></l><r>detain<s n="vblex"/></r></p></e>
     <e><p><l>atxilotu<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
     <e><p><l>atzeman<s n="vblex"/></l><r>capture<s n="vblex"/></r></p></e>
-    <e><p><l>atzera<b/>egin<s n="vblex"/></l><r>back<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atzera<b/>egin<s n="vblex"/></l><r>back<s n="vblex"/></r></p></e>
     <e><p><l>atzera<b/>egin<s n="vblex"/></l><r>retreat<s n="vblex"/></r></p></e>
-    <e><p><l>atzeratu<s n="vblex"/></l><r>postpone<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atzeratu<s n="vblex"/></l><r>postpone<s n="vblex"/></r></p></e>
     <e><p><l>atzeratu<s n="vblex"/></l><r>delay<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atzeratu<s n="vblex"/></l><r>slow<s n="vblex"/></r></p></e>
     <e><p><l>atzerriratu<s n="vblex"/></l><r>emigrate<s n="vblex"/></r></p></e>
@@ -2161,15 +2161,15 @@
     <e><p><l>aukeratu<s n="vblex"/></l><r>choose<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aukeratu<s n="vblex"/></l><r>elect<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aukeratu<s n="vblex"/></l><r>pick<s n="vblex"/></r></p></e>
-    <e><p><l>aukeratu<s n="vblex"/></l><r>select<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aukeratu<s n="vblex"/></l><r>select<s n="vblex"/></r></p></e>
     <e><p><l>aurizki<s n="vblex"/></l><r>step<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aurkeztu<s n="vblex"/></l><r>feature<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>aurkeztu<s n="vblex"/></l><r>introduce<s n="vblex"/></r></p></e>
-    <e><p><l>aurkeztu<s n="vblex"/></l><r>present<s n="vblex"/></r></p></e>
+    <e><p><l>aurkeztu<s n="vblex"/></l><r>introduce<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aurkeztu<s n="vblex"/></l><r>present<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aurkitu<s n="vblex"/></l><r>come<g><b/>across</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aurkitu<s n="vblex"/></l><r>encounter<s n="vblex"/></r></p></e>
     <e><p><l>aurkitu<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
-    <e><p><l>aurkitu<s n="vblex"/></l><r>locate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aurkitu<s n="vblex"/></l><r>locate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aurkitu<s n="vblex"/></l><r>trace<s n="vblex"/></r></p></e>
     <e><p><l>aurpegiratu<s n="vblex"/></l><r>reproach<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aurre<b/>eman<s n="vblex"/></l><r>confront<s n="vblex"/></r></p></e>
@@ -2177,7 +2177,7 @@
     <e><p><l>aurre<b/>eman<s n="vblex"/></l><r>face<s n="vblex"/></r></p></e>
     <e><p><l>aurreikusi<s n="vblex"/></l><r>foresee<s n="vblex"/></r></p></e>
     <e><p><l>aurreratu<s n="vblex"/></l><r>advance<s n="vblex"/></r></p></e>
-    <e><p><l>aurreratu<s n="vblex"/></l><r>progress<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aurreratu<s n="vblex"/></l><r>progress<s n="vblex"/></r></p></e>
     <e><p><l>aurretik<b/>gertatu<s n="vblex"/></l><r>precede<s n="vblex"/></r></p></e>
     <e><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>foresee<s n="vblex"/></r></p></e>
     <e><p><l>aurreztu<s n="vblex"/></l><r>save<s n="vblex"/></r></p></e>
@@ -2186,30 +2186,30 @@
     <e><p><l>ausartu<s n="vblex"/></l><r>dare<s n="vblex"/></r></p></e>
     <e><p><l>ausiki<s n="vblex"/></l><r>bite<s n="vblex"/></r></p></e>
     <e><p><l>auzipetu<s n="vblex"/></l><r>process<s n="vblex"/></r></p></e>
-    <e><p><l>axola<b/>izan<s n="vblex"/></l><r>concern<s n="vblex"/></r></p></e>
-    <e><p><l>axola<b/>izan<s n="vblex"/></l><r>import<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>axola<b/>izan<s n="vblex"/></l><r>concern<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>axola<b/>izan<s n="vblex"/></l><r>import<s n="vblex"/></r></p></e>
     <e><p><l>axola<b/>izan<s n="vblex"/></l><r>matter<s n="vblex"/></r></p></e>
-    <e><p><l>axola<b/>izan<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
-    <e><p><l>azaldu<s n="vblex"/></l><r>express<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>axola<b/>izan<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>azaldu<s n="vblex"/></l><r>express<s n="vblex"/></r></p></e>
     <e><p><l>azaldu<s n="vblex"/></l><r>explain<s n="vblex"/></r></p></e>
-    <e><p><l>azaldu<s n="vblex"/></l><r>present<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>azaldu<s n="vblex"/></l><r>present<s n="vblex"/></r></p></e>
     <e><p><l>azaleratu<s n="vblex"/></l><r>emerge<s n="vblex"/></r></p></e>
     <e><p><l>azentuatu<s n="vblex"/></l><r>stress<s n="vblex"/></r></p></e>
     <e><p><l>azkendu<s n="vblex"/></l><r>conclude<s n="vblex"/></r></p></e>
-    <e><p><l>azpimarratu<s n="vblex"/></l><r>highlight<s n="vblex"/></r></p></e>
-    <e><p><l>azpimarratu<s n="vblex"/></l><r>remark<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>azpimarratu<s n="vblex"/></l><r>highlight<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>azpimarratu<s n="vblex"/></l><r>remark<s n="vblex"/></r></p></e>
     <e><p><l>azpimarratu<s n="vblex"/></l><r>underline<s n="vblex"/></r></p></e>
     <e><p><l>azterketa<b/>egin<s n="vblex"/></l><r>examine<s n="vblex"/></r></p></e>
     <e><p><l>aztertu<s n="vblex"/></l><r>investigate<s n="vblex"/></r></p></e>
-    <e><p><l>aztertu<s n="vblex"/></l><r>research<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aztertu<s n="vblex"/></l><r>research<s n="vblex"/></r></p></e>
     <e><p><l>babestu<s n="vblex"/></l><r>preserve<s n="vblex"/></r></p></e>
-    <e><p><l>babestu<s n="vblex"/></l><r>protect<s n="vblex"/></r></p></e>
-    <e><p><l>babestu<s n="vblex"/></l><r>back<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>babestu<s n="vblex"/></l><r>protect<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>babestu<s n="vblex"/></l><r>back<s n="vblex"/></r></p></e>
     <e><p><l>bahetu<s n="vblex"/></l><r>sift<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bahetu<s n="vblex"/></l><r>sieve<s n="vblex"/></r></p></e>
     <e><p><l>bahia<b/>atera<s n="vblex"/></l><r>exert<s n="vblex"/></r></p></e>
     <e><p><l>bahitu<s n="vblex"/></l><r>kidnap<s n="vblex"/></r></p></e>
-    <e><p><l>baieztatu<s n="vblex"/></l><r>affirm<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>baieztatu<s n="vblex"/></l><r>affirm<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>baieztatu<s n="vblex"/></l><r>assert<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>baieztatu<s n="vblex"/></l><r>claim<s n="vblex"/></r></p></e>
     <e><p><l>baieztatu<s n="vblex"/></l><r>confirm<s n="vblex"/></r></p></e>
@@ -2225,15 +2225,15 @@
     <e><p><l>balio<b/>izan<s n="vblex"/></l><r>cost<s n="vblex"/></r></p></e>
     <e><p><l>baliogabetu<s n="vblex"/></l><r>cancel<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>balioztatu<s n="vblex"/></l><r>assess<s n="vblex"/></r></p></e>
-    <e><p><l>balioztatu<s n="vblex"/></l><r>evaluate<s n="vblex"/></r></p></e>
-    <e><p><l>balioztatu<s n="vblex"/></l><r>value<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>balioztatu<s n="vblex"/></l><r>evaluate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>balioztatu<s n="vblex"/></l><r>value<s n="vblex"/></r></p></e>
     <e><p><l>balioztatu<s n="vblex"/></l><r>assess<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>balioztatu<s n="vblex"/></l><r>appraise<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>balioztatu<s n="vblex"/></l><r>rate<s n="vblex"/></r></p></e>
     <e><p><l>baloratu<s n="vblex"/></l><r>appreciate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>banandu<s n="vblex"/></l><r>part<s n="vblex"/></r></p></e>
     <e><p><l>banandu<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e>
-    <e><p><l>banatu<s n="vblex"/></l><r>distribute<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>banatu<s n="vblex"/></l><r>distribute<s n="vblex"/></r></p></e>
     <e><p><l>banatu<s n="vblex"/></l><r>deliver<s n="vblex"/></r></p></e>
     <e><p><l>baretu<s n="vblex"/></l><r>calm<s n="vblex"/></r></p></e>
     <e><p><l>barkatu<s n="vblex"/></l><r>forgive<s n="vblex"/></r></p></e>
@@ -2255,7 +2255,7 @@
     <e><p><l>bazkaldu<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>bazkatu<s n="vblex"/></l><r>graze<s n="vblex"/></r></p></e>
     <e><p><l>baztertu<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e>
-    <e><p><l>baztertu<s n="vblex"/></l><r>exclude<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>baztertu<s n="vblex"/></l><r>exclude<s n="vblex"/></r></p></e>
     <e><p><l>bedeinkatu<s n="vblex"/></l><r>bless<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>begiratu<s n="vblex"/></l><r>glance<s n="vblex"/></r></p></e>
     <e><p><l>begiratu<s n="vblex"/></l><r>look<s n="vblex"/></r></p></e>
