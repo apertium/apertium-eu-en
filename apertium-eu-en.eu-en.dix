@@ -2284,15 +2284,15 @@
     <e><p><l>beldurtu<s n="vblex"/></l><r>alarm<s n="vblex"/></r></p></e>
     <e><p><l>berandutu<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
     <e><p><l>berdindu<s n="vblex"/></l><r>equalise<s n="vblex"/></r></p></e>
-    <e><p><l>bereizi<s n="vblex"/></l><r>distinguish<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>bereizi<s n="vblex"/></l><r>distinguish<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bereizi<s n="vblex"/></l><r>part<s n="vblex"/></r></p></e>
     <e><p><l>bereizi<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e>
-    <e><p><l>bermatu<s n="vblex"/></l><r>lean<s n="vblex"/></r></p></e>
-    <e><p><l>bermatu<s n="vblex"/></l><r>support<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>bermatu<s n="vblex"/></l><r>lean<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>bermatu<s n="vblex"/></l><r>support<s n="vblex"/></r></p></e>
     <e><p><l>bermatu<s n="vblex"/></l><r>guarantee<s n="vblex"/></r></p></e>
     <e><p><l>berotu<s n="vblex"/></l><r>heat<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>berotu<s n="vblex"/></l><r>warm<s n="vblex"/></r></p></e>
-    <e><p><l>berotu<s n="vblex"/></l><r>excite<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>berotu<s n="vblex"/></l><r>excite<s n="vblex"/></r></p></e>
     <e><p><l>berpiztu<s n="vblex"/></l><r>revive<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>berpiztu<s n="vblex"/></l><r>reanimate<s n="vblex"/></r></p></e>
     <e><p><l>berragertu<s n="vblex"/></l><r>reappear<s n="vblex"/></r></p></e>
@@ -2315,7 +2315,7 @@
     <e><p><l>berretu<s n="vblex"/></l><r>increase<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>berretu<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>berretu<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
-    <e><p><l>berri<b/>eman<s n="vblex"/></l><r>advertise<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>berri<b/>eman<s n="vblex"/></l><r>advertise<s n="vblex"/></r></p></e>
     <e><p><l>berri<b/>eman<s n="vblex"/></l><r>announce<s n="vblex"/></r></p></e>
     <e><p><l>berriketan<b/>egin<s n="vblex"/></l><r>chat<s n="vblex"/></r></p></e>
     <e><p><l>berrikusi<s n="vblex"/></l><r>review<s n="vblex"/></r></p></e>
@@ -2333,7 +2333,7 @@
     <e><p><l>bete<s n="vblex"/></l><r>fill<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bete<s n="vblex"/></l><r>crowd<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bete<s n="vblex"/></l><r>accomplish<s n="vblex"/></r></p></e>
-    <e><p><l>bete<s n="vblex"/></l><r>fulfil<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>bete<s n="vblex"/></l><r>fulfil<s n="vblex"/></r></p></e>
     <e r="RL" c="(requirements, deures)"><p><l>bete<s n="vblex"/></l><r>meet<s n="vblex"/></r></p></e>
     <e><p><l>betearazi<s n="vblex"/></l><r>enforce<s n="vblex"/></r></p></e>
     <e><p><l>betikotu<s n="vblex"/></l><r>perpetuate<s n="vblex"/></r></p></e>
@@ -2351,7 +2351,7 @@
     <e r="RL"><p><l>bihurtu<s n="vblex"/></l><r>get<g><b/>back</g><s n="vblex"/></r></p></e>
     <e><p><l>bikoiztu<s n="vblex"/></l><r>bend<s n="vblex"/></r></p></e>
     <e><p><l>bilakaera<b/>edun<s n="vblex"/></l><r>evolve<s n="vblex"/></r></p></e>
-    <e c="reflexivo con 'da', convertirse"><p><l>bilakatu<s n="vblex"/></l><r>convert<s n="vblex"/></r></p></e>
+    <e><p><l>bilakatu<s n="vblex"/></l><r>convert<s n="vblex"/></r></p></e>
     <e><p><l>bilatu<s n="vblex"/></l><r>look<g><b/>for</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bilatu<s n="vblex"/></l><r>search<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bilatu<s n="vblex"/></l><r>search<g><b/>for</g><s n="vblex"/></r></p></e>
@@ -2365,7 +2365,7 @@
     <e r="RL"><p><l>biluzi<s n="vblex"/></l><r>strip<s n="vblex"/></r></p></e>
     <e><p><l>biluzi<s n="vblex"/></l><r>undress<s n="vblex"/></r></p></e>
     <e><p><l>biratu<s n="vblex"/></l><r>turn<s n="vblex"/></r></p></e>
-    <e><p><l>biratu<s n="vblex"/></l><r>spin<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>biratu<s n="vblex"/></l><r>spin<s n="vblex"/></r></p></e>
     <e><p><l>birbanatu<s n="vblex"/></l><r>redistribute<s n="vblex"/></r></p></e>
     <e><p><l>birjarri<s n="vblex"/></l><r>replace<s n="vblex"/></r></p></e>
     <e><p><l>birlandatu<s n="vblex"/></l><r>transplant<s n="vblex"/></r></p></e>
@@ -2386,9 +2386,9 @@
     <e><p><l>bonbardatu<s n="vblex"/></l><r>bomb<s n="vblex"/></r></p></e>
     <e><p><l>bordatu<s n="vblex"/></l><r>embroider<s n="vblex"/></r></p></e>
     <e><p><l>borratu<s n="vblex"/></l><r>erase<s n="vblex"/></r></p></e>
-    <e><p><l>borrokatu<s n="vblex"/></l><r>combat<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>borrokatu<s n="vblex"/></l><r>fight<s n="vblex"/></r></p></e>
-    <e><p><l>borrokatu<s n="vblex"/></l><r>struggle<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>borrokatu<s n="vblex"/></l><r>combat<s n="vblex"/></r></p></e>
+    <e><p><l>borrokatu<s n="vblex"/></l><r>fight<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>borrokatu<s n="vblex"/></l><r>struggle<s n="vblex"/></r></p></e>
     <e><p><l>bortxatu<s n="vblex"/></l><r>force<s n="vblex"/></r></p></e>
     <e><p><l>bota<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
     <e><p><l>botatu<s n="vblex"/></l><r>vote<s n="vblex"/></r></p></e>
@@ -2398,7 +2398,7 @@
     <e><p><l>boxeatu<s n="vblex"/></l><r>box<s n="vblex"/></r></p></e>
     <e><p><l>bozatu<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>
     <e r="RL" c="reflexivo, alegrarse"><p><l>bozkariatu<s n="vblex"/></l><r>cheer<s n="vblex"/></r></p></e>
-    <e c="reflexivo, alegrarse"><p><l>bozkariatu<s n="vblex"/></l><r>gladden<s n="vblex"/></r></p></e>
+    <e><p><l>bozkariatu<s n="vblex"/></l><r>gladden<s n="vblex"/></r></p></e>
     <e><p><l>bozkatu<s n="vblex"/></l><r>vote<s n="vblex"/></r></p></e>
     <e><p><l>bridatu<s n="vblex"/></l><r>refrain<s n="vblex"/></r></p></e>
     <e><p><l>brodatu<s n="vblex"/></l><r>embroider<s n="vblex"/></r></p></e>
@@ -2421,7 +2421,7 @@
     <e><p><l>dantza<b/>egin<s n="vblex"/></l><r>dance<s n="vblex"/></r></p></e>
     <e><p><l>dardaratu<s n="vblex"/></l><r>shiver<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>dardaratu<s n="vblex"/></l><r>tremble<s n="vblex"/></r></p></e>
-    <e><p><l>dastatu<s n="vblex"/></l><r>test<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>dastatu<s n="vblex"/></l><r>test<s n="vblex"/></r></p></e>
     <e><p><l>dastatu<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
     <e><p><l>data<b/>jarri<s n="vblex"/></l><r>date<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>debekatu<s n="vblex"/></l><r>ban<s n="vblex"/></r></p></e>
@@ -2432,7 +2432,7 @@
     <e><p><l>definitu<s n="vblex"/></l><r>define<s n="vblex"/></r></p></e>
     <e><p><l>deitoratu<s n="vblex"/></l><r>regret<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>deitu<s n="vblex"/></l><r>set<g><b/>up</g><s n="vblex"/></r></p></e>
-    <e><p><l>deitu<s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>deitu<s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
     <e><p><l>deitu<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>
     <e><p><l>dekantatu<s n="vblex"/></l><r>decant<s n="vblex"/></r></p></e>
     <e><p><l>deklaratu<s n="vblex"/></l><r>declare<s n="vblex"/></r></p></e>
@@ -2441,7 +2441,7 @@
     <e><p><l>denotatu<s n="vblex"/></l><r>denote<s n="vblex"/></r></p></e>
     <e><p><l>deprimitu<s n="vblex"/></l><r>depress<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>desafio<b/>egin<s n="vblex"/></l><r>dare<s n="vblex"/></r></p></e>
-    <e><p><l>desafio<b/>egin<s n="vblex"/></l><r>defy<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>desafio<b/>egin<s n="vblex"/></l><r>defy<s n="vblex"/></r></p></e>
     <e><p><l>desafio<b/>egin<s n="vblex"/></l><r>challenge<s n="vblex"/></r></p></e>
     <e><p><l>desagerrarazi<s n="vblex"/></l><r>dissipate<s n="vblex"/></r></p></e>
     <e><p><l>desagertu<s n="vblex"/></l><r>disappear<s n="vblex"/></r></p></e>
@@ -2449,15 +2449,15 @@
     <e><p><l>desegin<s n="vblex"/></l><r>undo<s n="vblex"/></r></p></e>
     <e><p><l>desesperatu<s n="vblex"/></l><r>exasperate<s n="vblex"/></r></p></e>
     <e><p><l>desestali<s n="vblex"/></l><r>discover<s n="vblex"/></r></p></e>
-    <e><p><l>desestali<s n="vblex"/></l><r>find<g><b/>out</g><s n="vblex"/></r></p></e>
-    <e><p><l>desestali<s n="vblex"/></l><r>unveil<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>desestali<s n="vblex"/></l><r>find<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>desestali<s n="vblex"/></l><r>unveil<s n="vblex"/></r></p></e>
     <e><p><l>desfilatu<s n="vblex"/></l><r>parade<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>desiratu<s n="vblex"/></l><r>desire<s n="vblex"/></r></p></e>
     <e><p><l>desiratu<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
     <e><p><l>deskantsatu<s n="vblex"/></l><r>rest<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>deskargatu<s n="vblex"/></l><r>discharge<s n="vblex"/></r></p></e>
     <e><p><l>deskargatu<s n="vblex"/></l><r>download<s n="vblex"/></r></p></e>
-    <e><p><l>deskargatu<s n="vblex"/></l><r>unload<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>deskargatu<s n="vblex"/></l><r>unload<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>deskribatu<s n="vblex"/></l><r>depict<s n="vblex"/></r></p></e>
     <e><p><l>deskribatu<s n="vblex"/></l><r>describe<s n="vblex"/></r></p></e>
     <e><p><l>deskuidatu<s n="vblex"/></l><r>distract<s n="vblex"/></r></p></e>
@@ -2467,8 +2467,8 @@
     <e><p><l>desnazionalizatu<s n="vblex"/></l><r>denationalise<s n="vblex"/></r></p></e>
     <e><p><l>desnibelatu<s n="vblex"/></l><r>throw<g><b/>off<b/>balance</g><s n="vblex"/></r></p></e>
     <e><p><l>desplazatu<s n="vblex"/></l><r>displace<s n="vblex"/></r></p></e>
-    <e><p><l>destatu<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
-    <e><p><l>destatu<s n="vblex"/></l><r>note<g><b/>down</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>destatu<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>destatu<s n="vblex"/></l><r>note<g><b/>down</g><s n="vblex"/></r></p></e>
     <e><p><l>destatu<s n="vblex"/></l><r>point<s n="vblex"/></r></p></e>
     <e r="RL" c="en el teatro"><p><l>destatu<s n="vblex"/></l><r>prompt<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>destatu<s n="vblex"/></l><r>target<s n="vblex"/></r></p></e>
@@ -2489,7 +2489,7 @@
     <e><p><l>drainatu<s n="vblex"/></l><r>drain<s n="vblex"/></r></p></e>
     <e><p><l>durundatu<s n="vblex"/></l><r>echo<s n="vblex"/></r></p></e>
     <e><p><l>ebaki<s n="vblex"/></l><r>cut<s n="vblex"/></r></p></e>
-    <e><p><l>ebaki<s n="vblex"/></l><r>pronounce<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ebaki<s n="vblex"/></l><r>pronounce<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ebaluatu<s n="vblex"/></l><r>assess<s n="vblex"/></r></p></e>
     <e><p><l>ebaluatu<s n="vblex"/></l><r>evaluate<s n="vblex"/></r></p></e>
     <e><p><l>ebatsi<s n="vblex"/></l><r>steal<s n="vblex"/></r></p></e>
@@ -2502,35 +2502,35 @@
     <e><p><l>edeki<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/></r></p></e>
     <e><p><l>editatu<s n="vblex"/></l><r>edit<s n="vblex"/></r></p></e>
     <e><p><l>edoski<s n="vblex"/></l><r>suck<s n="vblex"/></r></p></e>
-    <e><p><l>eduki<s n="vblex"/></l><r>contain<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eduki<s n="vblex"/></l><r>contain<s n="vblex"/></r></p></e>
     <e><p><l>eduki<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
-    <e r="RL" c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j"><p><l>eduki<s n="vblex"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eduki<s n="vblex"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eduki<s n="vblex"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eduki<s n="vblex"/></l><r>own<s n="vblex"/></r></p></e>
-    <e><p><l>eduki<s n="vblex"/></l><r>possess<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eduki<s n="vblex"/></l><r>possess<s n="vblex"/></r></p></e>
     <e><p><l>egiaztatu<s n="vblex"/></l><r>check<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>egiaztatu<s n="vblex"/></l><r>check<g><b/>out</g><s n="vblex"/></r></p></e>
     <e><p><l>egiaztatu<s n="vblex"/></l><r>ascertain<s n="vblex"/></r></p></e>
-    <e><p><l>egiaztatu<s n="vblex"/></l><r>contrast<s n="vblex"/></r></p></e>
-    <e><p><l>egin<s n="vblex"/></l><r>manufacture<s n="vblex"/></r></p></e>
-    <e><p><l>egin<s n="vblex"/></l><r>commit<s n="vblex"/></r></p></e>
-    <e><p><l>egin<s n="vblex"/></l><r>effect<s n="vblex"/></r></p></e>
-    <e><p><l>egin<s n="vblex"/></l><r>execute<s n="vblex"/></r></p></e>
-    <e><p><l>egin<s n="vblex"/></l><r>elaborate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egiaztatu<s n="vblex"/></l><r>contrast<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egin<s n="vblex"/></l><r>manufacture<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egin<s n="vblex"/></l><r>commit<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egin<s n="vblex"/></l><r>effect<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egin<s n="vblex"/></l><r>execute<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egin<s n="vblex"/></l><r>elaborate<s n="vblex"/></r></p></e>
     <e><p><l>egin<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>egin<s n="vblex"/></l><r>make<g><b/>up</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>egin<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
     <e r="RL" c="(walk, picture, break, test, exam, course, look, trip, photograph, photo)"><p><l>egin<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>egin<s n="vblex"/></l><r>practice<s n="vblex"/></r></p></e>
-    <e><p><l>egin<s n="vblex"/></l><r>practise<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egin<s n="vblex"/></l><r>practise<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>egin<s n="vblex"/></l><r>realise<s n="vblex"/></r></p></e>
-    <e><p><l>egin<s n="vblex"/></l><r>realize<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egin<s n="vblex"/></l><r>realize<s n="vblex"/></r></p></e>
     <e><p><l>egituratu<s n="vblex"/></l><r>structure<s n="vblex"/></r></p></e>
     <e><p><l>egokitu<s n="vblex"/></l><r>adapt<s n="vblex"/></r></p></e>
     <e r="RL" c="(intransitiu)"><p><l>egon<s n="vblex"/></l><r>stand<s n="vblex"/></r></p></e>
     <e><p><l>egosi<s n="vblex"/></l><r>bake<s n="vblex"/></r></p></e>
     <e><p><l>egotzi<s n="vblex"/></l><r>accuse<s n="vblex"/></r></p></e>
-    <e><p><l>egotzi<s n="vblex"/></l><r>expel<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>egotzi<s n="vblex"/></l><r>expel<s n="vblex"/></r></p></e>
     <e><p><l>ehizatu<s n="vblex"/></l><r>hunt<s n="vblex"/></r></p></e>
     <e><p><l>eho<s n="vblex"/></l><r>grind<s n="vblex"/></r></p></e>
     <e><p><l>ehundu<s n="vblex"/></l><r>knit<s n="vblex"/></r></p></e>
@@ -2542,7 +2542,7 @@
     <e><p><l>ekoiztu<s n="vblex"/></l><r>produce<s n="vblex"/></r></p></e>
     <e><p><l>ekortu<s n="vblex"/></l><r>sweep<s n="vblex"/></r></p></e>
     <e><p><l>elikatu<s n="vblex"/></l><r>feed<s n="vblex"/></r></p></e>
-    <e><p><l>elikatu<s n="vblex"/></l><r>nourish<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>elikatu<s n="vblex"/></l><r>nourish<s n="vblex"/></r></p></e>
     <e><p><l>eliminatu<s n="vblex"/></l><r>delete<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eliminatu<s n="vblex"/></l><r>eliminate<s n="vblex"/></r></p></e>
     <e><p><l>elkar<b/>jo<s n="vblex"/></l><r>bump<s n="vblex"/></r></p></e>
@@ -2553,20 +2553,20 @@
     <e><p><l>elkarretaratu<s n="vblex"/></l><r>gather<s n="vblex"/></r></p></e>
     <e><p><l>elkarri<b/>lotu<s n="vblex"/></l><r>interweave<s n="vblex"/></r></p></e>
     <e><p><l>elkarrizketatu<s n="vblex"/></l><r>interview<s n="vblex"/></r></p></e>
-    <e><p><l>elkartu<s n="vblex"/></l><r>joint<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>elkartu<s n="vblex"/></l><r>joint<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>elkartu<s n="vblex"/></l><r>assemble<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>elkartu<s n="vblex"/></l><r>bring<g><b/>together</g><s n="vblex"/></r></p></e>
     <e><p><l>elkartu<s n="vblex"/></l><r>gather<s n="vblex"/></r></p></e>
-    <e><p><l>elkartu<s n="vblex"/></l><r>associate<s n="vblex"/></r></p></e>
-    <e><p><l>eman<s n="vblex"/></l><r>concede<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>elkartu<s n="vblex"/></l><r>associate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eman<s n="vblex"/></l><r>concede<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eman<s n="vblex"/></l><r>grant<s n="vblex"/></r></p></e>
-    <e><p><l>eman<s n="vblex"/></l><r>confer<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eman<s n="vblex"/></l><r>confer<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eman<s n="vblex"/></l><r>donate<s n="vblex"/></r></p></e>
     <e><p><l>eman<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
-    <e><p><l>eman<s n="vblex"/></l><r>award<s n="vblex"/></r></p></e>
-    <e><p><l>eman<s n="vblex"/></l><r>supply<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eman<s n="vblex"/></l><r>award<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eman<s n="vblex"/></l><r>supply<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eman<s n="vblex"/></l><r>assume<s n="vblex"/></r></p></e>
-    <e><p><l>eman<s n="vblex"/></l><r>suppose<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eman<s n="vblex"/></l><r>suppose<s n="vblex"/></r></p></e>
     <e><p><l>emigratu<s n="vblex"/></l><r>emigrate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>emigratu<s n="vblex"/></l><r>migrate<s n="vblex"/></r></p></e>
     <e><p><l>enbarazu<b/>egin<s n="vblex"/></l><r>disturb<s n="vblex"/></r></p></e>
