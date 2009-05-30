@@ -37432,40 +37432,7 @@
     <e>
       <p>
         <l>etxe<s n="n"/></l> 
-        <r>home<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-0
-    -->
-    <e>
-      <p>
-        <l>etxe<s n="n"/></l> 
         <r>house<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-0
-    -->
-    <e>
-      <p>
-        <l>etxe<s n="n"/></l> 
-        <r>household<s n="n"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      nom-0
-    -->
-    <e>
-      <p>
-        <l>etxe<s n="n"/></l> 
-        <r>mansion<s n="n"/><s n="ND"/></r> 
       </p>
     </e>
 
