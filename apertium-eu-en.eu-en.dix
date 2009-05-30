@@ -5202,19 +5202,17 @@
     <e><p><l>birsorkuntza<s n="n"/></l><r>regeneration<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>birus<s n="n"/></l><r>virus<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bisa<s n="n"/></l><r>visa<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bisita<s n="n"/></l><r>tour<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bisita<s n="n"/></l><r>tour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bisita<s n="n"/></l><r>visit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bisitari<s n="n"/></l><r>visitor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bitxi<s n="n"/></l><r>jewel<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bitxi<s n="n"/></l><r>jewellery<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>bitxi<s n="n"/></l><r>jewellery<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>bitxi<s n="n"/></l><r>jewelry<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>bitxi<s n="n"/></l><r>jewelry<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>bitxi<s n="n"/></l><r>jewellery<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bitxi<s n="n"/></l><r>jewelry<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizar<s n="n"/></l><r>beard<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizi<s n="n"/></l><r>life<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizibide<s n="n"/></l><r>way<g><b/>of<b/>life</g><s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizikleta<s n="n"/></l><r>bicycle<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bizikleta<s n="n"/></l><r>bike<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bizikleta<s n="n"/></l><r>bike<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizilagun<s n="n"/></l><r>neighbour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizileku<s n="n"/></l><r>residence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizimodu<s n="n"/></l><r>way<g><b/>of<b/>life</g><s n="n"/><s n="ND"/></r></p></e>
@@ -5225,29 +5223,28 @@
     <e><p><l>bizkar<s n="n"/></l><r>back<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizkarralde<s n="n"/></l><r>backrest<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bizkartzain<s n="n"/></l><r>bodyguard<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bizkartzain<s n="n"/></l><r>bodyguard<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>biztanle<s n="n"/></l><r>inhabitant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>blog<s n="n"/></l><r>blog<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bloke<s n="n"/></l><r>block<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>blokeo<s n="n"/></l><r>block<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>blokeo<s n="n"/></l><r>blockade<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>blokeo<s n="n"/></l><r>blocking<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>blokeo<s n="n"/></l><r>blockade<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>blokeo<s n="n"/></l><r>blocking<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bobeda<s n="n"/></l><r>vault<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bokal<s n="n"/></l><r>vowel<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bokazio<s n="n"/></l><r>vocation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bola<s n="n"/></l><r>ball<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bola<s n="n"/></l><r>ball<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bola<s n="n"/></l><r>bowl<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bolante<s n="n"/></l><r>wheel<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bolante<s n="n"/></l><r>steering<b/>wheel<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bolante<s n="n"/></l><r>steering<b/>wheel<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bolumen<s n="n"/></l><r>volume<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<s n="n"/></l><r>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<s n="n"/></l><r>pump<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonbardaketa<s n="n"/></l><r>bombardment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonbilla<s n="n"/></l><r>bulb<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bonbilla<s n="n"/></l><r>light<b/>bulb<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bonbilla<s n="n"/></l><r>light<b/>bulb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>borondate<s n="n"/></l><r>will<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>borroka<s n="n"/></l><r>fight<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>borroka<s n="n"/></l><r>struggle<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>borroka<s n="n"/></l><r>struggle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bota<s n="n"/></l><r>boot<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>botere<s n="n"/></l><r>power<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>botika<s n="n"/></l><r>drug<s n="n"/><s n="ND"/></r></p></e>
@@ -5265,53 +5262,53 @@
     <e><p><l>broma<s n="n"/></l><r>prank<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>brontze<s n="n"/></l><r>bronze<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>buelta<s n="n"/></l><r>turn<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>buelta<s n="n"/></l><r>return<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bukaera<s n="n"/></l><r>completion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bukaera<s n="n"/></l><r>conclusion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bukaera<s n="n"/></l><r>denouement<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>buelta<s n="n"/></l><r>return<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bukaera<s n="n"/></l><r>completion<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bukaera<s n="n"/></l><r>conclusion<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bukaera<s n="n"/></l><r>denouement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bukaera<s n="n"/></l><r>end<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bukaera<s n="n"/></l><r>ending<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bukaera<s n="n"/></l><r>final<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bukaera<s n="n"/></l><r>ending<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bukaera<s n="n"/></l><r>final<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bular<s n="n"/></l><r>breast<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bular<s n="n"/></l><r>chest<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bulego<s n="n"/></l><r>office<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bultzada<s n="n"/></l><r>push<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bultzada<s n="n"/></l><r>boost<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bultzada<s n="n"/></l><r>impulse<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bultzada<s n="n"/></l><r>lift<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bultzada<s n="n"/></l><r>urge<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bultzada<s n="n"/></l><r>spurt<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bultzada<s n="n"/></l><r>boost<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bultzada<s n="n"/></l><r>impulse<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bultzada<s n="n"/></l><r>lift<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bultzada<s n="n"/></l><r>urge<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bultzada<s n="n"/></l><r>spurt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burbuila<s n="n"/></l><r>bubble<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burdin_hesi<s n="n"/></l><r>grid<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burdina<s n="n"/></l><r>iron<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burgesia<s n="n"/></l><r>bourgeoisie<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burmuin<s n="n"/></l><r>brain<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burtsa<s n="n"/></l><r>bag<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>buru<s n="n"/></l><r>head<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>buru<s n="n"/></l><r>head<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>buru<s n="n"/></l><r>leader<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>buru<s n="n"/></l><r>boss<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>buru<s n="n"/></l><r>chief<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>buru<s n="n"/></l><r>mind<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>buru<s n="n"/></l><r>boss<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>buru<s n="n"/></l><r>chief<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>buru<s n="n"/></l><r>mind<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burujabetza<s n="n"/></l><r>independence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>buruzagi<s n="n"/></l><r>leader<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>buruzagitza<s n="n"/></l><r>leadership<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>butaka<s n="n"/></l><r>armchair<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>butaka<s n="n"/></l><r>armchair<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>butaka<s n="n"/></l><r>seat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>buztan<s n="n"/></l><r>tail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>buztin<s n="n"/></l><r>clay<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>campus<s n="n"/></l><r>campus<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dantza<s n="n"/></l><r>dance<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>dantza<s n="n"/></l><r>dancing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>dantza<s n="n"/></l><r>dancing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dantzari<s n="n"/></l><r>dancer<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>dardara<s n="n"/></l><r>tremor<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>dardara<s n="n"/></l><r>tremor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dardara<s n="n"/></l><r>vibration<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>data<s n="n"/></l><r>date<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>datazio<s n="n"/></l><r>dating<s n="n"/><s n="ND"/></r></p></e>
-    <e c="dada (cat) en plural (el tagger hauria d'escollar sg o pl en anglès). MG: Falta fer entrada específica ca-en per a 'dada' en singular, si cal (?)"><p><l>datu<s n="n"/></l><r>data<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>deabru<s n="n"/></l><r>demon<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>datu<s n="n"/></l><r>data<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>deabru<s n="n"/></l><r>demon<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>deabru<s n="n"/></l><r>devil<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>debeku<s n="n"/></l><r>ban<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>debeku<s n="n"/></l><r>prohibition<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>debeku<s n="n"/></l><r>prohibition<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>debozio<s n="n"/></l><r>devotion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>defentsa<s n="n"/></l><r>defence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>definizio<s n="n"/></l><r>definition<s n="n"/><s n="ND"/></r></p></e>
@@ -5320,7 +5317,7 @@
     <e><p><l>degradazio<s n="n"/></l><r>degradation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dei<s n="n"/></l><r>call<s n="n"/><s n="ND"/></r></p></e>
     <e c="també podria ser 'call'"><p><l>deialdi<s n="n"/></l><r>announcement<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>deitura<s n="n"/></l><r>lineage<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>deitura<s n="n"/></l><r>lineage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>deitura<s n="n"/></l><r>surname<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>deklarazio<s n="n"/></l><r>statement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dekorazio<s n="n"/></l><r>decoration<s n="n"/><s n="ND"/></r></p></e>
@@ -5333,17 +5330,15 @@
     <e><p><l>demokrata<s n="n"/></l><r>democrat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>demokrazia<s n="n"/></l><r>democracy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denbora<s n="n"/></l><r>time<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>denbora<s n="n"/></l><r>time<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>denbora<s n="n"/></l><r>weather<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>denbora<s n="n"/></l><r>weather<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>denbora<s n="n"/></l><r>weather<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denboraldi<s n="n"/></l><r>season<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denda<s n="n"/></l><r>shop<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>denda<s n="n"/></l><r>store<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>denda<s n="n"/></l><r>tent<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>denda<s n="n"/></l><r>store<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>denda<s n="n"/></l><r>tent<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denuntzia<s n="n"/></l><r>complaint<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>denuntzia<s n="n"/></l><r>denunciation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>denuntzia<s n="n"/></l><r>denunciation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>departamentu<s n="n"/></l><r>department<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>dependentzia<s n="n"/></l><r>dependence<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>dependentzia<s n="n"/></l><r>dependence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dependentzia<s n="n"/></l><r>dependency<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>depresio<s n="n"/></l><r>depression<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desadostasun<s n="n"/></l><r>disagreement<s n="n"/><s n="ND"/></r></p></e>
@@ -5355,7 +5350,7 @@
     <e><p><l>desenkusa<s n="n"/></l><r>pretext<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desesperazio<s n="n"/></l><r>despair<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desgrazia<s n="n"/></l><r>misfortune<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>desio<s n="n"/></l><r>desire<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>desio<s n="n"/></l><r>desire<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desio<s n="n"/></l><r>wish<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>deskribapen<s n="n"/></l><r>description<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>deskuidu<s n="n"/></l><r>oversight<s n="n"/><s n="ND"/></r></p></e>
@@ -5443,31 +5438,25 @@
     <e><p><l>eboluzio<s n="n"/></l><r>evolution<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>edertasun<s n="n"/></l><r>beauty<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>editore<s n="n"/></l><r>editor<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>editore<s n="n"/></l><r>publisher<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>editore<s n="n"/></l><r>publisher<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>editorial<s n="n"/></l><r>editorial<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>editorial<s n="n"/></l><r>publisher<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>editorial<s n="n"/></l><r>publishing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>editorial<s n="n"/></l><r>publisher<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>editorial<s n="n"/></l><r>publishing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>edizio<s n="n"/></l><r>edition<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eduki<s n="n"/></l><r>content<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>edukiera<s n="n"/></l><r>capability<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>edukiera<s n="n"/></l><r>capacity<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>edukiera<s n="n"/></l><r>capacity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>edukitza<s n="n"/></l><r>possession<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>edukitze<s n="n"/></l><r>possession<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>efektu<s n="n"/></l><r>effect<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>efikazia<s n="n"/></l><r>efficiency<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egia<s n="n"/></l><r>truth<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egile<s n="n"/></l><r>author<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eginbehar<s n="n"/></l><r>homework<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>eginbehar<s n="n"/></l><r>homework<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>eginbehar<s n="n"/></l><r>duty<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>eginbehar<s n="n"/></l><r>duty<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>eginbehar<s n="n"/></l><r>homework<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eginbehar<s n="n"/></l><r>duty<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eginbide<s n="n"/></l><r>homework<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>eginbide<s n="n"/></l><r>homework<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>eginbide<s n="n"/></l><r>duty<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>eginbide<s n="n"/></l><r>duty<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>eginbide<s n="n"/></l><r>homework<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eginbide<s n="n"/></l><r>duty<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>egitarau<s n="n"/></l><r>program<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>egitarau<s n="n"/></l><r>program<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egitarau<s n="n"/></l><r>programme<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egitarau<s n="n"/></l><r>schedule<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egitasmo<s n="n"/></l><r>project<s n="n"/><s n="ND"/></r></p></e>
@@ -5683,9 +5672,7 @@
     <e><p><l>ernaldi<s n="n"/></l><r>gestation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erortze<s n="n"/></l><r>precipitation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erosketa<s n="n"/></l><r>purchase<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erosketa<s n="n"/></l><r>purchase<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>erosketa<s n="n"/></l><r>shopping<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erosketa<s n="n"/></l><r>shopping<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>erosle<s n="n"/></l><r>buyer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erosle<s n="n"/></l><r>purchaser<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erosotasun<s n="n"/></l><r>comfort<s n="n"/><s n="ND"/></r></p></e>
