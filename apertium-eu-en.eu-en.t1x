@@ -4566,6 +4566,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
             <lu> 
