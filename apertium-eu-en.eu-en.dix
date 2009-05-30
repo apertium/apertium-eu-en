@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Dictionary:
 	Bilingual dictionary: eu-en
@@ -525,6 +525,18 @@
       <p>
         <l>xe<s n="GRA"/><s n="IND"/></l>
         <r></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>ni<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l>
+        <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>hi<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l>
+        <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r>
       </p>
     </e>
 
