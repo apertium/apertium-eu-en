@@ -1936,27 +1936,27 @@
     <e r="RL"><p><l>ziur<s n="adj"/></l><r>secure<s n="adj"/></r></p></e>
     <e><p><l>ziur<s n="adj"/></l><r>sure<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ziztrin<s n="adj"/></l><r>insignificant<s n="adj"/></r></p></e>
-    <e><p><l>ziztrin<s n="adj"/></l><r>marginal<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>ziztrin<s n="adj"/></l><r>marginal<s n="adj"/></r></p></e>
     <e><p><l>zona<s n="adj"/></l><r>zonal<s n="adj"/></r></p></e>
     <e><p><l>zoragarri<s n="adj"/></l><r>charming<s n="adj"/></r></p></e>
     <e><p><l>zorioneko<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>zoriontsu<s n="adj"/></l><r>joyous<s n="adj"/></r></p></e>
-    <e><p><l>zoriontsu<s n="adj"/></l><r>glad<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zoriontsu<s n="adj"/></l><r>joyous<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zoriontsu<s n="adj"/></l><r>glad<s n="adj"/></r></p></e>
     <e><p><l>zoriontsu<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>zorrotz<s n="adj"/></l><r>acute<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zorrotz<s n="adj"/></l><r>acute<s n="adj"/></r></p></e>
     <e><p><l>zorrotz<s n="adj"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>zorrotz<s n="adj"/></l><r>demanding<s n="adj"/></r></p></e>
-    <e><p><l>zorrotz<s n="adj"/></l><r>rigorous<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zorrotz<s n="adj"/></l><r>rigorous<s n="adj"/></r></p></e>
     <e><p><l>zortzigarren<s n="adj"/></l><r>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>zuhaitz<s n="adj"/></l><r>arborescent<s n="adj"/></r></p></e>
-    <e><p><l>zuhur<s n="adj"/></l><r>discreet<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zuhur<s n="adj"/></l><r>discreet<s n="adj"/></r></p></e>
     <e><p><l>zuhur<s n="adj"/></l><r>careful<s n="adj"/></r></p></e>
     <e><p><l>zurbil<s n="adj"/></l><r>pale<s n="adj"/></r></p></e>
     <e><p><l>zuri<s n="adj"/></l><r>white<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zurrun<s n="adj"/></l><r>rigid<s n="adj"/></r></p></e>
-    <e><p><l>zuzen<s n="adj"/></l><r>correct<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zuzen<s n="adj"/></l><r>correct<s n="adj"/></r></p></e>
     <e><p><l>zuzen<s n="adj"/></l><r>right<s n="adj"/></r></p></e>
-    <e><p><l>zuzen<s n="adj"/></l><r>straight<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zuzen<s n="adj"/></l><r>straight<s n="adj"/></r></p></e>
     <e><p><l>zuzendaritza<s n="adj"/></l><r>managerial<s n="adj"/></r></p></e>
     <e><p><l>zuzeneko<s n="adj"/></l><r>direct<s n="adj"/></r></p></e>
 
@@ -1984,23 +1984,23 @@
     <e><p><l>adoretu<s n="vblex"/></l><r>encourage<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>adoretu<s n="vblex"/></l><r>warm<s n="vblex"/></r></p></e>
     <e><p><l>adostu<s n="vblex"/></l><r>agree<s n="vblex"/></r></p></e>
-    <e><p><l>adostu<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>adostu<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
     <e><p><l>adostu<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
     <e><p><l>afaldu<s n="vblex"/></l><r>dine<s n="vblex"/></r></p></e>
     <e><p><l>afiliatu<s n="vblex"/></l><r>affiliate<s n="vblex"/></r></p></e>
-    <e><p><l>agertu<s n="vblex"/></l><r>appear<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>agertu<s n="vblex"/></l><r>appear<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agertu<s n="vblex"/></l><r>show<g><b/>up</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agertu<s n="vblex"/></l><r>turn<g><b/>up</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agertu<s n="vblex"/></l><r>display<s n="vblex"/></r></p></e>
     <e><p><l>agertu<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agindu<s n="vblex"/></l><r>sort<s n="vblex"/></r></p></e>
-    <e><p><l>agindu<s n="vblex"/></l><r>order<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>agindu<s n="vblex"/></l><r>order<s n="vblex"/></r></p></e>
     <e><p><l>agindu<s n="vblex"/></l><r>promise<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agindu<s n="vblex"/></l><r>pledge<s n="vblex"/></r></p></e>
     <e><p><l>agitatu<s n="vblex"/></l><r>agitate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agitatu<s n="vblex"/></l><r>wave<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agur<b/>egin<s n="vblex"/></l><r>fire<s n="vblex"/></r></p></e>
-    <e><p><l>agur<b/>egin<s n="vblex"/></l><r>sack<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>agur<b/>egin<s n="vblex"/></l><r>sack<s n="vblex"/></r></p></e>
     <e><p><l>agur<b/>egin<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
     <e><p><l>agurtu<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
     <e><p><l>ahalbidetu<s n="vblex"/></l><r>make<g><b/>possible</g><s n="vblex"/></r></p></e>
@@ -2010,7 +2010,7 @@
     <e r="RL"><p><l>ahitu<s n="vblex"/></l><r>deplete<s n="vblex"/></r></p></e>
     <e><p><l>ahitu<s n="vblex"/></l><r>exhaust<s n="vblex"/></r></p></e>
     <e><p><l>ahokatu<s n="vblex"/></l><r>fit<s n="vblex"/></r></p></e>
-    <e><p><l>aholkatu<s n="vblex"/></l><r>warn<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aholkatu<s n="vblex"/></l><r>warn<s n="vblex"/></r></p></e>
     <e><p><l>aholkatu<s n="vblex"/></l><r>advise<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aholkatu<s n="vblex"/></l><r>counsel<s n="vblex"/></r></p></e>
     <e><p><l>ailegatu<s n="vblex"/></l><r>arrive<s n="vblex"/></r></p></e>
@@ -2031,12 +2031,12 @@
     <e r="RL"><p><l>aldatu<s n="vblex"/></l><r>switch<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aldatu<s n="vblex"/></l><r>shift<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aldatu<s n="vblex"/></l><r>range<s n="vblex"/></r></p></e>
-    <e><p><l>aldatu<s n="vblex"/></l><r>vary<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aldatu<s n="vblex"/></l><r>vary<s n="vblex"/></r></p></e>
     <e><p><l>alde<b/>egin<s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>alde<b/>egin<s n="vblex"/></l><r>get<g><b/>along</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>alde<b/>egin<s n="vblex"/></l><r>get<g><b/>off</g><s n="vblex"/></r></p></e>
     <e><p><l>aldendu<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
-    <e><p><l>alderantzikatu<s n="vblex"/></l><r>invest<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>alderantzikatu<s n="vblex"/></l><r>invest<s n="vblex"/></r></p></e>
     <e><p><l>alderantzikatu<s n="vblex"/></l><r>reverse<s n="vblex"/></r></p></e>
     <e><p><l>aldeztu<s n="vblex"/></l><r>advocate<s n="vblex"/></r></p></e>
     <e><p><l>aldi<b/>berean<b/>gertatu<s n="vblex"/></l><r>coincide<s n="vblex"/></r></p></e>
@@ -2044,7 +2044,7 @@
     <e><p><l>alokatu<s n="vblex"/></l><r>rent<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>altxatu<s n="vblex"/></l><r>erect<s n="vblex"/></r></p></e>
     <e><p><l>altxatu<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
-    <e><p><l>amaitu<s n="vblex"/></l><r>conclude<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>amaitu<s n="vblex"/></l><r>conclude<s n="vblex"/></r></p></e>
     <e><p><l>amaitu<s n="vblex"/></l><r>finish<s n="vblex"/></r></p></e>
     <e><p><l>amets<b/>egin<s n="vblex"/></l><r>dream<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>amildu<s n="vblex"/></l><r>drop<s n="vblex"/></r></p></e>
@@ -2063,13 +2063,13 @@
     <e><p><l>antzeztu<s n="vblex"/></l><r>represent<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>apaindu<s n="vblex"/></l><r>arrange<s n="vblex"/></r></p></e>
     <e><p><l>apaindu<s n="vblex"/></l><r>fix<s n="vblex"/></r></p></e>
-    <e><p><l>apaindu<s n="vblex"/></l><r>decorate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>apaindu<s n="vblex"/></l><r>decorate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>apaldu<s n="vblex"/></l><r>drop<s n="vblex"/></r></p></e>
-    <e><p><l>apaldu<s n="vblex"/></l><r>go<g><b/>down</g><s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>apaldu<s n="vblex"/></l><r>lower<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>apaldu<s n="vblex"/></l><r>go<g><b/>down</g><s n="vblex"/></r></p></e>
+    <e><p><l>apaldu<s n="vblex"/></l><r>lower<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>apaldu<s n="vblex"/></l><r>bring<g><b/>down</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>apaldu<s n="vblex"/></l><r>get<g><b/>down</g><s n="vblex"/></r></p></e>
-    <e><p><l>aparkatu<s n="vblex"/></l><r>park<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>aparkatu<s n="vblex"/></l><r>park<s n="vblex"/></r></p></e>
     <e><p><l>apartatu<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e>
     <e><p><l>aplikatu<s n="vblex"/></l><r>apply<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aplikatu<s n="vblex"/></l><r>enforce<s n="vblex"/></r></p></e>
