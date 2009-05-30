@@ -8569,14 +8569,13 @@
     <e><p><l>zereal<s n="n"/></l><r>cereal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zeremonia<s n="n"/></l><r>ceremony<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zerga<s n="n"/></l><r>tax<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>zerga<s n="n"/></l><r>taxation<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>zerga<s n="n"/></l><r>taxation<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>zerga<s n="n"/></l><r>taxation<s n="n"/></r></p></e>
     <e><p><l>zerikusi<s n="n"/></l><r>account<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zerikusi<s n="n"/></l><r>relation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zerikusi<s n="n"/></l><r>relationship<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zerra<s n="n"/></l><r>saw<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zerrenda<s n="n"/></l><r>list<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>zeru<s n="n"/></l><r>heaven<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>zeru<s n="n"/></l><r>heaven<s n="n"/></r></p></e>
     <e><p><l>zeru<s n="n"/></l><r>sky<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zeta<s n="n"/></l><r>silk<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zibil<s n="n"/></l><r>civilian<s n="n"/><s n="ND"/></r></p></e>
@@ -8585,7 +8584,7 @@
     <e><p><l>zientzialari<s n="n"/></l><r>scientist<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zifra<s n="n"/></l><r>figure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zigarreta<s n="n"/></l><r>cigarette<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>zigilu<s n="n"/></l><r>seal<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>zigilu<s n="n"/></l><r>seal<s n="n"/></r></p></e>
     <e><p><l>zigilu<s n="n"/></l><r>stamp<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zigor<s n="n"/></l><r>punishment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zigor<s n="n"/></l><r>sanction<s n="n"/><s n="ND"/></r></p></e>
@@ -8600,9 +8599,9 @@
     <e><p><l>zinemagintza<s n="n"/></l><r>cinema<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zinemaldi<s n="n"/></l><r>film<b/>festival<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zinpeko<s n="n"/></l><r>jury<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>zinta<s n="n"/></l><r>strip<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>zinta<s n="n"/></l><r>strip<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zinta<s n="n"/></l><r>tape<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>zinta<s n="n"/></l><r>headband<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>zinta<s n="n"/></l><r>headband<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zintzilikatze<s n="n"/></l><r>suspension<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zintzotasun<s n="n"/></l><r>generosity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zirku<s n="n"/></l><r>circus<s n="n"/><s n="ND"/></r></p></e>
@@ -8651,7 +8650,7 @@
     <e><p><l>zutoin<s n="n"/></l><r>stick<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zuzenbide<s n="n"/></l><r>law<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zuzenbide<s n="n"/></l><r>right<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>zuzendari<s n="n"/></l><r>conductor<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>zuzendari<s n="n"/></l><r>conductor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zuzendari<s n="n"/></l><r>director<s n="n"/><s n="ND"/></r></p></e>
     <e c="en masculí per defecte"><p><l>zuzendari<s n="n"/></l><r>manager<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zuzendaritza<s n="n"/></l><r>address<s n="n"/><s n="ND"/></r></p></e>
@@ -8663,11 +8662,11 @@
 
     <e><p><l>aditu<s n="vbsint"/></l><r>understand<s n="vblex"/></r></p></e>
     <e><p><l>atxiki<s n="vbsint"/></l><r>keep<s n="vblex"/></r></p></e>
-    <e><p><l>atxiki<s n="vbsint"/></l><r>maintain<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atxiki<s n="vbsint"/></l><r>maintain<s n="vblex"/></r></p></e>
     <e><p><l>edin<s n="vbsint"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>eduki<s n="vbsint"/></l><r>have<s n="vblex"/></r></p></e>
-    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j"><p><l>eduki<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
-    <e><p><l>eduki<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eduki<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eduki<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
     <e><p><l>egin<s n="vbsint"/></l><r>do<s n="vblex"/></r></p></e>
     <e><p><l>ekarri<s n="vbsint"/></l><r>bring<s n="vblex"/></r></p></e>
     <e c="MG: sería reflexivo, dedicarse"><p><l>ekin<s n="vbsint"/></l><r>devote<s n="vblex"/></r></p></e>
@@ -8676,8 +8675,7 @@
     <e><p><l>erabili<s n="vbsint"/></l><r>use<s n="vblex"/></r></p></e>
     <e><p><l>erakutsi<s n="vbsint"/></l><r>show<s n="vblex"/></r></p></e>
     <e><p><l>eraman<s n="vbsint"/></l><r>carry<s n="vblex"/></r></p></e>
-    <e c="(I took him home)"><p><l>eraman<s n="vbsint"/></l><r>take<s n="vblex"/></r></p></e>
-    <e c="(roba)"><p><l>eraman<s n="vbsint"/></l><r>wear<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eraman<s n="vbsint"/></l><r>take<s n="vblex"/></r></p></e>
     <e><p><l>erosi<s n="vbsint"/></l><r>buy<s n="vblex"/></r></p></e>
     <e><p><l>erran<s n="vbsint"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>erran<s n="vbsint"/></l><r>tell<s n="vblex"/></r></p></e>
