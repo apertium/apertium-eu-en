@@ -1977,7 +1977,11 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="mi"/>
+            <lit v="my"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/> 
+            <lit-tag v="sp"/>
           </let>
         </when>
         <when>
@@ -2025,7 +2029,7 @@
           </let>
           <let>
             <clip pos="1" side="tl" part="gen"/> 
-            <clip pos="2" side="tl" part="gen"/> 
+            <clip pos="2" side="tl" part="gen"/>  
           </let>
         </when>
         <when>
@@ -2047,7 +2051,7 @@
           </let>
           <let>
             <clip pos="1" side="tl" part="gen"/> 
-            <clip pos="2" side="tl" part="gen"/> 
+            <clip pos="2" side="tl" part="gen"/>  
           </let>
         </when>
       </choose>
