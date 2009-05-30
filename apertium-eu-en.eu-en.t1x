@@ -3046,7 +3046,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><clip pos="1" side="tl" part="gen"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
               <tag><var n="grado"/></tag>
             </tags>
@@ -3183,20 +3182,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="nbr_n1">
           <with-param pos="1"/>
         </call-macro>
-        <choose><!--porque para palabras con función de CN no se puede dejar GD i ND para el t2x, ya que no están enlazados con chunk -->
-          <when>
-            <test>
-              <equal>
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="gen"/>
-              <lit-tag v="m"/>
-            </let>
-          </when>
-        </choose>
         <out> 
           <chunk name="det_nom_pr_nom" case="caseFirstWord">
             <tags>
@@ -3280,7 +3265,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><var n="gen_chunk"/></tag>
               <tag><var n="nbr_chunk"/></tag>
               <tag><var n="grado"/></tag>
             </tags>
@@ -14672,7 +14656,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
-              <tag><clip pos="1" side="tl" part="gen"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
               <tag><var n="grado"/></tag>
             </tags>
