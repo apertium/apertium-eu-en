@@ -9208,7 +9208,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><lit-tag v="pos"/></tag>
-              <tag><var n="gen_chunk"/></tag>
               <tag><var n="nbr_chunk"/></tag>
             </tags>
             <lu>
@@ -9219,7 +9218,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="5" side="tl" part="ND" link-to="3"/>
+              <clip pos="5" side="tl" part="ND" link-to="2"/>
               <clip pos="5" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
@@ -9232,7 +9231,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="3"/>
+              <clip pos="3" side="tl" part="ND" link-to="2"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
             </lu>
