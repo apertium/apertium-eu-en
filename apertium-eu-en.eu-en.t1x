@@ -8303,6 +8303,24 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="4" side="sl" part="lem"/>
+                <lit v="ra"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="to"/>
+            </let>
+            <let>
+              <clip pos="4" side="tl" part="a_prep"/>
+              <lit-tag v="pr"/>
+            </let>
+          </when>
+        </choose>
         <out> 
           <chunk name="pr_num_pr_num" case="caseFirstWord">
             <tags>
@@ -8310,7 +8328,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <tag><clip pos="3" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
-              <lit v="of"/>
+              <lit v="from"/>
               <lit-tag v="pr"/>
             </lu>
             <b pos="1"/>

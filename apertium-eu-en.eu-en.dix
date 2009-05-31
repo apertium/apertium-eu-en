@@ -385,7 +385,7 @@
     <e><p><l>ra<s n="post"/></l><r>at<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/></l><r>into<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
-    <e><p><l>ra<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>ra<s n="post"/></l><r>to<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/></l><r>upon<s n="pr"/></r></p></e>
     <e><p><l>tik<s n="post"/></l><r>from<s n="pr"/></r></p></e>
     <e r="RL" c="as you - com tu"><p><l>tzat<s n="post"/></l><r>as<s n="pr"/></r></p></e>
