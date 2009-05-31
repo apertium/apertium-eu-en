@@ -421,6 +421,7 @@
 
     <def-attr n="a_ordinal">
       <attr-item tags="num.ord"/> 
+      <attr-item tags="det.ord"/>
     </def-attr>
 
 
@@ -2010,7 +2011,11 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="tuyo"/>
+            <lit v="your"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/> 
+            <lit-tag v="sp"/>
           </let>
         </when>
         <when>
@@ -2028,7 +2033,11 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="nuestro"/>
+            <lit v="our"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/> 
+            <lit-tag v="sp"/>
           </let>
           <let>
             <clip pos="1" side="tl" part="gen"/> 
@@ -2050,7 +2059,11 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="vuestro"/>
+            <lit v="your"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/> 
+            <lit-tag v="sp"/>
           </let>
           <let>
             <clip pos="1" side="tl" part="gen"/> 
