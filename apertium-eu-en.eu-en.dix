@@ -8746,6 +8746,15 @@
     <e><p><l>hamazortzi<s n="num"/><s n="pl"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hemeretzi<s n="num"/><s n="pl"/></l><r>nineteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hogei<s n="num"/><s n="pl"/></l><r>twenty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>bat<s n="num"/><s n="pl"/></l><r>twenty-one<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>bi<s n="num"/><s n="pl"/></l><r>twenty-two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hiru<s n="num"/><s n="pl"/></l><r>twenty-three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>lau<s n="num"/><s n="pl"/></l><r>twenty-four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>bost<s n="num"/><s n="pl"/></l><r>twenty-five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>sei<s n="num"/><s n="pl"/></l><r>twenty-six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>zazpi<s n="num"/><s n="pl"/></l><r>twenty-seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>zortzi<s n="num"/><s n="pl"/></l><r>twenty-eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>bederatzi<s n="num"/><s n="pl"/></l><r>twenty-nine<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hogeita<b/>hamar<s n="num"/><s n="pl"/></l><r>thirty<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hogeita<b/>hamaika<s n="num"/><s n="pl"/></l><r>thirty-one<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hogeita<b/>hamabi<s n="num"/><s n="pl"/></l><r>thirty-two<s n="num"/><s n="sp"/></r></p></e>
@@ -8757,6 +8766,16 @@
     <e><p><l>hogeita<b/>hemezortzi<s n="num"/><s n="pl"/></l><r>thirty-eight<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hogeita<b/>hamazortzi<s n="num"/><s n="pl"/></l><r>thirty-eight<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hogeita<b/>hemeretzi<s n="num"/><s n="pl"/></l><r>thirty-nine<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogei<s n="num"/><s n="pl"/></l><r>forty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>bat<s n="num"/><s n="pl"/></l><r>forty-one<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>bi<s n="num"/><s n="pl"/></l><r>forty-two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hiru<s n="num"/><s n="pl"/></l><r>forty-three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>lau<s n="num"/><s n="pl"/></l><r>forty-four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>bost<s n="num"/><s n="pl"/></l><r>forty-five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>sei<s n="num"/><s n="pl"/></l><r>forty-six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>zazpi<s n="num"/><s n="pl"/></l><r>forty-seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>zortzi<s n="num"/><s n="pl"/></l><r>forty-eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>bederatzi<s n="num"/><s n="pl"/></l><r>forty-nine<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>berrogeita<b/>hamar<s n="num"/><s n="pl"/></l><r>fifty<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>berrogeita<b/>hamaika<s n="num"/><s n="pl"/></l><r>fifty-one<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>berrogeita<b/>hamabi<s n="num"/><s n="pl"/></l><r>fifty-two<s n="num"/><s n="sp"/></r></p></e>
@@ -8768,6 +8787,16 @@
     <e><p><l>berrogeita<b/>hemezortzi<s n="num"/><s n="pl"/></l><r>fifty-eight<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>berrogeita<b/>hamazortzi<s n="num"/><s n="pl"/></l><r>fifty-eight<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>berrogeita<b/>hemeretzi<s n="num"/><s n="pl"/></l><r>fifty-nine<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogei<s n="num"/><s n="pl"/></l><r>sixty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>bat<s n="num"/><s n="pl"/></l><r>sixty-one<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>bi<s n="num"/><s n="pl"/></l><r>sixty-two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hiru<s n="num"/><s n="pl"/></l><r>sixty-three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>lau<s n="num"/><s n="pl"/></l><r>sixty-four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>bost<s n="num"/><s n="pl"/></l><r>sixty-five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>sei<s n="num"/><s n="pl"/></l><r>sixty-six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>zazpi<s n="num"/><s n="pl"/></l><r>sixty-seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>zortzi<s n="num"/><s n="pl"/></l><r>sixty-eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>bederatzi<s n="num"/><s n="pl"/></l><r>sixty-nine<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hirurogeita<b/>hamar<s n="num"/><s n="pl"/></l><r>seventy<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hirurogeita<b/>hamaika<s n="num"/><s n="pl"/></l><r>seventy-one<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hirurogeita<b/>hamabi<s n="num"/><s n="pl"/></l><r>seventy-two<s n="num"/><s n="sp"/></r></p></e>
@@ -8779,6 +8808,16 @@
     <e><p><l>hirurogeita<b/>hemezortzi<s n="num"/><s n="pl"/></l><r>seventy-eight<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hirurogeita<b/>hamazortzi<s n="num"/><s n="pl"/></l><r>seventy-eight<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hirurogeita<b/>hemeretzi<s n="num"/><s n="pl"/></l><r>seventy-nine<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogei<s n="num"/><s n="pl"/></l><r>eighty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>bat<s n="num"/><s n="pl"/></l><r>eighty-one<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>bi<s n="num"/><s n="pl"/></l><r>eighty-two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hiru<s n="num"/><s n="pl"/></l><r>eighty-three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>lau<s n="num"/><s n="pl"/></l><r>eighty-four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>bost<s n="num"/><s n="pl"/></l><r>eighty-five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>sei<s n="num"/><s n="pl"/></l><r>eighty-six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>zazpi<s n="num"/><s n="pl"/></l><r>eighty-seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>zortzi<s n="num"/><s n="pl"/></l><r>eighty-eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>bederatzi<s n="num"/><s n="pl"/></l><r>eighty-nine<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>larogeita<b/>hamar<s n="num"/><s n="pl"/></l><r>ninety<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>larogeita<b/>hamaika<s n="num"/><s n="pl"/></l><r>ninety-one<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>larogeita<b/>hamabi<s n="num"/><s n="pl"/></l><r>ninety-two<s n="num"/><s n="sp"/></r></p></e>
