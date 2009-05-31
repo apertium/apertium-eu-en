@@ -8279,13 +8279,8 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b pos="1"/>
             <lu>
-              <lit v="of"/>
+              <lit v="out of"/>
               <lit-tag v="pr"/>
-            </lu>
-            <b/>
-            <lu>
-              <lit v="each"/>
-              <lit-tag v="det.ind.3"/>
             </lu>
             <b pos="2"/>
             <lu>
