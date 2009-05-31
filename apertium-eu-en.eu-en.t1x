@@ -9042,6 +9042,18 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="3"/>
           <with-param pos="4"/>
         </call-macro>
+        <choose>
+          <when>
+            <equal>
+              <var n="nbr_chunk"/>
+              <lit-tag v=""/>
+            </equal>
+          </when>
+          <let>
+            <var n="nbr_chunk"/>
+            <clip pos="3" side="tl" part="lemq"/>
+          </let>
+        </choose>
         <out> 
           <chunk name="pos_n" case="caseFirstWord">
             <tags>
