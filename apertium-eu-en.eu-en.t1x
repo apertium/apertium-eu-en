@@ -55,6 +55,7 @@
     <def-cat n="detindizl"><!--determinantes indefinidos e interrogativos, que van generalmente delante del nombre -->
       <cat-item tags="det.indizl.*"/>
       <cat-item tags="det.itg.*"/>
+      <cat-item lemma="zenbat" tags="adv.itg"/>
     </def-cat>
 
     <def-cat n="detart">

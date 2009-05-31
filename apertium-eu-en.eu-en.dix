@@ -4402,7 +4402,9 @@
     <e><p><l>zehar<s n="adv"/></l><r>sideways<s n="adv"/></r></p></e>
     <e r="RL"><p><l>zeharka<s n="adv"/></l><r>edgewise<s n="adv"/></r></p></e>
     <e><p><l>zeharka<s n="adv"/></l><r>sideways<s n="adv"/></r></p></e>
-    <e><p><l>zergatik<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/></r></p></e>
+    <e><p><l>zergatik<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>zenbat<s n="adv"/><s n="itg"/></l><r>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
+    <e><p><l>zenbat<s n="adv"/><s n="itg"/></l><r>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>ziur<s n="adv"/></l><r>for<b/>sure<s n="adv"/></r></p></e>
     <e><p><l>ziur<s n="adv"/></l><r>sure<s n="adv"/></r></p></e>
     <e><p><l>ziur<b/>aski<s n="adv"/></l><r>surely<s n="adv"/></r></p></e>
@@ -8680,6 +8682,8 @@
     <e><p><l>la<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e><p><l>n<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
+    <e><p><l>bi<s n="num"/><s n="pl"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hiru<s n="num"/><s n="pl"/></l><r>three<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamabi<s n="num"/><s n="pl"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamabost<s n="num"/><s n="pl"/></l><r>fifteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamahiru<s n="num"/><s n="pl"/></l><r>thirteen<s n="num"/><s n="sp"/></r></p></e>
@@ -8710,14 +8714,14 @@
     <e><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>edozer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>edozer<s n="prn"/><s n="ind"/></l><r>whatever<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
-    <e c="frases negatives"><p><l>ezer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/></r></p></e>
-    <e><p><l>ezer<s n="prn"/><s n="ind"/></l><r>nothing<s n="prn"/></r></p></e>
+    <e><p><l>edozer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>edozer<s n="prn"/><s n="ind"/></l><r>whatever<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e c="frases negatives"><p><l>ezer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ezer<s n="prn"/><s n="ind"/></l><r>nothing<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>hi<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
     <e c="preguntes i negatives"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="frases negatives"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>no<b/>one<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>no<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>inor<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="preguntes i negatives"><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
