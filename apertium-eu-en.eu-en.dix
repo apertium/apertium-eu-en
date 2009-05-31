@@ -8684,17 +8684,24 @@
 
     <e><p><l>bi<s n="num"/><s n="pl"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hiru<s n="num"/><s n="pl"/></l><r>three<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>hamabi<s n="num"/><s n="pl"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>hamabost<s n="num"/><s n="pl"/></l><r>fifteen<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>hamahiru<s n="num"/><s n="pl"/></l><r>thirteen<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>hamaika<s n="num"/><s n="pl"/></l><r>eleven<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>hamalau<s n="num"/><s n="pl"/></l><r>fourteen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>lau<s n="num"/><s n="pl"/></l><r>four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>bost<s n="num"/><s n="pl"/></l><r>five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sei<s n="num"/><s n="pl"/></l><r>six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>zazpi<s n="num"/><s n="pl"/></l><r>seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>zortzi<s n="num"/><s n="pl"/></l><r>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>bederatzi<s n="num"/><s n="pl"/></l><r>nine<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamar<s n="num"/><s n="pl"/></l><r>ten<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hamaika<s n="num"/><s n="pl"/></l><r>eleven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hamabi<s n="num"/><s n="pl"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hamahiru<s n="num"/><s n="pl"/></l><r>thirteen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hamalau<s n="num"/><s n="pl"/></l><r>fourteen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hamabost<s n="num"/><s n="pl"/></l><r>fifteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamasei<s n="num"/><s n="pl"/></l><r>sixteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamazazpi<s n="num"/><s n="pl"/></l><r>seventeen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hemezortzi<s n="num"/><s n="pl"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hamazortzi<s n="num"/><s n="pl"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hemeretzi<s n="num"/><s n="pl"/></l><r>nineteen<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>hemezortzi<s n="num"/><s n="pl"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogei<s n="num"/><s n="pl"/></l><r>twenty<s n="num"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>mila<s n="num"/><s n="pl"/></l><r>ten<b/>hundred<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>mila<s n="num"/><s n="pl"/></l><r>thousand<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>zero<s n="num"/><s n="pl"/></l><r>zero<s n="num"/><s n="sp"/></r></p></e>
