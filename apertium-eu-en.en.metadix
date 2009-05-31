@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- -*-nxml-*- -->
+﻿<?xml version="1.0" encoding="UTF-8"?><!-- -*-nxml-*- -->
 <dictionary>
   <alphabet>·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
   <!-- symbols -->
@@ -9019,12 +9019,48 @@
     <e lm="nineteenth"><i>nineteenth</i><par n="second__det"/>    </e>
     <e lm="twentieth"><i>twentieth</i><par n="second__det"/>    </e>
     <e lm="thirtieth"><i>thirtieth</i><par n="second__det"/>    </e>
+    <e lm="thirty first"><i>thirty<b/>first</i><par n="second__det"/>    </e>
+    <e lm="thirty second"><i>thirty<b/>second</i><par n="second__det"/>    </e>
+    <e lm="thirty third"><i>thirty<b/>third</i><par n="house__n"/>    </e>
+    <e lm="thirty fourth"><i>thirty<b/>fourth</i><par n="second__det"/>    </e>
+    <e lm="thirty fifth"><i>thirty<b/>fifth</i><par n="second__det"/>    </e>
+    <e lm="thirty sixth"><i>thirty<b/>sixth</i><par n="second__det"/>    </e>
+    <e lm="thirty seventh"><i>thirty<b/>seventh</i><par n="second__det"/>    </e>
+    <e lm="thirty eighth"><i>thirty<b/>eighth</i><par n="second__det"/>    </e>
+    <e lm="thirty ninth"><i>thirty<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="fortieth"><i>fortieth</i><par n="second__det"/>    </e>
     <e lm="fiftieth"><i>fiftieth</i><par n="second__det"/>    </e>
+    <e lm="fifty first"><i>fifty<b/>first</i><par n="second__det"/>    </e>
+    <e lm="fifty second"><i>fifty<b/>second</i><par n="second__det"/>    </e>
+    <e lm="fifty third"><i>fifty<b/>third</i><par n="house__n"/>    </e>
+    <e lm="fifty fourth"><i>fifty<b/>fourth</i><par n="second__det"/>    </e>
+    <e lm="fifty fifth"><i>fifty<b/>fifth</i><par n="second__det"/>    </e>
+    <e lm="fifty sixth"><i>fifty<b/>sixth</i><par n="second__det"/>    </e>
+    <e lm="fifty seventh"><i>fifty<b/>seventh</i><par n="second__det"/>    </e>
+    <e lm="fifty eighth"><i>fifty<b/>eighth</i><par n="second__det"/>    </e>
+    <e lm="fifty ninth"><i>fifty<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="sixtieth"><i>sixtieth</i><par n="second__det"/>    </e>
     <e lm="seventieth"><i>seventieth</i><par n="second__det"/>    </e>
+    <e lm="seventy first"><i>seventy<b/>first</i><par n="second__det"/>    </e>
+    <e lm="seventy second"><i>seventy<b/>second</i><par n="second__det"/>    </e>
+    <e lm="seventy third"><i>seventy<b/>third</i><par n="house__n"/>    </e>
+    <e lm="seventy fourth"><i>seventy<b/>fourth</i><par n="second__det"/>    </e>
+    <e lm="seventy fifth"><i>seventy<b/>fifth</i><par n="second__det"/>    </e>
+    <e lm="seventy sixth"><i>seventy<b/>sixth</i><par n="second__det"/>    </e>
+    <e lm="seventy seventh"><i>seventy<b/>seventh</i><par n="second__det"/>    </e>
+    <e lm="seventy eighth"><i>seventy<b/>eighth</i><par n="second__det"/>    </e>
+    <e lm="seventy ninth"><i>seventy<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="eightieth"><i>eightieth</i><par n="second__det"/>    </e>
     <e lm="ninetieth"><i>ninetieth</i><par n="second__det"/>    </e>
+    <e lm="ninety first"><i>ninety<b/>first</i><par n="second__det"/>    </e>
+    <e lm="ninety second"><i>ninety<b/>second</i><par n="second__det"/>    </e>
+    <e lm="ninety third"><i>ninety<b/>third</i><par n="house__n"/>    </e>
+    <e lm="ninety fourth"><i>ninety<b/>fourth</i><par n="second__det"/>    </e>
+    <e lm="ninety fifth"><i>ninety<b/>fifth</i><par n="second__det"/>    </e>
+    <e lm="ninety sixth"><i>ninety<b/>sixth</i><par n="second__det"/>    </e>
+    <e lm="ninety seventh"><i>ninety<b/>seventh</i><par n="second__det"/>    </e>
+    <e lm="ninety eighth"><i>ninety<b/>eighth</i><par n="second__det"/>    </e>
+    <e lm="ninety ninth"><i>ninety<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="hundredth"><i>hundredth</i><par n="second__det"/>    </e>
     <e lm="one hundredth"><i>one<b/>hundredth</i><par n="second__det"/>    </e>
     <e lm="two hundredth"><i>two<b/>hundredth</i><par n="second__det"/>    </e>

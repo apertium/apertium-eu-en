@@ -1301,15 +1301,61 @@
     <e><p><l>guztizko<s n="adj"/></l><r>absolute<s n="adj"/></r></p></e>
     <e><p><l>halabeharrezko<s n="adj"/></l><r>fatal<s n="adj"/></r></p></e>
 
-    <e><p><l>hamabigarren<s n="adj"/></l><r>twelfth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
-    <e><p><l>hamabosgarren<s n="adj"/></l><r>fifteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
-    <e><p><l>hamahirugarren<s n="adj"/></l><r>thirteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
-    <e><p><l>hamaikagarren<s n="adj"/></l><r>eleventh<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
-    <e><p><l>hamalaugarren<s n="adj"/></l><r>fourteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamargarren<s n="adj"/></l><r>tenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hamaikagarren<s n="adj"/></l><r>eleventh<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hamabigarren<s n="adj"/></l><r>twelfth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hamahirugarren<s n="adj"/></l><r>thirteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hamalaugarren<s n="adj"/></l><r>fourteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hamabosgarren<s n="adj"/></l><r>fifteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamaseigarren<s n="adj"/></l><r>sixteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamazazpigarren<s n="adj"/></l><r>seventeenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hamazortzigarren<s n="adj"/></l><r>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hemezortzigarren<s n="adj"/></l><r>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hemeretzigarren<s n="adj"/></l><r>nineteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamargarren<s n="adj"/></l><r>thirtieth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamaikagarren<s n="adj"/></l><r>thirty<b/>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamabigarren<s n="adj"/></l><r>thirty<b/>second<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamahirugarren<s n="adj"/></l><r>thirty<b/>third<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamalaugarren<s n="adj"/></l><r>thirty<b/>fourth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamabosgarren<s n="adj"/></l><r>thirty<b/>fifth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamaseigarren<s n="adj"/></l><r>thirty<b/>sixth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamazazpigarren<s n="adj"/></l><r>thirty<b/>seventh<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamazortzigarren<s n="adj"/></l><r>thirty<b/>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hemezortzigarren<s n="adj"/></l><r>thirty<b/>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hemeretzigarren<s n="adj"/></l><r>thirty<b/>nineth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamargarren<s n="adj"/></l><r>fiftieth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamaikagarren<s n="adj"/></l><r>fifty<b/>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamabigarren<s n="adj"/></l><r>fifty<b/>second<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamahirugarren<s n="adj"/></l><r>fifty<b/>third<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamalaugarren<s n="adj"/></l><r>fifty<b/>fourth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamabosgarren<s n="adj"/></l><r>fifty<b/>fifth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamaseigarren<s n="adj"/></l><r>fifty<b/>sixth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamazazpigarren<s n="adj"/></l><r>fifty<b/>seventh<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamazortzigarren<s n="adj"/></l><r>fifty<b/>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hemezortzigarren<s n="adj"/></l><r>fifty<b/>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hemeretzigarren<s n="adj"/></l><r>fifty<b/>nineth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamargarren<s n="adj"/></l><r>seventieth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamaikagarren<s n="adj"/></l><r>seventy<b/>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamabigarren<s n="adj"/></l><r>seventy<b/>second<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamahirugarren<s n="adj"/></l><r>seventy<b/>third<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamalaugarren<s n="adj"/></l><r>seventy<b/>fourth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamabosgarren<s n="adj"/></l><r>seventy<b/>fifth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamaseigarren<s n="adj"/></l><r>seventy<b/>sixth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamazazpigarren<s n="adj"/></l><r>seventy<b/>seventh<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamazortzigarren<s n="adj"/></l><r>seventy<b/>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hemezortzigarren<s n="adj"/></l><r>seventy<b/>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hemeretzigarren<s n="adj"/></l><r>seventy<b/>nineth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamargarren<s n="adj"/></l><r>ninetieth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamaikagarren<s n="adj"/></l><r>ninety<b/>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamabigarren<s n="adj"/></l><r>ninety<b/>second<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamahirugarren<s n="adj"/></l><r>ninety<b/>third<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamalaugarren<s n="adj"/></l><r>ninety<b/>fourth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamabosgarren<s n="adj"/></l><r>ninety<b/>fifth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamaseigarren<s n="adj"/></l><r>ninety<b/>sixth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamazazpigarren<s n="adj"/></l><r>ninety<b/>seventh<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamazortzigarren<s n="adj"/></l><r>ninety<b/>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hemezortzigarren<s n="adj"/></l><r>ninety<b/>eighth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hemeretzigarren<s n="adj"/></l><r>ninety<b/>nineth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
 
     <e r="RL"><p><l>handi<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>handi<s n="adj"/></l><r>capable<s n="adj"/></r></p></e>
@@ -1333,8 +1379,6 @@
     <e><p><l>hauteskunde<s n="adj"/></l><r>electoral<s n="adj"/></r></p></e>
     <e><p><l>hegoaldeko<s n="adj"/></l><r>meridional<s n="adj"/></r></p></e>
     <e><p><l>heldu<s n="adj"/></l><r>mature<s n="adj"/></r></p></e>
-    <e><p><l>hemeretzigarren<s n="adj"/></l><r>nineteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
-    <e><p><l>hemezortzigarren<s n="adj"/></l><r>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>hereditario<s n="adj"/></l><r>hereditary<s n="adj"/></r></p></e>
     <e><p><l>heren<s n="adj"/></l><r>third<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>heroiko<s n="adj"/></l><r>heroic<s n="adj"/></r></p></e>
@@ -8702,6 +8746,51 @@
     <e><p><l>hamazortzi<s n="num"/><s n="pl"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hemeretzi<s n="num"/><s n="pl"/></l><r>nineteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>hogei<s n="num"/><s n="pl"/></l><r>twenty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamar<s n="num"/><s n="pl"/></l><r>thirty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamaika<s n="num"/><s n="pl"/></l><r>thirty<b/>one<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamabi<s n="num"/><s n="pl"/></l><r>thirty<b/>two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamahiru<s n="num"/><s n="pl"/></l><r>thirty<b/>three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamalau<s n="num"/><s n="pl"/></l><r>thirty<b/>four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamabost<s n="num"/><s n="pl"/></l><r>thirty<b/>five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamasei<s n="num"/><s n="pl"/></l><r>thirty<b/>six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamazazpi<s n="num"/><s n="pl"/></l><r>thirty<b/>seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hemezortzi<s n="num"/><s n="pl"/></l><r>thirty<b/>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hamazortzi<s n="num"/><s n="pl"/></l><r>thirty<b/>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hogeita<b/>hemeretzi<s n="num"/><s n="pl"/></l><r>thirty<b/>nine<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamar<s n="num"/><s n="pl"/></l><r>fifty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamaika<s n="num"/><s n="pl"/></l><r>fifty<b/>one<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamabi<s n="num"/><s n="pl"/></l><r>fifty<b/>two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamahiru<s n="num"/><s n="pl"/></l><r>fifty<b/>three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamalau<s n="num"/><s n="pl"/></l><r>fifty<b/>four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamabost<s n="num"/><s n="pl"/></l><r>fifty<b/>five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamasei<s n="num"/><s n="pl"/></l><r>fifty<b/>six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamazazpi<s n="num"/><s n="pl"/></l><r>fifty<b/>seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hemezortzi<s n="num"/><s n="pl"/></l><r>fifty<b/>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hamazortzi<s n="num"/><s n="pl"/></l><r>fifty<b/>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>berrogeita<b/>hemeretzi<s n="num"/><s n="pl"/></l><r>fifty<b/>nine<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamar<s n="num"/><s n="pl"/></l><r>seventy<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamaika<s n="num"/><s n="pl"/></l><r>seventy<b/>one<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamabi<s n="num"/><s n="pl"/></l><r>seventy<b/>two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamahiru<s n="num"/><s n="pl"/></l><r>seventy<b/>three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamalau<s n="num"/><s n="pl"/></l><r>seventy<b/>four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamabost<s n="num"/><s n="pl"/></l><r>seventy<b/>five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamasei<s n="num"/><s n="pl"/></l><r>seventy<b/>six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamazazpi<s n="num"/><s n="pl"/></l><r>seventy<b/>seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hemezortzi<s n="num"/><s n="pl"/></l><r>seventy<b/>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hamazortzi<s n="num"/><s n="pl"/></l><r>seventy<b/>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hirurogeita<b/>hemeretzi<s n="num"/><s n="pl"/></l><r>seventy<b/>nine<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamar<s n="num"/><s n="pl"/></l><r>ninety<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamaika<s n="num"/><s n="pl"/></l><r>ninety<b/>one<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamabi<s n="num"/><s n="pl"/></l><r>ninety<b/>two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamahiru<s n="num"/><s n="pl"/></l><r>ninety<b/>three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamalau<s n="num"/><s n="pl"/></l><r>ninety<b/>four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamabost<s n="num"/><s n="pl"/></l><r>ninety<b/>five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamasei<s n="num"/><s n="pl"/></l><r>ninety<b/>six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamazazpi<s n="num"/><s n="pl"/></l><r>ninety<b/>seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hemezortzi<s n="num"/><s n="pl"/></l><r>ninety<b/>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hamazortzi<s n="num"/><s n="pl"/></l><r>ninety<b/>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>larogeita<b/>hemeretzi<s n="num"/><s n="pl"/></l><r>ninety<b/>nine<s n="num"/><s n="sp"/></r></p></e>
+
     <e r="RL"><p><l>mila<s n="num"/><s n="pl"/></l><r>ten<b/>hundred<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>mila<s n="num"/><s n="pl"/></l><r>thousand<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>zero<s n="num"/><s n="pl"/></l><r>zero<s n="num"/><s n="sp"/></r></p></e>
