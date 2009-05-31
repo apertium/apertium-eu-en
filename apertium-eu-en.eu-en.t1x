@@ -626,6 +626,12 @@
       <list-item v="diru"/>
     </def-list>
 
+    <def-list n="million">
+      <list-item v="hundred"/>
+      <list-item v="thousand"/>
+      <list-item v="million"/>
+      <list-item v="hundred thousand"/>
+    </def-list>
 
   </section-def-lists>
   
@@ -6511,6 +6517,20 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <clip pos="2" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
         </let>
+        <choose>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="2" side="tl" part="lem"/>
+                <list n="million"/>
+              </in>
+            </test>
+            <let>
+              <clip pos="2" side="tl" part="nbr"/>
+              <lit-tag v="sg"/>
+            </let>
+          </when>
+        </choose>
         <out> 
           <chunk name="num_nom_n" case="caseFirstWord">
             <tags>
