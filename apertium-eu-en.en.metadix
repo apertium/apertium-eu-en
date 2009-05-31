@@ -18968,6 +18968,7 @@
     <e lm="progression"><i>progression</i><par n="house__n"/>    </e>
     <e lm="prohibition"><i>prohibition</i><par n="house__n"/>    </e>
     <e lm="project"><i>project</i><par n="house__n"/>    </e>
+    <e lm="legal project"><i>legal<b/>project</i><par n="house__n"/>    </e>
     <e lm="projectile"><i>projectile</i><par n="house__n"/>    </e>
     <e lm="projection"><i>projection</i><par n="house__n"/>    </e>
     <e lm="proliferation"><i>proliferation</i><par n="house__n"/>    </e>

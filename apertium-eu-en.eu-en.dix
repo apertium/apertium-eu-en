@@ -6846,9 +6846,9 @@
     <e><p><l>jaurlaritza<s n="n"/></l><r>government<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jaurtigai<s n="n"/></l><r>projectile<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jaurtiketa<s n="n"/></l><r>launch<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>jaurtiketa<s n="n"/></l><r>launching<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>jaurtiketa<s n="n"/></l><r>launching<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jazarpen<s n="n"/></l><r>chase<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>jazarpen<s n="n"/></l><r>persecution<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>jazarpen<s n="n"/></l><r>persecution<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jazarpen<s n="n"/></l><r>pursuit<s n="n"/><s n="ND"/></r></p></e>
     <e c="MG: Pensar en com diferenciar 'gent' de 'persones' en-ca"><p><l>jende<s n="n"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>jendetza<s n="n"/></l><r>crowd<s n="n"/><s n="ND"/></r></p></e>
@@ -8081,11 +8081,12 @@
     <e><p><l>profesional<s n="n"/></l><r>professional<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>profeta<s n="n"/></l><r>prophet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>profil<s n="n"/></l><r>profile<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>programa<s n="n"/></l><r>program<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>programa<s n="n"/></l><r>program<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>programa<s n="n"/></l><r>programme<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>programa<s n="n"/></l><r>schedule<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>programa<s n="n"/></l><r>schedule<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>proiektu<s n="n"/></l><r>project<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>proiektu<s n="n"/></l><r>blueprint<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>lege-proiektu<s n="n"/></l><r>legal<b/>project<s n="n"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>proiektu<s n="n"/></l><r>blueprint<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>proiekzio<s n="n"/></l><r>projection<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>proletalgo<s n="n"/></l><r>proletariat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>promes<s n="n"/></l><r>promise<s n="n"/><s n="ND"/></r></p></e>
