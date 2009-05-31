@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
 
@@ -428,6 +428,8 @@
     <def-attr n="det_pos">
       <attr-item tags="prn.pers"/> 
       <attr-item tags="prn.tn"/>
+      <attr-item tags="prn.subj"/>
+      <attr-item tags="prn.obj"/>
       <attr-item tags="det.dem"/>
       <attr-item tags="det.pos"/>
       <attr-item tags="adj.pos"/>
@@ -9052,7 +9054,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <var n="nbr_chunk"/>
-              <clip pos="3" side="tl" part="lemq"/>
+              <clip pos="3" side="tl" part="sp"/>
             </let>
           </when>
         </choose>
@@ -9105,6 +9107,20 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="SPgenitivo">
           <with-param pos="5"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <var n="nbr_chunk"/>
+                <lit-tag v=""/>
+              </equal>
+            </test>
+            <let>
+              <var n="nbr_chunk"/>
+              <clip pos="3" side="tl" part="sp"/>
+            </let>
+          </when>
+        </choose>
         <out> 
           <chunk name="pr_pos_n" case="caseFirstWord">
             <tags>
@@ -9160,6 +9176,20 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="4"/>
           <with-param pos="5"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <var n="nbr_chunk"/>
+                <lit-tag v=""/>
+              </equal>
+            </test>
+            <let>
+              <var n="nbr_chunk"/>
+              <clip pos="3" side="tl" part="sp"/>
+            </let>
+          </when>
+        </choose>
         <out> 
           <chunk name="pos_adj_n" case="caseFirstWord">
             <tags>
@@ -9217,6 +9247,20 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="SPgenitivo">
           <with-param pos="6"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <var n="nbr_chunk"/>
+                <lit-tag v=""/>
+              </equal>
+            </test>
+            <let>
+              <var n="nbr_chunk"/>
+              <clip pos="3" side="tl" part="sp"/>
+            </let>
+          </when>
+        </choose>
         <out> 
           <chunk name="pr_pos_adj_n" case="caseFirstWord">
             <tags>
