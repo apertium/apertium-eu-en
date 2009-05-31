@@ -9018,6 +9018,15 @@
     <e lm="eighteenth"><i>eighteenth</i><par n="second__det"/>    </e>
     <e lm="nineteenth"><i>nineteenth</i><par n="second__det"/>    </e>
     <e lm="twentieth"><i>twentieth</i><par n="second__det"/>    </e>
+    <e lm="twenty first"><i>twenty<b/>first</i><par n="second__det"/>    </e>
+    <e lm="twenty second"><i>twenty<b/>second</i><par n="second__det"/>    </e>
+    <e lm="twenty third"><i>twenty<b/>third</i><par n="house__n"/>    </e>
+    <e lm="twenty fourth"><i>twenty<b/>fourth</i><par n="second__det"/>    </e>
+    <e lm="twenty fifth"><i>twenty<b/>fifth</i><par n="second__det"/>    </e>
+    <e lm="twenty sixth"><i>twenty<b/>sixth</i><par n="second__det"/>    </e>
+    <e lm="twenty seventh"><i>twenty<b/>seventh</i><par n="second__det"/>    </e>
+    <e lm="twenty eighth"><i>twenty<b/>eighth</i><par n="second__det"/>    </e>
+    <e lm="twenty ninth"><i>twenty<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="thirtieth"><i>thirtieth</i><par n="second__det"/>    </e>
     <e lm="thirty first"><i>thirty<b/>first</i><par n="second__det"/>    </e>
     <e lm="thirty second"><i>thirty<b/>second</i><par n="second__det"/>    </e>
@@ -9029,6 +9038,15 @@
     <e lm="thirty eighth"><i>thirty<b/>eighth</i><par n="second__det"/>    </e>
     <e lm="thirty ninth"><i>thirty<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="fortieth"><i>fortieth</i><par n="second__det"/>    </e>
+    <e lm="forty first"><i>forty<b/>first</i><par n="second__det"/>    </e>
+    <e lm="forty second"><i>forty<b/>second</i><par n="second__det"/>    </e>
+    <e lm="forty third"><i>forty<b/>third</i><par n="house__n"/>    </e>
+    <e lm="forty fourth"><i>forty<b/>fourth</i><par n="second__det"/>    </e>
+    <e lm="forty fifth"><i>forty<b/>fifth</i><par n="second__det"/>    </e>
+    <e lm="forty sixth"><i>forty<b/>sixth</i><par n="second__det"/>    </e>
+    <e lm="forty seventh"><i>forty<b/>seventh</i><par n="second__det"/>    </e>
+    <e lm="forty eighth"><i>forty<b/>eighth</i><par n="second__det"/>    </e>
+    <e lm="forty ninth"><i>forty<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="fiftieth"><i>fiftieth</i><par n="second__det"/>    </e>
     <e lm="fifty first"><i>fifty<b/>first</i><par n="second__det"/>    </e>
     <e lm="fifty second"><i>fifty<b/>second</i><par n="second__det"/>    </e>
@@ -9040,6 +9058,15 @@
     <e lm="fifty eighth"><i>fifty<b/>eighth</i><par n="second__det"/>    </e>
     <e lm="fifty ninth"><i>fifty<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="sixtieth"><i>sixtieth</i><par n="second__det"/>    </e>
+    <e lm="sixty first"><i>sixty<b/>first</i><par n="second__det"/>    </e>
+    <e lm="sixty second"><i>sixty<b/>second</i><par n="second__det"/>    </e>
+    <e lm="sixty third"><i>sixty<b/>third</i><par n="house__n"/>    </e>
+    <e lm="sixty fourth"><i>sixty<b/>fourth</i><par n="second__det"/>    </e>
+    <e lm="sixty fifth"><i>sixty<b/>fifth</i><par n="second__det"/>    </e>
+    <e lm="sixty sixth"><i>sixty<b/>sixth</i><par n="second__det"/>    </e>
+    <e lm="sixty seventh"><i>sixty<b/>seventh</i><par n="second__det"/>    </e>
+    <e lm="sixty eighth"><i>sixty<b/>eighth</i><par n="second__det"/>    </e>
+    <e lm="sixty ninth"><i>sixty<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="seventieth"><i>seventieth</i><par n="second__det"/>    </e>
     <e lm="seventy first"><i>seventy<b/>first</i><par n="second__det"/>    </e>
     <e lm="seventy second"><i>seventy<b/>second</i><par n="second__det"/>    </e>
@@ -9051,6 +9078,15 @@
     <e lm="seventy eighth"><i>seventy<b/>eighth</i><par n="second__det"/>    </e>
     <e lm="seventy ninth"><i>seventy<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="eightieth"><i>eightieth</i><par n="second__det"/>    </e>
+    <e lm="eighty first"><i>eighty<b/>first</i><par n="second__det"/>    </e>
+    <e lm="eighty second"><i>eighty<b/>second</i><par n="second__det"/>    </e>
+    <e lm="eighty third"><i>eighty<b/>third</i><par n="house__n"/>    </e>
+    <e lm="eighty fourth"><i>eighty<b/>fourth</i><par n="second__det"/>    </e>
+    <e lm="eighty fifth"><i>eighty<b/>fifth</i><par n="second__det"/>    </e>
+    <e lm="eighty sixth"><i>eighty<b/>sixth</i><par n="second__det"/>    </e>
+    <e lm="eighty seventh"><i>eighty<b/>seventh</i><par n="second__det"/>    </e>
+    <e lm="eighty eighth"><i>eighty<b/>eighth</i><par n="second__det"/>    </e>
+    <e lm="eighty ninth"><i>eighty<b/>ninth</i><par n="second__det"/>    </e>
     <e lm="ninetieth"><i>ninetieth</i><par n="second__det"/>    </e>
     <e lm="ninety first"><i>ninety<b/>first</i><par n="second__det"/>    </e>
     <e lm="ninety second"><i>ninety<b/>second</i><par n="second__det"/>    </e>
