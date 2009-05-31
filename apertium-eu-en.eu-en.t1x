@@ -8397,7 +8397,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="5"/>
         </call-macro>
         <out> 
-          <chunk name="d_num_pr_d_n" case="caseFirstWord">
+          <chunk name="pr_num_pr_d_n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="tipusdet"/></tag>
@@ -8405,10 +8405,8 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <tag><var n="grado"/></tag>
             </tags>
             <lu>
-              <clip pos="5" side="tl" part="lem"/> 
-              <clip pos="5" side="tl" part="a_det"/> 
-              <lit-tag v="2"/> 
-              <clip pos="5" side="tl" part="nbr" link-to="3"/>
+              <lit v="at"/>
+              <lit-tag v="pr"/>
             </lu>
             <b/>
             <lu>
@@ -8416,11 +8414,16 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b pos="1"/>
             <lu> 
-              <clip pos="3" side="tl" part="whole"/> 
+              <lit v="in"/>
+              <lit-tag v="pr"/>
             </lu>
             <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/> 
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_det"/>
+              <lit-tag v="2"/>
+              <clip pos="2" side="tl" part="ND" link-to="3"/>
+              <clip pos="2" side="tl" part="sp"/>
             </lu>
             <b/>
             <lu> 
