@@ -9044,15 +9044,17 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <choose>
           <when>
-            <equal>
+            <test>
+              <equal>
+                <var n="nbr_chunk"/>
+                <lit-tag v=""/>
+              </equal>
+            </test>
+            <let>
               <var n="nbr_chunk"/>
-              <lit-tag v=""/>
-            </equal>
+              <clip pos="3" side="tl" part="lemq"/>
+            </let>
           </when>
-          <let>
-            <var n="nbr_chunk"/>
-            <clip pos="3" side="tl" part="lemq"/>
-          </let>
         </choose>
         <out> 
           <chunk name="pos_n" case="caseFirstWord">
