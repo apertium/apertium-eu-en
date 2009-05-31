@@ -24976,48 +24976,12 @@
     <e lm="nineteen"><i>nineteen</i><par n="two__num"/>    </e>
     <e lm="twenty"><i>twenty</i><par n="twenty__num"/>    </e>
     <e lm="thirty"><i>thirty</i><par n="twenty__num"/>    </e>
-    <e lm="thirty one"><i>thirty<b/>one</i><par n="one__num"/>    </e>
-    <e lm="thirty two"><i>thirty<b/>two</i><par n="two__num"/>    </e>
-    <e lm="thirty three"><i>thirty<b/>three</i><par n="two__num"/>    </e>
-    <e lm="thirty four"><i>thirty<b/>four</i><par n="two__num"/>    </e>
-    <e lm="thirty five"><i>thirty<b/>five</i><par n="two__num"/>    </e>
-    <e lm="thirty six"><i>thirty<b/>six</i><par n="two__num"/>    </e>
-    <e lm="thirty seven"><i>thirty<b/>seven</i><par n="two__num"/>    </e>
-    <e lm="thirty eight"><i>thirty<b/>eight</i><par n="two__num"/>    </e>
-    <e lm="thirty nine"><i>thirty<b/>nine</i><par n="two__num"/>    </e>
     <e lm="forty"><i>forty</i><par n="twenty__num"/>    </e>
     <e lm="fifty"><i>fifty</i><par n="twenty__num"/>    </e>
-    <e lm="fifty one"><i>fifty<b/>one</i><par n="one__num"/>    </e>
-    <e lm="fifty two"><i>fifty<b/>two</i><par n="two__num"/>    </e>
-    <e lm="fifty three"><i>fifty<b/>three</i><par n="two__num"/>    </e>
-    <e lm="fifty four"><i>fifty<b/>four</i><par n="two__num"/>    </e>
-    <e lm="fifty five"><i>fifty<b/>five</i><par n="two__num"/>    </e>
-    <e lm="fifty six"><i>fifty<b/>six</i><par n="two__num"/>    </e>
-    <e lm="fifty seven"><i>fifty<b/>seven</i><par n="two__num"/>    </e>
-    <e lm="fifty eight"><i>fifty<b/>eight</i><par n="two__num"/>    </e>
-    <e lm="fifty nine"><i>fifty<b/>nine</i><par n="two__num"/>    </e>
     <e lm="sixty"><i>sixty</i><par n="twenty__num"/>    </e>
     <e lm="seventy"><i>seventy</i><par n="twenty__num"/>    </e>
-    <e lm="seventy one"><i>seventy<b/>one</i><par n="one__num"/>    </e>
-    <e lm="seventy two"><i>seventy<b/>two</i><par n="two__num"/>    </e>
-    <e lm="seventy three"><i>seventy<b/>three</i><par n="two__num"/>    </e>
-    <e lm="seventy four"><i>seventy<b/>four</i><par n="two__num"/>    </e>
-    <e lm="seventy five"><i>seventy<b/>five</i><par n="two__num"/>    </e>
-    <e lm="seventy six"><i>seventy<b/>six</i><par n="two__num"/>    </e>
-    <e lm="seventy seven"><i>seventy<b/>seven</i><par n="two__num"/>    </e>
-    <e lm="seventy eight"><i>seventy<b/>eight</i><par n="two__num"/>    </e>
-    <e lm="seventy nine"><i>seventy<b/>nine</i><par n="two__num"/>    </e>
     <e lm="eighty"><i>eighty</i><par n="twenty__num"/>    </e>
     <e lm="ninety"><i>ninety</i><par n="twenty__num"/>    </e>
-    <e lm="ninety one"><i>ninety<b/>one</i><par n="one__num"/>    </e>
-    <e lm="ninety two"><i>ninety<b/>two</i><par n="two__num"/>    </e>
-    <e lm="ninety three"><i>ninety<b/>three</i><par n="two__num"/>    </e>
-    <e lm="ninety four"><i>ninety<b/>four</i><par n="two__num"/>    </e>
-    <e lm="ninety five"><i>ninety<b/>five</i><par n="two__num"/>    </e>
-    <e lm="ninety six"><i>ninety<b/>six</i><par n="two__num"/>    </e>
-    <e lm="ninety seven"><i>ninety<b/>seven</i><par n="two__num"/>    </e>
-    <e lm="ninety eight"><i>ninety<b/>eight</i><par n="two__num"/>    </e>
-    <e lm="ninety nine"><i>ninety<b/>nine</i><par n="two__num"/>    </e>
     
 <!-- pronouns -->
     <e lm="pronoms personals de subjecte">      <i/>      <par n="prsubj__prn"/>    </e>
