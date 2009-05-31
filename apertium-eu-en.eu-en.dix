@@ -405,8 +405,9 @@
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
-    <e c="frases negatives. EN-CA: per trànsfer"><p><l>bat<b/>ere<s n="det"/><s n="ind"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
-    <e c="frases afirmatives"><p><l>batzuk<s n="det"/><s n="ind"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>bat<b/>ere<s n="det"/><s n="ind"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>batzuk<s n="det"/><s n="ind"/></l><r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+    <e><p><l>bat<s n="num"/><s n="sg"/></l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
     <e><p><l>dezente<s n="det"/><s n="ind"/><s n="sp"/></l><r>enough<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>dezente<s n="det"/><s n="ind"/><s n="sp"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>dezente<s n="det"/><s n="ind"/><s n="sp"/></l><r>quite<b/>a<b/>lot<b/>of<s n="det"/></r></p></e>
