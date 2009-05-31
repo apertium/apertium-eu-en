@@ -6429,26 +6429,63 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <clip pos="2" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
         </let>
-        <out> 
-          <chunk name="num_n" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN.num"/></tag>
-              <tag><clip pos="2" side="tl" part="nbr"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_num"/> 
-              <clip pos="1" side="tl" part="nbr"/>
-            </lu>
-            <b pos="1"/>
-            <lu> 
-              <clip pos="2" side="tl" part="lemh"/> 
-              <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="nbr"/>
-              <clip pos="2" side="tl" part="lemq"/> 
-            </lu>
-          </chunk>
-        </out>
+        <choose>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="1" side="tl" part="lem"/>
+                <list n="million"/>
+              </in>
+            </test>
+            <out> 
+              <chunk name="a_num_n" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SN.num"/></tag>
+                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                </tags>
+                <lu>
+                  <lit v="a"/>
+                  <lit-tag v="det.ind.sg"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/> 
+                  <clip pos="1" side="tl" part="a_num"/> 
+                  <clip pos="1" side="tl" part="nbr"/>
+                </lu>
+                <b pos="2"/>
+                <lu> 
+                  <clip pos="2" side="tl" part="lemh"/> 
+                  <clip pos="2" side="tl" part="a_nom"/>
+                  <clip pos="2" side="tl" part="nbr"/>
+                  <clip pos="2" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+              <chunk name="num_n" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SN.num"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/> 
+                  <clip pos="1" side="tl" part="a_num"/> 
+                  <clip pos="1" side="tl" part="nbr"/>
+                </lu>
+                <b pos="1"/>
+                <lu> 
+                  <clip pos="2" side="tl" part="lemh"/> 
+                  <clip pos="2" side="tl" part="a_nom"/>
+                  <clip pos="2" side="tl" part="nbr"/>
+                  <clip pos="2" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
       </action>
     </rule>
 
