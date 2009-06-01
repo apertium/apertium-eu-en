@@ -11015,7 +11015,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="2" side="tl" part="lem"/>
-          <lit v="haber"/>
+          <lit v="have"/>
         </let>
         <let>
           <clip pos="2" side="tl" part="a_verb"/>
@@ -11114,7 +11114,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="3" side="tl" part="lem"/>
-          <lit v="haber"/>
+          <lit v="have"/>
         </let>
         <let>
           <clip pos="3" side="tl" part="a_verb"/>
@@ -12987,7 +12987,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </call-macro>
         <let>
           <clip pos="3" side="tl" part="lem"/>
-          <lit v="haber"/>
+          <lit v="have"/>
         </let>
         <let>
           <clip pos="3" side="tl" part="a_verb"/>
@@ -13564,7 +13564,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </choose>
         <let>
           <clip pos="3" side="tl" part="lem"/>
-          <lit v="haber"/>
+          <lit v="have"/>
         </let>
         <let>
           <clip pos="3" side="tl" part="a_verb"/>
@@ -13706,7 +13706,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </choose>
         <let>
           <clip pos="4" side="tl" part="lem"/>
-          <lit v="haber"/>
+          <lit v="have"/>
         </let>
         <let>
           <clip pos="4" side="tl" part="a_verb"/>
