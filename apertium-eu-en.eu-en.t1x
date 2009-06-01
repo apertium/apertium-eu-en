@@ -11054,7 +11054,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_verb"/>
                   <clip pos="1" side="tl" part="temps"/>
-                  <lit-tag v="m.sg"/>
                   <clip pos="1" side="tl" part="lemq"/>
                 </lu>
               </chunk>
@@ -11153,7 +11152,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_verb"/>
                   <clip pos="1" side="tl" part="temps"/>
-                  <lit-tag v="m.sg"/>
                   <clip pos="1" side="tl" part="lemq"/>
                 </lu>
               </chunk>
