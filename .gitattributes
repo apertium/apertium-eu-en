@@ -17,6 +17,7 @@
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
+corpus/metamorphosis.tmx -text
 dev/cross-model-eu-es-en.xml -text
 dev/cross.xml -text
 /eu-en.prob -text svneol=unset#unset
