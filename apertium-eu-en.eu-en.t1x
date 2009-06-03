@@ -607,6 +607,9 @@
     <def-var n="verbo"/>
     <def-var n="adverbio"/>
     <def-var n="lema"/>
+    <def-var n="lemachunk"/>
+    <def-var n="adv_adjectiu"/>
+    <def-var n="adv_adjname"/>
     <def-var n="ezta"/>
     <def-var n="erg"/>
     <def-var n="blanco"/>
@@ -707,6 +710,140 @@
     </def-macro>
 
 
+    <def-macro n="adv_adj" npar="2">
+	<choose>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="ago"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.sint"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="lem"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <lit-tag v="comp"/>
+		</concat>
+	    </let>
+	    <let>
+	      <var n="adv_adjname"/>
+	      <lit v="adj_"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="en"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.sint"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="lem"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <lit-tag v="sup"/>
+		</concat>
+	    </let>
+	    <let>
+	      <var n="adv_adjname"/>
+	      <lit v="adj_"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/>
+		  <lit v="egi"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="sl" part="a_adj"/>
+		  <lit-tag v="vblex.pp"/>
+		</equal>
+		</not>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <get-case-from pos="1">
+		    <lit v="overly"/>
+		  </get-case-from>
+		  <lit-tag v="preadv"/> 
+		  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lem"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		</concat>
+	    </let>
+	    <let>
+	      <var n="adv_adjname"/>
+	      <lit v="adj_"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/>
+		  <lit v="egi"/>
+		</equal>
+		<not>
+		  <equal>
+		    <clip pos="2" side="sl" part="a_adj"/>
+		    <lit-tag v="vblex.pp"/>
+		  </equal>
+		</not>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <get-case-from pos="1">
+		    <lit v="too"/>
+		  </get-case-from>
+		  <lit-tag v="preadv"/> 
+		  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lem"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		</concat>
+	    </let>
+	    <let>
+	      <var n="adv_adjname"/>
+	      <lit v="adj_"/>
+	    </let>
+	  </when>
+	  <otherwise>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="1" side="tl" part="whole"/> 
+		  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lem"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		</concat>
+	    </let>
+	    <let>
+	      <var n="adv_adjname"/>
+	      <lit v="adj_"/>
+	    </let>
+	  </otherwise>
+	</choose>
+    </def-macro>
 
 
 
@@ -9825,46 +9962,20 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="tipo_det">
           <with-param pos="4"/>
         </call-macro>
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="3" side="sl" part="lem"/>
-                <lit v="en"/>
-              </equal>
-            </test><!--en este caso se envía determinante 'def' i no 'art' ('la casa más roja') -->
-            <let>
-              <var n="tipusdet"/>
-              <lit-tag v="def"/>
-            </let>
-          </when>
-          <when>
-            <test>
-              <and>
-                <not>
-                  <equal>
-                    <clip pos="3" side="sl" part="lem"/>
-                    <lit v="en"/>
-                  </equal>
-                </not>
-                <equal>
-                  <clip pos="4" side="sl" part="lem"/>
-                  <lit v="a"/>
-                </equal>
-              </and>
-            </test>
-            <let>
-              <clip pos="4" side="tl" part="lem"/> 
-              <lit v="to"/>
-            </let>
-            <let>
-              <var n="tipusdet"/>
-              <lit-tag v="ind"/>
-            </let>
-          </when>
-        </choose>
+        <call-macro n="adv_adj">
+          <with-param pos="3"/>
+          <with-param pos="2"/>
+        </call-macro>
+	<let>
+	  <var n="lemachunk"/>
+	  <concat>
+	    <lit v="d_"/>
+	    <var n="adv_adjname"/>
+	    <lit v="nom"/>
+	  </concat>
+	</let>
         <out> 
-          <chunk name="d_adv_adj_nom" case="caseFirstWord">
+          <chunk namefrom="lemachunk" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="tipusdet"/></tag>
@@ -9878,16 +9989,8 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
-            <lu>
-              <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_adv"/>
-            </lu>
+	    <var n="adv_adjectiu"/>
             <b/>
-            <lu> 
-              <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_adj"/>
-            </lu>
-            <b pos="3"/>
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
@@ -9897,6 +10000,14 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
           </chunk>
         </out>
+	<let>
+	  <var n="adv_adjectiu"/>
+	  <lit v=""/>
+	</let>
+	<let>
+	  <var n="adv_adjname"/>
+	  <lit v=""/>
+	</let>
       </action>
     </rule>
 
