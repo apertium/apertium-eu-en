@@ -4509,15 +4509,15 @@
 
 
 
-    <e><p><l>ago<s n="gra"/><s n="comp"/></l><r>any<b/>more<s n="adv"/></r></p></e>
-    <e><p><l>ago<s n="gra"/><s n="comp"/></l><r>best<s n="adv"/></r></p></e>
-    <e><p><l>ago<s n="gra"/><s n="comp"/></l><r>else<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ago<s n="gra"/><s n="comp"/></l><r>any<b/>more<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ago<s n="gra"/><s n="comp"/></l><r>best<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ago<s n="gra"/><s n="comp"/></l><r>else<s n="adv"/></r></p></e>
     <e><p><l>ago<s n="gra"/><s n="comp"/></l><r>more<s n="adv"/></r></p></e>
-    <e c="per al superlatiu: the most interesting - el més interessant, i tb adv normal - what I like most"><p><l>ago<s n="gra"/><s n="comp"/></l><r>most<s n="adv"/></r></p></e>
-    <e c="MG: Crec que 'too much' i 'too many' s'haurien de posar en un sol paradigma per tal de posar ND en la direcció cat-en"><p><l>egi<s n="gra"/><s n="exc"/></l><r>too<b/>much<s n="adv"/></r></p></e>
-    <e><p><l>en<s n="gra"/><s n="sup"/></l><r>more<s n="adv"/></r></p></e>
-    <e><p><l>samar<s n="gra"/><s n="bast"/></l><r>enough<s n="adv"/></r></p></e>
-    <e c="no preadverbi"><p><l>samar<s n="gra"/><s n="bast"/></l><r>quite<b/>a<b/>lot<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>egi<s n="gra"/><s n="exc"/></l><r>too<b/>much<s n="adv"/></r></p></e>
+    <e><p><l>egi<s n="gra"/><s n="exc"/></l><r>too<s n="preadv"/></r></p></e>
+    <e><p><l>en<s n="gra"/><s n="sup"/></l><r>most<s n="preadv"/></r></p></e>
+    <e r="RL"><p><l>samar<s n="gra"/><s n="bast"/></l><r>enough<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>samar<s n="gra"/><s n="bast"/></l><r>quite<b/>a<b/>lot<s n="adv"/></r></p></e>
     <e><p><l>samar<s n="gra"/><s n="bast"/></l><r>rather<s n="adv"/></r></p></e>
 
     <!-- Nouns -->
