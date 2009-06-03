@@ -9988,7 +9988,9 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="4" side="tl" part="sp"/>
             </lu>
             <b pos="1"/>
-	    <var n="adv_adjectiu"/>
+            <lu>
+	      <var n="adv_adjectiu"/>
+            </lu>
             <b/>
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
