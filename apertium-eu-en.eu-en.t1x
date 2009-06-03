@@ -775,7 +775,6 @@
 		  <clip pos="2" side="sl" part="a_adj"/>
 		  <lit-tag v="vblex.pp"/>
 		</equal>
-		</not>
 	      </and>
 	    </test>
 	    <let>
