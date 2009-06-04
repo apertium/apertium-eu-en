@@ -33,22 +33,18 @@ echo " fet."
 echo "==========================" >> errors-$1-$2.superficial
 echo "ALTRES ERRADES DE BILINGÜE" >> errors-$1-$2.superficial
 echo "==========================" >> errors-$1-$2.superficial
-echo -n "Convertint diccionari bilingüe... "
-xsltproc translate-to-default-equivalent.xsl $PREFIX.$LANG1-$LANG2.dix > $$.dix
-echo " fet."
 echo -n "Expandint diccionari bilingüe... "
 if [ $1-$2 = $LANG1-$LANG2 ]
-then lt-expand $$.dix | awk 'BEGIN{FS=":"}{if($2!="<") printf("^.<sent>$ ^%s$\n",$1)}' | grep -v "REGEXP" > $$.expand
-else lt-expand $$.dix | awk 'BEGIN{FS=":"}{if($2!="<") printf("^.<sent>$ ^%s$\n",$NF)}' | grep -v "REGEXP" > $$.expand
+then lt-expand $PREFIX.$LANG1-$LANG2.dix | awk 'BEGIN{FS=":"}{if($2!="<") printf("^.<sent>$ ^%s$\n",$1)}' | grep -v "REGEXP" > $$.expand
+else lt-expand $PREFIX.$LANG1-$LANG2.dix | awk 'BEGIN{FS=":"}{if($2!="<") printf("^.<sent>$ ^%s$\n",$NF)}' | grep -v "REGEXP" > $$.expand
 fi
 echo " fet."
 echo -n "Compilant diccionari convertit... "
 if [ $1-$2 = $LANG1-$LANG2 ]
-then lt-comp lr $$.dix $$.bin >/dev/null
-else lt-comp rl $$.dix $$.bin >/dev/null
+then lt-comp lr $PREFIX.$LANG1-$LANG2.dix $$.bin >/dev/null
+else lt-comp rl $PREFIX.$LANG1-$LANG2.dix $$.bin >/dev/null
 fi
 echo " fet."
-rm $$.dix
 echo -n "Detectant errades i guardant-les en errors-$1-$2.superficial..."
 awk 'BEGIN{FS=":";}{if($2 == ">") print "^" $1 "$"; else if($2=="<"); else print "^" $1 "$";}' <$$.expand|lt-proc -d $$.bin |grep "/" >>errors-$1-$2.superficial
 echo " fet."a
