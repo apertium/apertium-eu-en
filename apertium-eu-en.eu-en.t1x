@@ -10045,7 +10045,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
 	  </concat>
 	</let>
         <out> 
-          <chunk namefrom="adv_adjname" case="caseFirstWord">
+          <chunk namefrom="lemachunk" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="5" side="tl" part="tipus_det"/></tag>
@@ -10825,6 +10825,17 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="tipo_det">
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="adv_adj">
+          <with-param pos="2"/>
+          <with-param pos="1"/>
+        </call-macro>
+	<let>
+	  <var n="lemachunk"/>
+	  <concat>
+	    <lit v="d_"/>
+	    <var n="adv_adjname"/>
+	  </concat>
+	</let>
         <choose>
           <when>
             <test>
@@ -10840,7 +10851,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           </when>
         </choose>
         <out> 
-          <chunk name="d_adv_adj" case="caseFirstWord">
+          <chunk namefrom="lemachunk" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SA"/></tag>
               <tag><var n="tipusdet"/></tag>
@@ -10855,17 +10866,18 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_adv"/>
+	      <var n="adv_adjectiu"/>
             </lu>
-            <b pos="2"/>
-            <lu> 
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_adj"/>
-            </lu>
-            <b/>
           </chunk>
         </out>
+	<let>
+	  <var n="adv_adjectiu"/>
+	  <lit v=""/>
+	</let>
+	<let>
+	  <var n="adv_adjname"/>
+	  <lit v=""/>
+	</let>
       </action>
     </rule>
 
