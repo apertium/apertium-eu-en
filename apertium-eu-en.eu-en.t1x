@@ -2452,7 +2452,7 @@
           </test>
           <let>
             <var n="tipusdet"/>
-            <lit-tag v="art"/>
+            <lit-tag v="def"/>
           </let>
         </when>
         <when>
@@ -9980,6 +9980,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="4" side="tl" part="lem"/> 
               <clip pos="4" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
               <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
@@ -10032,6 +10033,9 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="4"/>
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="tipo_det">
+          <with-param pos="4"/>
+        </call-macro>
 	<let>
 	  <var n="lemachunk"/>
 	  <concat>
@@ -10044,7 +10048,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <chunk namefrom="lemachunk" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><clip pos="5" side="tl" part="tipus_det"/></tag>
+              <tag><var n="tipusdet"/></tag>
               <tag><var n="nbr_chunk"/></tag>
             </tags>
             <lu>
