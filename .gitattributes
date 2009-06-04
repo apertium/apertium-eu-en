@@ -24,3 +24,4 @@ dev/cross.xml -text
 /modes.xml -text
 /pending-tests.sh -text
 /principal.xsl -text
+/testvoc-eu-en -text
