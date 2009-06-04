@@ -1,6 +1,6 @@
-PREFIX=apertium-en-es
-LANG1=en
-LANG2=es
+PREFIX=apertium-eu-en
+LANG1=eu
+LANG2=en
 FILTERTAG="<prn><enc>"
 
 # FASE 1
