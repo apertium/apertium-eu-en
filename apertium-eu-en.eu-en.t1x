@@ -2123,11 +2123,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="suyo"/>
-          </let>
-          <let>
-            <clip pos="1" side="tl" part="gen"/> 
-            <lit-tag v="mf"/>
+            <lit v="his"/>
           </let>
         </when>
         <when>

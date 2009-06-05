@@ -1462,7 +1462,8 @@
     <e r="RL"><p><l>hurbil<s n="adj"/></l><r>forthcoming<s n="adj"/></r></p></e>
     <e r="RL"><p><l>hurbil<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
     <e><p><l>hurko<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
-    <e><p><l>hurrengo<s n="adj"/></l><r>successive<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>hurrengo<s n="adj"/></l><r>successive<s n="adj"/></r></p></e>
+    <e><p><l>hurrengo<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
     <e><p><l>huts<s n="adj"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>huts<s n="adj"/></l><r>hollow<s n="adj"/></r></p></e>
     <e r="RL"><p><l>huts<s n="adj"/></l><r>futile<s n="adj"/></r></p></e>
