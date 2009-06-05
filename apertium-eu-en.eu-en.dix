@@ -3880,6 +3880,7 @@
     <e r="RL"><p><l>atzera<s n="adv"/><s n="gen"/></l><r>back<s n="adv"/></r></p></e>
     <e><p><l>atzera<s n="adv"/><s n="gen"/></l><r>backwards<s n="adv"/></r></p></e>
     <e r="RL"><p><l>atzera<s n="adv"/><s n="gen"/></l><r>backwards<s n="adv"/></r></p></e>
+    <e><p><l>ondoan<s n="adv"/><s n="gen"/></l><r>beside<s n="pr"/></r></p></e>
     <e><p><l>atzo<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>aurki<s n="adv"/></l><r>shortly<s n="adv"/></r></p></e>
     <e><p><l>aurrean<s n="adv"/><s n="gen"/></l><r>in<b/>front<s n="adv"/></r></p></e>
@@ -8711,6 +8712,7 @@
     <e><p><l>atxiki<s n="vbsint"/></l><r>keep<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atxiki<s n="vbsint"/></l><r>maintain<s n="vblex"/></r></p></e>
     <e><p><l>edin<s n="vbsint"/></l><r>be<s n="vbser"/></r></p></e>
+    <e><p><l>egon<s n="vbsint"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>eduki<s n="vbsint"/></l><r>have<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eduki<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eduki<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
