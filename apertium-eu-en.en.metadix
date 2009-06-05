@@ -22501,6 +22501,7 @@
     <e lm="might"><i>might</i><par n="will/__vbmod"/>    </e>
     <e lm="be"><par n="/be__vbser"/>    </e>
     <e lm="go out">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>out</l><r><g><b/>out</g></r></p></e>
+    <e lm="be beside">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>beside</l><r><g><b/>beside</g></r></p></e>
     <e lm="be born">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>born</l><r><g><b/>born</g></r></p></e>
     <e lm="go down">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="be worth">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>worth</l><r><g><b/>worth</g></r></p></e>
