@@ -6374,11 +6374,12 @@
     <e><p><l>hatz<s n="n"/></l><r>finger<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hatz<s n="n"/></l><r>toe<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hatz<s n="n"/></l><r>flip<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>haur<s n="n"/></l><r>boy<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>haur<s n="n"/></l><r>child<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>haur<s n="n"/></l><r>girl<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>haur<s n="n"/></l><r>infant<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>haur<s n="n"/></l><r>kid<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>haur<s n="n"/></l><r>boy<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>haur<s n="n"/></l><r>child<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>haur<s n="n"/></l><r>baby<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>haur<s n="n"/></l><r>girl<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>haur<s n="n"/></l><r>infant<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>haur<s n="n"/></l><r>kid<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>haurdunaldi<s n="n"/></l><r>pregnancy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>haurtzaro<s n="n"/></l><r>infancy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hausnarketa<s n="n"/></l><r>reflection<s n="n"/><s n="ND"/></r></p></e>
