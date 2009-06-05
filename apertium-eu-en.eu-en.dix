@@ -855,7 +855,8 @@
     <e r="RL"><p><l>azkar<s n="adj"/></l><r>clever<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>azkar<s n="adj"/></l><r>smart<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>azkar<s n="adj"/></l><r>fast<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>azken<s n="adj"/></l><r>last<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e i="yes"><p><l>azken<s n="adj"/></l><r>last<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
+    <e><p><l>azken<s n="adj"/></l><r>late<s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
     <e><p><l>azkenaurreko<s n="adj"/></l><r>penultimate<s n="adj"/></r></p></e>
     <e><p><l>azkeneko<s n="adj"/></l><r>last<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
     <e><p><l>azpiko<s n="adj"/></l><r>bottom<s n="adj"/></r></p></e>
