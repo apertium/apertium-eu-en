@@ -702,29 +702,61 @@
     <e><p><l>Aragoiko<s n="adj"/></l><r>aragonese<s n="adj"/></r></p></e>
     <e><p><l>Kubako<s n="adj"/></l><r>cuban<s n="adj"/></r></p></e>
     <e><p><l>Mallorcako<s n="adj"/></l><r>majorcan<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>abangoardista<s n="adj"/><s n="izo"/></l><r>avant-garde<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>abantailatsu<s n="adj"/><s n="izo"/></l><r>advantageous<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>abdominal<s n="adj"/><s n="izo"/></l><r>abdominal<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>abegitsu<s n="adj"/><s n="izo"/></l><r>hospitable<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>abenturazale<s n="adj"/><s n="izo"/></l><r>adventurous<s n="adj"/></r></p></e>
     <e><p><l>aberats<s n="adj"/></l><r>rich<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>aberriko<s n="adj"/></l><r>patriotic<s n="adj"/></r></p></e>
     <e><p><l>abertzale<s n="adj"/></l><r>nationalist<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>aborigen<s n="adj"/><s n="izo"/></l><r>aboriginal<s n="adj"/></r></p></e>
     <e><p><l>absolutu<s n="adj"/></l><r>absolute<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>absorbatzaile<s n="adj"/><s n="izo"/></l><r>absorbent<s n="adj"/></r></p></e>
     <e><p><l>abstraktu<s n="adj"/></l><r>abstract<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>abstemio<s n="adj"/><s n="izo"/></l><r>teetotal<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>abstraktu<s n="adj"/><s n="izo"/></l><r>abstract<s n="adj"/></r></p></e>
     <e><p><l>absurdo<s n="adj"/></l><r>absurd<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>adardun<s n="adj"/><s n="izo"/></l><r>horned<s n="adj"/></r></p></e>
     <e><p><l>adeitsu<s n="adj"/></l><r>kind<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>adi<s n="adj"/></l><r>attentive<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>adierazgarri<s n="adj"/></l><r>expressive<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>adierazgarri<s n="adj"/></l><r>representative<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>affable<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>considerate<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>courteous<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>deferential<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>effusive<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>gracious<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>suave<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>urbane<s n="adj"/></r></p></e>
+    <e><p><l>adi<s n="adj"/><s n="izo"/></l><r>attentive<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>adierazgarri<s n="adj"/><s n="izo"/></l><r>expressive<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>adierazgarri<s n="adj"/><s n="izo"/></l><r>representative<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adierazgarri<s n="adj"/><s n="izo"/></l><r>indicative<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adierazgarri<s n="adj"/><s n="izo"/></l><r>revealing<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>adierazgarri<s n="adj"/><s n="izo"/></l><r>telltale<s n="adj"/></r></p></e>
     <e><p><l>adierazgarri<s n="adj"/></l><r>significant<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>adierazkor<s n="adj"/><s n="izo"/></l><r>expressive<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>adigalkor<s n="adj"/><s n="izo"/></l><r>absent-minded<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>aditu<s n="adj"/><s n="izo"/></l><r>adept<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>aditu<s n="adj"/><s n="izo"/></l><r>expert<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>aditu<s n="adj"/><s n="izo"/></l><r>knowledgeable<s n="adj"/></r></p></e>
     <e><p><l>adimentsu<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>adingabe<s n="adj"/></l><r>lesser<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>adingabe<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e r="RL"><p><l>adingabe<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>adingabeko<s n="adj"/></l><r>lesser<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>adingabeko<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e r="RL"><p><l>adingabeko<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>adingabe<s n="adj"/><s n="izo"/></l><r>lesser<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>adingabe<s n="adj"/><s n="izo"/></l><r>low<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e r="RL"><p><l>adingabe<s n="adj"/><s n="izo"/></l><r>minor<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>adingabeko<s n="adj"/><s n="izo"/></l><r>lesser<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>adingabeko<s n="adj"/><s n="izo"/></l><r>low<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e r="RL"><p><l>adingabeko<s n="adj"/><s n="izo"/></l><r>minor<s n="adj"/></r></p></e>
     <e c="check"><p><l>aditu<s n="adj"/></l><r>expert<s n="adj"/></r></p></e>
     <e><p><l>administratibo<s n="adj"/></l><r>administrative<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>adoregabe<s n="adj"/><s n="izo"/></l><r>downhearted<s n="adj"/></r></p></e>
     <e><p><l>afrikar<s n="adj"/></l><r>african<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>ageri<s n="adj"/><s n="izo"/></l><r>palpable<s n="adj"/></r></p></e>
     <e><p><l>aginduzko<s n="adj"/></l><r>imperative<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>bossy<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>pushy<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>agnostiko<s n="adj"/><s n="izo"/></l><r>agnostic<s n="adj"/></r></p></e>
     <e><p><l>agurgarri<s n="adj"/></l><r>respectable<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>agurgarri<s n="adj"/><s n="izo"/></l><r>distinguished<s n="adj"/></r></p></e>
     <e><p><l>ahaltsu<s n="adj"/></l><r>powerful<s n="adj"/></r></p></e>
     <e><p><l>aho<b/>bateko<s n="adj"/></l><r>unanimous<s n="adj"/></r></p></e>
     <e><p><l>ahobatezko<s n="adj"/></l><r>unanimous<s n="adj"/></r></p></e>
