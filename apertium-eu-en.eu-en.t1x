@@ -5885,7 +5885,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b pos="5"/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="1" side="tl" part="nbr"/>
             </lu>
             <b pos="6"/>
             <lu> 
