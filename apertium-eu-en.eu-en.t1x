@@ -9316,16 +9316,22 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <choose>
           <when>
             <test>
-              <or>
+              <and>
                 <equal>
-                  <clip pos="3" side="tl" part="lem"/>
-                  <lit v="right"/>
+                  <clip pos="5" side="tl" part="lem"/>
+                  <lit v="an"/>
                 </equal>
-                <equal>
-                  <clip pos="3" side="tl" part="lem"/>
-                  <lit v="left"/>
-                </equal>
-              </or>
+                <or>
+                  <equal>
+                    <clip pos="3" side="tl" part="lem"/>
+                    <lit v="right"/>
+                  </equal>
+                  <equal>
+                    <clip pos="3" side="tl" part="lem"/>
+                    <lit v="left"/>
+                  </equal>
+                </or>
+              </and>
             </test>
             <let>
               <clip pos="5" side="tl" part="lem"/>
