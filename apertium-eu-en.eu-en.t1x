@@ -859,26 +859,6 @@
           <choose>
             <when>
               <test>
-                <not>
-                  <or>
-                    <equal> 
-                      <clip pos="2" side="tl" part="nbr"/> 
-                      <lit-tag v="ND"/>
-                    </equal>
-                    <equal> 
-                      <clip pos="2" side="tl" part="nbr"/> 
-                      <lit-tag v="sp"/>
-                    </equal>
-                  </or>
-                </not>
-              </test>
-              <let>
-                <clip pos="1" side="tl" part="nbr"/> 
-                <clip pos="2" side="tl" part="nbr"/> 
-              </let>
-            </when>
-            <when>
-              <test>
                 <and>
                   <or>
                     <equal>
@@ -5494,7 +5474,11 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b pos="4"/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="1" side="tl" part="ND" link-to="3"/>
+              <clip pos="1" side="tl" part="sp"/>
             </lu>
             <b/>
             <lu> 
