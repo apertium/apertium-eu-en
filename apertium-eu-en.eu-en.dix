@@ -713,9 +713,8 @@
     <e a="matxin"><p><l>aborigen<s n="adj"/><s n="izo"/></l><r>aboriginal<s n="adj"/></r></p></e>
     <e><p><l>absolutu<s n="adj"/></l><r>absolute<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>absorbatzaile<s n="adj"/><s n="izo"/></l><r>absorbent<s n="adj"/></r></p></e>
-    <e><p><l>abstraktu<s n="adj"/></l><r>abstract<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>abstemio<s n="adj"/><s n="izo"/></l><r>teetotal<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>abstraktu<s n="adj"/><s n="izo"/></l><r>abstract<s n="adj"/></r></p></e>
+    <e><p><l>abstraktu<s n="adj"/></l><r>abstract<s n="adj"/></r></p></e>
     <e><p><l>absurdo<s n="adj"/></l><r>absurd<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>adardun<s n="adj"/><s n="izo"/></l><r>horned<s n="adj"/></r></p></e>
     <e><p><l>adeitsu<s n="adj"/></l><r>kind<s n="adj"/><s n="sint"/></r></p></e>
@@ -753,7 +752,7 @@
     <e a="matxin"><p><l>ageri<s n="adj"/><s n="izo"/></l><r>palpable<s n="adj"/></r></p></e>
     <e><p><l>aginduzko<s n="adj"/></l><r>imperative<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>bossy<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>pushy<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>pushy<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>agnostiko<s n="adj"/><s n="izo"/></l><r>agnostic<s n="adj"/></r></p></e>
     <e><p><l>agurgarri<s n="adj"/></l><r>respectable<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>agurgarri<s n="adj"/><s n="izo"/></l><r>distinguished<s n="adj"/></r></p></e>
