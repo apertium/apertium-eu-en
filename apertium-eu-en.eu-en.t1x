@@ -9313,6 +9313,26 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="SPgenitivo">
           <with-param pos="5"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <or>
+                <equal>
+                  <clip pos="3" side="tl" part="lem"/>
+                  <lit v="right"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="tl" part="lem"/>
+                  <lit v="left"/>
+                </equal>
+              </or>
+            </test>
+            <let>
+              <clip pos="5" side="tl" part="lem"/>
+              <lit v="on"/>
+            </let>
+          </when>
+        </choose>
         <out> 
           <chunk name="pr_pos_n" case="caseFirstWord">
             <tags>
