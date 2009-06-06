@@ -22255,7 +22255,7 @@
     <e lm="skeptical"><i>skeptical</i><par n="expensive__adj"/>    </e>
     <e lm="skillful"><i>skillful</i><par n="expensive__adj"/>    </e>
     <e lm="slanted"><i>slanted</i><par n="expensive__adj"/>    </e>
-    <e lm="slight"><i>slight</i><par n="long__adj"/>    </e>
+    <e lm="slight"><i>slight</i><par n="long/__adj"/>    </e>
     <e lm="slim"><i>slim</i><par n="dim/__adj"/>    </e>
     <e lm="slippery"><i>slippery</i><par n="expensive__adj"/>    </e>
     <e lm="slow"><i>slow</i><par n="long/__adj"/>    </e>
