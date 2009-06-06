@@ -751,7 +751,7 @@
     <e><p><l>afrikar<s n="adj"/></l><r>african<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>ageri<s n="adj"/><s n="izo"/></l><r>palpable<s n="adj"/></r></p></e>
     <e><p><l>aginduzko<s n="adj"/></l><r>imperative<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>bossy<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>bossy<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>pushy<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>agnostiko<s n="adj"/><s n="izo"/></l><r>agnostic<s n="adj"/></r></p></e>
     <e><p><l>agurgarri<s n="adj"/></l><r>respectable<s n="adj"/></r></p></e>
@@ -794,7 +794,7 @@
     <e a="matxin"><p><l>aldagarri<s n="adj"/><s n="izo"/></l><r>variable<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>aldakor<s n="adj"/><s n="izo"/></l><r>changeable<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>aldakor<s n="adj"/><s n="izo"/></l><r>fickle<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>aldakor<s n="adj"/><s n="izo"/></l><r>moody<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>aldakor<s n="adj"/><s n="izo"/></l><r>moody<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>aldapatsu<s n="adj"/><s n="izo"/></l><r>steep<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>aldatu_gabe<s n="adj"/><s n="izo"/></l><r>unaffected<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>aldatu_gabe<s n="adj"/><s n="izo"/></l><r>unchanged<s n="adj"/></r></p></e>
@@ -895,9 +895,9 @@
     <e a="matxin" r="RL"><p><l>arduratu<s n="adj"/><s n="izo"/></l><r>troubled<s n="adj"/></r></p></e>
     <e><p><l>argal<s n="adj"/></l><r>thin<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>argal<s n="adj"/></l><r>lean<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>argal<s n="adj"/><s n="izo"/></l><r>bony<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>argal<s n="adj"/><s n="izo"/></l><r>scrawny<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>argal<s n="adj"/><s n="izo"/></l><r>skinny<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>argal<s n="adj"/><s n="izo"/></l><r>bony<s n="adj"/><s n="sint"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>argal<s n="adj"/><s n="izo"/></l><r>scrawny<s n="adj"/><s n="sint"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>argal<s n="adj"/><s n="izo"/></l><r>skinny<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin" r="RL"><p><l>argal<s n="adj"/><s n="izo"/></l><r>slim<s n="adj"/></r></p></e>
     <e><p><l>argentinar<s n="adj"/></l><r>argentinian<s n="adj"/></r></p></e>
     <e><p><l>argi<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
@@ -915,7 +915,7 @@
     <e a="matxin" r="RL"><p><l>argi<s n="adj"/><s n="izo"/></l><r>quick-witted<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>argi<s n="adj"/><s n="izo"/></l><r>resourceful<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>argi<s n="adj"/><s n="izo"/></l><r>talented<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>argi<s n="adj"/><s n="izo"/></l><r>witty<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>argi<s n="adj"/><s n="izo"/></l><r>witty<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>argidun<s n="adj"/></l><r>luminous<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>argigarri<s n="adj"/><s n="izo"/></l><r>explanatory<s n="adj"/></r></p></e>
     <e c="check"><p><l>argitaratze<s n="adj"/></l><r>publishing<s n="adj"/></r></p></e>
@@ -923,12 +923,12 @@
     <e r="RL"><p><l>arin<s n="adj"/></l><r>slight<s n="adj"/></r></p></e>
     <e><p><l>arin<s n="adj"/></l><r>light<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>arin<s n="adj"/></l><r>lightweight<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>flimsy<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>flimsy<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>fluent<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>fluid<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>slight<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>slight<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>speedy<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>subtle<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>arin<s n="adj"/><s n="izo"/></l><r>subtle<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>aritmetiko<s n="adj"/><s n="izo"/></l><r>arithmetic<s n="adj"/></r></p></e>
     <e r="RL"><p><l>aritmetiko<s n="adj"/></l><r>arithmetical<s n="adj"/></r></p></e>
     <e><p><l>arkaiko<s n="adj"/></l><r>archaic<s n="adj"/></r></p></e>
