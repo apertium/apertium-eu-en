@@ -772,7 +772,7 @@
     <e a="matxin"><p><l>ahalketi<s n="adj"/><s n="izo"/></l><r>bashful<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>aipagarri<s n="adj"/><s n="izo"/></l><r>noteworthy<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>airez<b/>garraiatu<s n="adj"/><s n="izo"/></l><r>airborne<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>aireztatu_gabe<s n="adj"/><s n="izo"/></l><r>stuffy<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>aireztatu<b/>gabe<s n="adj"/><s n="izo"/></l><r>stuffy<s n="adj"/></r></p></e>
     <e><p><l>aireko<s n="adj"/></l><r>aerial<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>ajetsu<s n="adj"/><s n="izo"/></l><r>infirm<s n="adj"/></r></p></e>
     <e><p><l>akademiko<s n="adj"/></l><r>academic<s n="adj"/></r></p></e>
@@ -781,7 +781,7 @@
     <e a="matxin"><p><l>akastun<s n="adj"/><s n="izo"/></l><r>faulty<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>akastun<s n="adj"/><s n="izo"/></l><r>imperfect<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>akatsgabe<s n="adj"/><s n="izo"/></l><r>impeccable<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>akatsik_gabe<s n="adj"/><s n="izo"/></l><r>flawless<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>akatsik<b/>gabe<s n="adj"/><s n="izo"/></l><r>flawless<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>akigarri<s n="adj"/><s n="izo"/></l><r>strenuous<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>akriliko<s n="adj"/><s n="izo"/></l><r>acrylic<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>akustiko<s n="adj"/><s n="izo"/></l><r>acoustic<s n="adj"/></r></p></e>
@@ -796,8 +796,8 @@
     <e a="matxin" r="RL"><p><l>aldakor<s n="adj"/><s n="izo"/></l><r>fickle<s n="adj"/></r></p></e>
     <e a="matxin" r="RL"><p><l>aldakor<s n="adj"/><s n="izo"/></l><r>moody<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>aldapatsu<s n="adj"/><s n="izo"/></l><r>steep<s n="adj"/></r></p></e>
-    <e a="matxin" r="RL"><p><l>aldatu_gabe<s n="adj"/><s n="izo"/></l><r>unaffected<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>aldatu_gabe<s n="adj"/><s n="izo"/></l><r>unchanged<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>aldatu<b/>gabe<s n="adj"/><s n="izo"/></l><r>unaffected<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>aldatu<b/>gabe<s n="adj"/><s n="izo"/></l><r>unchanged<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>alderantzikagarri<s n="adj"/><s n="izo"/></l><r>reversible<s n="adj"/></r></p></e>
     <e><p><l>alderantzizko<s n="adj"/></l><r>reverse<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>alderdikoi<s n="adj"/><s n="izo"/></l><r>one-sided<s n="adj"/></r></p></e>
@@ -816,7 +816,7 @@
     <e><p><l>aljebraiko<s n="adj"/></l><r>algebraic<s n="adj"/></r></p></e>
     <e><p><l>alkoholdun<s n="adj"/></l><r>alcoholic<s n="adj"/></r></p></e>
     <e><p><l>alkoholiko<s n="adj"/></l><r>alcoholic<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>alkohol_gabe<s n="adj"/><s n="izo"/></l><r>non-alcoholic<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>alkohol<b/>gabe<s n="adj"/><s n="izo"/></l><r>non-alcoholic<s n="adj"/></r></p></e>
     <e><p><l>alpino<s n="adj"/></l><r>alpine<s n="adj"/></r></p></e>
     <e><p><l>alternatibo<s n="adj"/></l><r>alternative<s n="adj"/></r></p></e>
     <e><p><l>altu<s n="adj"/></l><r>high<s n="adj"/><s n="sint"/></r></p></e>
@@ -1018,7 +1018,7 @@
     <e a="matxin"><p><l>aukeratu<s n="adj"/><s n="izo"/></l><r>designate<s n="adj"/></r></p></e>
     <e><p><l>aurkako<s n="adj"/></l><r>hostile<s n="adj"/></r></p></e>
     <e><p><l>aurreikus_daitekeen<s n="adj"/></l><r>predictable<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>aurrekaririk_gabe<s n="adj"/><s n="izo"/></l><r>unprecedented<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>aurrekaririk<b/>gabe<s n="adj"/><s n="izo"/></l><r>unprecedented<s n="adj"/></r></p></e>
     <e><p><l>aurreko<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
     <e r="RL"><p><l>aurreko<s n="adj"/></l><r>previous<s n="adj"/></r></p></e>
     <e><p><l>aurren<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
@@ -1077,10 +1077,15 @@
     <e r="RL"><p><l>azpiko<s n="adj"/></l><r>inferior<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>azukretsu<s n="adj"/><s n="izo"/></l><r>sugary<s n="adj"/></r></p></e>
     <e><p><l>babeserako<s n="adj"/></l><r>defensive<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>babesgabe<s n="adj"/><s n="izo"/></l><r>defenceless<s n="adj"/></r></p></e>
+    <e a="matxin" r="RL"><p><l>babesgabe<s n="adj"/><s n="izo"/></l><r>defenseless<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>babesgabe<s n="adj"/><s n="izo"/></l><r>helpless<s n="adj"/></r></p></e>
     <e><p><l>babesle<s n="adj"/></l><r>protective<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>babo<s n="adj"/><s n="izo"/></l><r>dunce<s n="adj"/></r></p></e>
     <e><p><l>badaezpadako<s n="adj"/></l><r>preventive<s n="adj"/></r></p></e>
     <e><p><l>baiezko<s n="adj"/></l><r>affirmative<s n="adj"/></r></p></e>
-    <e><p><l>baikor<s n="adj"/></l><r>optimistic<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>baikor<s n="adj"/></l><r>optimistic<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>baikor<s n="adj"/><s n="izo"/></l><r>hopeful<s n="adj"/></r></p></e>
     <e r="RL"><p><l>bakar<s n="adj"/></l><r>exclusive<s n="adj"/></r></p></e>
     <e r="RL"><p><l>bakar<s n="adj"/></l><r>alone<s n="adj"/></r></p></e>
     <e><p><l>bakar<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
