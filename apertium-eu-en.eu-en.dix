@@ -8414,48 +8414,46 @@
 <e a="matxin"><p><l>makilatu<s n="vblex"/></l>         <r>club<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>makinaz_landu<s n="vblex"/></l>    <r>machine<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>makotu<s n="vblex"/></l>           <r>arch<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>makurrarazi<s n="vblex"/></l>      <r>humble<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>makurrarazi<s n="vblex"/></l>      <r>humble<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>makurrarazi<s n="vblex"/></l>      <r>humiliate<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>makurtu<s n="vblex"/></l>          <r>crouch<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>makurtu<s n="vblex"/></l>          <r>droop<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>makurtu<s n="vblex"/></l>          <r>crouch<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>makurtu<s n="vblex"/></l>          <r>droop<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>makurtu<s n="vblex"/></l>          <r>duck<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>makurtu<s n="vblex"/></l>          <r>hunch<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>makurtu<s n="vblex"/></l>          <r>squat<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>makurtu<s n="vblex"/></l>          <r>stoop<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>makurtu<s n="vblex"/></l>          <r>hunch<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>makurtu<s n="vblex"/></l>          <r>squat<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>makurtu<s n="vblex"/></l>          <r>stoop<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>malabarismoak_egin<s n="vblex"/></l><r>juggle<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>maletak_egin<s n="vblex"/></l>     <r>pack<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>maneiatu<s n="vblex"/></l>         <r>handle<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>maneiatu<s n="vblex"/></l>         <r>handle<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>maneiatu<s n="vblex"/></l>         <r>operate<s n="vblex"/></r></p></e>
 <e>       <p><l>manifestatu<s n="vblex"/></l>          <r>manifest<s n="vblex"/></r></p></e>
 <e>       <p><l>manipulatu<s n="vblex"/></l>           <r>manipulate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>manipulatu<s n="vblex"/></l>       <r>manipulate<s n="vblex"/></r></p></e>
-<e>       <p><l>mantendu<s n="vblex"/></l>             <r>keep<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>mantendu<s n="vblex"/></l>             <r>keep<s n="vblex"/></r></p></e>
 <e>       <p><l>mantendu<s n="vblex"/></l>             <r>maintain<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mantendu<s n="vblex"/></l>         <r>preserve<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>mantendu<s n="vblex"/></l>         <r>preserve<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>margotu<s n="vblex"/></l>              <r>colour<s n="vblex"/></r></p></e>
 <e>       <p><l>margotu<s n="vblex"/></l>              <r>paint<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>marjinatu<s n="vblex"/></l>        <r>marginalize<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>marjinatu<s n="vblex"/></l>        <r>ostracize<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>marjinatu<s n="vblex"/></l>        <r>ostracize<s n="vblex"/></r></p></e>
 <e>       <p><l>markatu<s n="vblex"/></l>              <r>mark<s n="vblex"/></r></p></e>
-<e>       <p><l>markatu<s n="vblex"/></l>              <r>score<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>markatu<s n="vblex"/></l>          <r>dial<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>markatu<s n="vblex"/></l>          <r>pit<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>markatu<s n="vblex"/></l>          <r>tick<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>markatu<s n="vblex"/></l>              <r>score<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>markatu<s n="vblex"/></l>          <r>dial<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>markatu<s n="vblex"/></l>          <r>pit<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>markatu<s n="vblex"/></l>          <r>tick<s n="vblex"/></r></p></e>
 <e>       <p><l>markoa<b/>ipini<s n="vblex"/></l>      <r>frame<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>markoa_ipini<s n="vblex"/></l>     <r>frame<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>marmar_egin<s n="vblex"/></l>      <r>carp<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>marmar_egin<s n="vblex"/></l>      <r>carp<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>marmar_egin<s n="vblex"/></l>      <r>growl<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>marmar_egin<s n="vblex"/></l>      <r>mutter<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>marmar_egin<s n="vblex"/></l>      <r>snarl<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>marmar_egin<s n="vblex"/></l>      <r>mutter<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>marmar_egin<s n="vblex"/></l>      <r>snarl<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>marmarka_hitz_egin<s n="vblex"/></l><r>mumble<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>marmarrean_aritu<s n="vblex"/></l> <r>gossip<s n="vblex"/></r></p></e>
 <e>       <p><l>marraztu<s n="vblex"/></l>             <r>draw<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>marraztu<s n="vblex"/></l>         <r>draw<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>martirizatu<s n="vblex"/></l>      <r>martyr<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>martxan_ibili<s n="vblex"/></l>    <r>march<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>masajea_eman<s n="vblex"/></l>     <r>massage<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>mastekatu<s n="vblex"/></l>        <r>chew<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mastekatu<s n="vblex"/></l>        <r>masticate<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>mastekatu<s n="vblex"/></l>        <r>masticate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>matrikulatu<s n="vblex"/></l>      <r>matriculate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>matxinatu<s n="vblex"/></l>        <r>mutiny<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>megafoniaz_deitu<s n="vblex"/></l> <r>page<s n="vblex"/></r></p></e>
@@ -8478,9 +8476,7 @@
 <e a="matxin"><p><l>menturatu<s n="vblex"/></l>        <r>venture<s n="vblex"/></r></p></e>
 <e>       <p><l>merezi<b/>izan<s n="vbper"/></l>       <r>deserve<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>merezi<b/>izan<s n="vbper"/></l>       <r>merit<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>merezi_izan<s n="vblex"/></l>      <r>deserve<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>merezi_izan<s n="vblex"/></l>      <r>merit<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>merezi_izan<s n="vblex"/></l>      <r>warrant<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>merezi<b/>izan<s n="vbper"/></l>      <r>warrant<s n="vblex"/></r></p></e>
 <e>       <p><l>merkaturatu<s n="vblex"/></l>          <r>commercialize<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>merkaturatu<s n="vblex"/></l>      <r>market<s n="vblex"/></r></p></e>
 <e>       <p><l>mesede<b/>egin<s n="vblex"/></l>       <r>favour<s n="vblex"/></r></p></e>
@@ -8517,52 +8513,46 @@
 <e a="matxin"><p><l>mobilizatu<s n="vblex"/></l>       <r>mobilize<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>modelo_gisa_lan_egin<s n="vblex"/></l><r>model<s n="vblex"/></r></p></e>
 <e>       <p><l>moderatu<s n="vblex"/></l>             <r>moderate<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moderatu<s n="vblex"/></l>         <r>moderate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>modernizatu<s n="vblex"/></l>      <r>modernize<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>modulatu<s n="vblex"/></l>         <r>modulate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>mokokatu<s n="vblex"/></l>         <r>peck<s n="vblex"/></r></p></e>
-<e>       <p><l>moldatu<s n="vblex"/></l>              <r>adapt<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>moldatu<s n="vblex"/></l>              <r>adapt<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>moldatu<s n="vblex"/></l>              <r>suit<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moldatu<s n="vblex"/></l>          <r>adapt<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moldatu<s n="vblex"/></l>          <r>conform<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moldatu<s n="vblex"/></l>          <r>cope<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>moldatu<s n="vblex"/></l>          <r>conform<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>moldatu<s n="vblex"/></l>          <r>cope<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>moldatu<s n="vblex"/></l>          <r>mould<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moldatu<s n="vblex"/></l>          <r>shape<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>moldatu<s n="vblex"/></l>          <r>shape<s n="vblex"/></r></p></e>
 <e>       <p><l>molestatu<s n="vblex"/></l>            <r>bother<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>molestatu<s n="vblex"/></l>            <r>annoy<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>moralizatu<s n="vblex"/></l>       <r>moralize<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>moteldu<s n="vblex"/></l>          <r>dim<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>motz-motz_egin<s n="vblex"/></l>   <r>crop<s n="vblex"/></r></p></e>
 <e>       <p><l>mozorrotu<s n="vblex"/></l>            <r>mask<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mozorrotu<s n="vblex"/></l>        <r>disguise<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mozorrotu<s n="vblex"/></l>        <r>mask<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>mozorrotu<s n="vblex"/></l>        <r>disguise<s n="vblex"/></r></p></e>
 <e>       <p><l>moztu<s n="vblex"/></l>                <r>cut<s n="vblex"/></r></p></e>
-<e>       <p><l>moztu<s n="vblex"/></l>                <r>interrupt<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>moztu<s n="vblex"/></l>                <r>interrupt<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>moztu<s n="vblex"/></l>                <r>discontinue<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>cut<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>fell<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>mow<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>mutilate<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>sever<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>trim<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>fell<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>mow<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>mutilate<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>sever<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>moztu<s n="vblex"/></l>            <r>trim<s n="vblex"/></r></p></e>
 <e>       <p><l>mugatu<s n="vblex"/></l>               <r>delimit<s n="vblex"/></r></p></e>
 <e r="RL" c="limutar o restringir"><p><l>mugatu<s n="vblex"/></l><r>confine<s n="vblex"/></r></p></e>
-<e>       <p><l>mugatu<s n="vblex"/></l>               <r>limit<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mugatu<s n="vblex"/></l>           <r>border<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mugatu<s n="vblex"/></l>           <r>confine<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mugatu<s n="vblex"/></l>           <r>limit<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>mugatu<s n="vblex"/></l>               <r>limit<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>mugatu<s n="vblex"/></l>           <r>border<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>mugatu<s n="vblex"/></l>           <r>confine<s n="vblex"/></r></p></e>
 <e>       <p><l>mugitu<s n="vblex"/></l>               <r>move<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>mugitu<s n="vblex"/></l>               <r>shift<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mugitu<s n="vblex"/></l>           <r>cock<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mugitu<s n="vblex"/></l>           <r>move<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mugitu<s n="vblex"/></l>           <r>wiggle<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>mugitu<s n="vblex"/></l>           <r>wriggle<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>mugitu<s n="vblex"/></l>           <r>cock<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>mugitu<s n="vblex"/></l>           <r>wiggle<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>mugitu<s n="vblex"/></l>           <r>wriggle<s n="vblex"/></r></p></e>
 <e>       <p><l>mukuru<b/>bete<s n="vblex"/></l>       <r>satisfy<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>multzo_handian_mugitu<s n="vblex"/></l><r>swarm<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>multzokatu<s n="vblex"/></l>       <r>bundle<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>multzokatu<s n="vblex"/></l>       <r>bundle<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>multzokatu<s n="vblex"/></l>       <r>group<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>murgildu<s n="vblex"/></l>         <r>dive<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>murgildu<s n="vblex"/></l>         <r>engulf<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>murgildu<s n="vblex"/></l>         <r>engulf<s n="vblex"/></r></p></e>
 <e>       <p><l>murmurikatu<s n="vblex"/></l>          <r>mutter<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>murriztu<s n="vblex"/></l>         <r>ration<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>murriztu<s n="vblex"/></l>         <r>reduce<s n="vblex"/></r></p></e>
@@ -8583,18 +8573,16 @@
 <e>       <p><l>nagusitu<s n="vblex"/></l>             <r>predominate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>nagusitu<s n="vblex"/></l>         <r>predominate<s n="vblex"/></r></p></e>
 <e>       <p><l>nahasi<s n="vblex"/></l>               <r>confuse<s n="vblex"/></r></p></e>
-<e>       <p><l>nahasi<s n="vblex"/></l>               <r>mix<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahasi<s n="vblex"/></l>           <r>blend<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahasi<s n="vblex"/></l>           <r>confound<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahasi<s n="vblex"/></l>           <r>entangle<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahasi<s n="vblex"/></l>           <r>jumble<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahasi<s n="vblex"/></l>           <r>mix<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahasi<s n="vblex"/></l>           <r>muddle<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahasi<s n="vblex"/></l>           <r>ruffle<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahasi<s n="vblex"/></l>           <r>tangle<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>nahasi<s n="vblex"/></l>               <r>mix<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>nahasi<s n="vblex"/></l>           <r>blend<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>nahasi<s n="vblex"/></l>           <r>confound<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>nahasi<s n="vblex"/></l>           <r>entangle<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>nahasi<s n="vblex"/></l>           <r>jumble<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>nahasi<s n="vblex"/></l>           <r>muddle<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>nahasi<s n="vblex"/></l>           <r>ruffle<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>nahasi<s n="vblex"/></l>           <r>tangle<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>nahaspilatu<s n="vblex"/></l>      <r>clutter<s n="vblex"/></r></p></e>
 <e>       <p><l>nahastu<s n="vblex"/></l>              <r>confuse<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>nahastu<s n="vblex"/></l>          <r>confuse<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>nahastu<s n="vblex"/></l>          <r>mingle<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>nahi<b/>izan<s n="vblex"/></l>         <r>intend<s n="vblex"/></r></p></e>
 <e>       <p><l>nahi<b/>izan<s n="vblex"/></l>         <r>pretend<s n="vblex"/></r></p></e>
@@ -13138,14 +13126,13 @@
 <e>       <p><l>presa<s n="n"/></l>                    <r>rush<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>presentzia<s n="n"/></l>               <r>presence<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>preserbatibo<s n="n"/></l>             <r>condom<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>presidente<s n="n"/></l>               <r>chairman<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>presidente<s n="n"/></l>               <r>chairperson<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>presidente<s n="n"/></l>               <r>chairman<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>presidente<s n="n"/></l>               <r>chairperson<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>presidente<s n="n"/></l>               <r>president<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>presidentegai<s n="n"/></l>            <r>presidential<b/>candidate<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>presidentegai<s n="n"/></l>            <r>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>presidentegai<s n="n"/></l>            <r>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>presidenteorde<s n="n"/></l>           <r>vice-president<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>presidenteorde<s n="n"/></l>           <r>vice<b/>president<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>presidentetza<s n="n"/></l>            <r>chair<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>presidenteorde<s n="n"/></l>           <r>vice<b/>president<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>presidentetza<s n="n"/></l>            <r>presidency<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>presio<s n="n"/></l>                   <r>pressure<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>preso<s n="n"/></l>                    <r>prisoner<s n="n"/><s n="ND"/></r></p></e>
@@ -13154,18 +13141,16 @@
 <e>       <p><l>prestakuntza<s n="n"/></l>             <r>qualification<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>prestigio<s n="n"/></l>                <r>prestige<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>prezio<s n="n"/></l>                   <r>price<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pribilegio<s n="n"/></l>               <r>prerogative<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>pribilegio<s n="n"/></l>               <r>prerogative<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pribilegio<s n="n"/></l>               <r>privilege<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>prima<s n="n"/></l>                    <r>premium<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>printze<s n="n"/></l>                  <r>prince<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>printze<s n="n"/></l>                  <r>princess<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>printzesa<s n="n"/></l>                <r>prince<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>printzesa<s n="n"/></l>                <r>princess<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>printzipio<s n="n"/></l>               <r>principle<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>proba<s n="n"/></l>                    <r>exhibit<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>proba<s n="n"/></l>                    <r>proof<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>proba<s n="n"/></l>                    <r>exhibit<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>proba<s n="n"/></l>                    <r>proof<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>proba<s n="n"/></l>                    <r>test<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>proba<s n="n"/></l>                    <r>trial<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>proba<s n="n"/></l>                    <r>trial<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>probabilitate<s n="n"/></l>            <r>probability<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>probintzia<s n="n"/></l>               <r>province<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>produktibitate<s n="n"/></l>           <r>productivity<s n="n"/><s n="ND"/></r></p></e>
@@ -13219,9 +13204,9 @@
 <e>       <p><l>sabana<s n="n"/></l>                   <r>savannah<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sagar<s n="n"/></l>                    <r>apple<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>saihesbide<s n="n"/></l>               <r>deviation<s n="n"/><s n="ND"/></r></p></e>
-<e c="MG: también departamento, arreglar los compuestos del bilingue y añadir a mono"><p><l>sail<s n="n"/></l><r>cluster<s n="n"/><s n="ND"/></r></p></e>
-<e c="MG: también departamento, arreglar los compuestos del bilingue y añadir a mono"><p><l>sail<s n="n"/></l><r>group<s n="n"/><s n="ND"/></r></p></e>
-<e c="MG: también departamento, arreglar los compuestos del bilingue y añadir a mono"><p><l>sail<s n="n"/></l><r>pool<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>sail<s n="n"/></l><r>cluster<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>sail<s n="n"/></l><r>group<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>sail<s n="n"/></l><r>pool<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sailburu<s n="n"/></l>                 <r>adviser<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sailkapen<s n="n"/></l>                <r>classification<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>saio<s n="n"/></l>                     <r>attempt<s n="n"/><s n="ND"/></r></p></e>
@@ -13259,18 +13244,16 @@
 <e>       <p><l>sarraila<s n="n"/></l>                 <r>lock<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sarraski<s n="n"/></l>                 <r>slaughtering<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sarrera<s n="n"/></l>                  <r>entrance<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sarrera<s n="n"/></l>                  <r>entry<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sarrera<s n="n"/></l>                  <r>input<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sarrera<s n="n"/></l>                  <r>ticket<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sarrera<s n="n"/></l>                  <r>preamble<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sartze<s n="n"/></l>                   <r>earnings<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>sartze<s n="n"/></l>                   <r>income<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>sartze<s n="n"/></l>                   <r>income<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>sartze<s n="n"/></l>                   <r>revenue<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>sartze<s n="n"/></l>                   <r>revenue<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>sartze<s n="n"/></l>                   <r>entry<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>sartze<s n="n"/></l>                   <r>introduction<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sartze<s n="n"/></l>                   <r>penetration<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sarrera<s n="n"/></l>                  <r>entry<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sarrera<s n="n"/></l>                  <r>input<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sarrera<s n="n"/></l>                  <r>ticket<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sarrera<s n="n"/></l>                  <r>preamble<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sartze<s n="n"/></l>                   <r>earnings<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>sartze<s n="n"/></l>                   <r>income<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sartze<s n="n"/></l>                   <r>revenue<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sartze<s n="n"/></l>                   <r>entry<s n="n"/><s n="sg"/></r></p></e>
+<e r="RL">       <p><l>sartze<s n="n"/></l>                   <r>introduction<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sartze<s n="n"/></l>                   <r>penetration<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>saskibaloi<s n="n"/></l>               <r>basketball<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sasoi<s n="n"/></l>                    <r>period<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>satelite<s n="n"/></l>                 <r>satellite<s n="n"/><s n="ND"/></r></p></e>
@@ -13278,7 +13261,7 @@
 <e>       <p><l>seduktore<s n="n"/></l>                <r>seducer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>seduktore<s n="n"/></l>                <r>seductress<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>segundo<s n="n"/></l>                  <r>second<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>segurtasun<s n="n"/></l>               <r>safety<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>segurtasun<s n="n"/></l>               <r>safety<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>segurtasun<s n="n"/></l>               <r>security<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sehaska<s n="n"/></l>                  <r>cradle<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>seinale<s n="n"/></l>                  <r>indication<s n="n"/><s n="ND"/></r></p></e>
@@ -13328,20 +13311,20 @@
 <e>       <p><l>sintesi<s n="n"/></l>                  <r>synthesis<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sintoma<s n="n"/></l>                  <r>symptom<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sistema<s n="n"/></l>                  <r>system<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>so<s n="n"/></l>                       <r>glance<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>so<s n="n"/></l>                       <r>glance<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>so<s n="n"/></l>                       <r>look<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sofa<s n="n"/></l>                     <r>sofa<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>software<s n="n"/></l>                 <r>software<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>soineko<s n="n"/></l>                  <r>dress<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>soinu<s n="n"/></l>                    <r>sound<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>soka<s n="n"/></l>                     <r>rope<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>soka<s n="n"/></l>                     <r>string<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>solairu<s n="n"/></l>                  <r>flat<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>soka<s n="n"/></l>                     <r>string<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>solairu<s n="n"/></l>                  <r>flat<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>solairu<s n="n"/></l>                  <r>floor<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>solasaldi<s n="n"/></l>                <r>conversation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>soldadu<s n="n"/></l>                  <r>soldier<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>soldata<s n="n"/></l>                  <r>salary<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>soldata<s n="n"/></l>                  <r>wage<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>soldata<s n="n"/></l>                  <r>wage<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>solidaritate<s n="n"/></l>             <r>solidarity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>solo<s n="n"/></l>                     <r>solo<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sorburu<s n="n"/></l>                  <r>origin<s n="n"/><s n="ND"/></r></p></e>
@@ -13350,10 +13333,10 @@
 <e>       <p><l>sorkuntza<s n="n"/></l>                <r>creation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>soropil<s n="n"/></l>                  <r>lawn<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sorrera<s n="n"/></l>                  <r>birth<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sorta<s n="n"/></l>                    <r>bouquet<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sorta<s n="n"/></l>                    <r>bouquet<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sorta<s n="n"/></l>                    <r>bunch<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sortzaile<s n="n"/></l>                <r>creator<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sortze<s n="n"/></l>                   <r>conception<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sortze<s n="n"/></l>                   <r>conception<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sortze<s n="n"/></l>                   <r>creation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sostengu<s n="n"/></l>                 <r>support<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sotil<s n="n"/></l>                    <r>knight<s n="n"/><s n="ND"/></r></p></e>
