@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Dictionary:
 	Sections: 1
@@ -6505,7 +6505,7 @@
     <e><p><l>garrantzi<s n="n"/></l><r>significance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garrantzi<s n="n"/></l><r>transcendence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garrasi<s n="n"/></l><r>cry<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garrasi<s n="n"/></l><r>scream<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garrasi<s n="n"/></l><r>scream<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garrasi<s n="n"/></l><r>shout<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garun<s n="n"/></l><r>brain<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gas<s n="n"/></l><r>gas<s n="n"/><s n="ND"/></r></p></e>
@@ -6563,7 +6563,7 @@
     <e><p><l>gisa<s n="n"/></l><r>way<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gitarra<s n="n"/></l><r>guitar<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gizaki<s n="n"/></l><r>human<s n="n"/><s n="ND"/></r></p></e>
-    <e c="MG: hi ha tb el plurarl de 'person' (persons) i 'people' tb es podria traduir com a 'gent'"><p><l>gizakume<s n="n"/></l><r>person<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>gizakume<s n="n"/></l><r>person<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gizarte<s n="n"/></l><r>partnership<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gizarte<s n="n"/></l><r>society<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gizateria<s n="n"/></l><r>mankind<s n="n"/><s n="ND"/></r></p></e>
@@ -6574,12 +6574,11 @@
     <e><p><l>glaziar<s n="n"/></l><r>glacier<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>glaziazio<s n="n"/></l><r>glaciation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>globo<s n="n"/></l><r>globe<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>globo<s n="n"/></l><r>globe<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gloria<s n="n"/></l><r>glory<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gobernadore<s n="n"/></l><r>governor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gobernu<s n="n"/></l><r>government<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gobernuburu<s n="n"/></l><r>head<g><b/>of<b/>government</g><s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gobernuburu<s n="n"/></l><r>government<b/>head<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gobernuburu<s n="n"/></l><r>government<b/>head<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gogo<s n="n"/></l><r>encouragement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gogo<s n="n"/></l><r>will<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gogoeta<s n="n"/></l><r>thinking<s n="n"/><s n="ND"/></r></p></e>
