@@ -12851,14 +12851,10 @@
 <e>       <p><l>opera<s n="n"/></l>                    <r>opera<s n="n"/><s n="ND"/></r></p></e>
 <e c="Med."><p><l>operazio<s n="n"/></l>               <r>operation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>opio<s n="n"/></l>                     <r>opium<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>opor<s n="n"/></l>                     <r>holiday<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>opor<s n="n"/></l>                     <r>holiday<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>opor<s n="n"/></l>                     <r>vacation<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>opor<s n="n"/></l>                     <r>vacation<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>oporraldi<s n="n"/></l>                <r>holiday<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>oporraldi<s n="n"/></l>                <r>holiday<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>oporraldi<s n="n"/></l>                <r>vacation<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>oporraldi<s n="n"/></l>                <r>vacation<s n="n"/><s n="pl"/></r></p></e>
+<e>       <p><l>opor<s n="n"/></l>                     <r>holiday<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>opor<s n="n"/></l>                     <r>vacation<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>oporraldi<s n="n"/></l>                <r>holiday<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>oporraldi<s n="n"/></l>                <r>vacation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>oposizio<s n="n"/></l>                 <r>opposition<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>optimismo<s n="n"/></l>                <r>optimism<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orain<s n="n"/></l>                    <r>present<s n="n"/><s n="ND"/></r></p></e>
@@ -12867,18 +12863,18 @@
 <e>       <p><l>orban<s n="n"/></l>                    <r>stain<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orbita<s n="n"/></l>                   <r>orbit<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordainketa<s n="n"/></l>               <r>payment<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ordena<s n="n"/></l>                   <r>command<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>ordena<s n="n"/></l>                   <r>command<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordena<s n="n"/></l>                   <r>order<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordenagailu<s n="n"/></l>              <r>computer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordenatzaile<s n="n"/></l>             <r>computer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordezkapen<s n="n"/></l>               <r>replacement<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ordezkapen<s n="n"/></l>               <r>substitution<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ordezkari<s n="n"/></l>                <r>delegate<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>ordezkapen<s n="n"/></l>               <r>substitution<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>ordezkari<s n="n"/></l>                <r>delegate<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordezkari<s n="n"/></l>                <r>representative<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordezkaritza<s n="n"/></l>             <r>delegation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordezko<s n="n"/></l>                  <r>substitute<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordoki<s n="n"/></l>                   <r>plain<s n="n"/><s n="ND"/></r></p></e>
-<e c="MG: aquest hauria de ser quan 'hora' és plural en català, l'altra (time) en sg"><p><l>ordu<s n="n"/></l><r>hour<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>ordu<s n="n"/></l><r>hour<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordu<s n="n"/></l>                     <r>time<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordutegi<s n="n"/></l>                 <r>schedule<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ordutegi<s n="n"/></l>                 <r>timetable<s n="n"/><s n="ND"/></r></p></e>
@@ -12886,7 +12882,6 @@
 <e>       <p><l>oreka<s n="n"/></l>                    <r>equilibrium<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>organismo<s n="n"/></l>                <r>organism<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>organizazio<s n="n"/></l>              <r>organisation<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>organizazio<s n="n"/></l>              <r>organization<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>organo<s n="n"/></l>                   <r>organ<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orgasmo<s n="n"/></l>                  <r>orgasm<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orgia<s n="n"/></l>                    <r>orgy<s n="n"/><s n="ND"/></r></p></e>
@@ -12897,11 +12892,11 @@
 <e>       <p><l>oroitarri<s n="n"/></l>                <r>monument<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orokortze<s n="n"/></l>                <r>generalization<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orpo<s n="n"/></l>                     <r>heel<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>orratz<s n="n"/></l>                   <r>needle<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>orratz<s n="n"/></l>                   <r>needle<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orratz<s n="n"/></l>                   <r>pin<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>orri<s n="n"/></l>                     <r>blade<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>orri<s n="n"/></l>                     <r>blade<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orri<s n="n"/></l>                     <r>leaf<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>orri<s n="n"/></l>                     <r>sheet<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>orri<s n="n"/></l>                     <r>sheet<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orrialde<s n="n"/></l>                 <r>page<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ortografia<s n="n"/></l>               <r>spelling<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>osaba<s n="n"/></l>                    <r>uncle<s n="n"/><s n="ND"/></r></p></e>
@@ -13080,14 +13075,12 @@
 <e>       <p><l>poeta<s n="n"/></l>                    <r>poet<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>polemika<s n="n"/></l>                 <r>controversy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>polinomio<s n="n"/></l>                <r>polynomial<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>politika<s n="n"/></l>                 <r>policy<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>politika<s n="n"/></l>                 <r>policy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>politika<s n="n"/></l>                 <r>politics<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>politikari<s n="n"/></l>               <r>politician<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>polizia<s n="n"/></l>                  <r>police<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>polizia<s n="n"/></l>                  <r>policeman<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>polizia<s n="n"/></l>                  <r>policewoman<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>polizia<s n="n"/></l>                  <r>policeman<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>polizia<s n="n"/></l>                  <r>policewoman<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>polizia<s n="n"/></l>                  <r>policeman<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>polizia<s n="n"/></l>                  <r>policewoman<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>polizia-etxe<s n="n"/></l>             <r>commissariat<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>polo<s n="n"/></l>                     <r>pole<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>poltsa<s n="n"/></l>                   <r>bag<s n="n"/><s n="ND"/></r></p></e>
