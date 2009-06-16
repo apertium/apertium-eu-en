@@ -1107,7 +1107,7 @@
 <e>       <p><l>jakinaren<b/>gainean<s n="adv"/></l>   <r>based<b/>on<b/>facts<s n="adv"/></r></p></e>
 <e>       <p><l>jakinda<s n="adv"/></l>                <r>knowingly<s n="adv"/></r></p></e>
 <e c="check"><p><l>jo<b/>eta<b/>ke<s n="adv"/></l>     <r>by<b/>forced<b/>marches<s n="adv"/></r></p></e>
-<e r="RL" c="MG: 'he was just leaving'"><p><l>justu<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
+<e><p><l>justu<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
 <e>       <p><l>kanpoan<s n="adv"/></l>                <r>outside<s n="adv"/></r></p></e>
 <e r="RL"><p><l>kanpoan<s n="adv"/></l>                <r>away<s n="adv"/></r></p></e>
 <e r="RL"><p><l>kanpoan<s n="adv"/></l>                <r>off<s n="adv"/></r></p></e>
@@ -1133,16 +1133,13 @@
 <e r="RL"><p><l>laster<b/>arte<s n="adv"/></l>         <r>up<b/>until<b/>now<s n="adv"/></r></p></e>
 <e>       <p><l>legez<s n="adv"/></l>                  <r>legally<s n="adv"/></r></p></e>
 <e>       <p><l>lehen<s n="adv"/></l>                  <r>first<s n="adv"/></r></p></e>
-<e r="RL"><p><l>lehen<s n="adv"/></l>                  <r>first<s n="adv"/></r></p></e>
 <e r="RL"><p><l>lehen<s n="adv"/></l>                  <r>first<b/>and<b/>foremost<s n="adv"/></r></p></e>
 <e r="RL"><p><l>lehen<s n="adv"/></l>                  <r>firstly<s n="adv"/></r></p></e>
-<e>       <p><l>lehen<s n="adv"/></l>                  <r>in<b/>the<b/>first<b/>place<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>lehen<s n="adv"/></l>                  <r>in<b/>the<b/>first<b/>place<s n="adv"/></r></p></e>
 <e>       <p><l>lehen<b/>aldiz<s n="adv"/></l>         <r>for<b/>the<b/>first<b/>time<s n="adv"/></r></p></e>
 <e>       <p><l>lehenago<s n="adv"/></l>               <r>before<s n="adv"/></r></p></e>
 <e>       <p><l>lehendabizi<s n="adv"/></l>            <r>first<s n="adv"/></r></p></e>
-<e r="RL"><p><l>lehendabizi<s n="adv"/></l>            <r>first<s n="adv"/></r></p></e>
 <e>       <p><l>lehenengo<s n="adv"/></l>              <r>first<s n="adv"/></r></p></e>
-<e r="RL"><p><l>lehenengo<s n="adv"/></l>              <r>first<s n="adv"/></r></p></e>
 <e>       <p><l>lehengo<b/>eta<b/>behin<s n="adv"/></l><r>firstly<s n="adv"/></r></p></e>
 <e>       <p><l>lehenik<s n="adv"/></l>                <r>first<s n="adv"/></r></p></e>
 <e r="RL"><p><l>lehenik<s n="adv"/></l>                <r>first<s n="adv"/></r></p></e>
@@ -1169,13 +1166,13 @@
 <e r="RL"><p><l>noizbehinka<s n="adv"/></l>            <r>now<b/>and<b/>again<s n="adv"/></r></p></e>
 <e r="RL"><p><l>noizbehinka<s n="adv"/></l>            <r>now<b/>and<b/>then<s n="adv"/></r></p></e>
 <e r="RL"><p><l>noizbehinka<s n="adv"/></l>            <r>on<b/>occasion<s n="adv"/></r></p></e>
-<e>       <p><l>noizean<b/>behin<s n="adv"/></l>       <r>once<b/>in<b/>a<b/>blue<b/>moon<s n="adv"/></r></p></e>
-<e>       <p><l>noizean<b/>behin<s n="adv"/></l>       <r>from<b/>time<b/>to<b/>time<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>noizean<b/>behin<s n="adv"/></l>       <r>once<b/>in<b/>a<b/>blue<b/>moon<s n="adv"/></r></p></e>
+<e r="RL">       <p><l>noizean<b/>behin<s n="adv"/></l>       <r>from<b/>time<b/>to<b/>time<s n="adv"/></r></p></e>
 <e r="RL"><p><l>noizean<b/>behin<s n="adv"/></l>       <r>once<b/>in<b/>a<b/>while<s n="adv"/></r></p></e>
 <e r="RL"><p><l>noizean<b/>behin<s n="adv"/></l>       <r>every<b/>now<b/>and<b/>then<s n="adv"/></r></p></e>
 <e r="RL"><p><l>noizean<b/>behin<s n="adv"/></l>       <r>every<b/>so<b/>often<s n="adv"/></r></p></e>
 <e r="RL"><p><l>noizean<b/>behin<s n="adv"/></l>       <r>now<b/>and<b/>again<s n="adv"/></r></p></e>
-<e r="RL"><p><l>noizean<b/>behin<s n="adv"/></l>       <r>now<b/>and<b/>then<s n="adv"/></r></p></e>
+<e><p><l>noizean<b/>behin<s n="adv"/></l>       <r>now<b/>and<b/>then<s n="adv"/></r></p></e>
 <e r="RL"><p><l>noizean<b/>behin<s n="adv"/></l>       <r>on<b/>occasion<s n="adv"/></r></p></e>
 <e>       <p><l>nola<s n="adv"/></l>                   <r>how<s n="adv"/></r></p></e>
 <e r="RL" c="as you - com tu"><p><l>nola<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
