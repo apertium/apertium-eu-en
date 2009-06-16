@@ -10708,16 +10708,16 @@
 <e>       <p><l>elkarrekintza<s n="n"/></l>            <r>interaction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>elkarretaratzea<s n="n"/></l>          <r>concentration<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>elkarrizketa<s n="n"/></l>             <r>conversation<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>elkarrizketa<s n="n"/></l>             <r>dialog<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>elkarrizketa<s n="n"/></l>             <r>dialogue<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>elkarrizketa<s n="n"/></l>             <r>dialog<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>elkarrizketa<s n="n"/></l>             <r>dialogue<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>elkartasun<s n="n"/></l>               <r>union<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>elkarte<s n="n"/></l>                  <r>association<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>elkarte<s n="n"/></l>                  <r>collectivity<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>elkarte<s n="n"/></l>                  <r>collectivity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>elkartze<s n="n"/></l>                 <r>union<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>elur<s n="n"/></l>                     <r>snow<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>elurtegi<s n="n"/></l>                 <r>fridge<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>elurtegi<s n="n"/></l>                 <r>refrigerator<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>emaitza<s n="n"/></l>                  <r>outcome<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>emaitza<s n="n"/></l>                  <r>outcome<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>emaitza<s n="n"/></l>                  <r>result<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>emakume<s n="n"/></l>                  <r>woman<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>emakumezko<s n="n"/></l>               <r>woman<s n="n"/><s n="ND"/></r></p></e>
@@ -11190,7 +11190,7 @@
 <e>       <p><l>funtzio<s n="n"/></l>                  <r>function<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>funtzio<s n="n"/></l>                  <r>role<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>funtzionamendu<s n="n"/></l>           <r>functioning<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>funtzionamendu<s n="n"/></l>           <r>operation<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>funtzionamendu<s n="n"/></l>           <r>operation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>funtzionario<s n="n"/></l>             <r>civil<b/>servant<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>furfuria<s n="n"/></l>                 <r>fury<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>furgoneta<s n="n"/></l>                <r>van<s n="n"/><s n="ND"/></r></p></e>
@@ -11233,17 +11233,16 @@
 <e>       <p><l>galera<s n="n"/></l>                   <r>loss<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>galeria<s n="n"/></l>                  <r>gallery<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>galiziar<s n="n"/></l>                 <r>Galician<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>galiziar<s n="n"/></l>                 <r>Galician<s n="n"/><s n="ND"/></r></p></e>
 <e c="US"><p><l>galtza<s n="n"/></l>                   <r>pants<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>galtza<s n="n"/></l>                   <r>trousers<s n="n"/><s n="pl"/></r></p></e>
 <e>       <p><l>galtzetin<s n="n"/></l>                <r>sock<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ganadu<s n="n"/></l>                   <r>cattle<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ganadu<s n="n"/></l>                   <r>livestock<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>ganadu<s n="n"/></l>                   <r>livestock<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ganaduzale<s n="n"/></l>               <r>grazier<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ganbera<s n="n"/></l>                  <r>camera<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ganibet<s n="n"/></l>                  <r>knife<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>gantz<s n="n"/></l>                    <r>fat<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>gantz<s n="n"/></l>                    <r>grease<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>gantz<s n="n"/></l>                    <r>grease<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>gar<s n="n"/></l>                      <r>flame<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>gar<s n="n"/></l>                      <r>llama<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>garabi<s n="n"/></l>                   <r>crane<s n="n"/><s n="ND"/></r></p></e>
@@ -11331,7 +11330,7 @@
 <e>       <p><l>gizarte<s n="n"/></l>                  <r>partnership<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>gizarte<s n="n"/></l>                  <r>society<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>gizateria<s n="n"/></l>                <r>mankind<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>gizon<s n="n"/></l>                    <r>male<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>gizon<s n="n"/></l>                    <r>male<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>gizon<s n="n"/></l>                    <r>man<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>gizonezko<s n="n"/></l>                <r>man<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>gizonki<s n="n"/></l>                  <r>man<s n="n"/><s n="ND"/></r></p></e>
@@ -12530,7 +12529,7 @@
 <e>       <p><l>material<s n="n"/></l>                 <r>stuff<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>matrize<s n="n"/></l>                  <r>matrix<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>matxura<s n="n"/></l>                  <r>failure<s n="n"/><s n="ND"/></r></p></e>
-<e c="MG: quasi segur que s'equivoca i ho confón amb 'meu', treure si de cas temporalment"><p><l>meatze<s n="n"/></l><r>mine<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>meatze<s n="n"/></l><r>mine<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>medaila<s n="n"/></l>                  <r>medal<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>medikamentu<s n="n"/></l>              <r>drug<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mediku<s n="n"/></l>                   <r>doctor<s n="n"/><s n="ND"/></r></p></e>
@@ -12726,9 +12725,7 @@
 <e>       <p><l>nerabe<s n="n"/></l>                   <r>teenager<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nerabezaro<s n="n"/></l>               <r>adolescence<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nerbio<s n="n"/></l>                   <r>nerve<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>neska<s n="n"/></l>                    <r>boy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neska<s n="n"/></l>                    <r>girl<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>neska<s n="n"/></l>                    <r>lad<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neska-lagun<s n="n"/></l>              <r>bridegroom<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neska-lagun<s n="n"/></l>              <r>groom<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neska-lagun<s n="n"/></l>              <r>bride<s n="n"/><s n="ND"/></r></p></e>
@@ -13739,7 +13736,7 @@
 <e>       <p><l>zopa<s n="n"/></l>                     <r>soup<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zor<s n="n"/></l>                      <r>debt<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zorakeria<s n="n"/></l>                <r>madness<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zorakeria<s n="n"/></l>                <r>folly<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zorakeria<s n="n"/></l>                <r>folly<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zordun<s n="n"/></l>                   <r>debtor<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zorion<s n="n"/></l>                   <r>happiness<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zorroztasun<s n="n"/></l>              <r>rigour<s n="n"/><s n="ND"/></r></p></e>
@@ -13765,7 +13762,6 @@
 <e r="RL"><p><l>zuzendari<s n="n"/></l>                <r>conductor<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuzendari<s n="n"/></l>                <r>director<s n="n"/><s n="ND"/></r></p></e>
 <e c="en masculí per defecte"><p><l>zuzendari<s n="n"/></l><r>manager<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zuzendaritza<s n="n"/></l>             <r>address<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuzendaritza<s n="n"/></l>             <r>direction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuzenketa<s n="n"/></l>                <r>amendment<s n="n"/><s n="ND"/></r></p></e>
 		<!-- ******************************
