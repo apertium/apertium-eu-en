@@ -9753,10 +9753,7 @@
 <e>       <p><l>akusatu<s n="n"/></l>                  <r>accused<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akusazio<s n="n"/></l>                 <r>indictment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akzidente<s n="n"/></l>                <r>accident<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>alaba<s n="n"/></l>                    <r>child<s n="n"/><s n="pl"/></r></p></e>
 <e>       <p><l>alaba<s n="n"/></l>                    <r>daughter<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>alaba<s n="n"/></l>                    <r>son<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>alaba<s n="n"/></l>                    <r>son<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>alaitasuna<s n="n"/></l>               <r>joy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alarma<s n="n"/></l>                   <r>alarm<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>albiste<s n="n"/></l>                  <r>news<s n="n"/><s n="ND"/></r></p></e>
@@ -13246,26 +13243,18 @@
 <e>       <p><l>satelite<s n="n"/></l>                 <r>satellite<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sedimentu<s n="n"/></l>                <r>sediment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>seduktore<s n="n"/></l>                <r>seducer<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>seduktore<s n="n"/></l>                <r>seductress<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>seduktore<s n="n"/></l>                <r>seductress<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>segundo<s n="n"/></l>                  <r>second<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL">       <p><l>segurtasun<s n="n"/></l>               <r>safety<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>segurtasun<s n="n"/></l>               <r>security<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sehaska<s n="n"/></l>                  <r>cradle<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>seinale<s n="n"/></l>                  <r>indication<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>seinale<s n="n"/></l>                  <r>sign<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>seinale<s n="n"/></l>                  <r>signal<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sekretu<s n="n"/></l>                  <r>secret<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sektore<s n="n"/></l>                  <r>sector<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>selekzio<s n="n"/></l>                 <r>selection<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>semaforo<s n="n"/></l>                 <r>semaphore<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>seme<s n="n"/></l>                     <r>child<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>seme<s n="n"/></l>                     <r>daughter<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>seme<s n="n"/></l>                     <r>son<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>seme<s n="n"/></l>                     <r>son<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>seme-alaba<s n="n"/></l>               <r>child<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>seme-alaba<s n="n"/></l>               <r>daughter<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>seme-alaba<s n="n"/></l>               <r>son<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>seme-alaba<s n="n"/></l>               <r>son<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>sen<s n="n"/></l>                      <r>instinct<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>senar<s n="n"/></l>                    <r>husband<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>senatari<s n="n"/></l>                 <r>senator<s n="n"/><s n="ND"/></r></p></e>
@@ -13273,15 +13262,13 @@
 <e>       <p><l>sendagai<s n="n"/></l>                 <r>medicine<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sendi<s n="n"/></l>                    <r>family<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sendotasun<s n="n"/></l>               <r>fortress<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>senide<s n="n"/></l>                   <r>brother<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>senide<s n="n"/></l>                   <r>sister<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sententzia<s n="n"/></l>               <r>judgement<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sententzia<s n="n"/></l>               <r>judgment<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>senide<s n="n"/></l>                   <r>sibling<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sententzia<s n="n"/></l>               <r>judgement<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>sententzia<s n="n"/></l>               <r>judgment<s n="n"/><s n="ND"/></r></p></e>
 <e c="Jur."><p><l>sententzia<s n="n"/></l>             <r>sentence<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sentikor<s n="n"/></l>                 <r>direction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sentikor<s n="n"/></l>                 <r>sense<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sentimendu<s n="n"/></l>               <r>feeling<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>sentsazio<s n="n"/></l>                <r>feeling<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>sentimendu<s n="n"/></l>               <r>sentiment<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>sentsazio<s n="n"/></l>                <r>sensation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sentsibilitate<s n="n"/></l>           <r>sensitivity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>seriotasun<s n="n"/></l>               <r>seriousness<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sexu<s n="n"/></l>                     <r>sex<s n="n"/><s n="ND"/></r></p></e>
