@@ -27,8 +27,14 @@ AC_DEFUN([PKG_CHECK_APERTIUM], [
               APERTIUM_VER=30
           ],
           [
-              PKG_CHECK_MODULES(APERTIUM, apertium-3.1 >= 3.1.0)
-              APERTIUM_VER=31
+              PKG_CHECK_MODULES(APERTIUM, apertium-3.1 >= 3.1.0,
+              [
+                  APERTIUM_VER=31
+              ],
+              [
+                  PKG_CHECK_MODULES(APERTIUM, apertium-3.2 >= 3.2.0)
+                  APERTIUM_VER=32
+              ])
           ])
       ])
   ])
@@ -37,16 +43,15 @@ AC_DEFUN([PKG_CHECK_APERTIUM], [
                           
 PKG_CHECK_APERTIUM
 
-
-AC_PATH_PROG(XSLTPROC, xsltproc, no)
-if test x$ac_cv_path_XSLTPROC = x
-then
-  AC_MSG_ERROR([You don't have xsltproc installed.])
-fi
-if test x$ac_cv_path_XSLTPROC = xno
-then
-  AC_MSG_ERROR([You don't have xsltproc installed.])
+if test $APERTIUM_VER = 10;
+then MODES="";
+else MODES="modes";
 fi
 
+ALTXSL="alt.xsl";
 
+AC_SUBST(MODES)
+AC_SUBST(ALTXSL)
+
+  
 AC_OUTPUT([Makefile])
