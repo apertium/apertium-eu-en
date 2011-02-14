@@ -1373,6 +1373,10 @@
 			    group np_symbol
 			****************************** -->
 <e>       <p><l>Afganistan<s n="np"/><s n="loc"/></l>  <r>Afghanistan<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+<e>       <p><l>Lapurdi<s n="np"/><s n="loc"/></l>  <r>Labourd<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+<e>       <p><l>Baiona<s n="np"/><s n="loc"/></l>  <r>Bayonne<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+<e>       <p><l>Euskal<b/>Herri<s n="np"/><s n="loc"/></l>  <r>Basque<b/>Country<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+<e>       <p><l>Ipar<b/>Euskal<b/>Herri<s n="np"/><s n="loc"/></l>  <r>Northern<b/>Basque<b/>Country<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Afrika<s n="np"/><s n="loc"/></l>      <r>Africa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Agirre<s n="np"/><s n="ant"/></l>      <r>Agirre<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
 <e>       <p><l>Aingeru<s n="np"/><s n="ant"/></l>     <r>Aingeru<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
