@@ -25647,7 +25647,7 @@
     <e lm="Bangui"><i>Bangui</i><par n="Barcelona__np"/>     </e>
     <e lm="Banjul"><i>Banjul</i><par n="Barcelona__np"/>     </e>
     <e lm="Barbados"><i>Barbados</i><par n="Barcelona__np"/>     </e>
-    <e lm="Basque"><i>Basque</i><par n="house__n"/>     </e>
+    <e lm="Basque"><p><l>Basque</l><r>basque</r></p><par n="house__n"/>     </e>
     <e lm="Basque Country"><i>Basque<b/>Country</i><par n="Barcelona__np"/>     </e>
     <e lm="Belize"><i>Belize</i><par n="Barcelona__np"/>     </e>
     <e lm="Benet"><i>Benet</i><par n="Mark__np"/>     </e>

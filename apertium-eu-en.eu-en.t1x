@@ -638,6 +638,9 @@
       <list-item v="hundred thousand"/>
     </def-list>
 
+    <def-list n="lang">
+      <list-item v="euskara"/>
+    </def-list>
   </section-def-lists>
   
 
@@ -3742,36 +3745,70 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="tipo_det">
           <with-param pos="2"/>
         </call-macro>
-        <out> 
-          <chunk name="pr_det_nom" case="caseFirstWord">
-            <tags>
-              <tag><var n="chunk"/></tag>
-              <tag><var n="tipusdet"/></tag>
-              <tag><var n="nbr_chunk"/></tag>
-              <tag><var n="grado"/></tag>
-            </tags>
-            <lu>
-              <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_prep"/>
-            </lu>
-            <var n="blanco"/>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_det"/> 
-              <lit-tag v="2"/> 
-              <clip pos="2" side="tl" part="ND" link-to="3"/>
-              <clip pos="2" side="tl" part="sp"/>
-            </lu>
-            <b pos="1"/>
-            <lu> 
-              <clip pos="1" side="tl" part="lemh"/> 
-              <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="ND" link-to="3"/>
-              <clip pos="1" side="tl" part="sp"/>
-              <clip pos="1" side="tl" part="lemq"/> 
-            </lu>
-          </chunk>
-        </out>
+        <choose>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <list n="lang"/>
+              </in>
+            </test>
+            <out> 
+              <chunk name="in_lang" case="caseFirstWord">
+                <tags>
+                  <tag><var n="chunk"/></tag>
+                  <tag><var n="tipusdet"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                  <tag><var n="grado"/></tag>
+                </tags>
+                <lu>
+                  <lit v="in"/> 
+                  <lit-tag v="pr"/>
+                </lu>
+                <b pos="1"/>
+                <lu> 
+                  <clip pos="1" side="tl" part="lemh"/> 
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="ND" link-to="3"/>
+                  <clip pos="1" side="tl" part="sp"/>
+                  <clip pos="1" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out> 
+              <chunk name="pr_det_nom" case="caseFirstWord">
+                <tags>
+                  <tag><var n="chunk"/></tag>
+                  <tag><var n="tipusdet"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                  <tag><var n="grado"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="3" side="tl" part="lem"/> 
+                  <clip pos="3" side="tl" part="a_prep"/>
+                </lu>
+                <var n="blanco"/>
+                <lu>
+                  <clip pos="2" side="tl" part="lem"/> 
+                  <clip pos="2" side="tl" part="a_det"/> 
+                  <lit-tag v="2"/> 
+                  <clip pos="2" side="tl" part="ND" link-to="3"/>
+                  <clip pos="2" side="tl" part="sp"/>
+                </lu>
+                <b pos="1"/>
+                <lu> 
+                  <clip pos="1" side="tl" part="lemh"/> 
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="ND" link-to="3"/>
+                  <clip pos="1" side="tl" part="sp"/>
+                  <clip pos="1" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
       </action>
     </rule>
 
