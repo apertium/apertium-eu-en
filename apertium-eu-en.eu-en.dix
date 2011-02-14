@@ -335,8 +335,8 @@
 <e r="RL"><p><l>buruz<s n="spost"/></l>                <r>over<s n="pr"/></r></p></e>
 <e r="RL"><p><l>buruz<s n="spost"/></l>                <r>at<b/>about<s n="pr"/></r></p></e>
 <e>       <p><l>ekin<s n="post"/></l>                  <r>with<s n="pr"/></r></p></e>
-<e r="RL"><p><l>en<s n="post"/></l>                    <r>from<s n="pr"/></r></p></e>
 <e>       <p><l>en<s n="post"/></l>                    <r>of<s n="pr"/></r></p></e>
+<e r="RL"><p><l>en<s n="post"/></l>                    <r>from<s n="pr"/></r></p></e>
 <e r="RL" c="MG: He fell off his chair"><p><l>en<s n="post"/></l><r>off<s n="pr"/></r></p></e>
 <e>       <p><l>entzat<s n="post"/></l>                <r>for<s n="pr"/></r></p></e>
 <e r="RL"><p><l>entzat<s n="post"/></l>                <r>in<b/>order<b/>to<s n="pr"/></r></p></e>
@@ -376,8 +376,8 @@
 <e>       <p><l>kanpo<s n="spost"/></l>                <r>out<b/>of<s n="pr"/></r></p></e>
 <e r="RL"><p><l>kanpo<s n="spost"/></l>                <r>out<s n="pr"/></r></p></e>
 <e r="RL"><p><l>kanpo<s n="spost"/></l>                <r>outside<s n="pr"/></r></p></e>
-<e>       <p><l>ko<s n="post"/></l>                    <r>from<s n="pr"/></r></p></e>
-<e r="RL"><p><l>ko<s n="post"/></l>                    <r>of<s n="pr"/></r></p></e>
+<e r="RL">       <p><l>ko<s n="post"/></l>                    <r>from<s n="pr"/></r></p></e>
+<e><p><l>ko<s n="post"/></l>                    <r>of<s n="pr"/></r></p></e>
 <e r="RL" c="MG: He fell off his chair"><p><l>ko<s n="post"/></l><r>off<s n="pr"/></r></p></e>
 <e>       <p><l>kontra<s n="spost"/></l>               <r>against<s n="pr"/></r></p></e>
 <e>       <p><l>ondoan<s n="adv"/><s n="gen"/></l>     <r>beside<s n="pr"/></r></p></e>
@@ -420,7 +420,7 @@
 		<!-- ******************************
 			    group det_symbol
 			****************************** -->
-<e>       <p><l>a<s n="det"/><s n="art"/></l>          <r>the<s n="det"/><s n="def"/><s n="sg"/></r></p></e>
+<e>       <p><l>a<s n="det"/><s n="art"/></l>          <r>the<s n="det"/><s n="def"/></r></p></e>
 <e>       <p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
