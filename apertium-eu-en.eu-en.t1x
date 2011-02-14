@@ -3748,10 +3748,16 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <choose>
           <when>
             <test>
-              <in caseless="yes">
-                <clip pos="1" side="sl" part="lem"/>
-                <list n="lang"/>
-              </in>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="3" side="sl" part="lem"/>
+                  <lit v="z"/>
+                </equal>
+                <in caseless="yes">
+                  <clip pos="1" side="sl" part="lem"/>
+                  <list n="lang"/>
+                </in>
+              </and>
             </test>
             <out> 
               <chunk name="in_lang" case="caseFirstWord">
