@@ -17,6 +17,21 @@
       <cat-item tags="n.acr"/>
     </def-cat>
 
+    <def-cat n="month">
+      <cat-item lemma="urtarril" tags="n"/>
+      <cat-item lemma="otsail" tags="n"/>
+      <cat-item lemma="martxo" tags="n"/> 
+      <cat-item lemma="apiril" tags="n"/> 
+      <cat-item lemma="maiatz" tags="n"/> 
+      <cat-item lemma="ekain" tags="n"/>
+      <cat-item lemma="uztail" tags="n"/> 
+      <cat-item lemma="abuztu" tags="n"/>
+      <cat-item lemma="irail" tags="n"/>
+      <cat-item lemma="urri" tags="n"/>
+      <cat-item lemma="azaro" tags="n"/>
+      <cat-item lemma="abendu" tags="n"/>
+    </def-cat>
+
     <def-cat n="nom_adv">
       <cat-item tags="n"/>
       <cat-item tags="np.*"/>
@@ -3324,6 +3339,134 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
+              <clip pos="1" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: NUM + ko + MONTH + a + en + NUM + a (1926ko apirilaren 21a - April 21st, 1926)">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="ko"/>
+        <pattern-item n="month"/>
+        <pattern-item n="det"/>
+        <pattern-item n="en"/>
+        <pattern-item n="num"/>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="tipo_det">
+          <with-param pos="7"/>
+        </call-macro>
+        <call-macro n="nbr_n1">
+          <with-param pos="3"/>
+        </call-macro>
+        <out> 
+          <chunk name="num_month_num" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/> 
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="nbr"/>
+              <clip pos="3" side="tl" part="lemq"/> 
+            </lu>
+            <b pos="1"/>
+            <lu> 
+              <clip pos="6" side="tl" part="lem"/> 
+              <lit-tag v="num.ord"/>
+            </lu>
+            <lu>
+              <lit v=","/>
+              <lit-tag v="cm"/>
+            </lu>
+            <b pos="2"/>
+            <lu> 
+              <clip pos="1" side="tl" part="lemh"/> 
+              <clip pos="1" side="tl" part="a_num"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: NUM + ko + MONTH + a + en + NUM + POST (1926ko apirilaren 21an - on April 21st, 1926)">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="ko"/>
+        <pattern-item n="month"/>
+        <pattern-item n="det"/>
+        <pattern-item n="en"/>
+        <pattern-item n="num"/>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="tipo_det">
+          <with-param pos="7"/>
+        </call-macro>
+        <call-macro n="nbr_n1">
+          <with-param pos="3"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="7" side="sl" part="lemh"/>
+                <lit v="an"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="7" side="tl" part="lemh"/>
+              <lit v="on"/>
+            </let>
+          </when>
+        </choose>
+        <out> 
+          <chunk name="pr_num_month_num" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="7" side="tl" part="lem"/> 
+              <clip pos="7" side="tl" part="a_prep"/> 
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/> 
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="nbr"/>
+              <clip pos="3" side="tl" part="lemq"/> 
+            </lu>
+            <b pos="2"/>
+            <lu> 
+              <clip pos="6" side="tl" part="lem"/> 
+              <lit-tag v="num.ord"/>
+            </lu>
+            <lu>
+              <lit v=","/>
+              <lit-tag v="cm"/>
+            </lu>
+            <b pos="3"/>
+            <lu> 
+              <clip pos="1" side="tl" part="lemh"/> 
+              <clip pos="1" side="tl" part="a_num"/>
+              <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
           </chunk>
