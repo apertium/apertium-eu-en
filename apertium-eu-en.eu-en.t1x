@@ -3400,8 +3400,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </out>
       </action>
     </rule>
-<!--
-    <rule comment="REGLA: NUM + ko + MONTH + a + en + NUM + a (2009ko maiatzak 16 - May 16 2009)">
+    <rule comment="REGLA: NUM + ko + MONTH + a + k + NUM (2009ko maiatzak 16 - May 16 2009)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="ko"/>
@@ -3413,9 +3412,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
-        <call-macro n="tipo_det">
-          <with-param pos="7"/>
         </call-macro>
         <call-macro n="nbr_n1">
           <with-param pos="3"/>
@@ -3450,7 +3446,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </out>
       </action>
     </rule>
--->
     <rule comment="REGLA: NUM + ko + MONTH + a + en + NUM + POST (1926ko apirilaren 21an - on April 21st, 1926)">
       <pattern>
         <pattern-item n="num"/>
