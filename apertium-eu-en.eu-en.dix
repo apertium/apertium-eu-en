@@ -1373,6 +1373,7 @@
 			    group np_symbol
 			****************************** -->
 <e>       <p><l>Afganistan<s n="np"/><s n="loc"/></l>  <r>Afghanistan<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+<e>       <p><l>Donostia<s n="np"/><s n="loc"/></l>  <r>Donostia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Lapurdi<s n="np"/><s n="loc"/></l>  <r>Labourd<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Baiona<s n="np"/><s n="loc"/></l>  <r>Bayonne<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Euskal<b/>Herri<s n="np"/><s n="loc"/></l>  <r>Basque<b/>Country<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
@@ -5186,9 +5187,9 @@
 <e r="RL" c="publicar una revista"><p><l>argitaratu<s n="vblex"/></l><r>issue<s n="vblex"/></r></p></e>
 <e>       <p><l>argitaratu<s n="vblex"/></l>           <r>publish<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>argitaratu<s n="vblex"/></l>       <r>publish<s n="vblex"/></r></p></e>
-<e r="RL"><p><l>argitu<s n="vblex"/></l>               <r>clarify<s n="vblex"/></r></p></e>
+<e><p><l>argitu<s n="vblex"/></l>               <r>clarify<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>argitu<s n="vblex"/></l>               <r>clear<s n="vblex"/></r></p></e>
-<e>       <p><l>argitu<s n="vblex"/></l>               <r>light<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>argitu<s n="vblex"/></l>               <r>light<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>argitu<s n="vblex"/></l>    <r>allay<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>argitu<s n="vblex"/></l>           <r>brighten<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>argitu<s n="vblex"/></l>    <r>clarify<s n="vblex"/></r></p></e>
