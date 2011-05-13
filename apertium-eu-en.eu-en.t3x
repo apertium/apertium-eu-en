@@ -1011,7 +1011,7 @@
 	</let>
 	<out>
 	  <lu>
-	    <lit v="haber"/>
+	    <lit v="have"/>
 	    <lit-tag v="vbhaver.pri"/>
 	    <clip pos="0" part="pers"/>
 	    <clip pos="0" part="nbr"/>
@@ -1020,7 +1020,7 @@
 	  <lu>
 	    <clip pos="1" part="lemh"/>
 	    <clip pos="1" part="a_verb"/>
-	    <lit-tag v="pp.m.sg"/>
+            <lit-tag v="pp"/>
 	    <clip pos="1" part="lemq"/>
 	  </lu> 
 	</out>
