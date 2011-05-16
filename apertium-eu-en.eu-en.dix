@@ -1380,6 +1380,7 @@
 <e>       <p><l>Ipar<b/>Euskal<b/>Herri<s n="np"/><s n="loc"/></l>  <r>Northern<b/>Basque<b/>Country<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Afrika<s n="np"/><s n="loc"/></l>      <r>Africa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Agirre<s n="np"/><s n="ant"/></l>      <r>Agirre<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+<e>       <p><l>Taliban<s n="np"/><s n="al"/></l>      <r>Taliban<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
 <e>       <p><l>Aingeru<s n="np"/><s n="ant"/></l>     <r>Aingeru<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Aintzane<s n="np"/><s n="ant"/></l>    <r>Aintzane<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>Alberto<s n="np"/><s n="ant"/></l>     <r>Alberto<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -1602,6 +1603,9 @@
 <e>       <p><l>Aragoiko<s n="adj"/></l>               <r>aragonese<s n="adj"/></r></p></e>
 <e>       <p><l>Kubako<s n="adj"/></l>                 <r>cuban<s n="adj"/></r></p></e>
 <e>       <p><l>Mallorcako<s n="adj"/></l>             <r>majorcan<s n="adj"/></r></p></e>
+<e><p><l>koordinatu<s n="adj"/><s n="izo"/></l><r>coordinated<s n="adj"/></r></p></e>
+<e><p><l>kitzikagarri<s n="adj"/><s n="izo"/></l><r>exciting<s n="adj"/></r></p></e>
+<e><p><l>taliban<s n="adj"/><s n="izo"/></l><r>taliban<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>abangoardista<s n="adj"/><s n="izo"/></l><r>avant-garde<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>abantailatsu<s n="adj"/><s n="izo"/></l><r>advantageous<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>abdominal<s n="adj"/><s n="izo"/></l><r>abdominal<s n="adj"/></r></p></e>
@@ -4990,6 +4994,7 @@
 <e r="RL"><p><l>agitatu<s n="vblex"/></l>              <r>wave<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>agortu<s n="vblex"/></l>           <r>exhaust<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>agur<b/>egin<s n="vblex"/></l>         <r>fire<s n="vblex"/></r></p></e>
+<e><p><l>lan<b/>koordinatua<b/>egin<s n="vblex"/></l>         <r>work<g><b/>in<b/>coordination</g><s n="vblex"/></r></p></e>
 <e r="RL"><p><l>agur<b/>egin<s n="vblex"/></l>         <r>sack<s n="vblex"/></r></p></e>
 <e>       <p><l>agur<b/>egin<s n="vblex"/></l>         <r>greet<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>agur_egin<s n="vblex"/></l>        <r>bow<s n="vblex"/></r></p></e>
@@ -7202,7 +7207,7 @@
 <e a="matxin"><p><l>harrapatu<s n="vblex"/></l>        <r>grab<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>harrapatu<s n="vblex"/></l>        <r>snare<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>harrapatu<s n="vblex"/></l>        <r>trap<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>harremanetan_jarri<s n="vblex"/></l><r>contact<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>harremanetan<b/>jarri<s n="vblex"/></l><r>contact<s n="vblex"/></r></p></e>
 <e>       <p><l>harritu<s n="vblex"/></l>              <r>surprise<s n="vblex"/></r></p></e>
 <e>       <p><l>harritu<s n="vblex"/></l>              <r>baffle<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>harritu<s n="vblex"/></l>          <r>amaze<s n="vblex"/></r></p></e>
@@ -11425,8 +11430,8 @@
 <e>       <p><l>hari<s n="n"/></l>                     <r>thread<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>haritz<s n="n"/></l>                   <r>oak<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>harmonia<s n="n"/></l>                 <r>harmony<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>harreman<s n="n"/></l>                 <r>account<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>harreman<s n="n"/></l>                 <r>relation<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>harreman<s n="n"/></l>                 <r>account<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>harreman<s n="n"/></l>                 <r>relation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>harreman<s n="n"/></l>                 <r>relationship<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>harresi<s n="n"/></l>                  <r>rampart<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>harresi<s n="n"/></l>                  <r>wall<s n="n"/><s n="ND"/></r></p></e>
@@ -11938,6 +11943,7 @@
 <e>       <p><l>jipoi<s n="n"/></l>                    <r>licking<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>joera<s n="n"/></l>                    <r>tendency<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>joera<s n="n"/></l>                    <r>trend<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>matxinada<s n="n"/></l>            <r>rebellion<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>jokabide<s n="n"/></l>                 <r>behaviour<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>jokaera<s n="n"/></l>                  <r>gig<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>jokaera<s n="n"/></l>                  <r>performance<s n="n"/><s n="ND"/></r></p></e>
@@ -12180,6 +12186,8 @@
 <e r="RL"><p><l>kontratu<s n="n"/></l>                 <r>agreement<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>kontratu<s n="n"/></l>                 <r>contract<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>kontribuzio<s n="n"/></l>              <r>contribution<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>ekarpen<s n="n"/></l>              <r>contribution<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>garrantzi<b/>handiko<b/>ekarpen<s n="n"/></l>              <r>contribution<g><b/>of<b/>great<b/>importance</g><s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>kontrol<s n="n"/></l>                  <r>check<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>kontrol<s n="n"/></l>                  <r>control<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>kontrol<s n="n"/></l>                  <r>hold<s n="n"/><s n="ND"/></r></p></e>
@@ -12634,6 +12642,8 @@
 <e c="check"><p><l>moral<s n="n"/></l>                 <r>moral<s n="n"/><s n="pl"/></r></p></e>
 <e>       <p><l>moraltasun<s n="n"/></l>               <r>morality<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>morfologia<s n="n"/></l>               <r>morphology<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>immunologia<s n="n"/></l>               <r>immunology<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>fisiologia<s n="n"/></l>               <r>physiology<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>morrontza<s n="n"/></l>                <r>servitude<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mortero<s n="n"/></l>                  <r>mortar<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mosaiko<s n="n"/></l>                  <r>mosaic<s n="n"/><s n="ND"/></r></p></e>
@@ -13291,6 +13301,7 @@
 <e>       <p><l>sintesi<s n="n"/></l>                  <r>synthesis<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sintoma<s n="n"/></l>                  <r>symptom<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sistema<s n="n"/></l>                  <r>system<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>immunitate-sistema<s n="n"/></l>                  <r>immune<b/>system<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL">       <p><l>so<s n="n"/></l>                       <r>glance<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>so<s n="n"/></l>                       <r>look<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>sofa<s n="n"/></l>                     <r>sofa<s n="n"/><s n="ND"/></r></p></e>
@@ -13399,7 +13410,8 @@
 <e>       <p><l>tenplu<s n="n"/></l>                   <r>temple<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>tentazio<s n="n"/></l>                 <r>temptation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>tentsio<s n="n"/></l>                  <r>strain<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>tentsio<s n="n"/></l>                  <r>stress<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>tentsio<s n="n"/></l>                  <r>stress<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>estres<s n="n"/></l>                  <r>stress<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>tentsio<s n="n"/></l>                  <r>tension<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>teoria<s n="n"/></l>                   <r>theory<s n="n"/><s n="ND"/></r></p></e>
 <e c="Ling."><p><l>termino<s n="n"/></l>               <r>term<s n="n"/><s n="ND"/></r></p></e>

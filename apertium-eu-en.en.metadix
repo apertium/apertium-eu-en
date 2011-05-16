@@ -14675,6 +14675,7 @@
     <e lm="Antoni"><i>Antoni</i><par n="Mark__np"/>    </e>
     <e lm="Antonio"><i>Antonio</i><par n="Mark__np"/>    </e>
     <e lm="Apertium"><i>Apertium</i><par n="Linux__np"/>    </e>
+    <e lm="Taliban"><i>Taliban</i><par n="Linux__np"/>    </e>
     <e lm="World Bank"><i>World<b/>Bank</i><par n="Linux__np"/>    </e>
     <e lm="International Bank for Reconstruction and Development"><i>International<b/>Bank<b/>for<b/>Reconstruction<b/>and<b/>Development</i><par n="Linux__np"/>    </e>
     <e lm="Battle of Austerlitz"><i>Battle<b/>of<b/>Austerlitz</i><par n="Linux__np"/>    </e>
@@ -16322,6 +16323,7 @@
     <e lm="contraindication"><i>contraindication</i><par n="house__n"/>    </e>
     <e lm="contrast"><i>contrast</i><par n="house__n"/>    </e>
     <e lm="contribution"><i>contribution</i><par n="house__n"/>    </e>
+    <e lm="contribution of great importance"><i>contribution</i><par n="house__n"/><p><l><b/>of<b/>great<b/>importance</l><r><g><b/>of<b/>great<b/>importance</g></r></p></e>
     <e lm="control"><i>control</i><par n="house__n"/>    </e>
     <e lm="controller" a="doriua"><i>controller</i><par n="house__n"/>    </e>
     <e lm="controversy" a="doriua"><i>controvers</i><par n="bab/y__n"/>    </e>
@@ -17733,6 +17735,8 @@
     <e lm="intention"><i>intention</i><par n="house__n"/>    </e>
     <e lm="intentionality"><i>intentionalit</i><par n="bab/y__n"/>    </e>
     <e lm="intermediary"><i>intermediar</i><par n="bab/y__n"/>    </e>
+    <e lm="coordinated"><i>coordinated</i><par n="expensive__adj"/></e>
+    <e lm="exciting"><i>exciting</i><par n="expensive__adj"/></e>
     <e lm="avant-garde"><i>avant-garde</i><par n="expensive__adj"/></e>
     <e lm="advantageous"><i>advantageous</i><par n="expensive__adj"/></e>
     <e lm="adventurous"><i>adventurous</i><par n="expensive__adj"/></e>
@@ -20020,6 +20024,7 @@
     <e lm="syringe"><i>syringe</i><par n="house__n"/>    </e>
     <e lm="syrup"><i>syrup</i><par n="house__n"/>    </e>
     <e lm="system"><i>system</i><par n="house__n"/>    </e>
+    <e lm="immune system"><i>immune<b/>system</i><par n="house__n"/>    </e>
     <e lm="2-3-5 system"><i>2-3-5<b/>system</i><par n="house__n"/></e>
     <e lm="4-2-4 system"><i>4-2-4<b/>system</i><par n="house__n"/></e>
     <e lm="4-4-2 system"><i>4-4-2<b/>system</i><par n="house__n"/></e>
@@ -20801,6 +20806,7 @@
     <e lm="Danish"><p><l>Danish</l><r>danish</r></p><par n="expensive__adj"/></e>
     <e lm="Egyptian"><p><l>Egyptian</l><r>egyptian</r></p><par n="expensive__adj"/></e>
     <e lm="English"><p><l>English</l><r>english</r></p><par n="expensive__adj"/></e>
+    <e lm="Taliban"><p><l>Taliban</l><r>taliban</r></p><par n="expensive__adj"/></e>
     <e lm="European"><p><l>European</l><r>european</r></p><par n="expensive__adj"/></e>
     <e lm="Falangist"><p><l>Falangist</l><r>falangist</r></p><par n="expensive__adj"/></e>
     <e lm="Finnish"><p><l>Finnish</l><r>finnish</r></p><par n="expensive__adj"/></e>
@@ -24159,6 +24165,7 @@
     <e lm="witness"><i>witness</i><par n="approach__vblex"/>    </e>
     <e lm="wonder"><i>wonder</i><par n="accept__vblex"/>    </e>
     <e lm="work"><i>work</i><par n="accept__vblex"/>    </e>
+    <e lm="work in coordination"><i>work</i><par n="accept__vblex"/><p><l><b/>in<b/>coordination</l><r><g><b/>in<b/>coordination</g></r></p></e>
     <e lm="work out"><i>work</i><par n="accept__vblex"/>      <p>        <l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="worry" a="doriua"><i>worr</i><par n="appl/y__vblex"/>    </e>
     <e lm="worsen"><i>worsen</i><par n="accept__vblex"/>    </e>
