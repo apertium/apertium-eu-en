@@ -9053,20 +9053,20 @@
 <e a="matxin"><p><l>soldatu<s n="vblex"/></l>          <r>weld<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>solidotu<s n="vblex"/></l>         <r>solidify<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>soropilez_estali<s n="vblex"/></l> <r>turf<s n="vblex"/></r></p></e>
-<e>       <p><l>sortu<s n="vblex"/></l>                <r>conceive<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>sortu<s n="vblex"/></l>                <r>conceive<s n="vblex"/></r></p></e>
 <e>       <p><l>sortu<s n="vblex"/></l>                <r>create<s n="vblex"/></r></p></e>
-<e>       <p><l>sortu<s n="vblex"/></l>                <r>breed<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>sortu<s n="vblex"/></l>                <r>breed<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>sortu<s n="vblex"/></l>                <r>raise<s n="vblex"/></r></p></e>
-<e>       <p><l>sortu<s n="vblex"/></l>                <r>generate<s n="vblex"/></r></p></e>
-<e>       <p><l>sortu<s n="vblex"/></l>                <r>originate<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>sortu<s n="vblex"/></l>            <r>arise<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>sortu<s n="vblex"/></l>            <r>create<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>sortu<s n="vblex"/></l>            <r>engender<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>sortu<s n="vblex"/></l>            <r>establish<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>sortu<s n="vblex"/></l>            <r>found<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>sortu<s n="vblex"/></l>            <r>generate<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>sortu<s n="vblex"/></l>            <r>originate<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>sortu<s n="vblex"/></l>            <r>pose<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>sortu<s n="vblex"/></l>                <r>generate<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>sortu<s n="vblex"/></l>                <r>originate<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>sortu<s n="vblex"/></l>            <r>arise<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>sortu<s n="vblex"/></l>            <r>create<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>sortu<s n="vblex"/></l>            <r>engender<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>sortu<s n="vblex"/></l>            <r>establish<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>sortu<s n="vblex"/></l>            <r>found<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>sortu<s n="vblex"/></l>            <r>generate<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>sortu<s n="vblex"/></l>            <r>originate<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>sortu<s n="vblex"/></l>            <r>pose<s n="vblex"/></r></p></e>
 <e>       <p><l>sostengatu<s n="vblex"/></l>           <r>sustain<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>sostengatu<s n="vblex"/></l>       <r>support<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>sostengatu<s n="vblex"/></l>       <r>sustain<s n="vblex"/></r></p></e>
