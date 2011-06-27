@@ -71,6 +71,7 @@
  <def-cat n="SP4">
       <cat-item name="pr_det_adj_nom"/>
       <cat-item name="pr_det_nom_adj"/>
+      <cat-item name="pr_det_nom_ant"/>
       <cat-item name="pr_d_num_n"/>
       <cat-item name="pr_pos_adj_n"/>
       <cat-item name="pr_pos_n_adj"/>
@@ -118,7 +119,10 @@
       <cat-item name="pr_d_n_pr_d_n_pr_d_n"/>
     </def-cat>
 
-
+    <def-cat n="vbconj">
+      <cat-item name="vbconj"/>
+      <cat-item name="lakoan_egon"/>
+    </def-cat>
 
   </section-def-cats>
 
@@ -223,6 +227,121 @@
           </when>     
         </choose>
      </def-macro>
+
+  <def-macro n="fix_verb" npar="1">
+	<choose>
+	  <when>
+	    <test>
+              <and>
+	        <equal>
+	  	  <clip pos="1" part="a_verb"/>
+		  <lit-tag v="vbser"/>
+	        </equal>
+	        <equal>
+	  	  <clip pos="1" part="pers"/>
+		  <lit-tag v="p1"/>
+	        </equal>
+	        <equal>
+	  	  <clip pos="1" part="nbr"/>
+		  <lit-tag v="sg"/>
+	        </equal>
+              </and>
+	    </test>
+	    <let>
+	      <clip pos="1" part="pers"/>
+	      <clip pos="1" part="pers"/>
+	    </let>
+	    <let>
+	      <clip pos="1" part="nbr"/>
+	      <clip pos="1" part="nbr"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+              <and>
+	        <equal>
+	  	  <clip pos="1" part="pers"/>
+		  <lit-tag v="p3"/>
+	        </equal>
+	        <equal>
+	  	  <clip pos="1" part="nbr"/>
+		  <lit-tag v="sg"/>
+	        </equal>
+              </and>
+	    </test>
+	    <let>
+	      <clip pos="1" part="pers"/>
+	      <clip pos="1" part="pers"/>
+	    </let>
+	    <let>
+	      <clip pos="1" part="nbr"/>
+	      <clip pos="1" part="nbr"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+              <and>
+	        <equal>
+		  <clip pos="1" part="temps"/>
+		  <lit-tag v="past"/>
+	        </equal>
+                <not>
+  	          <equal>
+	  	    <clip pos="1" part="a_verb"/>
+		    <lit-tag v="vbser"/>
+	          </equal>
+                </not>
+              </and>
+	    </test>
+	    <let>
+	      <clip pos="1" part="pers"/>
+	      <lit v=""/>
+	    </let>
+	    <let>
+	      <clip pos="1" part="nbr"/>
+	      <lit v=""/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+              <and>
+	        <equal>
+		  <clip pos="1" part="temps"/>
+		  <lit-tag v="pri"/>
+	        </equal>
+                <not>
+                  <and>
+	            <equal>
+		      <clip pos="1" part="a_verb"/>
+		      <lit-tag v="vbser"/>
+	            </equal>
+	            <equal>
+		      <clip pos="1" part="pers"/>
+		      <lit-tag v="p3"/>
+	            </equal>
+	            <equal>
+		      <clip pos="1" part="nbr"/>
+		      <lit-tag v="sg"/>
+	            </equal>
+                  </and>
+                </not>
+              </and>
+	    </test>
+	    <let>
+	      <clip pos="1" part="temps"/>
+	      <lit-tag v="pres"/>
+	    </let>
+	    <let>
+	      <clip pos="1" part="pers"/>
+	      <lit v=""/>
+	    </let>
+	    <let>
+	      <clip pos="1" part="nbr"/>
+	      <lit v=""/>
+	    </let>
+	  </when>
+	</choose>
+  </def-macro>
 
 </section-def-macros>
 
@@ -936,11 +1055,14 @@
 	    </let>
 	    <out>
 	      <lu>
+                <lit v="will"/>
+                <lit-tag v="vaux.inf"/>
+	      </lu> 
+              <b/>
+	      <lu>
 		<clip pos="1" part="lemh"/>
 		<clip pos="1" part="a_verb"/>
-		<clip pos="1" part="temps"/>
-		<clip pos="0" part="pers"/>
-		<clip pos="0" part="nbr"/>
+                <lit-tag v="inf"/>
 		<clip pos="1" part="lemq"/>
 	      </lu> 
 	    </out>
@@ -953,6 +1075,54 @@
 	    </out>
 	  </otherwise>
 	</choose>
+      </action>
+</rule>
+
+<rule>
+      <pattern>
+        <pattern-item n="vbconj"/>
+      </pattern>
+      <action>
+        <call-macro n="fix_verb">
+          <with-param pos="1"/>
+        </call-macro>
+	<out>
+	  <lu>
+	    <clip pos="1" part="whole"/>
+	  </lu>
+	</out>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <lu-count/>
+                <lit v="2"/>
+              </equal>
+            </test>
+            <out>
+              <b pos="1"/>
+  	      <lu>
+	        <clip pos="2" part="whole"/>
+	      </lu>
+            </out>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <lu-count/>
+                <lit v="3"/>
+              </equal>
+            </test>
+            <out>
+              <b pos="2"/>
+  	      <lu>
+	        <clip pos="3" part="whole"/>
+	      </lu>
+            </out>
+          </when>
+        </choose>
       </action>
 </rule>
 

@@ -66,6 +66,7 @@
       <cat-item lemma="subjunt" tags="SV.*"/>
       <cat-item lemma="vbconj_inf" tags="SV.*"/>
       <cat-item lemma="estar_ger" tags="SV.*"/>
+      <cat-item lemma="lakoan_egon" tags="SV.*"/>
     </def-cat> 
 
 <def-cat n="ukan_izan">

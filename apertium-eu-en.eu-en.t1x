@@ -10,6 +10,10 @@
       <cat-item tags="n"/>
     </def-cat>
 
+    <def-cat n="ant">
+      <cat-item tags="np.ant"/>
+      <cat-item tags="np.ant.*"/>
+    </def-cat>
 
     <def-cat n="nom_np">
       <cat-item tags="n"/>
@@ -119,6 +123,12 @@
       <cat-item tags="vbsint.*"/>
     </def-cat>
 
+    <def-cat n="lakoan">
+      <cat-item lemma="lakoan" tags="cnjadv"/>
+    </def-cat>
+    <def-cat n="egon">
+      <cat-item lemma="egon" tags="vbsint.*"/>
+    </def-cat>
 
     <def-cat n="vbper">
       <cat-item tags="vbper.*"/>
@@ -583,7 +593,7 @@
       <attr-item tags="cni"/>
       <attr-item tags="imp"/>
       <attr-item tags="izen"/>
-      <attr-item tags="ifi"/>
+      <attr-item tags="past"/>
       <attr-item tags="potpr"/>
       <attr-item tags="potps"/>
       <attr-item tags="poth"/>
@@ -1690,6 +1700,10 @@
                     <clip pos="4" side="tl" part="nbr"/> 
                     <lit-tag v="sg"/> 
                   </let>
+                  <let>
+                    <var n="nbr_chunk"/> 
+                    <lit-tag v="sg"/> 
+                  </let>
                 </when>
               </choose>
             </when>
@@ -2097,6 +2111,23 @@
       </choose>
     </def-macro>
 
+    <def-macro n="num_ord" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="a_adj"/>
+              <lit-tag v="num"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_adj"/>
+            <lit-tag v="num.ord"/>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
+
 
     <def-macro n="posesivo" npar="2"><!--Parámetro 1 = pronombre/demostrativo. Parámetro 2 = nombre -->
       <let>
@@ -2462,6 +2493,10 @@
             <var n="tipusdet"/>
             <lit-tag v="ind"/>
           </let>
+          <let>
+            <clip pos="1" side="tl" part="tipus_adj"/>
+            <lit-tag v="ord"/>
+          </let>
         </when>
         <otherwise>
           <let>
@@ -2618,7 +2653,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                 <tag><lit-tag v="adv"/></tag>
               </tags>
               <lu>
-                <lit v="perhaps"/>
+                <lit v="maybe"/>
                 <lit-tag v="adv"/>
               </lu>
             </chunk>
@@ -4095,6 +4130,66 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </choose>
       </action>
     </rule>
+    <rule comment="REGLA: ANT + NOM + DET + POST (etxera)">
+      <pattern>
+        <pattern-item n="ant"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="det"/>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="concord_n2">
+          <with-param pos="2"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="SPgenitivo">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="tipo_det">
+          <with-param pos="3"/>
+        </call-macro>
+            <out> 
+              <chunk name="pr_det_nom_ant" case="caseFirstWord">
+                <tags>
+                  <tag><var n="chunk"/></tag>
+                  <tag><var n="tipusdet"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                  <tag><var n="grado"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="4" side="tl" part="lem"/> 
+                  <clip pos="4" side="tl" part="a_prep"/>
+                </lu>
+                <var n="blanco"/>
+                <lu>
+                  <clip pos="3" side="tl" part="lem"/> 
+                  <clip pos="3" side="tl" part="a_det"/> 
+                  <lit-tag v="2"/> 
+                  <clip pos="3" side="tl" part="ND" link-to="3"/>
+                  <clip pos="3" side="tl" part="sp"/>
+                </lu>
+                <b pos="1"/>
+                <lu> 
+                  <clip pos="2" side="tl" part="lemh"/> 
+                  <clip pos="2" side="tl" part="a_nom"/>
+                  <clip pos="2" side="tl" part="ND" link-to="3"/>
+                  <clip pos="2" side="tl" part="sp"/>
+                  <clip pos="2" side="tl" part="lemq"/> 
+                </lu>
+                <b pos="2"/>
+                <lu> 
+                  <clip pos="1" side="tl" part="lemh"/> 
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="sp"/>
+                  <clip pos="1" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: NOM + ADJ + DET + POST (etxe gorrira)">
       <pattern>
@@ -5361,6 +5456,9 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="2"/>
           <with-param pos="1"/>
           <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="num_ord">
+          <with-param pos="1"/>
         </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="3"/>
@@ -11438,6 +11536,62 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: lakoan egon - I think...">
+      <pattern>
+        <pattern-item n="lakoan"/>
+        <pattern-item n="egon"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="verbal_flex">
+          <with-param pos="2"/>
+        </call-macro>
+        <let>
+          <clip pos="2" side="tl" part="lem"/>
+          <lit v="think"/>
+        </let>
+        <let>
+          <clip pos="2" side="tl" part="a_verb"/>
+          <lit-tag v="vblex"/>
+        </let>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="2" side="tl" part="temps"/>
+                <lit-tag v="onpr"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="2" side="tl" part="temps"/>
+              <lit-tag v="cni"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="lakoan_egon" case="caseSecondWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="2" side="tl" part="temps"/></tag><!--en aquesta regla només posem el temps, per a tractar formes compostes separades en el t2x ('ez dutela galdeketa eman') -->
+              <tag><clip pos="2" side="tl" part="persnbr"/></tag>
+              <tag><clip pos="2" side="sl" part="nor"/></tag>
+              <tag><clip pos="2" side="sl" part="nori"/></tag>
+              <tag><clip pos="2" side="sl" part="nork"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="persnbr"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
 
@@ -11545,7 +11699,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
             <out>
               <chunk name="vbconj" case="caseSecondWord">
@@ -11608,7 +11762,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               </equal>
             </test>
             <out>
-              <chunk name="vbconj" case="caseSecondWord">
+              <chunk name="vbconj_pp" case="caseSecondWord">
                 <tags>
                   <tag><lit-tag v="SV"/></tag>
                   <tag><clip pos="3" side="tl" part="a_verb"/></tag>
@@ -11643,7 +11797,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
             <out>
               <chunk name="vbconj" case="caseSecondWord">
@@ -12684,7 +12838,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="3" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
             <out>
               <chunk name="vbconj">
@@ -12941,7 +13095,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="4" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
             <out>
               <chunk name="vbconj">
@@ -13239,7 +13393,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
             <out>
               <chunk name="vbconj">
@@ -13541,7 +13695,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
             <out>
               <chunk name="vbconj">
@@ -14108,7 +14262,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
             <out>
               <chunk name="vbconj" case="caseSecondWord">
@@ -14260,7 +14414,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
             <out>
               <chunk name="vbconj" case="caseSecondWord">
@@ -14830,7 +14984,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="2" side="tl" part="temps"/>
-              <lit-tag v="ifi"/>
+              <lit-tag v="past"/>
             </let>
           </when>
         </choose>
