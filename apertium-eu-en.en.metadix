@@ -18066,6 +18066,7 @@
     <e lm="landscape"><i>landscape</i><par n="house__n"/>    </e>
     <e lm="lane"><i>lane</i><par n="house__n"/>    </e>
     <e lm="language"><i>language</i><par n="house__n"/>    </e>
+    <e lm="language group"><i>language<b/>group</i><par n="house__n"/>    </e>
     <e lm="lantern"><i>lantern</i><par n="house__n"/>    </e>
     <e lm="lapidation"><i>lapidation</i><par n="house__n"/>    </e>
     <e lm="lapse"><i>lapse</i><par n="house__n"/>    </e>
