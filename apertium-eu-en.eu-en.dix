@@ -1344,6 +1344,7 @@
 		<!-- ******************************
 			    group cnjadv_symbol
 			****************************** -->
+<e>       <p><l>lakoan<s n="cnjadv"/></l>               <r>supposedly<s n="adv"/></r></p></e>
 <e>       <p><l>arren<s n="cnjadv"/></l>               <r>although<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>arren<s n="cnjadv"/></l>               <r>though<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ba<s n="cnjsub"/></l>                  <r>if<s n="cnjadv"/></r></p></e>
@@ -1532,6 +1533,7 @@
 <e>       <p><l>Mexiko<s n="np"/><s n="loc"/></l>      <r>Mexico<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Miguel<s n="np"/><s n="ant"/></l>      <r>Miguel<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Mikel<s n="np"/><s n="ant"/></l>       <r>Mikel<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>J.<b/>R.<b/>R.<b/>Tolkien<s n="np"/><s n="ant"/></l>       <r>J.<b/>R.<b/>R.<b/>Tolkien<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Milan<s n="np"/><s n="loc"/></l>       <r>Milan<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Miren<s n="np"/><s n="ant"/></l>       <r>Miren<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>Modesto<s n="np"/><s n="ant"/></l>     <r>Modesto<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -13951,7 +13953,7 @@
 <e c="preguntes i negatives" r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
 <e c="frases negatives" r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l>       <r>no<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>inor<s n="prn"/><s n="ind"/></l>       <r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>inor<s n="prn"/><s n="ind"/></l>       <r>nobody<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
 <e c="preguntes i negatives"><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>inortxo<s n="prn"/><s n="ind"/></l>    <r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>nahinor<s n="prn"/><s n="ind"/></l>    <r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
