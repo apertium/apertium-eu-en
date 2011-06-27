@@ -1662,6 +1662,7 @@
 <e>       <p><l>afrikar<s n="adj"/></l>                <r>african<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>ageri<s n="adj"/><s n="izo"/></l>  <r>palpable<s n="adj"/></r></p></e>
 <e>       <p><l>aginduzko<s n="adj"/></l>              <r>imperative<s n="adj"/></r></p></e>
+<e>       <p><l>kondairazko<s n="adj"/><s n="izl"/></l>              <r>legendary<s n="adj"/></r></p></e>
 <e r="RL" a="matxin"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>bossy<s n="adj"/><s n="sint"/></r></p></e>
 <e a="matxin"><p><l>agintzaile<s n="adj"/><s n="izo"/></l><r>pushy<s n="adj"/><s n="sint"/></r></p></e>
 <e a="matxin"><p><l>agnostiko<s n="adj"/><s n="izo"/></l><r>agnostic<s n="adj"/></r></p></e>
@@ -8076,11 +8077,11 @@
 <e>       <p><l>koipetu<s n="vblex"/></l>              <r>grease<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>koipeztatu<s n="vblex"/></l>       <r>grease<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>koipeztatu<s n="vblex"/></l>       <r>oil<s n="vblex"/></r></p></e>
-<e>       <p><l>kokatu<s n="vblex"/></l>               <r>install<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>kokatu<s n="vblex"/></l>               <r>install<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>kokatu<s n="vblex"/></l>               <r>set<g><b/>up</g><s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>kokatu<s n="vblex"/></l>           <r>alight<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>kokatu<s n="vblex"/></l>           <r>alight<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>kokatu<s n="vblex"/></l>           <r>base<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>kokatu<s n="vblex"/></l>           <r>site<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>kokatu<s n="vblex"/></l>           <r>site<s n="vblex"/></r></p></e>
 <e>       <p><l>kolaboratu<s n="vblex"/></l>           <r>collaborate<s n="vblex"/></r></p></e>
 <e>       <p><l>kolapsatu<s n="vblex"/></l>            <r>collapse<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>kolatu<s n="vblex"/></l>           <r>cement<s n="vblex"/></r></p></e>
@@ -11862,6 +11863,7 @@
 <e>       <p><l>istant<s n="n"/></l>                   <r>instant<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>istilu<s n="n"/></l>                   <r>riot<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>istorio<s n="n"/></l>                  <r>history<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>kondaira<s n="n"/></l>                  <r>history<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>istorio<s n="n"/></l>                  <r>story<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>istripu<s n="n"/></l>                  <r>accident<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>istripu<s n="n"/></l>                  <r>crash<s n="n"/><s n="ND"/></r></p></e>
