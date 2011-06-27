@@ -14000,7 +14000,7 @@
 			    group rel_symbol
 			****************************** -->
 <e>       <p><l>n<s n="rel"/></l>                      <r>that<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="LR">       <p><l>larik<s n="rel"/></l>                      <r>while<s n="cnjadv"/></r></p></e>
+<e r="LR">       <p><l>larik<s n="rel"/></l>                      <r></r></p></e>
 <e r="LR">       <p><l>ino<s n="rel"/></l>                      <r></r></p></e>
 <e r="RL"><p><l>n<s n="rel"/></l>                      <r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>n<s n="rel"/></l>                      <r>who<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
