@@ -1609,6 +1609,7 @@
 <e>       <p><l>Kubako<s n="adj"/></l>                 <r>cuban<s n="adj"/></r></p></e>
 <e>       <p><l>Mallorcako<s n="adj"/></l>             <r>majorcan<s n="adj"/></r></p></e>
 <e><p><l>koordinatu<s n="adj"/><s n="izo"/></l><r>coordinated<s n="adj"/></r></p></e>
+<e><p><l>eslaviar<s n="adj"/><s n="izo"/></l><r>slavic<s n="adj"/></r></p></e>
 <e><p><l>kitzikagarri<s n="adj"/><s n="izo"/></l><r>exciting<s n="adj"/></r></p></e>
 <e><p><l>taliban<s n="adj"/><s n="izo"/></l><r>taliban<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>abangoardista<s n="adj"/><s n="izo"/></l><r>avant-garde<s n="adj"/></r></p></e>
@@ -11001,8 +11002,23 @@
 <e>       <p><l>eskuz_idatzi<s n="n"/></l>             <r>manuscript<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>esne<s n="n"/></l>                     <r>milk<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>espainiar<s n="n"/></l>                <r>Spaniard<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>espainiera<s n="n"/></l>               <r>Spaniard<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>espainol<s n="n"/></l>                 <r>Spanish<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>espainiera<s n="n"/></l>               <r>spanish<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>errusiera<s n="n"/></l><r>russian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>bielorrusiera<s n="n"/></l><r>belarusian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>ukrainera<s n="n"/></l><r>ukrainian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>eslovakiera<s n="n"/></l><r>slovak<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>txekiera<s n="n"/></l><r>czech<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>sorbiera<s n="n"/></l><r>sorbian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>poloniera<s n="n"/></l><r>polish<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>kasubiera<s n="n"/></l><r>kashubian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>esloveniera<s n="n"/></l><r>slovenian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>serbiera<s n="n"/></l><r>serbian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>kroaziera<s n="n"/></l><r>croatian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>bosniera<s n="n"/></l><r>bosnian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>montenegroera<s n="n"/></l><r>montenegrin<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>mazedoniera<s n="n"/></l><r>macedonian<s n="n"/><s n="sg"/></r></p></e>
+<e><p><l>bulgariera<s n="n"/></l><r>bulgarian<s n="n"/><s n="sg"/></r></p></e>
+<e>       <p><l>espainol<s n="n"/></l>                 <r>spanish<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>esparru<s n="n"/></l>                  <r>enclosure<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>espazio<s n="n"/></l>                  <r>blank<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>espazio<s n="n"/></l>                  <r>space<s n="n"/><s n="ND"/></r></p></e>

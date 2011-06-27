@@ -20790,6 +20790,22 @@
     <e lm="British">      <p>	<l>British</l>	<r>british</r></p><par n="expensive__adj"/>    </e>
     <e lm="Buddhist">      <p>	<l>Buddhist</l>	<r>buddhist</r></p><par n="expensive__adj"/>    </e>
     <e lm="Spanish">      <p>	<l>Spanish</l>	<r>spanish</r></p><par n="expensive__adj"/>    </e>
+    <e lm="Spanish">      <p>	<l>Spanish</l>	<r>spanish</r></p><par n="politics__n"/>    </e>
+    <e lm="Russian"><p><l>Russian</l><r>russian</r></p><par n="politics__n"/></e>
+    <e lm="Belarusian"><p><l>Belarusian</l><r>belarusian</r></p><par n="politics__n"/></e>
+    <e lm="Ukrainian"><p><l>Ukrainian</l><r>ukrainian</r></p><par n="politics__n"/></e>
+    <e lm="Slovak"><p><l>Slovak</l><r>slovak</r></p><par n="politics__n"/></e>
+    <e lm="Czech"><p><l>Czech</l><r>czech</r></p><par n="politics__n"/></e>
+    <e lm="Sorbian"><p><l>Sorbian</l><r>sorbian</r></p><par n="politics__n"/></e>
+    <e lm="Polish"><p><l>Polish</l><r>polish</r></p><par n="politics__n"/></e>
+    <e lm="Kashubian"><p><l>Kashubian</l><r>kashubian</r></p><par n="politics__n"/></e>
+    <e lm="Slovenian"><p><l>Slovenian</l><r>slovenian</r></p><par n="politics__n"/></e>
+    <e lm="Serbian"><p><l>Serbian</l><r>serbian</r></p><par n="politics__n"/></e>
+    <e lm="Croatian"><p><l>Croatian</l><r>croatian</r></p><par n="politics__n"/></e>
+    <e lm="Bosnian"><p><l>Bosnian</l><r>bosnian</r></p><par n="politics__n"/></e>
+    <e lm="Montenegrin"><p><l>Montenegrin</l><r>montenegrin</r></p><par n="politics__n"/></e>
+    <e lm="Macedonian"><p><l>Macedonian</l><r>macedonian</r></p><par n="politics__n"/></e>
+    <e lm="Bulgarian"><p><l>Bulgarian</l><r>bulgarian</r></p><par n="politics__n"/></e>
     <e lm="Bulgarian"><p><l>Bulgarian</l><r>bulgarian</r></p><par n="expensive__adj"/></e>
     <e lm="Burmese"><p><l>Burmese</l><r>burmese</r></p><par n="expensive__adj"/></e>
     <e lm="Byelorussian"><p><l>Byelorussian</l><r>byelorussian</r></p><par n="expensive__adj"/></e>
