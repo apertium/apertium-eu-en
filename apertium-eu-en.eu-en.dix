@@ -3040,25 +3040,25 @@
 <e>       <p><l>guztizko<s n="adj"/></l>               <r>absolute<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>haizatu<s n="adj"/><s n="izo"/></l><r>airy<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>haizetsu<s n="adj"/><s n="izo"/></l><r>windy<s n="adj"/></r></p></e>
-<e>       <p><l>halabeharrezko<s n="adj"/></l>         <r>fatal<s n="adj"/></r></p></e>
+<e>       <p><l>halabeharrezko<s n="adj"/><s n="izl"/></l>         <r>fatal<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>hamartar<s n="adj"/><s n="izo"/></l><r>decimal<s n="adj"/></r></p></e>
 
-<e r="RL"><p><l>handi<s n="adj"/></l>                  <r>able<s n="adj"/><s n="sint"/></r></p></e>
-<e r="RL"><p><l>handi<s n="adj"/></l>                  <r>capable<s n="adj"/></r></p></e>
-<e>       <p><l>handi<s n="adj"/></l>                  <r>big<s n="adj"/><s n="sint"/></r></p></e>
-<e r="RL"><p><l>handi<s n="adj"/></l>                  <r>elder<s n="adj"/></r></p></e>
-<e r="RL"><p><l>handi<s n="adj"/></l>                  <r>great<s n="adj"/><s n="sint"/></r></p></e>
-<e r="RL"><p><l>handi<s n="adj"/></l>                  <r>large<s n="adj"/><s n="sint"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>big<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>bulky<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>cumbersome<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>great<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>immense<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>large<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>substantial<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>tidy<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>utmost<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>voluminous<s n="adj"/></r></p></e>
+<e r="RL"><p><l>handi<s n="adj"/><s n="izo"/></l>                  <r>able<s n="adj"/><s n="sint"/></r></p></e>
+<e r="RL"><p><l>handi<s n="adj"/><s n="izo"/></l>                  <r>capable<s n="adj"/></r></p></e>
+<e>       <p><l>handi<s n="adj"/><s n="izo"/></l>                  <r>big<s n="adj"/><s n="sint"/></r></p></e>
+<e r="RL"><p><l>handi<s n="adj"/><s n="izo"/></l>                  <r>elder<s n="adj"/></r></p></e>
+<e r="RL"><p><l>handi<s n="adj"/><s n="izo"/></l>                  <r>great<s n="adj"/><s n="sint"/></r></p></e>
+<e r="RL"><p><l>handi<s n="adj"/><s n="izo"/></l>                  <r>large<s n="adj"/><s n="sint"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>big<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>bulky<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>cumbersome<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>great<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>immense<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>large<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>substantial<s n="adj"/></r></p></e>
+<e c="srl='handi' c='tidy sum'" r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>tidy<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>utmost<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handi<s n="adj"/><s n="izo"/></l>  <r>voluminous<s n="adj"/></r></p></e>
 <e r="LR"><p><l>handiago<s n="adj"/></l>               <r>great<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
 <e>       <p><l>handiago<s n="adj"/></l>               <r>main<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>hanpatu<s n="adj"/><s n="izo"/></l><r>turgid<s n="adj"/></r></p></e>
