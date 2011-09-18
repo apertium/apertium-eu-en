@@ -5055,11 +5055,11 @@
 <e>       <p><l>akuilatu<s n="vblex"/></l>             <r>stimulate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>akuilatu<s n="vblex"/></l>         <r>goad<s n="vblex"/></r></p></e>
 <e>       <p><l>akusatu<s n="vblex"/></l>              <r>accuse<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>alai_irribarre_egin<s n="vblex"/></l><r>beam<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>alai<b/>irribarre<b/>egin<s n="vblex"/></l><r>beam<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>alaitu<s n="vblex"/></l>               <r>cheer<s n="vblex"/></r></p></e>
 <e>       <p><l>alaitu<s n="vblex"/></l>               <r>gladden<s n="vblex"/></r></p></e>
-<e r="RL" a="matxin"><p><l>alamena_eman<s n="vblex"/></l><r>nag<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>alamena_eman<s n="vblex"/></l>     <r>pester<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>alamena<b/>eman<s n="vblex"/></l><r>nag<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>alamena<b/>eman<s n="vblex"/></l>     <r>pester<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>albainutu<s n="vblex"/></l>        <r>thread<s n="vblex"/></r></p></e>
 <e>       <p><l>alboratu<s n="vblex"/></l>             <r>separate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>aldaratu<s n="vblex"/></l>         <r>repel<s n="vblex"/></r></p></e>
@@ -5092,7 +5092,6 @@
 <e a="matxin"><p><l>aldez_aurreko_iritzia_eragin<s n="vblex"/></l><r>prejudice<s n="vblex"/></r></p></e>
 <e>       <p><l>aldeztu<s n="vblex"/></l>              <r>advocate<s n="vblex"/></r></p></e>
 <e>       <p><l>aldi<b/>berean<b/>gertatu<s n="vblex"/></l><r>coincide<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>aldi_berean_gertatu<s n="vblex"/></l><r>coincide<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>aldika_antolatu<s n="vblex"/></l>  <r>phase<s n="vblex"/></r></p></e>
 <e>       <p><l>alegatu<s n="vblex"/></l>              <r>allege<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>aletu<s n="vblex"/></l>            <r>shell<s n="vblex"/></r></p></e>
@@ -5109,14 +5108,13 @@
 <e>       <p><l>amaitu<s n="vblex"/></l>               <r>finish<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>amaitu<s n="vblex"/></l>           <r>terminate<s n="vblex"/></r></p></e>
 <e>       <p><l>amets<b/>egin<s n="vblex"/></l>        <r>dream<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>amets_egin<s n="vblex"/></l>       <r>dream<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>amildu<s n="vblex"/></l>               <r>drop<s n="vblex"/></r></p></e>
 <e>       <p><l>amildu<s n="vblex"/></l>               <r>fall<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>amildu<s n="vblex"/></l>               <r>fall<g><b/>down</g><s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>amildu<s n="vblex"/></l>           <r>swoop<s n="vblex"/></r></p></e>
-<e>       <p><l>amore<b/>eman<s n="vblex"/></l>        <r>yield<s n="vblex"/></r></p></e>
-<e r="RL" a="matxin"><p><l>amore_eman<s n="vblex"/></l><r>pander<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>amore_eman<s n="vblex"/></l>       <r>surrender<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>amore<b/>eman<s n="vblex"/></l>        <r>yield<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>amore<b/>eman<s n="vblex"/></l><r>pander<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>amore<b/>eman<s n="vblex"/></l>       <r>surrender<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>amorrarazi<s n="vblex"/></l>       <r>nettle<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>amorratu<s n="vblex"/></l>         <r>fume<s n="vblex"/></r></p></e>
 <e>       <p><l>analizatu<s n="vblex"/></l>            <r>analyse<s n="vblex"/></r></p></e>
