@@ -1386,6 +1386,7 @@
 <e>       <p><l>Aingeru<s n="np"/><s n="ant"/></l>     <r>Aingeru<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Aintzane<s n="np"/><s n="ant"/></l>    <r>Aintzane<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>Alberto<s n="np"/><s n="ant"/></l>     <r>Alberto<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>Ramon<s n="np"/><s n="ant"/></l>     <r>Ramon<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Alemania<s n="np"/><s n="loc"/></l>    <r>Germany<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Ameriketako<b/>Estatu<b/>Batu<s n="np"/><s n="loc"/></l><r>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></r></p></e>
 <e>       <p><l>Ameriketako<b/>Estatu<b/>Batuak<s n="np"/><s n="loc"/></l><r>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></r></p></e>
@@ -1638,6 +1639,7 @@
 <e r="RL" a="matxin"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>suave<s n="adj"/></r></p></e>
 <e r="RL" a="matxin"><p><l>adeitsu<s n="adj"/><s n="izo"/></l><r>urbane<s n="adj"/></r></p></e>
 <e>       <p><l>adi<s n="adj"/><s n="izo"/></l>        <r>attentive<s n="adj"/></r></p></e>
+<e>       <p><l>beste<s n="adj"/><s n="izl"/></l>        <r>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>adierazgarri<s n="adj"/><s n="izo"/></l><r>expressive<s n="adj"/></r></p></e>
 <e r="RL"><p><l>adierazgarri<s n="adj"/><s n="izo"/></l><r>representative<s n="adj"/></r></p></e>
 <e r="RL" a="matxin"><p><l>adierazgarri<s n="adj"/><s n="izo"/></l><r>indicative<s n="adj"/></r></p></e>
@@ -7827,9 +7829,9 @@
 <e a="matxin"><p><l>jakin<s n="vblex"/></l>            <r>master<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>jakin-mina_eragin<s n="vblex"/></l><r>intrigue<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>jakin_nahi_izan<s n="vblex"/></l>  <r>wonder<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>jakinarazi<s n="vblex"/></l>       <r>acquaint<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>jakinarazi<s n="vblex"/></l>       <r>inform<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>jakinarazi<s n="vblex"/></l>       <r>notify<s n="vblex"/></r></p></e>
+<!--<e a="matxin"><p><l>jakinarazi<s n="vblex"/></l>       <r>acquaint<s n="vblex"/></r></p></e>-->
 <e>       <p><l>jan<s n="vblex"/></l>                  <r>eat<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>jan<s n="vblex"/></l>                  <r>lunch<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>jan<s n="vblex"/></l>              <r>corrode<s n="vblex"/></r></p></e>
@@ -12716,9 +12718,7 @@
 <e>       <p><l>mutil<s n="n"/></l>                    <r>lad<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutil-lagun<s n="n"/></l>              <r>bridegroom<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutil-lagun<s n="n"/></l>              <r>groom<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>mutil-lagun<s n="n"/></l>              <r>bride<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutil-lagun<s n="n"/></l>              <r>boyfriend<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>mutil-lagun<s n="n"/></l>              <r>girlfriend<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutil<b/>lagun<s n="n"/></l>           <r>mate<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutur<s n="n"/></l>                    <r>extreme<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nabe<s n="n"/></l>                     <r>building<s n="n"/><s n="ND"/></r></p></e>
@@ -12759,10 +12759,7 @@
 <e>       <p><l>nerabezaro<s n="n"/></l>               <r>adolescence<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nerbio<s n="n"/></l>                   <r>nerve<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neska<s n="n"/></l>                    <r>girl<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>neska-lagun<s n="n"/></l>              <r>bridegroom<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>neska-lagun<s n="n"/></l>              <r>groom<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neska-lagun<s n="n"/></l>              <r>bride<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>neska-lagun<s n="n"/></l>              <r>boyfriend<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neska-lagun<s n="n"/></l>              <r>girlfriend<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neska<b/>lagun<s n="n"/></l>           <r>mate<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>neskatila<s n="n"/></l>                <r>boy<s n="n"/><s n="ND"/></r></p></e>
@@ -13159,7 +13156,7 @@
 <e>       <p><l>presidentetza<s n="n"/></l>            <r>presidency<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>presio<s n="n"/></l>                   <r>pressure<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>preso<s n="n"/></l>                    <r>prisoner<s n="n"/><s n="ND"/></r></p></e>
-<e c="mare meua"><p><l>preso<s n="n"/></l>             <r>setscrew<s n="n"/><s n="ND"/></r></p></e>
+<!--<e c="mare meua"><p><l>preso<s n="n"/></l>             <r>setscrew<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>prestaketa<s n="n"/></l>               <r>preparation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>prestakuntza<s n="n"/></l>             <r>qualification<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>prestigio<s n="n"/></l>                <r>prestige<s n="n"/><s n="ND"/></r></p></e>
