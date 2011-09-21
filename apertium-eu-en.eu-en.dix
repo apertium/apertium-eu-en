@@ -683,7 +683,7 @@
 <e r="RL"><p><l>asko<s n="adv"/></l>                   <r>very<b/>much<s n="adv"/></r></p></e>
 <e>       <p><l>asko<s n="adv"/></l>                   <r>to<b/>the<b/>utmost<s n="adv"/></r></p></e>
 <e>       <p><l>asko<s n="adv"/></l>                   <r>to<b/>a<b/>large<b/>extent<s n="adv"/></r></p></e>
-<e>       <p><l>asko<b/>pentsatu<b/>gabe<s n="adv"/></l><r>in<b/>a<b/>crazy<b/>way<s n="adv"/></r></p></e>
+<e>       <p><l>asko<b/>pentsatu<b/>gabe<s n="adv"/></l><r>in<b/>a<b/>crazy<b/>way<s n="adv"/></r></p></e> <!-- without thinking very much -->
 <e r="RL"><p><l>askoz<b/>hobeto<s n="adv"/></l>        <r>all<b/>the<b/>better<s n="adv"/></r></p></e>
 <e r="RL"><p><l>askoz<b/>hobeto<s n="adv"/></l>        <r>miles<b/>better<s n="adv"/></r></p></e>
 <e>       <p><l>askoz<b/>hobeto<s n="adv"/></l>        <r>much<b/>better<s n="adv"/></r></p></e>
@@ -9650,18 +9650,19 @@
 <e>       <p><l>abentura<s n="n"/></l>                 <r>venture<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aberastasun<s n="n"/></l>              <r>wealth<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aberri<s n="n"/></l>                   <r>homeland<s n="n"/><s n="ND"/></r></p></e>
-<e c="check"><p><l>abertzale<s n="n"/></l>             <r>nationalist<s n="n"/><s n="ND"/></r></p></e>
+<!--<e c="check"><p><l>abertzale<s n="n"/></l>             <r>nationalist<s n="n"/><s n="ND"/></r></p></e>-->
+<e c="check"><p><l>abertzale<s n="n"/></l>             <r>abertzale<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abeslari<s n="n"/></l>                 <r>singer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abesti<s n="n"/></l>                   <r>song<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abesti<s n="n"/></l>                   <r>singing<s n="n"/><s n="ND"/></r></p></e>
+<!--<e>       <p><l>abesti<s n="n"/></l>                   <r>singing<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>abiadura<s n="n"/></l>                 <r>speed<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abiadura<s n="n"/></l>                 <r>velocity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abiazio<s n="n"/></l>                  <r>aviation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abisu<s n="n"/></l>                    <r>notice<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abisu<s n="n"/></l>                    <r>warning<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abokatu<s n="n"/></l>                  <r>attorney<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abokatu<s n="n"/></l>                  <r>lawyer<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abokatu<s n="n"/></l>                  <r>solicitor<s n="n"/><s n="ND"/></r></p></e>
+<!--<e>       <p><l>abokatu<s n="n"/></l>                  <r>attorney<s n="n"/><s n="ND"/></r></p></e>-->
+<!--<e>       <p><l>abokatu<s n="n"/></l>                  <r>solicitor<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>abortu<s n="n"/></l>                   <r>abortion<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abside<s n="n"/></l>                   <r>apse<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>absoluzio<s n="n"/></l>                <r>absolution<s n="n"/><s n="ND"/></r></p></e>
@@ -9671,9 +9672,9 @@
 <e>       <p><l>abusu<s n="n"/></l>                    <r>abuse<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abusu<s n="n"/></l>                    <r>misuse<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abuztu<s n="n"/></l>                   <r>August<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>adar<s n="n"/></l>                     <r>tributary<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>adar<s n="n"/></l>                     <r>horn<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adar<s n="n"/></l>                     <r>branch<s n="n"/><s n="ND"/></r></p></e>
+<!--<e>       <p><l>adar<s n="n"/></l>                     <r>tributary<s n="n"/><s n="ND"/></r></p></e>-->
+<!--<e>       <p><l>adar<s n="n"/></l>                     <r>horn<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>adarbakoitz<s n="n"/></l>              <r>unicorn<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adats<s n="n"/></l>                    <r>mane<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adibide<s n="n"/></l>                  <r>example<s n="n"/><s n="ND"/></r></p></e>
@@ -9690,8 +9691,8 @@
 <e>       <p><l>administrari<s n="n"/></l>             <r>official<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>administratzaile<s n="n"/></l>         <r>administrator<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>administrazio<s n="n"/></l>            <r>administration<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>administrazio<s n="n"/></l>            <r>dispensation<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>administrazio<s n="n"/></l>            <r>management<s n="n"/><s n="ND"/></r></p></e>
+<!--<e>       <p><l>administrazio<s n="n"/></l>            <r>dispensation<s n="n"/><s n="ND"/></r></p></e>-->
+<!--<e>       <p><l>administrazio<s n="n"/></l>            <r>management<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>adore<s n="n"/></l>                    <r>prowess<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adostasun<s n="n"/></l>                <r>accord<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adostasun<s n="n"/></l>                <r>agreement<s n="n"/><s n="ND"/></r></p></e>
@@ -9702,7 +9703,7 @@
 <e>       <p><l>agente<s n="n"/></l>                   <r>agent<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agente<s n="n"/></l>                   <r>officer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agentzia<s n="n"/></l>                 <r>agency<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>agentzia<s n="n"/></l>                 <r>bureau<s n="n"/><s n="ND"/></r></p></e>
+<!--<e>       <p><l>agentzia<s n="n"/></l>                 <r>bureau<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>agerpen<s n="n"/></l>                  <r>apparition<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agerraldi<s n="n"/></l>                <r>demonstration<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agertoki<s n="n"/></l>                 <r>stage<s n="n"/><s n="ND"/></r></p></e>
@@ -9743,17 +9744,14 @@
 <e>       <p><l>aire<s n="n"/></l>                     <r>air<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aireportu<s n="n"/></l>                <r>airport<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aisia<s n="n"/></l>                    <r>leisure<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aita<s n="n"/></l>                     <r>parent<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aita<s n="n"/></l>                     <r>parent<s n="n"/><s n="pl"/></r></p></e>
 <e>       <p><l>aita<s n="n"/></l>                     <r>father<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aita<s n="n"/></l>                     <r>father<s n="n"/><s n="sg"/></r></p></e>
 <e>       <p><l>aitatxo<s n="n"/></l>                  <r>dad<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aitatxo<s n="n"/></l>                  <r>daddy<s n="n"/><s n="ND"/></r></p></e>
+<!--<e>       <p><l>aitatxo<s n="n"/></l>                  <r>daddy<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>aitona<s n="n"/></l>                   <r>grandfather<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aitona<s n="n"/></l>                   <r>grandfather<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>aitona<s n="n"/></l>                   <r>grandparent<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aitona<s n="n"/></l>                   <r>grandparent<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>aitona<s n="n"/></l>                   <r>grandmother<s n="n"/><s n="ND"/></r></p></e>
+<!--<e>       <p><l>aitona<s n="n"/></l>                   <r>grandfather<s n="n"/><s n="sg"/></r></p></e>-->
+<!--<e>       <p><l>aitona<s n="n"/></l>                   <r>grandparent<s n="n"/><s n="ND"/></r></p></e>-->
+<!--<e>       <p><l>aitona<s n="n"/></l>                   <r>grandparent<s n="n"/><s n="pl"/></r></p></e>-->
+<!--<e>       <p><l>aitona<s n="n"/></l>                   <r>grandmother<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>aitormen<s n="n"/></l>                 <r>confession<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aitorpen<s n="n"/></l>                 <r>statement<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aitortza<s n="n"/></l>                 <r>statement<s n="n"/><s n="ND"/></r></p></e>
@@ -9767,7 +9765,7 @@
 <e>       <p><l>akordio<s n="n"/></l>                  <r>arrangement<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akta<s n="n"/></l>                     <r>record<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aktore<s n="n"/></l>                   <r>actor<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aktore<s n="n"/></l>                   <r>actress<s n="n"/><s n="ND"/></r></p></e>
+<!--<e>       <p><l>aktore<s n="n"/></l>                   <r>actress<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>akusatu<s n="n"/></l>                  <r>accused<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akusazio<s n="n"/></l>                 <r>indictment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akzidente<s n="n"/></l>                <r>accident<s n="n"/><s n="ND"/></r></p></e>
@@ -9847,10 +9845,6 @@
 <e>       <p><l>amets<s n="n"/></l>                    <r>sleep<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amildegi<s n="n"/></l>                 <r>abyss<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amodio<s n="n"/></l>                   <r>love<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>amona<s n="n"/></l>                    <r>grandfather<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>amona<s n="n"/></l>                    <r>grandfather<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>amona<s n="n"/></l>                    <r>grandparent<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>amona<s n="n"/></l>                    <r>grandparent<s n="n"/><s n="pl"/></r></p></e>
 <e>       <p><l>amona<s n="n"/></l>                    <r>grandmother<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amorante<s n="n"/></l>                 <r>lover<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amorrazio<s n="n"/></l>                <r>indignation<s n="n"/><s n="ND"/></r></p></e>
@@ -9877,13 +9871,11 @@
 <e>       <p><l>antena<s n="n"/></l>                   <r>antenna<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antigorputz<s n="n"/></l>              <r>antibody<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antolakuntza<s n="n"/></l>             <r>organisation<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>antolakuntza<s n="n"/></l>             <r>organization<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antolamendu<s n="n"/></l>              <r>disposal<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antolamendu<s n="n"/></l>              <r>distribution<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antolamendu<s n="n"/></l>              <r>regulation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antolamendu<s n="n"/></l>              <r>willingness<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antolatzaile<s n="n"/></l>             <r>organiser<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>antolatzaile<s n="n"/></l>             <r>organizer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antxoa<s n="n"/></l>                   <r>anchovy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antz<s n="n"/></l>                     <r>similarity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>antzerki<s n="n"/></l>                 <r>play<s n="n"/><s n="ND"/></r></p></e>
