@@ -13542,21 +13542,17 @@
 <e>       <p><l>tutu<s n="n"/></l>                     <r>tube<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txakur<s n="n"/></l>                   <r>dog<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txalo<s n="n"/></l>                    <r>applause<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>txalo<s n="n"/></l>                    <r>clap<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txalupa<s n="n"/></l>                  <r>boat<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>txanda<s n="n"/></l>                   <r>shift<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txanda<s n="n"/></l>                   <r>turn<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txapeldun<s n="n"/></l>                <r>champion<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>txapelketa<s n="n"/></l>               <r>championship<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>txapelketa<s n="n"/></l>               <r>championship<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txapelketa<s n="n"/></l>               <r>contest<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>txartel<s n="n"/></l>                  <r>note<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txartel<s n="n"/></l>                  <r>card<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txerri<s n="n"/></l>                   <r>pig<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>txerri<s n="n"/></l>                   <r>pork<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txilar<s n="n"/></l>                   <r>heath<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>tximeleta<s n="n"/></l>                <r>butterfly<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>tximista<s n="n"/></l>                 <r>ray<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>tximista<s n="n"/></l>                 <r>thunderbolt<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>tximista<s n="n"/></l>                 <r>lightning<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>tximista<s n="n"/></l>                 <r>thunderbolt<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txinatar<s n="n"/></l>                 <r>Chinese<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txirrin<s n="n"/></l>                  <r>bell<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>txirrindulari<s n="n"/></l>            <r>cyclist<s n="n"/><s n="ND"/></r></p></e>
@@ -13573,21 +13569,19 @@
 <e>       <p><l>udaberri<s n="n"/></l>                 <r>spring<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>udal<s n="n"/></l>                     <r>municipality<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>udalerri<s n="n"/></l>                 <r>municipality<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>udaletxe<s n="n"/></l>                 <r>city<b/>council<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>udaletxe<s n="n"/></l>                 <r>town<b/>council<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>udaletxe<s n="n"/></l>                 <r>town<b/>hall<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>udara<s n="n"/></l>                    <r>summer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>udare<s n="n"/></l>                    <r>pear<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>udazken<s n="n"/></l>                  <r>autumn<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ugalketa<s n="n"/></l>                 <r>reproduction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ugaritasun<s n="n"/></l>               <r>abundance<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ugaritasun<s n="n"/></l>               <r>plenty<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>ugaritasun<s n="n"/></l>               <r>plenty<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ugatz<s n="n"/></l>                    <r>mum<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>uhar<s n="n"/></l>                     <r>torrent<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>uharte<s n="n"/></l>                   <r>island<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>uhin<s n="n"/></l>                     <r>wave<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>uholde<s n="n"/></l>                   <r>flood<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>uholde<s n="n"/></l>                   <r>inundation<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>uholde<s n="n"/></l>                   <r>inundation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ukimen<s n="n"/></l>                   <r>touch<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ukondo<s n="n"/></l>                   <r>elbow<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ukuilu<s n="n"/></l>                   <r>stable<s n="n"/><s n="ND"/></r></p></e>
@@ -13710,7 +13704,7 @@
 <e r="RL"><p><l>zigilu<s n="n"/></l>                   <r>seal<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zigilu<s n="n"/></l>                   <r>stamp<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zigor<s n="n"/></l>                    <r>punishment<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zigor<s n="n"/></l>                    <r>sanction<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zigor<s n="n"/></l>                    <r>sanction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zigortu<s n="n"/></l>                  <r>convict<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zikiratze<s n="n"/></l>                <r>castration<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ziklo<s n="n"/></l>                    <r>cycle<s n="n"/><s n="ND"/></r></p></e>
@@ -13731,13 +13725,12 @@
 <e>       <p><l>zirkuitu<s n="n"/></l>                 <r>circuit<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zirkulazio<s n="n"/></l>               <r>circulation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zirkulu<s n="n"/></l>                  <r>circle<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zirkulu<s n="n"/></l>                  <r>ring<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zirkunstantzia<s n="n"/></l>           <r>circumstance<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zirrara<s n="n"/></l>                  <r>emotion<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zirrara<s n="n"/></l>                  <r>excitement<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zirrara<s n="n"/></l>                  <r>thrill<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zirrara<s n="n"/></l>                  <r>excitement<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zirrara<s n="n"/></l>                  <r>thrill<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zirriborro<s n="n"/></l>               <r>draft<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zirriborro<s n="n"/></l>               <r>outline<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zirriborro<s n="n"/></l>               <r>outline<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ziurgabetasun<s n="n"/></l>            <r>uncertainty<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ziurtagiri<s n="n"/></l>               <r>certificate<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ziurtasun<s n="n"/></l>                <r>certainty<s n="n"/><s n="ND"/></r></p></e>
@@ -13760,7 +13753,7 @@
 <e>       <p><l>zuhurtzia<s n="n"/></l>                <r>prudence<s n="n"/><s n="ND"/></r></p></e>
 <e c="de carne"><p><l>zuku<s n="n"/></l>               <r>juice<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zulo<s n="n"/></l>                     <r>hole<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zulo<s n="n"/></l>                     <r>pothole<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zulo<s n="n"/></l>                     <r>pothole<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuntz<s n="n"/></l>                    <r>fibre<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zur<s n="n"/></l>                      <r>wood<s n="n"/><s n="sg"/></r></p></e>
 <e c="slr='target'" r="RL">       <p><l>zuri<s n="n"/></l>                     <r>target<s n="n"/><s n="ND"/></r></p></e>
