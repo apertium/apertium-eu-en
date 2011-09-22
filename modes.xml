@@ -104,6 +104,27 @@
     </pipeline>
   </mode>
   
+  <mode name="eu-en-chunker-trace">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="eu-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eu-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-eu-en.ordinals.t1x"/>
+        <file name="eu-en.ordinals.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -t">
+        <file name="apertium-eu-en.eu-en.t1x"/>
+        <file name="eu-en.t1x.bin"/>
+        <file name="eu-en.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
   <mode name="eu-en-interchunk">
     <pipeline>
       <program name="lt-proc">
