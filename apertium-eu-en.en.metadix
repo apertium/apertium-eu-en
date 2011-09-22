@@ -2550,6 +2550,74 @@
         </p>
       </e>
     </pardef>
+    <pardef n="/be_unable_to__vbmod">
+      <e>
+        <p>
+          <l>be<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>are<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="pres"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>was<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>was<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>were<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="past"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>been<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="pp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>being<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="ger"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>being<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="pprs"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>being<b/>unable<b/>to</l>
+          <r>be<b/>unable<b/>to<s n="vbmod"/><s n="subs"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="ha/ve__vbhaver">
       <e>
         <p>
@@ -22657,6 +22725,7 @@
     <e lm="do"><i>d</i><par n="d/o__vaux"/>    </e>
     <e lm="can"><i>c</i><par n="c/an__vbmod"/>    </e>
     <e lm="be able to" r="RL" c="de moment només es genera">      <i/>      <par n="/be_able_to__vbmod"/>    </e>
+    <e lm="be unable to" r="RL" c="de moment només es genera">      <i/>      <par n="/be_unable_to__vbmod"/>    </e>
     <e lm="have to"><i>ha</i><par n="ha/ve__vbmod"/>      <p>        <l><b/>to</l><r><g><b/>to</g></r></p></e>
     <e lm="want to"><i>want</i><par n="want__vbmod"/>      <p>        <l><b/>to</l><r><g><b/>to</g></r></p></e>
     <e lm="will"><i>will</i><par n="will/__vbmod"/>    </e>
