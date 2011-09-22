@@ -436,6 +436,8 @@
 <e>       <p><l>batzuk<s n="det"/><s n="ind"/></l>     <r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
 <e>       <p><l>bederatzigarren<s n="adj"/></l>        <r>ninth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
 <e>       <p><l>berrogeigarren<s n="adj"/></l>         <r>fortieth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
+<e>       <p><l>jatorrizko<s n="adj"/><s n="izl"/></l><r>original<s n="adj"/></r></p></e>
+<e>       <p><l>bestelako<s n="adj"/><s n="izl"/></l><r>different<s n="adj"/></r></p></e>
 <e>       <p><l>berrogeita<b/>batgarren<s n="adj"/><s n="izl"/></l><r>forty<b/>first<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
 <e>       <p><l>berrogeita<b/>bederatzigarren<s n="adj"/><s n="izl"/></l><r>forty<b/>ninth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
 <e>       <p><l>berrogeita<b/>bigarren<s n="adj"/><s n="izl"/></l><r>forty<b/>second<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -1610,7 +1612,10 @@
 <e>       <p><l>Aragoiko<s n="adj"/></l>               <r>aragonese<s n="adj"/></r></p></e>
 <e>       <p><l>Kubako<s n="adj"/></l>                 <r>cuban<s n="adj"/></r></p></e>
 <e>       <p><l>Mallorcako<s n="adj"/></l>             <r>majorcan<s n="adj"/></r></p></e>
+<e><p><l>kuasi-geostrofiko<s n="adj"/><s n="izo"/></l><r>quasi-geostrophic<s n="adj"/></r></p></e>
+<e><p><l>geostrofiko<s n="adj"/><s n="izo"/></l><r>geostrophic<s n="adj"/></r></p></e>
 <e><p><l>koordinatu<s n="adj"/><s n="izo"/></l><r>coordinated<s n="adj"/></r></p></e>
+<e><p><l>estatubatuar<s n="adj"/><s n="izo"/></l><r>american<s n="adj"/></r></p></e>
 <e><p><l>eslaviar<s n="adj"/><s n="izo"/></l><r>slavic<s n="adj"/></r></p></e>
 <e><p><l>kitzikagarri<s n="adj"/><s n="izo"/></l><r>exciting<s n="adj"/></r></p></e>
 <e><p><l>taliban<s n="adj"/><s n="izo"/></l><r>taliban<s n="adj"/></r></p></e>
@@ -13794,6 +13799,7 @@
 			    group ij_symbol
 			****************************** -->
 <e>       <p><l>agur<s n="ij"/></l>                    <r>goodbye<s n="ij"/></r></p></e>
+<e>       <p><l>zelarik<b/>nahi<b/>ez<b/>duenari<b/>eman<b/>bekio<b/>arbalda<s n="ij"/></l>                    <r>it<b/>never<b/>rains<b/>but<b/>it<b/>pours<s n="ij"/></r></p></e>
 <e>       <p><l>egun<b/>on<s n="ij"/></l>              <r>good<b/>morning<s n="ij"/></r></p></e>
 <e>       <p><l>eskerrak<s n="ij"/></l>                <r>thank<b/>you<s n="ij"/></r></p></e>
 <e r="RL"><p><l>eskerrak<s n="ij"/></l>                <r>thanks<s n="ij"/></r></p></e>
