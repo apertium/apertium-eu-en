@@ -1,0 +1,10 @@
+     26 ^@guzti<det><ind>$
+     10 ^@gehien<det><ind>$
+      9 ^@hainbat<det><indizl><sp>$
+      6 ^@Guzti<det><ind>$
+      3 ^@Gehien<det><ind>$
+      2 ^@Hainbat<det><indizl><sp>$
+      1 ^@Milioika<det><indizl>$
+      1 ^@milaka<det><indizl>$
+      1 ^@guzti<det><def>$
+      1 ^@guzti<det>$

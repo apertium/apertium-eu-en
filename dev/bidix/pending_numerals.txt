@@ -1,0 +1,6 @@
+      2 ^@bostehun<num>$
+      1 ^@%94<num><percent>$
+      1 ^@%8,3<num><percent>$
+      1 ^@%7<num><percent>$
+      1 ^@%6<num><percent>$
+      1 ^@%14<num><percent>$

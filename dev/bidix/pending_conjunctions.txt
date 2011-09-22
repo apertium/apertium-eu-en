@@ -1,0 +1,7 @@
+      3 ^@ordea<cnjloc>$
+      3 ^@eta gero<cnjadv>$
+      1 ^@hots<cnjloc>$
+      1 ^@ezean<cnjadv>$
+      1 ^@baino lehen<cnjadv>$
+      1 ^@alabaina<cnjloc>$
+      1 ^@aitzitik<cnjloc>$

@@ -1,0 +1,5 @@
+     26 ^@ber<prn><pers><p3>$
+      3 ^@elkar<prn><rec>$
+      2 ^@gu<prn><pers><p1>$
+      2 ^@eurak<prn><pers><p3>$
+      1 ^@beraiek<prn><pers><p3>$

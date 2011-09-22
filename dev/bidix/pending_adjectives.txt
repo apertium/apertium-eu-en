@@ -1,0 +1,24 @@
+     38 ^@bera<adj>$
+     10 ^@batu<adj>$
+      4 ^@iparraldeko<adj>$
+      2 ^@vii.<adj>$
+      2 ^@nafar<adj>$
+      2 ^@jatorrizko<adj>$
+      2 ^@iii.<adj>$
+      1 ^@xvii.<adj>$
+      1 ^@xvi.<adj>$
+      1 ^@xml<adj>$
+      1 ^@viii.<adj>$
+      1 ^@vi.<adj>$
+      1 ^@tokian tokiko<adj>$
+      1 ^@orduko<adj>$
+      1 ^@iv.<adj>$
+      1 ^@inolako<adj>$
+      1 ^@ii<adj>$
+      1 ^@horrelako<adj>$
+      1 ^@gose<adj>$
+      1 ^@estatubatuar<adj>$
+      1 ^@eragingarri<adj>$
+      1 ^@dominikar<adj>$
+      1 ^@bestelako<adj>$
+      1 ^@aparteko<adj>$

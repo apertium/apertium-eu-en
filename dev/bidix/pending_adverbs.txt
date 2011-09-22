@@ -1,0 +1,31 @@
+     20 ^@bezala<adv>$
+     17 ^@artean<adv>$
+      8 ^@horrela<adv>$
+      8 ^@besteak beste<adv>$
+      4 ^@hortik<adv>$
+      4 ^@aldi berean<adv>$
+      3 ^@aldean<adv>$
+      2 ^@kontrolpean<adv>$
+      2 ^@erabat<adv>$
+      2 ^@egunero<adv>$
+      2 ^@bestela<adv>$
+      2 ^@aurretik<adv>$
+      2 ^@askotan<adv>$
+      1 ^@sarritan<adv>$
+      1 ^@pixkanaka<adv>$
+      1 ^@luze gabe<adv>$
+      1 ^@inon<adv><sg>$
+      1 ^@inon<adv>$
+      1 ^@horrez gain<adv>$
+      1 ^@hobeto<adv>$
+      1 ^@guztira<adv>$
+      1 ^@gainetik<adv>$
+      1 ^@erdian<adv>$
+      1 ^@erabat<adv><sg>$
+      1 ^@dena den<adv>$
+      1 ^@dena dela<adv>$
+      1 ^@betidanik<adv>$
+      1 ^@aurrerantzean<adv>$
+      1 ^@aspalditik<adv>$
+      1 ^@areago<adv>$
+      1 ^@agian<adv>$

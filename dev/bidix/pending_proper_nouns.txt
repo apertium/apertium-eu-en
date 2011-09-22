@@ -1,0 +1,8 @@
+      4 ^@India<np>$
+      2 ^@Martin<np><ant>$
+      1 ^@Tibet<np>$
+      1 ^@Ramirez<np><ant>$
+      1 ^@Leon<np>$
+      1 ^@Jesus<np><ant>$
+      1 ^@Iruñe<np>$
+      1 ^@Durango<np>$
