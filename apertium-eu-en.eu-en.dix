@@ -11004,7 +11004,6 @@
 <e>       <p><l>esku_bete<s n="n"/></l>                <r>bunch<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>eskualde<s n="n"/></l>                 <r>region<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>eskubide<s n="n"/></l>                 <r>law<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>eskubide<s n="n"/></l>                 <r>right<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>eskuin<s n="n"/></l>                   <r>right<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>eskularru<s n="n"/></l>                <r>glove<s n="n"/><s n="ND"/></r></p></e>
 <e c="check"><p><l>eskuliburu<s n="n"/></l>            <r>manual<s n="n"/><s n="ND"/></r></p></e>
@@ -13606,7 +13605,7 @@
 <e>       <p><l>umore<s n="n"/></l>                    <r>disposition<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>une<s n="n"/></l>                      <r>moment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>unibertsaltasun<s n="n"/></l>          <r>universality<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>unibertsitate<s n="n"/></l>            <r>college<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>unibertsitate<s n="n"/></l>            <r>college<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>unibertsitate<s n="n"/></l>            <r>university<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>unibertso<s n="n"/></l>                <r>universe<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>uniforme<s n="n"/></l>                 <r>uniform<s n="n"/><s n="ND"/></r></p></e>
@@ -13618,31 +13617,24 @@
 <e>       <p><l>urdaiazpiko<s n="n"/></l>              <r>ham<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urdail<s n="n"/></l>                   <r>stomach<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urki<s n="n"/></l>                     <r>birch<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>urrats<s n="n"/></l>                   <r>pace<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>urrats<s n="n"/></l>                   <r>passage<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>urrats<s n="n"/></l>                   <r>passing<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urrats<s n="n"/></l>                   <r>step<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urre<s n="n"/></l>                     <r>gold<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urri<s n="n"/></l>                     <r>October<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urtaro<s n="n"/></l>                   <r>season<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>urtaro<s n="n"/></l>                   <r>station<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urtarril<s n="n"/></l>                 <r>January<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urte<s n="n"/></l>                     <r>year<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urtebete<s n="n"/></l>                 <r>year<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urtebetetze<s n="n"/></l>              <r>birthday<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>urteurren<s n="n"/></l>                <r>anniversary<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>usain<s n="n"/></l>                    <r>smell<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>uste<s n="n"/></l>                     <r>assumption<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>uste<s n="n"/></l>                     <r>guess<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>uste<s n="n"/></l>                     <r>supposition<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>uste<s n="n"/></l>                     <r>belief<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ustekabe<s n="n"/></l>                 <r>surprise<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ustelkeria<s n="n"/></l>               <r>corruption<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>utopia<s n="n"/></l>                   <r>utopia<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>uzki<s n="n"/></l>                     <r>anus<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>uzki<s n="n"/></l>                     <r>anus<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>uzta<s n="n"/></l>                     <r>crop<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>uzta<s n="n"/></l>                     <r>harvest<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>uzta<s n="n"/></l>                     <r>yield<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>uzta<s n="n"/></l>                     <r>harvest<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>uzta<s n="n"/></l>                     <r>yield<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>uztail<s n="n"/></l>                   <r>July<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>valentziar<s n="n"/></l>               <r>Valencian<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>webgune<s n="n"/></l>                  <r>website<s n="n"/><s n="ND"/></r></p></e>
@@ -13650,23 +13642,20 @@
 <e>       <p><l>xaboi<s n="n"/></l>                    <r>soap<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>xanpain<s n="n"/></l>                  <r>champagne<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>xarma<s n="n"/></l>                    <r>charm<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>xede<s n="n"/></l>                     <r>aim<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>xede<s n="n"/></l>                     <r>aim<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>xede<s n="n"/></l>                     <r>goal<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>xede<s n="n"/></l>                     <r>objective<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>xede<s n="n"/></l>                     <r>target<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>xede<s n="n"/></l>                     <r>objective<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>xehetasun<s n="n"/></l>                <r>detail<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>yarda<s n="n"/></l>                    <r>yard<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zabalera<s n="n"/></l>                 <r>width<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zabor<s n="n"/></l>                    <r>garbage<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>zabor<s n="n"/></l>                    <r>garbage<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>zabor<s n="n"/></l>                    <r>rubbish<s n="n"/><s n="sg"/></r></p></e>
+<e r="RL">       <p><l>zabor<s n="n"/></l>                    <r>garbage<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>zabor<s n="n"/></l>                    <r>rubbish<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zaharberritze<s n="n"/></l>            <r>restoration<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zailtasun<s n="n"/></l>                <r>difficulty<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zaintza<s n="n"/></l>                  <r>surveillance<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zaintze<s n="n"/></l>                  <r>surveillance<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zakar<s n="n"/></l>                    <r>garbage<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>zakar<s n="n"/></l>                    <r>garbage<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>zakar<s n="n"/></l>                    <r>rubbish<s n="n"/><s n="sg"/></r></p></e>
+<e r="RL">       <p><l>zakar<s n="n"/></l>                    <r>garbage<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>zakar<s n="n"/></l>                    <r>rubbish<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zaku<s n="n"/></l>                     <r>sack<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zakur<s n="n"/></l>                    <r>dog<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zalantza<s n="n"/></l>                 <r>doubt<s n="n"/><s n="ND"/></r></p></e>
@@ -13676,50 +13665,41 @@
 <e>       <p><l>zantzu<s n="n"/></l>                   <r>indication<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zaparrada<s n="n"/></l>                <r>cloudburst<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zapata<s n="n"/></l>                   <r>shoe<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zapore<s n="n"/></l>                   <r>flavor<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zapore<s n="n"/></l>                   <r>flavour<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zati<s n="n"/></l>                     <r>fragment<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zati<s n="n"/></l>                     <r>part<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zati<s n="n"/></l>                     <r>chip<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zati<s n="n"/></l>                     <r>lump<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zati<s n="n"/></l>                     <r>slice<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zatiketa<s n="n"/></l>                 <r>fraction<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zati<s n="n"/></l>                     <r>fragment<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>zati<s n="n"/></l>                     <r>piece<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zati<s n="n"/></l>                     <r>part<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zatiketa<s n="n"/></l>                 <r>fraction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zatiketa<s n="n"/></l>                 <r>partition<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zatitze<s n="n"/></l>                  <r>division<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zauri<s n="n"/></l>                    <r>wound<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zeharkako_aipamen<s n="n"/></l>        <r>allusion<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>zeharkako<b/>aipamen<s n="n"/></l>        <r>allusion<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zeinu<s n="n"/></l>                    <r>sign<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zelai<s n="n"/></l>                    <r>countryside<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zelai<s n="n"/></l>                    <r>field<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zelo<s n="n"/></l>                     <r>estrus<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zelo<s n="n"/></l>                     <r>zeal<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>zelo<s n="n"/></l>                     <r>zeal<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>zelo<s n="n"/></l>                     <r>jealousy<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>zelo<s n="n"/></l>                     <r>jealousy<s n="n"/><s n="pl"/></r></p></e>
+<e>       <p><l>zelo<s n="n"/></l>                     <r>zeal<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" c="slr='jealousy'">       <p><l>zelo<s n="n"/></l>                     <r>jealousy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zelula<s n="n"/></l>                   <r>cell<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zementu<s n="n"/></l>                  <r>cement<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zenbakarritasun<s n="n"/></l>          <r>amount<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zenbakarritasun<s n="n"/></l>          <r>quantity<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zenbakarritasun<s n="n"/></l>          <r>quantity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zenbaketa<s n="n"/></l>                <r>headcount<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zenbaki<s n="n"/></l>                  <r>number<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zentimetro<s n="n"/></l>               <r>centimetre<s n="n"/><s n="ND"/></r></p></e>
 <e c="check"><p><l>zentral<s n="n"/></l>               <r>head<b/>office<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zentro<s n="n"/></l>                   <r>centre<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zentsura<s n="n"/></l>                 <r>censorship<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zentzu<s n="n"/></l>                   <r>direction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zentzu<s n="n"/></l>                   <r>sense<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zer<s n="n"/></l>                      <r>thing<s n="n"/><s n="ND"/></r></p></e>
-<e c="poner como traducción principal?"><p><l>zerbitzari<s n="n"/></l><r>waiter<s n="n"/><s n="ND"/></r></p></e>
-<e c="poner como traducción principal?"><p><l>zerbitzari<s n="n"/></l><r>waitress<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" c="poner como traducción principal?"><p><l>zerbitzari<s n="n"/></l><r>waiter<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" c="poner como traducción principal?"><p><l>zerbitzari<s n="n"/></l><r>waitress<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zerbitzari<s n="n"/></l>               <r>server<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zerbitzu<s n="n"/></l>                 <r>service<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zereal<s n="n"/></l>                   <r>cereal<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zeremonia<s n="n"/></l>                <r>ceremony<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zerga<s n="n"/></l>                    <r>tax<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>zerga<s n="n"/></l>                    <r>taxation<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zerikusi<s n="n"/></l>                 <r>account<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zerikusi<s n="n"/></l>                 <r>relation<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zerikusi<s n="n"/></l>                 <r>relationship<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>zerikusi<s n="n"/></l>                 <r>connection<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zerikusi<s n="n"/></l>                 <r>relationship<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zerra<s n="n"/></l>                    <r>saw<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zerrenda<s n="n"/></l>                 <r>list<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>zeru<s n="n"/></l>                     <r>heaven<s n="n"/><s n="ND"/></r></p></e>
