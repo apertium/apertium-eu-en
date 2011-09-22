@@ -5002,6 +5002,7 @@
 <e r="RL"><p><l>ageri<b/>edun<s n="vbper"/></l>        <r>display<s n="vblex"/></r></p></e>
 <e>       <p><l>ageri<b/>edun<s n="vbper"/></l>        <r>show<s n="vblex"/></r></p></e>
 <e>       <p><l>ageri<b/>izan<s n="vbper"/></l>        <r>appear<s n="vblex"/></r></p></e>
+<e>       <p><l>ari<b/>izan<s n="vbper"/></l>        <r>be<s n="vbser"/></r></p></e>
 <e>       <p><l>ahal<b/>izan<s n="vbper"/></l>        <r>be<b/>able<b/>to<s n="vbmod"/></r></p></e>
 <e>       <p><l>ezin<b/>izan<s n="vbper"/></l>        <r>be<b/>unable<b/>to<s n="vbmod"/></r></p></e>
 <e r="RL"><p><l>ageri<b/>izan<s n="vbper"/></l>        <r>show<g><b/>up</g><s n="vblex"/></r></p></e>
@@ -6857,6 +6858,7 @@
 <e>       <p><l>ezagutu<s n="vbsint"/></l>             <r>know<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>ezagutu<s n="vblex"/></l>          <r>recognize<s n="vblex"/></r></p></e>
 <e>       <p><l>ezan<s n="vbsint"/></l>                <r>have<s n="vblex"/></r></p></e>
+<e>       <p><l>iro<s n="vbsint"/></l>                <r>would<s n="vaux"/></r></p></e>
 <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j"><p><l>ezan<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
 <e>       <p><l>ezan<s n="vbsint"/></l>                <r>have<g><b/>got</g><s n="vblex"/></r></p></e>
 <e>       <p><l>ezarri<s n="vblex"/></l>               <r>establish<s n="vblex"/></r></p></e>
