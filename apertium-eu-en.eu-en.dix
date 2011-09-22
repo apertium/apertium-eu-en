@@ -13592,17 +13592,13 @@
 <e>       <p><l>ukondo<s n="n"/></l>                   <r>elbow<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ukuilu<s n="n"/></l>                   <r>stable<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ulermen<s n="n"/></l>                  <r>understanding<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ume<s n="n"/></l>                      <r>boy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ume<s n="n"/></l>                      <r>child<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ume<s n="n"/></l>                      <r>girl<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ume<s n="n"/></l>                      <r>infant<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ume<s n="n"/></l>                      <r>kid<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ume_txiki<s n="n"/></l>                <r>minor<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>ume<s n="n"/></l>                      <r>infant<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>ume<s n="n"/></l>                      <r>kid<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>ume<b/>txiki<s n="n"/></l>                <r>little<b/>child<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>umetxo<s n="n"/></l>                   <r>child<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>umore<s n="n"/></l>                    <r>humor<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>umore<s n="n"/></l>                    <r>humour<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>umore<s n="n"/></l>                    <r>mood<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>umore<s n="n"/></l>                    <r>disposition<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>umore<s n="n"/></l>                    <r>mood<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>une<s n="n"/></l>                      <r>moment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>unibertsaltasun<s n="n"/></l>          <r>universality<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL">       <p><l>unibertsitate<s n="n"/></l>            <r>college<s n="n"/><s n="ND"/></r></p></e>
