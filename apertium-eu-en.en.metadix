@@ -19524,6 +19524,7 @@
     <e lm="role"><i>role</i><par n="house__n"/>    </e>
     <e lm="roll"><i>roll</i><par n="house__n"/>    </e>
     <e lm="poll"><i>poll</i><par n="house__n"/>    </e>
+    <e lm="opinion poll"><i>opinion<b/>poll</i><par n="house__n"/>    </e>
     <e lm="romance" a="carmentano"><i>romance</i><par n="house__n"/>    </e>
     <e lm="romanticism"><i>romanticism</i><par n="house__n"/>    </e>
     <e lm="roof"><i>roof</i><par n="house__n"/>    </e>

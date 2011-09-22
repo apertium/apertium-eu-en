@@ -1503,6 +1503,7 @@
 <e>       <p><l>Jean<s n="np"/><s n="ant"/></l>        <r>Jean<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Jesús<s n="np"/><s n="ant"/></l>       <r>Jesús<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Joan<s n="np"/><s n="ant"/></l>        <r>Joan<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>John<s n="np"/><s n="ant"/></l>        <r>John<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Jon<s n="np"/><s n="ant"/></l>         <r>Jon<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
 <e>       <p><l>Jordania<s n="np"/><s n="loc"/></l>    <r>Jordan<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 <e>       <p><l>Jorge<s n="np"/><s n="ant"/></l>       <r>Jorge<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -12725,25 +12726,17 @@
 <e>       <p><l>musu<s n="n"/></l>                     <r>kiss<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>musulman<s n="n"/></l>                 <r>Muslim<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>musuzapi<s n="n"/></l>                 <r>tissue<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>musuzapi<s n="n"/></l>                 <r>handkerchief<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>musuzapi<s n="n"/></l>                 <r>handkerchief<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutiko<s n="n"/></l>                   <r>boy<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>mutiko<s n="n"/></l>                   <r>girl<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutil<s n="n"/></l>                    <r>boy<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>mutil<s n="n"/></l>                    <r>girl<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>mutil<s n="n"/></l>                    <r>lad<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>mutil-lagun<s n="n"/></l>              <r>bridegroom<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>mutil-lagun<s n="n"/></l>              <r>groom<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>mutil<s n="n"/></l>                    <r>lad<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutil-lagun<s n="n"/></l>              <r>boyfriend<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>mutil<b/>lagun<s n="n"/></l>           <r>mate<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>mutil<b/>lagun<s n="n"/></l>           <r>boyfriend<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>mutur<s n="n"/></l>                    <r>extreme<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>nabe<s n="n"/></l>                     <r>building<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nabe<s n="n"/></l>                     <r>nave<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>nabe<s n="n"/></l>                     <r>ship<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nabigazio<s n="n"/></l>                <r>navigation<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>nabigazio<s n="n"/></l>                <r>sailing<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nagusi<s n="n"/></l>                   <r>boss<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>nagusi<s n="n"/></l>                   <r>leader<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>nagusi<s n="n"/></l>                   <r>chief<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>nagusi<s n="n"/></l>                   <r>chief<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nagusigo<s n="n"/></l>                 <r>predominance<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nagusitasun<s n="n"/></l>              <r>command<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>nagusitasun<s n="n"/></l>              <r>superiority<s n="n"/><s n="ND"/></r></p></e>
@@ -12880,6 +12873,7 @@
 <e>       <p><l>ongizate<s n="n"/></l>                 <r>welfare<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>oniritzi<s n="n"/></l>                 <r>approval<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>oniritzi<s n="n"/></l>                 <r>endorsement<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>iritzi<b/>zundaketa<s n="n"/></l>                 <r>opinion<b/>poll<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ontasun<s n="n"/></l>                  <r>goodness<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ontasun<s n="n"/></l>                  <r>kindness<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ontzi<s n="n"/></l>                    <r>building<s n="n"/><s n="ND"/></r></p></e>
@@ -13005,58 +12999,37 @@
 <e>       <p><l>partikula<s n="n"/></l>                <r>particle<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>partzela<s n="n"/></l>                 <r>lot<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>partzela<s n="n"/></l>                 <r>plot<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pasabide<s n="n"/></l>                 <r>pace<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pasabide<s n="n"/></l>                 <r>passage<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pasabide<s n="n"/></l>                 <r>passing<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pasabide<s n="n"/></l>                 <r>step<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pasahitz<s n="n"/></l>                 <r>password<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pasaporte<s n="n"/></l>                <r>passport<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pasealeku<s n="n"/></l>                <r>drive<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pasealeku<s n="n"/></l>                <r>promenade<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pasealeku<s n="n"/></l>                <r>ride<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pasealeku<s n="n"/></l>                <r>walk<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>paseo<s n="n"/></l>                    <r>drive<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>paseo<s n="n"/></l>                    <r>promenade<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>paseo<s n="n"/></l>                    <r>ride<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>paseo<s n="n"/></l>                    <r>walk<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pasibotasun<s n="n"/></l>              <r>passivity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pasio<s n="n"/></l>                    <r>passion<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pastel<s n="n"/></l>                   <r>cake<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pastel<s n="n"/></l>                   <r>pie<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>patata<s n="n"/></l>                   <r>potato<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>patente<s n="n"/></l>                  <r>patent<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>patio<s n="n"/></l>                    <r>courtyard<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>patio<s n="n"/></l>                    <r>playground<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>patio<s n="n"/></l>                    <r>yard<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>patio<s n="n"/></l>                    <r>patio<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>patrika<s n="n"/></l>                  <r>pocket<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>patroi<s n="n"/></l>                   <r>master<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>patroi<s n="n"/></l>                   <r>pattern<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>patroi<s n="n"/></l>                   <r>patron<b/>saint<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>patroi<s n="n"/></l>                   <r>employer<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" c="slr='patron saint'">       <p><l>patroi<s n="n"/></l>                   <r>patron<b/>saint<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>patruila<s n="n"/></l>                 <r>patrol<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pauso<s n="n"/></l>                    <r>pace<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pauso<s n="n"/></l>                    <r>passage<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pauso<s n="n"/></l>                    <r>passing<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>pauso<s n="n"/></l>                    <r>pace<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pauso<s n="n"/></l>                    <r>step<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>paziente<s n="n"/></l>                 <r>patient<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pazientzia<s n="n"/></l>               <r>patience<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pelikula<s n="n"/></l>                 <r>film<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pelikula<s n="n"/></l>                 <r>movie<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pena<s n="n"/></l>                     <r>penalty<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pena<s n="n"/></l>                     <r>penalty<s n="n"/><s n="pl"/></r></p></e>
-<e>       <p><l>pena<s n="n"/></l>                     <r>penalty<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>pena<s n="n"/></l>                     <r>pity<s n="n"/><s n="sg"/></r></p></e>
+<e r="RL">       <p><l>pelikula<s n="n"/></l>                 <r>movie<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>pena<s n="n"/></l>                     <r>pity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>penintsula<s n="n"/></l>               <r>peninsula<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pentsaera<s n="n"/></l>                <r>mentality<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pentsamendu<s n="n"/></l>              <r>thinking<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>pentsamendu<s n="n"/></l>              <r>thinking<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pentsamendu<s n="n"/></l>              <r>thought<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pentsio<s n="n"/></l>                  <r>allowance<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pentsio<s n="n"/></l>                  <r>guesthouse<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pentsio<s n="n"/></l>                  <r>pension<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>pentsio<s n="n"/></l>                  <r>pension<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>peoi<s n="n"/></l>                     <r>hodman<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>perfume<s n="n"/></l>                  <r>perfume<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>perspektiba<s n="n"/></l>              <r>perspective<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>perspektiba<s n="n"/></l>              <r>prospect<s n="n"/><s n="ND"/></r></p></e>
 <e c="MG: hi ha tb el plurarl de 'person' (persons) i 'people' tb es podria traduir com a 'gent'"><p><l>pertsona<s n="n"/></l><r>person<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pertsona_ospetsu<s n="n"/></l>         <r>character<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pertsonal<s n="n"/></l>                <r>personnel<s n="n"/><s n="pl"/></r></p></e>
@@ -13885,6 +13858,7 @@
 		<!-- ******************************
 			    group prn_symbol
 			****************************** -->
+<e>       <p><l>ber<s n="prn"/><s n="pers"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/></r></p></e>
 <e>       <p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -13936,7 +13910,7 @@
 			    group rel_symbol
 			****************************** -->
 <e>       <p><l>n<s n="rel"/></l>                      <r>that<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="LR">       <p><l>larik<s n="rel"/></l>                      <r></r></p></e>
+<e r="LR" c="while/when">       <p><l>larik<s n="rel"/></l>                      <r></r></p></e>
 <e r="LR">       <p><l>ino<s n="rel"/></l>                      <r></r></p></e>
 <e r="RL"><p><l>n<s n="rel"/></l>                      <r>which<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>n<s n="rel"/></l>                      <r>who<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
