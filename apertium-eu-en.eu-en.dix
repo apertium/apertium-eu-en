@@ -13785,20 +13785,18 @@
 <e c="de carne"><p><l>zuku<s n="n"/></l>               <r>juice<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zulo<s n="n"/></l>                     <r>hole<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zulo<s n="n"/></l>                     <r>pothole<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zuntz<s n="n"/></l>                    <r>fiber<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuntz<s n="n"/></l>                    <r>fibre<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zur<s n="n"/></l>                      <r>wood<s n="n"/><s n="sg"/></r></p></e>
-<e>       <p><l>zuri<s n="n"/></l>                     <r>target<s n="n"/><s n="ND"/></r></p></e>
+<e c="slr='target'" r="RL">       <p><l>zuri<s n="n"/></l>                     <r>target<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuri<s n="n"/></l>                     <r>white<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zurrumurru<s n="n"/></l>               <r>rumour<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zutabe<s n="n"/></l>                   <r>column<s n="n"/><s n="ND"/></r></p></e>
-<e c="telegraph pole"><p><l>zutoin<s n="n"/></l>       <r>pole<s n="n"/><s n="ND"/></r></p></e>
+<e c="telegraph pole" r="RL"><p><l>zutoin<s n="n"/></l>       <r>pole<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zutoin<s n="n"/></l>                   <r>post<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zutoin<s n="n"/></l>                   <r>stick<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuzenbide<s n="n"/></l>                <r>law<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zuzenbide<s n="n"/></l>                <r>right<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zuzenbide<s n="n"/></l>                <r>right<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>zuzendari<s n="n"/></l>                <r>conductor<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>zuzendari<s n="n"/></l>                <r>director<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>zuzendari<s n="n"/></l>                <r>director<s n="n"/><s n="ND"/></r></p></e>
 <e c="en masculí per defecte"><p><l>zuzendari<s n="n"/></l><r>manager<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuzendaritza<s n="n"/></l>             <r>direction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>zuzenketa<s n="n"/></l>                <r>amendment<s n="n"/><s n="ND"/></r></p></e>
