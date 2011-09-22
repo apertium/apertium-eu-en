@@ -7104,7 +7104,8 @@
 <e a="matxin"><p><l>gertutik_jarraitu<s n="vblex"/></l><r>tail<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>geruzatan_antolatu<s n="vblex"/></l><r>layer<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>geruzatu<s n="vblex"/></l>         <r>stratify<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>gezurra_esan<s n="vblex"/></l>     <r>lie<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>gezurra<b/>esan<s n="vblex"/></l>     <r>lie<s n="vblex"/></r></p></e>
+<e><p><l>gezur<b/>erran<s n="vblex"/></l>     <r>lie<s n="vblex"/></r></p></e>
 <e>       <p><l>gezurtatu<s n="vblex"/></l>            <r>deny<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>gezurtatu<s n="vblex"/></l>        <r>refute<s n="vblex"/></r></p></e>
 <e>       <p><l>gidatu<s n="vblex"/></l>               <r>guide<s n="vblex"/></r></p></e>
