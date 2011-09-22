@@ -1571,7 +1571,8 @@
 <e>       <p><l>Rubalcaba<s n="np"/><s n="ant"/></l>   <r>Rubalcaba<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
 <e>       <p><l>Ruiz<s n="np"/><s n="ant"/></l>        <r>Ruiz<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
 <e>       <p><l>Saddam<s n="np"/><s n="ant"/></l>      <r>Saddam<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>Saez<s n="np"/><s n="ant"/></l>        <r>Sáez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+<e>       <p><l>Sáez<s n="np"/><s n="ant"/></l>        <r>Sáez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+<e>       <p><l>Saez<s n="np"/><s n="ant"/></l>        <r>Saez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
 <e>       <p><l>Salbatore<s n="np"/><s n="ant"/></l>   <r>Salbatore<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Sarkozy<s n="np"/><s n="ant"/></l>     <r>Sarkozy<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
 <e>       <p><l>Segundo<s n="np"/><s n="ant"/></l>     <r>Segundo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -5854,13 +5855,13 @@
 <e r="RL"><p><l>bihurtu<s n="vblex"/></l>              <r>come<g><b/>back</g><s n="vblex"/></r></p></e>
 <e>       <p><l>bihurtu<s n="vblex"/></l>              <r>go<g><b/>back</g><s n="vblex"/></r></p></e>
 <e r="RL"><p><l>bihurtu<s n="vblex"/></l>              <r>get<g><b/>back</g><s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>bihurtu<s n="vblex"/></l>          <r>become<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>bihurtu<s n="vblex"/></l>          <r>convert<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>bihurtu<s n="vblex"/></l>          <r>render<s n="vblex"/></r></p></e>
-<e>       <p><l>bikoiztu<s n="vblex"/></l>             <r>bend<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>bikoiztu<s n="vblex"/></l>         <r>double<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>bil-bil_egin<s n="vblex"/></l>     <r>encase<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>bila_joan<s n="vblex"/></l>        <r>fetch<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>bihurtu<s n="vblex"/></l>          <r>become<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>bihurtu<s n="vblex"/></l>          <r>convert<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>bihurtu<s n="vblex"/></l>          <r>render<s n="vblex"/></r></p></e>
+<e a="matxin" ><p><l>bikoiztu<s n="vblex"/></l>         <r>double<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>bil-bil<b/>egin<s n="vblex"/></l>     <r>encase<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>bila<b/>joan<s n="vblex"/></l>        <r>fetch<s n="vblex"/></r></p></e>
+<e><p><l>ñabartu<s n="vblex"/></l>        <r>shade<s n="vblex"/></r></p></e>
 <e>       <p><l>bilakaera<b/>edun<s n="vblex"/></l>    <r>evolve<s n="vblex"/></r></p></e>
 <e>       <p><l>bilakatu<s n="vblex"/></l>             <r>convert<s n="vblex"/></r></p></e>
 <e>       <p><l>bilatu<s n="vblex"/></l>               <r>look<g><b/>for</g><s n="vblex"/></r></p></e>
@@ -6265,7 +6266,6 @@
 <e r="RL"><p><l>egin<s n="vblex"/></l>                 <r>practice<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>egin<s n="vblex"/></l>                 <r>practise<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>egin<s n="vblex"/></l>                 <r>realise<s n="vblex"/></r></p></e>
-<e r="RL"><p><l>egin<s n="vblex"/></l>                 <r>realize<s n="vblex"/></r></p></e>
 <e>       <p><l>egin<s n="vbsint"/></l>                <r>do<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>egin<s n="vblex"/></l>      <r>build<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>egin<s n="vblex"/></l>      <r>commit<s n="vblex"/></r></p></e>
@@ -6283,11 +6283,11 @@
 <e a="matxin"><p><l>egituratu<s n="vblex"/></l>        <r>structure<s n="vblex"/></r></p></e>
 <e>       <p><l>egokitu<s n="vblex"/></l>              <r>adapt<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>egokitu<s n="vblex"/></l>   <r>appropriate<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>egokitu<s n="vblex"/></l>          <r>customize<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>egokitu<s n="vblex"/></l>          <r>customise<s n="vblex"/></r></p></e>
 <e r="RL" c="(intransitiu)"><p><l>egon<s n="vblex"/></l><r>stand<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>egon<s n="vblex"/></l>             <r>exist<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>egon<s n="vblex"/></l>      <r>feel<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>egonkortu<s n="vblex"/></l>        <r>stabilize<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>egonkortu<s n="vblex"/></l>        <r>stabilise<s n="vblex"/></r></p></e>
 <e>       <p><l>egosi<s n="vblex"/></l>                <r>bake<s n="vblex"/></r></p></e>
 <e>       <p><l>egotzi<s n="vblex"/></l>               <r>accuse<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>egotzi<s n="vblex"/></l>               <r>expel<s n="vblex"/></r></p></e>
@@ -6429,7 +6429,7 @@
 <e>       <p><l>erabili<s n="vbsint"/></l>             <r>use<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>erabili<s n="vblex"/></l>          <r>apply<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>erabili<s n="vblex"/></l>   <r>exert<s n="vblex"/></r></p></e>
-<e r="RL" a="matxin"><p><l>erabili<s n="vblex"/></l>   <r>utilize<s n="vblex"/></r></p></e>
+<e r="RL" a="matxin"><p><l>erabili<s n="vblex"/></l>   <r>utilise<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>erabili<s n="vblex"/></l>   <r>wield<s n="vblex"/></r></p></e>
 <e>       <p><l>eradoski<s n="vblex"/></l>             <r>suckle<s n="vblex"/></r></p></e>
 <e>       <p><l>eragin<s n="vblex"/></l>               <r>cause<s n="vblex"/></r></p></e>
@@ -6708,21 +6708,20 @@
 <e a="matxin"><p><l>eskaini<s n="vblex"/></l>          <r>volunteer<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>eskalatu<s n="vblex"/></l>         <r>scale<s n="vblex"/></r></p></e>
 <e>       <p><l>eskandalizatu<s n="vblex"/></l>        <r>scandalise<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>eskandalizatu<s n="vblex"/></l>    <r>scandalize<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>eskas_erabili<s n="vblex"/></l>    <r>stint<s n="vblex"/></r></p></e>
+<e a="matxin"><p><l>eskas<b/>erabili<s n="vblex"/></l>    <r>stint<s n="vblex"/></r></p></e>
 <e c="ask sb to do smth"><p><l>eskatu<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>eskatu<s n="vblex"/></l>               <r>ask<g><b/>for</g><s n="vblex"/></r></p></e>
 <e r="RL"><p><l>eskatu<s n="vblex"/></l>               <r>call<g><b/>for</g><s n="vblex"/></r></p></e>
-<e r="RL"><p><l>eskatu<s n="vblex"/></l>               <r>request<s n="vblex"/></r></p></e>
-<e>       <p><l>eskatu<s n="vblex"/></l>               <r>presuppose<s n="vblex"/></r></p></e>
-<e>       <p><l>eskatu<s n="vblex"/></l>               <r>require<s n="vblex"/></r></p></e>
+<e><p><l>eskatu<s n="vblex"/></l>               <r>request<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>eskatu<s n="vblex"/></l>               <r>presuppose<s n="vblex"/></r></p></e>
+<e r="RL">       <p><l>eskatu<s n="vblex"/></l>               <r>require<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>eskatu<s n="vblex"/></l>               <r>apply<g><b/>for</g><s n="vblex"/></r></p></e>
 <e r="RL"><p><l>eskatu<s n="vblex"/></l>               <r>solicit<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>eskatu<s n="vblex"/></l>    <r>appeal<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>eskatu<s n="vblex"/></l>    <r>claim<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>eskatu<s n="vblex"/></l>    <r>demand<s n="vblex"/></r></p></e>
 <e r="RL" a="matxin"><p><l>eskatu<s n="vblex"/></l>    <r>order<s n="vblex"/></r></p></e>
-<e a="matxin"><p><l>eskatu<s n="vblex"/></l>           <r>request<s n="vblex"/></r></p></e>
+<e a="matxin" r="RL"><p><l>eskatu<s n="vblex"/></l>           <r>request<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>eske_ibili<s n="vblex"/></l>       <r>beg<s n="vblex"/></r></p></e>
 <e>       <p><l>eskertu<s n="vblex"/></l>              <r>appreciate<s n="vblex"/></r></p></e>
 <e a="matxin"><p><l>eskertu<s n="vblex"/></l>          <r>thank<s n="vblex"/></r></p></e>
