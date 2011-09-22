@@ -617,6 +617,17 @@
     <!-- Conjunctions -->
 
 <e>       <p><l>baino<s n="cnjloc"/></l>               <r>but<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>ildo<b/>horretatik<s n="cnjloc"/></l>               <r>in<b/>this<b/>sense<s n="adv"/></r></p></e>
+<e>       <p><l>ildo<b/>beretik<s n="cnjloc"/></l>               <r>along<b/>the<b/>same<b/>lines<s n="adv"/></r></p></e>
+<e>       <p><l>aitzitik<s n="cnjloc"/></l>               <r>on<b/>the<b/>contrary<s n="adv"/></r></p></e>
+<e>       <p><l>antza<s n="cnjloc"/></l>               <r>apparently<s n="adv"/></r></p></e>
+<e>       <p><l>alabaina<s n="cnjloc"/></l>               <r>however<s n="adv"/></r></p></e>
+<e>       <p><l>halarik<b/>ere<s n="cnjloc"/></l>               <r>however<s n="adv"/></r></p></e>
+<e>       <p><l>haatik<s n="cnjloc"/></l>               <r>however<s n="adv"/></r></p></e>
+<e>       <p><l>hargatik<s n="cnjloc"/></l>               <r>however<s n="adv"/></r></p></e>
+<e>       <p><l>gainerakoan<s n="cnjloc"/></l>               <r>otherwise<s n="adv"/></r></p></e>
+<e>       <p><l>gainontzean<s n="cnjloc"/></l>               <r>otherwise<s n="adv"/></r></p></e>
+<e>       <p><l>ordea<s n="cnjloc"/></l>               <r>however<s n="adv"/></r></p></e>
 <e r="RL"><p><l>baino<s n="cnjloc"/></l>               <r>but<b/>rather<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>baizik<s n="cnjcoo"/></l>              <r>but<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>baizik<s n="cnjcoo"/></l>              <r>but<b/>rather<s n="cnjcoo"/></r></p></e>
@@ -1350,6 +1361,7 @@
 			    group cnjadv_symbol
 			****************************** -->
 <e>       <p><l>lakoan<s n="cnjadv"/></l>               <r>supposedly<s n="adv"/></r></p></e>
+<e>       <p><l>ezean<s n="cnjadv"/></l>               <r>if<b/>not<s n="cnjadv"/></r></p></e>
 <e>       <p><l>arren<s n="cnjadv"/></l>               <r>although<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>arren<s n="cnjadv"/></l>               <r>though<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ba<s n="cnjsub"/></l>                  <r>if<s n="cnjadv"/></r></p></e>
@@ -4918,11 +4930,8 @@
 			    group vblex_symbol
 			****************************** -->
 <e a="matxin"><p><l>'Sir'_titulua_eman<s n="vblex"/></l><r>knight<s n="vblex"/></r></p></e>
-
-
-    <!-- Verbs -->
-    
 <e>       <p><l>abandonatu<s n="vblex"/></l>           <r>abandon<s n="vblex"/></r></p></e>
+<e>       <p><l>jario<s n="vbsint"/></l>           <r>flow<s n="vblex"/></r></p></e>
 
 <e a="matxin"><p><l>abdikatu<s n="vblex"/></l>         <r>abdicate<s n="vblex"/></r></p></e>
 <e c="MG: sería reflexivo"><p><l>aberastu<s n="vblex"/></l><r>enrich<s n="vblex"/></r></p></e>
