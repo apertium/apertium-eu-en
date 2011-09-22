@@ -31,6 +31,7 @@ dev/bidix/pending_proper_nouns.txt -text
 dev/bidix/pending_verbs.txt -text
 dev/cross-model-eu-es-en.xml -text
 dev/cross.xml -text
+dev/generation-summary.eu-en.txt -text
 dev/missing-bidix-freq.sh -text
 /eu-en.prob -text svneol=unset#unset
 /modes.xml -text
