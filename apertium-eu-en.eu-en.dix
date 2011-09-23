@@ -9650,20 +9650,22 @@
 
 <e>       <p><l>Andorrako<s n="n"/></l>                <r>Andorran<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>Aragoiko<s n="n"/></l>                 <r>Aragonese<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>BPG<s n="n"/><s n="acr"/></l>          <r>GDP<s n="n"/><s n="acr"/></r></p></e>
+<e>       <p><l>BPG<s n="n"/><s n="acr"/></l>          <r>GDP<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e>       <p><l>Biblia<s n="n"/></l>                   <r>bible<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>EAJ<s n="n"/><s n="acr"/></l>          <r>PNB<s n="n"/><s n="acr"/></r></p></e>
-<e>       <p><l>ERC<s n="n"/><s n="acr"/></l>          <r>ERC<s n="n"/><s n="acr"/></r></p></e>
-<e>       <p><l>ETA<s n="n"/><s n="acr"/></l>          <r>ETA<s n="n"/><s n="acr"/></r></p></e>
+<e>       <p><l>EAJ<s n="n"/><s n="acr"/></l>          <r>PNB<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e>       <p><l>ERC<s n="n"/><s n="acr"/></l>          <r>ERC<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e>       <p><l>ETA<s n="n"/><s n="acr"/></l>          <r>ETA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e>       <p><l>Jaunaren_jaiotza<s n="n"/></l>         <r>christmas<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>Mallorcako<s n="n"/></l>               <r>Majorcan<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>Mendebal<s n="n"/></l>                 <r>occident<s n="n"/><s n="ND"/></r></p></e>
-<e c="North Atlantic Treaty Organization"><p><l>NATO<s n="n"/><s n="acr"/></l><r>NATO<s n="n"/><s n="acr"/></r></p></e>
-<e>       <p><l>NBE<s n="n"/><s n="acr"/></l>          <r>U.N.<s n="n"/><s n="acr"/></r></p></e>
-<e r="RL" c="United Nations "><p><l>NBE<s n="n"/><s n="acr"/></l><r>UN<s n="n"/><s n="acr"/></r></p></e>
-<e>       <p><l>PP<s n="n"/><s n="acr"/></l>           <r>PP<s n="n"/><s n="acr"/></r></p></e>
-<e>       <p><l>PSOE<s n="n"/><s n="acr"/></l>         <r>PSOE<s n="n"/><s n="acr"/></r></p></e>
+<e c="North Atlantic Treaty Organization"><p><l>NATO<s n="n"/><s n="acr"/></l><r>NATO<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>UPV/EHU<s n="n"/><s n="acr"/></l><r>UPV/EHU<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e>       <p><l>NBE<s n="n"/><s n="acr"/></l>          <r>U.N.<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e r="RL" c="United Nations "><p><l>NBE<s n="n"/><s n="acr"/></l><r>UN<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e>       <p><l>PP<s n="n"/><s n="acr"/></l>           <r>PP<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e>       <p><l>PSOE<s n="n"/><s n="acr"/></l>         <r>PSOE<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e>       <p><l>Paradisu<s n="n"/></l>                 <r>paradise<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>irrintzi<s n="n"/></l>                 <r>yell<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abandonu<s n="n"/></l>                 <r>abandonment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abaniko<s n="n"/></l>                  <r>fan<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abantaila<s n="n"/></l>                <r>advantage<s n="n"/><s n="ND"/></r></p></e>
