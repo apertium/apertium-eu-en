@@ -9680,6 +9680,488 @@
 <e><p><l>ELA<s n="n"/><s n="acr"/></l><r>ELA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e><p><l>EA<s n="n"/><s n="acr"/></l><r>EA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e><p><l>SA<s n="n"/><s n="acr"/></l><r>AA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>PSE-EE<s n="n"/><s n="acr"/></l><r>PSE-EE<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>PSE<s n="n"/><s n="acr"/></l><r>PSE<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>ANV<s n="n"/><s n="acr"/></l><r>ANV<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e a="matxin"><p><l>gasolio<s n="n"/></l><r>diesel<s n="n"/><s n="sg"/></r></p></e>
+<e a="matxin"><p><l>munizio<s n="n"/></l><r>ammunition<s n="n"/><s n="sg"/></r></p></e>
+<e a="matxin"><p><l>borragoma<s n="n"/></l><r>eraser<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>buia<s n="n"/></l><r>buoy<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>buxadura<s n="n"/></l><r>blockage<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>diagrama<s n="n"/></l><r>diagram<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>egongela<s n="n"/></l><r>lounge<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>esperma<s n="n"/></l><r>sperm<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hanburgesa<s n="n"/></l><r>hamburger<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hesola<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hilkutxa<s n="n"/></l><r>coffin<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>huskeria<s n="n"/></l><r>triviality<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>idazmakina<s n="n"/></l><r>typewriter<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>igaraba<s n="n"/></l><r>otter<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ilara<s n="n"/></l><r>queue<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>itsasbehera<s n="n"/></l><r>ebb<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>jendaila<s n="n"/></l><r>rabble<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>jirafa<s n="n"/></l><r>giraffe<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kanpadenda<s n="n"/></l><r>tent<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>karranpa<s n="n"/></l><r>cramp<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>klera<s n="n"/></l><r>chalk<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lastaira<s n="n"/></l><r>mattress<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>lauhazka<s n="n"/></l><r>canter<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lauhazka<s n="n"/></l><r>gallop<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lumatxa<s n="n"/></l><r>down<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>alkoholiko<s n="n"/></l><r>alcoholic<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>altzo<s n="n"/></l><r>lap<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>apaingarri<s n="n"/></l><r>adornment<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>apaingarri<s n="n"/></l><r>ornament<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>arro<s n="n"/></l><r>watershed<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>artisau<s n="n"/></l><r>craftsman<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>arto<s n="n"/></l><r>maize<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>arto<s n="n"/></l><r>sweetcorn<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>astindu<s n="n"/></l><r>jerk<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>atondo<s n="n"/></l><r>hall<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>galdategi<s n="n"/></l><r>foundry<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gatzatu<s n="n"/></l><r>curd<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gay<s n="n"/></l><r>gay<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gehigarri<s n="n"/></l><r>additive<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>gehigarri<s n="n"/></l><r>fitting<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gerrari<s n="n"/></l><r>warrior<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>giltzari<s n="n"/></l><r>housekeeper<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>gotorleku<s n="n"/></l><r>bastion<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gotorleku<s n="n"/></l><r>fortress<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>grabatu<s n="n"/></l><r>engraving<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handiki<s n="n"/></l><r>magnate<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>handiki<s n="n"/></l><r>mogul<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>handiki<s n="n"/></l><r>tycoon<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hareharri<s n="n"/></l><r>sandstone<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>harrapari<s n="n"/></l><r>predator<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>harribitxi<s n="n"/></l><r>gem<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>harribitxi<s n="n"/></l><r>jewel<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>haurtzaindegi<s n="n"/></l><r>kindergarten<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>haurtzaindegi<s n="n"/></l><r>nursery<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hilarri<s n="n"/></l><r>tombstone<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ikusgai<s n="n"/></l><r>exhibit<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>isuri<s n="n"/></l><r>flow<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>itzulipurdi<s n="n"/></l><r>pirouette<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>itzulipurdi<s n="n"/></l><r>somersault<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>izengoiti<s n="n"/></l><r>pseudonym<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>jolastoki<s n="n"/></l><r>playground<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>juntagailu<s n="n"/></l><r>conjunction<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kimikari<s n="n"/></l><r>chemist<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kiroldegi<s n="n"/></l><r>arena<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>konplimendu<s n="n"/></l><r>compliment<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kreditu<s n="n"/></l><r>credit<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lakio<s n="n"/></l><r>lasso<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lepahori<s n="n"/></l><r>marten<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lozorro<s n="n"/></l><r>torpor<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>luizi<s n="n"/></l><r>landslide<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>mando<s n="n"/></l><r>mule<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>matxino<s n="n"/></l><r>rebel<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>maximo<s n="n"/></l><r>maximum<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>mekanikari<s n="n"/></l><r>mechanic<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>neurosi<s n="n"/></l><r>neurosis<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>optikari<s n="n"/></l><r>optician<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>paralelo<s n="n"/></l><r>parallel<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>patu<s n="n"/></l><r>destiny<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>patu<s n="n"/></l><r>fate<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>patu<s n="n"/></l><r>lot<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>porru<s n="n"/></l><r>leek<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>presondegi<s n="n"/></l><r>penitentiary<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>psikoanalisi<s n="n"/></l><r>psychoanalysis<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>puru<s n="n"/></l><r>cigar<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>santutegi<s n="n"/></l><r>shrine<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>saski<s n="n"/></l><r>basket<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>saski<s n="n"/></l><r>hamper<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sinonimo<s n="n"/></l><r>synonym<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sintaxi<s n="n"/></l><r>syntax<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>solido<s n="n"/></l><r>solid<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sorgailu<s n="n"/></l><r>generator<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>toniko<s n="n"/></l><r>tonic<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>txaloaldi<s n="n"/></l><r>ovation<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>txerpolari<s n="n"/></l><r>hawker<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>txerriki<s n="n"/></l><r>pork<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>udaldi<s n="n"/></l><r>summertime<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>matematika<s n="n"/></l><r>mathematics<s n="n"/><s n="sg"/></r></p></e>
+<e a="matxin"><p><l>moja<s n="n"/></l><r>nun<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>profezia<s n="n"/></l><r>prophecy<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>txabola<s n="n"/></l><r>shack<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>txabola<s n="n"/></l><r>shanty<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>txabusina<s n="n"/></l><r>overall<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>txiza<s n="n"/></l><r>piss<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>asun<s n="n"/></l><r>nettle<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>behazun<s n="n"/></l><r>bile<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>buruzaletasun<s n="n"/></l><r>ego<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>egiaztapen<s n="n"/></l><r>certification<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ehunen<s n="n"/></l><r>hundredth<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erizain<s n="n"/></l><r>nurse<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>haurtzain<s n="n"/></l><r>nanny<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>jainkotasun<s n="n"/></l><r>divinity<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>karen<s n="n"/></l><r>placenta<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kemen<s n="n"/></l><r>verve<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kuxin<s n="n"/></l><r>cushion<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>kuxin<s n="n"/></l><r>pad<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>maisulan<s n="n"/></l><r>masterpiece<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>mundrun<s n="n"/></l><r>tar<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>oroimen<s n="n"/></l><r>memory<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>oroimen<s n="n"/></l><r>recall<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lizpaper<s n="n"/></l><r>sandpaper<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>zimur<s n="n"/></l><r>furrow<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zimur<s n="n"/></l><r>wrinkle<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>aitaginarreba<s n="n"/></l><r>father-in-law<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>amaginarreba<s n="n"/></l><r>mother-in-law<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>banatzaile<s n="n"/></l><r>distributor<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bihotzerre<s n="n"/></l><r>heartburn<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bisonte<s n="n"/></l><r>bison<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erregeorde<s n="n"/></l><r>regent<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>forte<s n="n"/></l><r>fort<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>iaioa<b/>izan<s n="n"/></l><r>forte<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>galtze<s n="n"/></l><r>extinction<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>galtze<s n="n"/></l><r>wastage<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>golde<s n="n"/></l><r>plough<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>golde<s n="n"/></l><r>plow<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>goragale<s n="n"/></l><r>nausea<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hirukote<s n="n"/></l><r>trio<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>hitzaurre<s n="n"/></l><r>foreword<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hitzaurre<s n="n"/></l><r>preface<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>hitzaurre<s n="n"/></l><r>prologue<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>igorle<s n="n"/></l><r>sender<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>emaile<s n="n"/></l><r>donor<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>izozte<s n="n"/></l><r>freeze<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>nabigatzaile<s n="n"/></l><r>browser<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>aitoren<b/>seme<s n="n"/></l><r>noble<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ondeste<s n="n"/></l><r>rectum<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ponte<s n="n"/></l><r>font<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>salbatzaile<s n="n"/></l><r>rescuer<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>salbatzaile<s n="n"/></l><r>saviour<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>soilgune<s n="n"/></l><r>clearing<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zuriune<s n="n"/></l><r>blank<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ahosabai<s n="n"/></l><r>palate<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>aireko<s n="n"/></l><r>aeroplane<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>aireko<s n="n"/></l><r>airplane<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>akademiko<s n="n"/></l><r>academic<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>albistegi<s n="n"/></l><r>bulletin<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>azeri<s n="n"/></l><r>fox<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>basati<s n="n"/></l><r>savage<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>arrotz<s n="n"/></l><r>stranger<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>behiki<s n="n"/></l><r>beef<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bekatari<s n="n"/></l><r>sinner<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>bereizgarri<s n="n"/></l><r>hallmark<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bereizgarri<s n="n"/></l><r>trait<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>birigarro<s n="n"/></l><r>thrush<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>boluntario<s n="n"/></l><r>volunteer<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin" c="slr='dragonfly'"><p><l>burruntzi<s n="n"/></l><r>dragonfly<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>burruntzi<s n="n"/></l><r>skewer<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>diplomazialari<s n="n"/></l><r>diplomat<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>diru-zorro<s n="n"/></l><r>purse<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>diru-zorro<s n="n"/></l><r>wallet<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ebanjelio<s n="n"/></l><r>gospel<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>egiaztagiri<s n="n"/></l><r>certificate<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>egiaztagiri<s n="n"/></l><r>warrant<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erbi<s n="n"/></l><r>hare<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ermitau<s n="n"/></l><r>hermit<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ermitau<s n="n"/></l><r>recluse<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erraldoi<s n="n"/></l><r>giant<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>eukalipto<s n="n"/></l><r>eucalyptus<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ezkongai<s n="n"/></l><r>suitor<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>fanatiko<s n="n"/></l><r>fanatic<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>fanatiko<s n="n"/></l><r>zealot<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>zero<s n="n"/></l><r>nought<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zero<s n="n"/></l><r>zero<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>eredu<s n="n"/></l><r>ideal<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>inizial<s n="n"/></l><r>initial<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>upel<s n="n"/></l><r>barrel<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erbi-txakur<s n="n"/></l><r>greyhound<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>oin-ohar<s n="n"/></l><r>footnote<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>soka-laster<s n="n"/></l><r>noose<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ur-laster<s n="n"/></l><r>current<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zahar<s n="n"/></l><r>elder<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bizar-labana<s n="n"/></l><r>razor<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bizar-makina<s n="n"/></l><r>shaver<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>elur-pilota<s n="n"/></l><r>snowball<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>janari-denda<s n="n"/></l><r>grocery<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>su-arma<s n="n"/></l><r>firearm<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ehiza-hegazkin<s n="n"/></l><r>fighter<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bide-seinale<s n="n"/></l><r>signpost<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>estatu-kolpe<s n="n"/></l><r>coup<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hego-ekialde<s n="n"/></l><r>south-east<s n="n"/><s n="sg"/></r></p></e>
+<e a="matxin"><p><l>jolas-parke<s n="n"/></l><r>fair<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>posta-kode<s n="n"/></l><r>postcode<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>apar-harri<s n="n"/></l><r>pumice<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gurpil-aulki<s n="n"/></l><r>wheelchair<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ihes-hodi<s n="n"/></l><r>exhaust<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ur-jauzi<s n="n"/></l><r>waterfall<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>teilatu-hegal<s n="n"/></l><r>eaves<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>egur-ikatz<s n="n"/></l><r>charcoal<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>andere-mahats<s n="n"/></l><r>gooseberry<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bihar<s n="n"/></l><r>tomorrow<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gaur<s n="n"/></l><r>today<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ar<s n="n"/></l><r>buck<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ar<s n="n"/></l><r>male<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>garezur<s n="n"/></l><r>skull<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>izter<s n="n"/></l><r>thigh<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>konkor<s n="n"/></l><r>hunch<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>konkor<s n="n"/></l><r>stoop<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>liskar<s n="n"/></l><r>confrontation<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>liskar<s n="n"/></l><r>fracas<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>liskar<s n="n"/></l><r>showdown<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>liskar<s n="n"/></l><r>spat<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>liskar<s n="n"/></l><r>squabble<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>liskar<s n="n"/></l><r>tiff<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>liskar<s n="n"/></l><r>wrangle<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>negar<s n="n"/></l><r>tear<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>negar<s n="n"/></l><r>cry<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>negar<s n="n"/></l><r>trickle<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>oilar<s n="n"/></l><r>cock<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>oilar<s n="n"/></l><r>rooster<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>oker<s n="n"/></l><r>setback<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>tontor<s n="n"/></l><r>bulge<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tontor<s n="n"/></l><r>peak<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>tontor<s n="n"/></l><r>protuberance<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bidaia<s n="n"/></l><r>tour<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zarakar<s n="n"/></l><r>scab<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>amnistia<s n="n"/></l><r>amnesty<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bufanda<s n="n"/></l><r>scarf<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>balentria<s n="n"/></l><r>exploit<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>balentria<s n="n"/></l><r>feat<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>bolada<s n="n"/></l><r>flurry<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bolada<s n="n"/></l><r>gust<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bezpera<s n="n"/></l><r>eve<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lehiaketa<s n="n"/></l><r>quiz<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ilara<s n="n"/></l><r>queue<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>dirdira<s n="n"/></l><r>twinkle<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>dirdira<s n="n"/></l><r>shimmer<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>dontzeila<s n="n"/></l><r>maiden<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>elikadura<s n="n"/></l><r>nutrition<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erlikia<s n="n"/></l><r>relic<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>errolda<s n="n"/></l><r>census<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>errota<s n="n"/></l><r>grinder<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>errota<s n="n"/></l><r>mill<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>esfera<s n="n"/></l><r>dial<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>esfera<s n="n"/></l><r>sphere<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>eskolta<s n="n"/></l><r>escort<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>fereka<s n="n"/></l><r>caress<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>fereka<s n="n"/></l><r>stroke<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>fidantza<s n="n"/></l><r>bail<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gala<s n="n"/></l><r>gala<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ausardia<s n="n"/></l><r>bravery<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>harraska<s n="n"/></l><r>sink<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>herrixka<s n="n"/></l><r>hamlet<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>herrixka<s n="n"/></l><r>village<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>jakituria<s n="n"/></l><r>lore<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kandela<s n="n"/></l><r>candle<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>kandela<s n="n"/></l><r>taper<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>karga<s n="n"/></l><r>load<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sukaldaritza<s n="n"/></l><r>cookery<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>sukaldaritza<s n="n"/></l><r>cuisine<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kolonia<s n="n"/></l><r>colony<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>kortesia<s n="n"/></l><r>chivalry<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kortesia<s n="n"/></l><r>courtesy<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kritika<s n="n"/></l><r>criticism<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>kritika<s n="n"/></l><r>flak<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kupula<s n="n"/></l><r>dome<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>lauza<s n="n"/></l><r>flagstone<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lauza<s n="n"/></l><r>slab<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>leihatila<s n="n"/></l><r>hatch<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>leihatila<s n="n"/></l><r>shutter<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>marruskadura<s n="n"/></l><r>friction<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>mesfidantza<s n="n"/></l><r>distrust<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>mesfidantza<s n="n"/></l><r>mistrust<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>muntaia<s n="n"/></l><r>montage<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>orga<s n="n"/></l><r>carriage<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>orga<s n="n"/></l><r>cart<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>orga<s n="n"/></l><r>trolley<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>orga<s n="n"/></l><r>wagon<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>panda<s n="n"/></l><r>panda<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>paradoxa<s n="n"/></l><r>paradox<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>parrokia<s n="n"/></l><r>parish<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>pasta<s n="n"/></l><r>pasta<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>pasta<s n="n"/></l><r>spread<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>perla<s n="n"/></l><r>pearl<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>piztia<s n="n"/></l><r>beast<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>psikiatra<s n="n"/></l><r>psychiatrist<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>psikiatria<s n="n"/></l><r>psychiatry<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>segida<s n="n"/></l><r>sequence<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>segida<s n="n"/></l><r>series<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>segida<s n="n"/></l><r>succession<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>siesta<s n="n"/></l><r>siesta<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>sirena<s n="n"/></l><r>mermaid<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sirena<s n="n"/></l><r>siren<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sorbalda<s n="n"/></l><r>shoulder<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tamaina<s n="n"/></l><r>calibre<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>tamaina<s n="n"/></l><r>magnitude<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tamaina<s n="n"/></l><r>scale<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>teknika<s n="n"/></l><r>technique<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>tolerantzia<s n="n"/></l><r>indulgence<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tolerantzia<s n="n"/></l><r>tolerance<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tximinia<s n="n"/></l><r>chimney<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>tximinia<s n="n"/></l><r>funnel<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>txinparta<s n="n"/></l><r>spark<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>xerra<s n="n"/></l><r>fillet<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>xerra<s n="n"/></l><r>slice<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zeramika<s n="n"/></l><r>ceramics<s n="n"/><s n="sg"/></r></p></e>
+<e a="matxin"><p><l>atezain<s n="n"/></l><r>doorman<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>atezain<s n="n"/></l><r>goalkeeper<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>atezain<s n="n"/></l><r>janitor<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>atezain<s n="n"/></l><r>porter<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>atezain<s n="n"/></l><r>usher<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>berun<s n="n"/></l><r>plumb<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ogasun<s n="n"/></l><r>exchequer<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>esan<s n="n"/></l><r>saying<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>eskakizun<s n="n"/></l><r>demand<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ezagun<s n="n"/></l><r>acquaintance<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gogortasun<s n="n"/></l><r>hardness<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>katedradun<s n="n"/></l><r>professor<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ordain<s n="n"/></l><r>remuneration<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>oroipen<s n="n"/></l><r>recollection<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>oroipen<s n="n"/></l><r>remembrance<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>oroipen<s n="n"/></l><r>reminiscence<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sorospen<s n="n"/></l><r>succour<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ustiapen<s n="n"/></l><r>exploitation<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zaletasun<s n="n"/></l><r>devotion<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>zaletasun<s n="n"/></l><r>mania<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>zaletasun<s n="n"/></l><r>preference<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zezen<s n="n"/></l><r>bull<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>esprint<s n="n"/></l><r>sprint<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>adingabe<s n="n"/></l><r>juvenile<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>aurrealde<s n="n"/></l><r>front<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>aurrealde<s n="n"/></l><r>lead<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bare<s n="n"/></l><r>slug<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin" c="slr='spleed'"><p><l>bare<s n="n"/></l><r>spleen<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bote<s n="n"/></l><r>bounce<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>pote<s n="n"/></l><r>jar<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>defendatzaile<s n="n"/></l><r>defender<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>emazte<s n="n"/></l><r>wife<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>eramaile<s n="n"/></l><r>bearer<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>eramaile<s n="n"/></l><r>carrier<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>etxekoandre<s n="n"/></l><r>housewife<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gose<s n="n"/></l><r>hunger<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>gose<s n="n"/></l><r>starvation<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>gosete<s n="n"/></l><r>famine<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>hautesle<s n="n"/></l><r>constituent<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>hautesle<s n="n"/></l><r>elector<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>garaile<s n="n"/></l><r>victor<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>suhiltzaile<s n="n"/></l><r>firefighter<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>suhiltzaile<s n="n"/></l><r>fireman<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>jarraibide<s n="n"/></l><r>guideline<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>identitate<s n="n"/></l><r>identity<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>neke<s n="n"/></l><r>exhaustion<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>neke<s n="n"/></l><r>fatigue<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>neke<s n="n"/></l><r>weariness<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sable<s n="n"/></l><r>sabre<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sute<s n="n"/></l><r>blaze<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>teniente<s n="n"/></l><r>lieutenant<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ubide<s n="n"/></l><r>channel<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>xake<s n="n"/></l><r>chess<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>xurgatze<s n="n"/></l><r>absorption<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>xurgatze<s n="n"/></l><r>uptake<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>arbitro<s n="n"/></l><r>ref<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>arbitro<s n="n"/></l><r>referee<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>asto<s n="n"/></l><r>ass<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>asto<s n="n"/></l><r>donkey<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin" c="slr='easel'"><p><l>asto<s n="n"/></l><r>easel<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>aurkako<s n="n"/></l><r>opponent<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>aurkako<s n="n"/></l><r>adversary<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>burko<s n="n"/></l><r>pillow<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>dardo<s n="n"/></l><r>dart<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>egarri<s n="n"/></l><r>thirst<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>egunsenti<s n="n"/></l><r>dawn<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>egunsenti<s n="n"/></l><r>sunrise<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ekarri<s n="n"/></l><r>input<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>elikagai<s n="n"/></l><r>nourishment<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>berotegi<s n="n"/></l><r>greenhouse<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>berotegi<s n="n"/></l><r>hothouse<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erakusleiho<s n="n"/></l><r>display<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erakustaldi<s n="n"/></l><r>show<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ero<s n="n"/></l><r>loony<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erretilu<s n="n"/></l><r>tray<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erromero<s n="n"/></l><r>rosemary<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>espaloi<s n="n"/></l><r>pavement<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>espaloi<s n="n"/></l><r>sidewalk<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ongietorri<s n="n"/></l><r>welcome<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>fardo<s n="n"/></l><r>bale<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>fardo<s n="n"/></l><r>bundle<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>fardo<s n="n"/></l><r>pack<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>golko<s n="n"/></l><r>gulf<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>iduneko<s n="n"/></l><r>necklace<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ijito<s n="n"/></l><r>tinker<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>injekzio<s n="n"/></l><r>injection<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ipurdi<s n="n"/></l><r>arse<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ipurdi<s n="n"/></l><r>backside<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ipurdi<s n="n"/></l><r>behind<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ipurdi<s n="n"/></l><r>bottom<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ipurdi<s n="n"/></l><r>bum<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ipurdi<s n="n"/></l><r>posterior<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>irrintzi<s n="n"/></l><r>neigh<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>irrintzi<s n="n"/></l><r>whinny<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>isolamendu<s n="n"/></l><r>insulation<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>itxaronaldi<s n="n"/></l><r>wait<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>izurri<s n="n"/></l><r>epidemic<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>izurri<s n="n"/></l><r>plague<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kanoi<s n="n"/></l><r>cannon<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>karratu<s n="n"/></l><r>square<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>kimu<s n="n"/></l><r>bud<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>laino<s n="n"/></l><r>fog<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>laino<s n="n"/></l><r>haze<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>laino<s n="n"/></l><r>mist<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>laino<s n="n"/></l><r>pall<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lasto<s n="n"/></l><r>straw<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>lokarri<s n="n"/></l><r>shoelace<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>mendeko<s n="n"/></l><r>addict<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>mendeko<s n="n"/></l><r>inferior<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>mendeko<s n="n"/></l><r>junior<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>mendeku<s n="n"/></l><r>retaliation<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>mendeku<s n="n"/></l><r>revenge<s n="n"/><s n="sg"/></r></p></e>
+<e r="RL" a="matxin"><p><l>mendeku<s n="n"/></l><r>vengeance<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>nozio<s n="n"/></l><r>notion<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ogitarteko<s n="n"/></l><r>sandwich<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>oheburu<s n="n"/></l><r>bedside<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>oilo<s n="n"/></l><r>chicken<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>oilo<s n="n"/></l><r>hen<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>oinordeko<s n="n"/></l><r>heir<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>oinordeko<s n="n"/></l><r>heiress<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>olibondo<s n="n"/></l><r>olive<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>osagarri<s n="n"/></l><r>attachment<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>osagarri<s n="n"/></l><r>supplement<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>palmondo<s n="n"/></l><r>palm<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>parentesi<s n="n"/></l><r>bracket<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>parentesi<s n="n"/></l><r>parenthesis<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>pasadizo<s n="n"/></l><r>anecdote<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>pinu<s n="n"/></l><r>pine<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>postontzi<s n="n"/></l><r>mailbox<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>postontzi<s n="n"/></l><r>postbox<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>salmahai<s n="n"/></l><r>counter<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tiraldi<s n="n"/></l><r>pull<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tiraldi<s n="n"/></l><r>tug<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tximino<s n="n"/></l><r>ape<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>tximino<s n="n"/></l><r>monkey<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>txoko<s n="n"/></l><r>cuttlefish<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>konboi<s n="n"/></l><r>convoy<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zaindari<s n="n"/></l><r>caretaker<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>zaindari<s n="n"/></l><r>keeper<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>zaindari<s n="n"/></l><r>warden<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>zaindari<s n="n"/></l><r>watchman<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zergati<s n="n"/></l><r>reason<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>zori<s n="n"/></l><r>chance<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ez<s n="n"/></l><r>negative<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>golf<s n="n"/></l><r>golf<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ihes<s n="n"/></l><r>escape<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ihes<s n="n"/></l><r>evasion<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ihes<s n="n"/></l><r>leak<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ihes<s n="n"/></l><r>leakage<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>mural<s n="n"/></l><r>mural<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>sabel<s n="n"/></l><r>belly<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>sabel<s n="n"/></l><r>tummy<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ukabil<s n="n"/></l><r>fist<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>urmael<s n="n"/></l><r>lagoon<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>urmael<s n="n"/></l><r>pond<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>erratz<s n="n"/></l><r>broom<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ihintz<s n="n"/></l><r>dew<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ihintz<s n="n"/></l><r>spray<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>ilunantz<s n="n"/></l><r>gloom<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>iparrorratz<s n="n"/></l><r>compass<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>aberats<s n="n"/></l><r>millionaire<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>errauts<s n="n"/></l><r>ash<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>errauts<s n="n"/></l><r>cinder<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>aurre<s n="n"/></l><r>fore<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>inguru<s n="n"/></l><r>locality<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>NBE<s n="n"/><s n="acr"/></l>          <r>U.N.<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e r="RL" c="United Nations "><p><l>NBE<s n="n"/><s n="acr"/></l><r>UN<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e>       <p><l>PP<s n="n"/><s n="acr"/></l>           <r>PP<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
