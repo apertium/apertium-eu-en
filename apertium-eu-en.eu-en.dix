@@ -2686,42 +2686,40 @@
 <e a="matxin"><p><l>exotiko<s n="adj"/><s n="izo"/></l><r>exotic<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>ez-gaitu<s n="adj"/><s n="izo"/></l><r>unskilled<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>ez-legitimo<s n="adj"/><s n="izo"/></l><r>illegitimate<s n="adj"/></r></p></e>
-<e>       <p><l>ez_beharrezko<s n="adj"/></l>          <r>unnecessary<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_eraginkor<s n="adj"/><s n="izo"/></l><r>ineffective<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_garbi<s n="adj"/><s n="izo"/></l><r>unclear<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_kaltegarri<s n="adj"/><s n="izo"/></l><r>harmless<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_kontziente<s n="adj"/><s n="izo"/></l><r>oblivious<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_kontziente<s n="adj"/><s n="izo"/></l><r>unaware<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_prest<s n="adj"/><s n="izo"/></l><r>unwilling<s n="adj"/></r></p></e>
-<e>       <p><l>ez_seguru<s n="adj"/></l>              <r>unsure<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_seguru<s n="adj"/><s n="izo"/></l><r>insecure<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_seguru<s n="adj"/><s n="izo"/></l><r>unsafe<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_seguru<s n="adj"/><s n="izo"/></l><r>unsure<s n="adj"/></r></p></e>
-<e>       <p><l>ez_zuzen<s n="adj"/></l>               <r>wrong<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ez_zuzen<s n="adj"/><s n="izo"/></l><r>incorrect<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>familiar<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>known<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>noted<s n="adj"/></r></p></e>
+<e>       <p><l>ez<b/>beharrezko<s n="adj"/></l>          <r>unnecessary<s n="adj"/></r></p></e>
+<e a="matxin"><p><l>ez<b/>eraginkor<s n="adj"/><s n="izo"/></l><r>ineffective<s n="adj"/></r></p></e>
+<e a="matxin"><p><l>ez<b/>garbi<s n="adj"/><s n="izo"/></l><r>unclear<s n="adj"/></r></p></e>
+<e a="matxin"><p><l>ez<b/>kaltegarri<s n="adj"/><s n="izo"/></l><r>harmless<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ez<b/>kontziente<s n="adj"/><s n="izo"/></l><r>oblivious<s n="adj"/></r></p></e>
+<e a="matxin"><p><l>ez<b/>kontziente<s n="adj"/><s n="izo"/></l><r>unaware<s n="adj"/></r></p></e>
+<e a="matxin"><p><l>ez<b/>prest<s n="adj"/><s n="izo"/></l><r>unwilling<s n="adj"/></r></p></e>
+<e><p><l>prest<s n="adj"/><s n="izo"/></l><r>willing<s n="adj"/></r></p></e>
+<e r="RL">       <p><l>ez<b/>seguru<s n="adj"/></l>              <r>unsure<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ez<b/>seguru<s n="adj"/><s n="izo"/></l><r>insecure<s n="adj"/></r></p></e>
+<e a="matxin"><p><l>ez<b/>seguru<s n="adj"/><s n="izo"/></l><r>unsafe<s n="adj"/></r></p></e>
+<e>       <p><l>ez<b/>zuzen<s n="adj"/></l>               <r>wrong<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ez<b/>zuzen<s n="adj"/><s n="izo"/></l><r>incorrect<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>familiar<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>known<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>noted<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>popular<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>well-known<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezagun<s n="adj"/><s n="izo"/></l> <r>well-known<s n="adj"/></r></p></e>
 <e>       <p><l>ezatsegin<s n="adj"/></l>              <r>unpleasant<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>disagreeable<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>objectionable<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>unfriendly<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>unkind<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>unpleasant<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>disagreeable<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>objectionable<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>unfriendly<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezatsegin<s n="adj"/><s n="izo"/></l><r>unkind<s n="adj"/></r></p></e>
 <e>       <p><l>ezberdin<s n="adj"/></l>               <r>different<s n="adj"/></r></p></e>
 <e r="RL"><p><l>ezberdin<s n="adj"/></l>               <r>unlike<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>ezegoki<s n="adj"/><s n="izo"/></l><r>inappropriate<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezegoki<s n="adj"/><s n="izo"/></l><r>unseemly<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezegoki<s n="adj"/><s n="izo"/></l><r>unseemly<s n="adj"/></r></p></e>
 <e>       <p><l>ezegonkor<s n="adj"/></l>              <r>unstable<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>precarious<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>unsound<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>unstable<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>unsteady<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>volatile<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>precarious<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>unsound<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>unsteady<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezegonkor<s n="adj"/><s n="izo"/></l><r>volatile<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>ezerez<s n="adj"/><s n="izo"/></l> <r>useless<s n="adj"/></r></p></e>
-<e a="matxin"><p><l>ezerez<s n="adj"/><s n="izo"/></l> <r>worthless<s n="adj"/></r></p></e>
+<e r="RL" a="matxin"><p><l>ezerez<s n="adj"/><s n="izo"/></l> <r>worthless<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>ezezagun<s n="adj"/><s n="izo"/></l><r>unidentified<s n="adj"/></r></p></e>
 <e a="matxin"><p><l>ezezagun<s n="adj"/><s n="izo"/></l><r>unknown<s n="adj"/></r></p></e>
 <e>       <p><l>ezezko<s n="adj"/></l>                 <r>negative<s n="adj"/></r></p></e>
@@ -13439,7 +13437,6 @@
 <e>       <p><l>ospitale<s n="n"/></l>                 <r>hospital<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ostalari<s n="n"/></l>                 <r>host<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL">       <p><l>ostalari<s n="n"/></l>                 <r>hostess<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ostatu<s n="n"/></l>                   <r>allowance<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ostatu<s n="n"/></l>                   <r>guesthouse<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ostegun<s n="n"/></l>                  <r>Thursday<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ostiral<s n="n"/></l>                  <r>Friday<s n="n"/><s n="ND"/></r></p></e>
@@ -13451,7 +13448,7 @@
 <e>       <p><l>ozeano<s n="n"/></l>                   <r>ocean<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ozono<s n="n"/></l>                    <r>ozone<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>oztopo<s n="n"/></l>                   <r>obstacle<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>pairamenik_ez<s n="n"/></l>            <r>impatience<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>pairamenik<b/>ez<s n="n"/></l>            <r>impatience<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>paisaia<s n="n"/></l>                  <r>landscape<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pakete<s n="n"/></l>                   <r>pack<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>pakete<s n="n"/></l>                   <r>package<s n="n"/><s n="ND"/></r></p></e>
