@@ -9628,6 +9628,7 @@
     <!-- Adverbs -->
 
 <e c="comparacions"><p><l>hain<s n="preadv"/></l>      <r>as<s n="preadv"/></r></p></e>
+<e><p><l>erdi<s n="preadv"/></l>      <r>half<s n="adv"/></r></p></e>
 <e>       <p><l>hain<s n="preadv"/></l>                <r>just<b/>as<s n="preadv"/></r></p></e>
 <e>       <p><l>hain<s n="preadv"/></l>                <r>so<s n="preadv"/></r></p></e>
 <e>       <p><l>oso<s n="preadv"/></l>                 <r>any<s n="preadv"/></r></p></e>
@@ -13419,9 +13420,9 @@
 <e>       <p><l>orpo<s n="n"/></l>                     <r>heel<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL">       <p><l>orratz<s n="n"/></l>                   <r>needle<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orratz<s n="n"/></l>                   <r>pin<s n="n"/><s n="ND"/></r></p></e>
-<e r="RL">       <p><l>orri<s n="n"/></l>                     <r>blade<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orri<s n="n"/></l>                     <r>leaf<s n="n"/><s n="ND"/></r></p></e>
-<e r="RL">       <p><l>orri<s n="n"/></l>                     <r>sheet<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" c="slr='sheet' c='of paper'">       <p><l>orri<s n="n"/></l>                     <r>sheet<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" c="slr='page'">       <p><l>orri<s n="n"/></l>                     <r>page<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>orrialde<s n="n"/></l>                 <r>page<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ortografia<s n="n"/></l>               <r>spelling<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>osaba<s n="n"/></l>                    <r>uncle<s n="n"/><s n="ND"/></r></p></e>
@@ -13436,11 +13437,10 @@
 <e>       <p><l>osotasun<s n="n"/></l>                 <r>whole<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ospakizun<s n="n"/></l>                <r>celebration<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ospitale<s n="n"/></l>                 <r>hospital<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ostalari<s n="n"/></l>                 <r>guest<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ostalari<s n="n"/></l>                 <r>hostess<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>ostalari<s n="n"/></l>                 <r>host<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>ostalari<s n="n"/></l>                 <r>hostess<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ostatu<s n="n"/></l>                   <r>allowance<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ostatu<s n="n"/></l>                   <r>guesthouse<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ostatu<s n="n"/></l>                   <r>pension<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ostegun<s n="n"/></l>                  <r>Thursday<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ostiral<s n="n"/></l>                  <r>Friday<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>oszilazio<s n="n"/></l>                <r>swing<s n="n"/><s n="ND"/></r></p></e>
