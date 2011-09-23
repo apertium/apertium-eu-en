@@ -9778,7 +9778,7 @@
 <e a="matxin"><p><l>txaloaldi<s n="n"/></l><r>ovation<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>txerpolari<s n="n"/></l><r>hawker<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>txerriki<s n="n"/></l><r>pork<s n="n"/><s n="ND"/></r></p></e>
-<e a="matxin"><p><l>udaldi<s n="n"/></l><r>summertime<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>udaldi<s n="n"/></l><r>summertime<s n="n"/><s n="sg"/></r></p></e>
 <e a="matxin"><p><l>matematika<s n="n"/></l><r>mathematics<s n="n"/><s n="sg"/></r></p></e>
 <e a="matxin"><p><l>moja<s n="n"/></l><r>nun<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>profezia<s n="n"/></l><r>prophecy<s n="n"/><s n="ND"/></r></p></e>
@@ -9808,7 +9808,7 @@
 <e a="matxin"><p><l>aitaginarreba<s n="n"/></l><r>father-in-law<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>amaginarreba<s n="n"/></l><r>mother-in-law<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>banatzaile<s n="n"/></l><r>distributor<s n="n"/><s n="ND"/></r></p></e>
-<e a="matxin"><p><l>bihotzerre<s n="n"/></l><r>heartburn<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>bihotzerre<s n="n"/></l><r>heartburn<s n="n"/><s n="sg"/></r></p></e>
 <e a="matxin"><p><l>bisonte<s n="n"/></l><r>bison<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>erregeorde<s n="n"/></l><r>regent<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>forte<s n="n"/></l><r>fort<s n="n"/><s n="ND"/></r></p></e>
@@ -10129,8 +10129,8 @@
 <e a="matxin"><p><l>postontzi<s n="n"/></l><r>postbox<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>salmahai<s n="n"/></l><r>counter<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>tiraldi<s n="n"/></l><r>pull<s n="n"/><s n="ND"/></r></p></e>
-<e a="matxin"><p><l>tiraldi<s n="n"/></l><r>tug<s n="n"/><s n="ND"/></r></p></e>
-<e a="matxin"><p><l>tximino<s n="n"/></l><r>ape<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>tiraldi<s n="n"/></l><r>tug<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" a="matxin"><p><l>tximino<s n="n"/></l><r>ape<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>tximino<s n="n"/></l><r>monkey<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>txoko<s n="n"/></l><r>cuttlefish<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>konboi<s n="n"/></l><r>convoy<s n="n"/><s n="ND"/></r></p></e>
