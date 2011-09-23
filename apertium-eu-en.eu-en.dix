@@ -6637,17 +6637,16 @@
     <e a="matxin"><p><l>entzun<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>entzun<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
     <e><p><l>enuntziatu<s n="vblex"/></l><r>bill<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>epaile_lanak_egin<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>epaile<b/>lanak<b/>egin<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
     <e><p><l>epaitu<s n="vblex"/></l><r>judge<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>epaitu<s n="vblex"/></l><r>judge<s n="vblex"/></r></p></e>
-    <e><p><l>erabaki<s n="vblex"/></l><r>agree<s n="vblex"/></r></p></e>
     <e><p><l>erabaki<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
-    <e><p><l>erabaki<s n="vblex"/></l><r>fail<s n="vblex"/></r></p></e>
+    <e><p><l>porrot<b/>egin<s n="vblex"/></l><r>fail<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>erabaki<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>erabaki<s n="vblex"/></l><r>settle<s n="vblex"/></r></p></e>
-    <e><p><l>erabili<s n="vblex"/></l><r>handle<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>erabili<s n="vblex"/></l><r>handle<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>erabili<s n="vblex"/></l><r>operate<s n="vblex"/></r></p></e>
-    <e><p><l>erabili<s n="vblex"/></l><r>exert<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>erabili<s n="vblex"/></l><r>exert<s n="vblex"/></r></p></e>
     <e><p><l>erabili<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>
     <e><p><l>erabili<s n="vbsint"/></l><r>use<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>erabili<s n="vblex"/></l><r>apply<s n="vblex"/></r></p></e>
