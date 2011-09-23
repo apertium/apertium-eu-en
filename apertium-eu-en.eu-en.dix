@@ -1709,7 +1709,7 @@
     <e a="matxin"><p><l>analogiko<s n="adj"/><s n="izo"/></l><r>analogue<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>anatomiko<s n="adj"/><s n="izo"/></l><r>anatomical<s n="adj"/></r></p></e>
     <e><p><l>anbiguo<s n="adj"/></l><r>ambiguous<s n="adj"/></r></p></e>
-    <e><p><l>anbizio_handiko<s n="adj"/></l><r>ambitious<s n="adj"/></r></p></e>
+    <e><p><l>anbizio<b/>handiko<s n="adj"/></l><r>ambitious<s n="adj"/></r></p></e>
     <e><p><l>andaluz<s n="adj"/></l><r>andalusian<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>andrezale<s n="adj"/><s n="izo"/></l><r>philanderer<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>anemiko<s n="adj"/><s n="izo"/></l><r>anaemic<s n="adj"/></r></p></e>
@@ -1761,7 +1761,7 @@
     <e r="RL" a="matxin"><p><l>arduragabe<s n="adj"/><s n="izo"/></l><r>casual<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>arduragabe<s n="adj"/><s n="izo"/></l><r>irresponsible<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>arduragabe<s n="adj"/><s n="izo"/></l><r>lax<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>arduraldi_oso<s n="adj"/><s n="izo"/></l><r>full-time<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>arduraldi<b/>oso<s n="adj"/><s n="izo"/></l><r>full-time<s n="adj"/></r></p></e>
     <e><p><l>arduratsu<s n="adj"/></l><r>responsible<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>arduratsu<s n="adj"/><s n="izo"/></l><r>concerned<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>arduratsu<s n="adj"/><s n="izo"/></l><r>diligent<s n="adj"/></r></p></e>
@@ -1863,7 +1863,7 @@
     <e r="RL" a="matxin"><p><l>astun<s n="adj"/><s n="izo"/></l><r>onerous<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>astun<s n="adj"/><s n="izo"/></l><r>ponderous<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>astun<s n="adj"/><s n="izo"/></l><r>weighty<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin" i="yes"><p><l>astun_eta_erabiltzeko_zail<s n="adj"/><s n="izo"/></l><r>unwieldy<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>astun<b/>eta<b/>erabiltzeko<b/>zail<s n="adj"/><s n="izo"/></l><r>unwieldy<s n="adj"/></r></p></e>
     <e><p><l>atlantiko<s n="adj"/></l><r>atlantic<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>atletiko<s n="adj"/><s n="izo"/></l><r>athletic<s n="adj"/></r></p></e>
     <e><p><l>atomiko<s n="adj"/></l><r>atomic<s n="adj"/></r></p></e>
@@ -1891,12 +1891,12 @@
     <e><p><l>atzerritar<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>aukeratu<s n="adj"/><s n="izo"/></l><r>designate<s n="adj"/></r></p></e>
     <e><p><l>aurkako<s n="adj"/></l><r>hostile<s n="adj"/></r></p></e>
-    <e><p><l>aurreikus_daitekeen<s n="adj"/></l><r>predictable<s n="adj"/></r></p></e>
+    <e><p><l>aurreikus<b/>daitekeen<s n="adj"/></l><r>predictable<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>aurrekaririk<b/>gabe<s n="adj"/><s n="izo"/></l><r>unprecedented<s n="adj"/></r></p></e>
     <e><p><l>aurreko<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
     <e r="RL"><p><l>aurreko<s n="adj"/></l><r>previous<s n="adj"/></r></p></e>
     <e><p><l>aurrerakoi<s n="adj"/></l><r>progressive<s n="adj"/></r></p></e>
-    <e><p><l>aurretik_baden<s n="adj"/></l><r>pre-existing<s n="adj"/></r></p></e>
+    <e><p><l>aurretik<b/>baden<s n="adj"/></l><r>pre-existing<s n="adj"/></r></p></e>
     <e><p><l>aurretiko<s n="adj"/></l><r>previous<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>aurreztaile<s n="adj"/><s n="izo"/></l><r>thrifty<s n="adj"/></r></p></e>
     <e r="RL"><p><l>ausart<s n="adj"/></l><r>audacious<s n="adj"/></r></p></e>
@@ -2033,7 +2033,7 @@
     <e><p><l>begetatibo<s n="adj"/></l><r>vegetative<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>begetatibo<s n="adj"/><s n="izo"/></l><r>vegetative<s n="adj"/></r></p></e>
     <e><p><l>begiko<s n="adj"/></l><r>pleasant<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>begirunerik_gabe<s n="adj"/><s n="izo"/></l><r>inconsiderate<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>begirunerik<b/>gabe<s n="adj"/><s n="izo"/></l><r>inconsiderate<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>begirunetsu<s n="adj"/><s n="izo"/></l><r>respectful<s n="adj"/></r></p></e>
     <e><p><l>behagarri<s n="adj"/></l><r>observable<s n="adj"/></r></p></e>
     <e><p><l>behar<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
@@ -9717,8 +9717,34 @@
     <e a="matxin"><p><l>erregeorde<s n="n"/></l><r>regent<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>forte<s n="n"/></l><r>fort<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>iaioa<b/>izan<s n="n"/></l><r>forte<s n="n"/><s n="ND"/></r></p></e>
-    <e a="matxin"><p><l>galtze<s n="n"/></l><r>extinction<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>galtze<s n="n"/></l><r>wastage<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ideal<s n="n"/></l><r>ideal<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>gidabaimen<s n="n"/></l><r>driving<b/>licence<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bonu<s n="n"/></l><r>bond<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bosten<s n="n"/></l><r>fifth<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>burges<s n="n"/></l><r>bourgeois<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>dama<s n="n"/></l><r>lady<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>daniar<s n="n"/></l><r>Dane<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>deformazio<s n="n"/></l><r>deformation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>elkarbizitza<s n="n"/></l><r>coexistence<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>elkarlan<s n="n"/></l><r>cooperation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>enkargu<s n="n"/></l><r>commission<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>entzuketa<s n="n"/></l><r>listening<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>epistemologia<s n="n"/></l><r>epistemology<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>erreboltari<s n="n"/></l><r>rebel<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>errege-bide<s n="n"/></l><r>royal<b/>road<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>erregulazio<s n="n"/></l><r>regulation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>errenta<s n="n"/></l><r>income<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>erreportaje<s n="n"/></l><r>report<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>errumaniar<s n="n"/></l><r>Romanian<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>etnia<s n="n"/></l><r>ethnicity<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>etorrera<s n="n"/></l><r>arrival<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>birpopulaketa<s n="n"/></l><r>repopulation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>belgikar<s n="n"/></l><r>Belgian<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>behartsu<s n="n"/></l><r>poor<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>begi-nini<s n="n"/></l><r>pupil<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>barbaro<s n="n"/></l><r>barbarian<s n="n"/><s n="ND"/></r></p></e>
+
     <e a="matxin"><p><l>golde<s n="n"/></l><r>plough<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>golde<s n="n"/></l><r>plow<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>goragale<s n="n"/></l><r>nausea<s n="n"/><s n="ND"/></r></p></e>
@@ -10074,9 +10100,11 @@
     <e><p><l>irrintzi<s n="n"/></l><r>yell<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aspaldi<s n="n"/></l><r>while<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>molotov<b/>koktel<s n="n"/></l><r>Molotov<b/>cocktail<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>molotov-koktel<s n="n"/></l><r>Molotov<b/>cocktail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>web<b/>orri<s n="n"/></l><r>webpage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>web<b/>orrialde<s n="n"/></l><r>webpage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zentsura<b/>mozio<s n="n"/></l><r>motion<g><b/>of<b/>censure</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>zentsura-mozio<s n="n"/></l><r>motion<g><b/>of<b/>censure</g><s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hondeatzeko<b/>makina<s n="n"/></l><r>excavator<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>Herrizaingo<b/>sailburu<s n="n"/></l><r>minister<g><b/>of<b/>the<b/>Interior</g><s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>Herrizaingo<b/>sail<s n="n"/></l><r>department<g><b/>of<b/>the<b/>Interior</g><s n="n"/><s n="ND"/></r></p></e>

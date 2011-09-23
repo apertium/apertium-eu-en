@@ -15272,6 +15272,8 @@
     <e lm="chemist's"><p><l>chemist's</l><r>chemist's<s n="n"/><s n="sg"/></r></p></e>
     <e lm="custom"><p><l>custom</l><r>custom<s n="n"/><s n="sg"/></r></p></e>
     <e lm="American"><i>American</i><par n="house__n"/>    </e>
+    <e lm="Romanian"><i>Romanian</i><par n="house__n"/>    </e>
+    <e lm="Dane"><i>Dane</i><par n="house__n"/>    </e>
     <e lm="Arab"><i>Arab</i><par n="house__n"/>    </e>
     <e lm="Aragonese"><i>Aragonese</i><par n="house__n"/>    </e>
     <e lm="Asian"><i>Asian</i><par n="house__n"/>    </e>
@@ -18511,6 +18513,7 @@
     <e lm="library"><i>librar</i><par n="bab/y__n"/>    </e>
     <e lm="librarian"><i>librarian</i><par n="house__n"/>    </e>
     <e lm="licence"><i>licence</i><par n="house__n"/>    </e>
+    <e lm="driving licence"><i>driving<b/>licence</i><par n="house__n"/>    </e>
     <e lm="license"><i>license</i><par n="house__n"/>    </e>
     <e lm="licking"><i>licking</i><par n="house__n"/>    </e>
     <e lm="lid"><i>lid</i><par n="house__n"/>    </e>
@@ -19834,6 +19837,7 @@
     <e lm="river"><i>river</i><par n="house__n"/>    </e>
     <e lm="rivet"><i>rivet</i><par n="house__n"/>    </e>
     <e lm="road"><i>road</i><par n="house__n"/>    </e>
+    <e lm="royal road"><i>royal<b/>road</i><par n="house__n"/>    </e>
     <e lm="roar"><i>roar</i><par n="house__n"/>    </e>
     <e lm="robot"><i>robot</i><par n="house__n"/>    </e>
     <e lm="robustness"><i>robustness</i><par n="access__n"/>    </e>
