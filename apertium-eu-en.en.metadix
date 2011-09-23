@@ -17594,6 +17594,7 @@
     <e lm="formulation"><i>formulation</i><par n="house__n"/>    </e>
     <e lm="fortnight"><i>fortnight</i><par n="house__n"/>    </e>
     <e lm="fortress"><i>fortress</i><par n="access__n"/>    </e>
+    <e lm="Molotov cocktail"><i>Molotov<b/>cocktail</i><par n="house__n"/>     </e>
     <e lm="fortune"><i>fortune</i><par n="house__n"/>    </e>
     <e lm="forum"><i>forum</i><par n="house__n"/>    </e>
     <e lm="fossil"><i>fossil</i><par n="house__n"/>    </e>
@@ -18607,6 +18608,8 @@
     <e lm="mail"><i>mail</i><par n="house__n"/>    </e>
     <e lm="maintenance" a="carmentano"><i>maintenance</i><par n="house__n"/>    </e>
     <e lm="majority"><i>majorit</i><par n="bab/y__n"/>    </e>
+    <e lm="absolute majority"><i>absolute<b/>majorit</i><par n="bab/y__n"/>    </e>
+    <e lm="relative majority"><i>relative<b/>majorit</i><par n="bab/y__n"/>    </e>
     <e lm="make"><i>make</i><par n="house__n"/>    </e>
     <e lm="make-up"><i>make-up</i><par n="house__n"/>    </e>
     <e lm="maker" a="carmentano"><i>maker</i><par n="house__n"/>    </e>
@@ -18692,6 +18695,7 @@
     <e lm="melon"><i>melon</i><par n="house__n"/>    </e>
     <e lm="member"><i>member</i><par n="house__n"/>    </e>
     <e lm="member of parliament"><i>member</i><par n="house__n"/>      <p>        <l><b/>of<b/>parliament</l><r><g><b/>of<b/>parliament</g></r></p></e>
+    <e lm="motion of censure"><i>motion</i><par n="house__n"/>      <p>        <l><b/>of<b/>censure</l><r><g><b/>of<b/>censure</g></r></p></e>
     <e lm="term of office"><i>term</i><par n="house__n"/>      <p>        <l><b/>of<b/>office</l><r><g><b/>of<b/>office</g></r></p></e>
     <e lm="membership"><i>membership</i><par n="house__n"/>    </e>
     <e lm="membrane" a="carmentano"><i>membrane</i><par n="house__n"/>    </e>
@@ -19111,6 +19115,8 @@
     <e lm="packet"><i>packet</i><par n="house__n"/>    </e>
     <e lm="pact"><i>pact</i><par n="house__n"/>    </e>
     <e lm="page"><i>page</i><par n="house__n"/>    </e>
+    <e lm="webpage"><i>webpage</i><par n="house__n"/>    </e>
+    <e lm="excavator"><i>excavator</i><par n="house__n"/>    </e>
     <e lm="pagoda"><i>pagoda</i><par n="house__n"/>    </e>
     <e lm="pain"><i>pain</i><par n="house__n"/>    </e>
     <e lm="paint"><i>paint</i><par n="house__n"/>    </e>
@@ -30996,6 +31002,8 @@
     <e lm="indeclinable"><i>indeclinable</i><par n="expensive__adj"/></e>
     <e lm="head of government"><i>head</i><par n="house__n"/><p><l><b/>of<b/>government</l><r><g><b/>of<b/>government</g></r></p></e>
     <e lm="head of state"><i>head</i><par n="house__n"/><p><l><b/>of<b/>state</l><r><g><b/>of<b/>state</g></r></p></e>
+    <e lm="minister of the Interior"><i>minister</i><par n="house__n"/><p><l><b/>of<b/>the<b/>Interior</l><r><g><b/>of<b/>the<b/>Interior</g></r></p></e>
+    <e lm="department of the Interior"><i>department</i><par n="house__n"/><p><l><b/>of<b/>the<b/>Interior</l><r><g><b/>of<b/>the<b/>Interior</g></r></p></e>
     <e lm="government head"><i>government<b/>head</i><par n="house__n"/></e>
     <e lm="film festival"><i>film<b/>festival</i><par n="house__n"/></e>
     <e lm="presidential candidate"><i>presidential<b/>candidate</i><par n="house__n"/></e>

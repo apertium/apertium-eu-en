@@ -9690,7 +9690,7 @@
 <e a="matxin"><p><l>buxadura<s n="n"/></l><r>blockage<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>diagrama<s n="n"/></l><r>diagram<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>egongela<s n="n"/></l><r>lounge<s n="n"/><s n="ND"/></r></p></e>
-<e a="matxin"><p><l>esperma<s n="n"/></l><r>sperm<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>esperma<s n="n"/></l><r>sperm<s n="n"/><s n="sg"/></r></p></e>
 <e a="matxin"><p><l>hanburgesa<s n="n"/></l><r>hamburger<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>hesola<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>hilkutxa<s n="n"/></l><r>coffin<s n="n"/><s n="ND"/></r></p></e>
@@ -10049,7 +10049,7 @@
 <e a="matxin"><p><l>sute<s n="n"/></l><r>blaze<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>teniente<s n="n"/></l><r>lieutenant<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>ubide<s n="n"/></l><r>channel<s n="n"/><s n="ND"/></r></p></e>
-<e a="matxin"><p><l>xake<s n="n"/></l><r>chess<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>xake<s n="n"/></l><r>chess<s n="n"/><s n="sg"/></r></p></e>
 <e a="matxin"><p><l>xurgatze<s n="n"/></l><r>absorption<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL" a="matxin"><p><l>xurgatze<s n="n"/></l><r>uptake<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL" a="matxin"><p><l>arbitro<s n="n"/></l><r>ref<s n="n"/><s n="ND"/></r></p></e>
@@ -10141,7 +10141,7 @@
 <e a="matxin"><p><l>zergati<s n="n"/></l><r>reason<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>zori<s n="n"/></l><r>chance<s n="n"/><s n="ND"/></r></p></e>
 <e a="matxin"><p><l>ez<s n="n"/></l><r>negative<s n="n"/><s n="ND"/></r></p></e>
-<e a="matxin"><p><l>golf<s n="n"/></l><r>golf<s n="n"/><s n="ND"/></r></p></e>
+<e a="matxin"><p><l>golf<s n="n"/></l><r>golf<s n="n"/><s n="sg"/></r></p></e>
 <e a="matxin"><p><l>ihes<s n="n"/></l><r>escape<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL" a="matxin"><p><l>ihes<s n="n"/></l><r>evasion<s n="n"/><s n="ND"/></r></p></e>
 <e r="RL" a="matxin"><p><l>ihes<s n="n"/></l><r>leak<s n="n"/><s n="ND"/></r></p></e>
@@ -10168,6 +10168,16 @@
 <e>       <p><l>PSOE<s n="n"/><s n="acr"/></l>         <r>PSOE<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e>       <p><l>Paradisu<s n="n"/></l>                 <r>paradise<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>irrintzi<s n="n"/></l>                 <r>yell<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>aspaldi<s n="n"/></l><r>while<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>molotov<b/>koktel<s n="n"/></l><r>Molotov<b/>cocktail<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>web<b/>orri<s n="n"/></l><r>webpage<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>web<b/>orrialde<s n="n"/></l><r>webpage<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>zentsura<b/>mozio<s n="n"/></l><r>motion<g><b/>of<b/>censure</g><s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>hondeatzeko<b/>makina<s n="n"/></l><r>excavator<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>Herrizaingo<b/>sailburu<s n="n"/></l><r>minister<g><b/>of<b/>the<b/>Interior</g><s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>Herrizaingo<b/>sail<s n="n"/></l><r>department<g><b/>of<b/>the<b/>Interior</g><s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>gehiengo<b/>oso<s n="n"/></l><r>absolute<b/>majority<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>gehiengo<b/>soil<s n="n"/></l><r>relative<b/>majority<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abandonu<s n="n"/></l>                 <r>abandonment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abaniko<s n="n"/></l>                  <r>fan<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abantaila<s n="n"/></l>                <r>advantage<s n="n"/><s n="ND"/></r></p></e>
