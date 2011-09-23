@@ -15465,6 +15465,8 @@
     <e lm="alluvium"><i>alluvium</i><par n="house__n"/>    </e>
     <e lm="almond"><i>almond</i><par n="house__n"/>    </e>
     <e lm="alms"><i>alms</i><par n="personnel__n"/>    </e>
+    <e lm="Middle Ages"><i>Middle<b/>Ages</i><par n="personnel__n"/>    </e>
+    <e lm="Fatherland Day"><i>Fatherland<b/>Day</i><par n="house__n"/>    </e>
     <e lm="alphabet"><i>alphabet</i><par n="house__n"/>    </e>
     <e lm="altar"><i>altar</i><par n="house__n"/>    </e>
     <e lm="altarpiece"><i>altarpiece</i><par n="house__n"/>    </e>
@@ -16565,6 +16567,7 @@
     <e lm="communism"><i>communism</i><par n="house__n"/>    </e>
     <e lm="communist"><i>communist</i><par n="house__n"/>    </e>
     <e lm="community"><i>communit</i><par n="bab/y__n"/>    </e>
+    <e lm="autonomous community"><i>autonomous<b/>communit</i><par n="bab/y__n"/>    </e>
     <e lm="company"><i>compan</i><par n="bab/y__n"/>    </e>
     <e lm="companion"><i>companion</i><par n="house__n"/>    </e>
     <e lm="comparison"><i>comparison</i><par n="house__n"/>    </e>
