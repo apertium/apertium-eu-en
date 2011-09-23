@@ -9660,6 +9660,24 @@
 <e>       <p><l>Mendebal<s n="n"/></l>                 <r>occident<s n="n"/><s n="ND"/></r></p></e>
 <e c="North Atlantic Treaty Organization"><p><l>NATO<s n="n"/><s n="acr"/></l><r>NATO<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e><p><l>UPV/EHU<s n="n"/><s n="acr"/></l><r>UPV/EHU<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>EB-IU<s n="n"/><s n="acr"/></l><r>EB-IU<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>LAB<s n="n"/><s n="acr"/></l><r>LAB<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>EHU<s n="n"/><s n="acr"/></l><r>EHU<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>EHAK<s n="n"/><s n="acr"/></l><r>EHAK<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>EB<s n="n"/><s n="acr"/></l><r>EB<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>AHT<s n="n"/><s n="acr"/></l><r>HSR<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>UGT<s n="n"/><s n="acr"/></l><r>UGT<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>EBB<s n="n"/><s n="acr"/></l><r>EBB<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>KPI<s n="n"/><s n="acr"/></l><r>CPI<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>AEB<s n="n"/><s n="acr"/></l><r>USA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>EAE<s n="n"/><s n="acr"/></l><r>EAE<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>EAE-ANV<s n="n"/><s n="acr"/></l><r>EAE-ANV<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>UPN<s n="n"/><s n="acr"/></l><r>UPN<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>PAN<s n="n"/><s n="acr"/></l><r>PAN<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>PSN<s n="n"/><s n="acr"/></l><r>PSN<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>IRA<s n="n"/><s n="acr"/></l><r>IRA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>NBA<s n="n"/><s n="acr"/></l><r>NBA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+<e><p><l>ELA<s n="n"/><s n="acr"/></l><r>ELA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e>       <p><l>NBE<s n="n"/><s n="acr"/></l>          <r>U.N.<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e r="RL" c="United Nations "><p><l>NBE<s n="n"/><s n="acr"/></l><r>UN<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 <e>       <p><l>PP<s n="n"/><s n="acr"/></l>           <r>PP<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
