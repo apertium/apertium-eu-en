@@ -10176,33 +10176,32 @@
 <e><p><l>hondeatzeko<b/>makina<s n="n"/></l><r>excavator<s n="n"/><s n="ND"/></r></p></e>
 <e><p><l>Herrizaingo<b/>sailburu<s n="n"/></l><r>minister<g><b/>of<b/>the<b/>Interior</g><s n="n"/><s n="ND"/></r></p></e>
 <e><p><l>Herrizaingo<b/>sail<s n="n"/></l><r>department<g><b/>of<b/>the<b/>Interior</g><s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>erdi<b/>aro<s n="n"/></l><r>Middle<b/>Ages<s n="n"/><s n="pl"/></r></p></e>
+<e><p><l>aberri<b/>eguna<s n="n"/></l><r>Fatherland<b/>Day<s n="n"/><s n="ND"/></r></p></e>
+<e><p><l>autonomia<b/>erkidego<s n="n"/></l><r>autonomous<b/>community<s n="n"/><s n="ND"/></r></p></e>
 <e><p><l>gehiengo<b/>oso<s n="n"/></l><r>absolute<b/>majority<s n="n"/><s n="ND"/></r></p></e>
 <e><p><l>gehiengo<b/>soil<s n="n"/></l><r>relative<b/>majority<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abandonu<s n="n"/></l>                 <r>abandonment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abaniko<s n="n"/></l>                  <r>fan<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abantaila<s n="n"/></l>                <r>advantage<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abantaila<s n="n"/></l>                <r>asset<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abantaila<s n="n"/></l>                <r>lead<s n="n"/><s n="ND"/></r></p></e>
 <e c="Ángel"><p><l>abdomen<s n="n"/></l>               <r>abdomen<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abelburu<s n="n"/></l>                 <r>animal<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abendu<s n="n"/></l>                   <r>December<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abentura<s n="n"/></l>                 <r>adventure<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abentura<s n="n"/></l>                 <r>venture<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>abentura<s n="n"/></l>                 <r>venture<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aberastasun<s n="n"/></l>              <r>wealth<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aberri<s n="n"/></l>                   <r>homeland<s n="n"/><s n="ND"/></r></p></e>
-<!--<e c="check"><p><l>abertzale<s n="n"/></l>             <r>nationalist<s n="n"/><s n="ND"/></r></p></e>-->
 <e c="check"><p><l>abertzale<s n="n"/></l>             <r>abertzale<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abeslari<s n="n"/></l>                 <r>singer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abesti<s n="n"/></l>                   <r>song<s n="n"/><s n="ND"/></r></p></e>
-<!--<e>       <p><l>abesti<s n="n"/></l>                   <r>singing<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>abiadura<s n="n"/></l>                 <r>speed<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abiadura<s n="n"/></l>                 <r>velocity<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>abiadura<s n="n"/></l>                 <r>velocity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abiazio<s n="n"/></l>                  <r>aviation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abisu<s n="n"/></l>                    <r>notice<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abisu<s n="n"/></l>                    <r>warning<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>abisu<s n="n"/></l>                    <r>warning<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abokatu<s n="n"/></l>                  <r>lawyer<s n="n"/><s n="ND"/></r></p></e>
-<!--<e>       <p><l>abokatu<s n="n"/></l>                  <r>attorney<s n="n"/><s n="ND"/></r></p></e>-->
-<!--<e>       <p><l>abokatu<s n="n"/></l>                  <r>solicitor<s n="n"/><s n="ND"/></r></p></e>-->
+<e r="RL">       <p><l>abokatu<s n="n"/></l>                  <r>attorney<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>abokatu<s n="n"/></l>                  <r>solicitor<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abortu<s n="n"/></l>                   <r>abortion<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abside<s n="n"/></l>                   <r>apse<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>absoluzio<s n="n"/></l>                <r>absolution<s n="n"/><s n="ND"/></r></p></e>
@@ -10210,17 +10209,17 @@
 <e>       <p><l>abstinentzia<s n="n"/></l>             <r>abstinence<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abstrakzio<s n="n"/></l>               <r>abstraction<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abusu<s n="n"/></l>                    <r>abuse<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>abusu<s n="n"/></l>                    <r>misuse<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>abusu<s n="n"/></l>                    <r>misuse<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>abuztu<s n="n"/></l>                   <r>August<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adar<s n="n"/></l>                     <r>branch<s n="n"/><s n="ND"/></r></p></e>
-<!--<e>       <p><l>adar<s n="n"/></l>                     <r>tributary<s n="n"/><s n="ND"/></r></p></e>-->
-<!--<e>       <p><l>adar<s n="n"/></l>                     <r>horn<s n="n"/><s n="ND"/></r></p></e>-->
+<e r="RL">       <p><l>adar<s n="n"/></l>                     <r>tributary<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL" c="slr='horn' c='cf Old Irish adarc :)'">       <p><l>adar<s n="n"/></l>                     <r>horn<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adarbakoitz<s n="n"/></l>              <r>unicorn<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adats<s n="n"/></l>                    <r>mane<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adibide<s n="n"/></l>                  <r>example<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adierazgarri<s n="n"/></l>             <r>indicator<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adierazpen<s n="n"/></l>               <r>statement<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>adierazpen<s n="n"/></l>               <r>expression<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>adierazpen<s n="n"/></l>               <r>expression<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adimen<s n="n"/></l>                   <r>intelligence<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adin<s n="n"/></l>                     <r>age<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adiskide<s n="n"/></l>                 <r>friend<s n="n"/><s n="ND"/></r></p></e>
@@ -10231,49 +10230,40 @@
 <e>       <p><l>administrari<s n="n"/></l>             <r>official<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>administratzaile<s n="n"/></l>         <r>administrator<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>administrazio<s n="n"/></l>            <r>administration<s n="n"/><s n="ND"/></r></p></e>
-<!--<e>       <p><l>administrazio<s n="n"/></l>            <r>dispensation<s n="n"/><s n="ND"/></r></p></e>-->
-<!--<e>       <p><l>administrazio<s n="n"/></l>            <r>management<s n="n"/><s n="ND"/></r></p></e>-->
+<e r="RL">       <p><l>administrazio<s n="n"/></l>            <r>management<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adore<s n="n"/></l>                    <r>prowess<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>adostasun<s n="n"/></l>                <r>accord<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>adostasun<s n="n"/></l>                <r>accord<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adostasun<s n="n"/></l>                <r>agreement<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>adostasun<s n="n"/></l>                <r>arrangement<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>adreilu<s n="n"/></l>                  <r>brick<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>afari<s n="n"/></l>                    <r>dinner<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>afera<s n="n"/></l>                    <r>subject<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agente<s n="n"/></l>                   <r>agent<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>agente<s n="n"/></l>                   <r>officer<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>agente<s n="n"/></l>                   <r>officer<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agentzia<s n="n"/></l>                 <r>agency<s n="n"/><s n="ND"/></r></p></e>
-<!--<e>       <p><l>agentzia<s n="n"/></l>                 <r>bureau<s n="n"/><s n="ND"/></r></p></e>-->
+<e r="RL">       <p><l>agentzia<s n="n"/></l>                 <r>bureau<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agerpen<s n="n"/></l>                  <r>apparition<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agerraldi<s n="n"/></l>                <r>demonstration<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agertoki<s n="n"/></l>                 <r>stage<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>agertoki<s n="n"/></l>                 <r>scenario<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>agindu<s n="n"/></l>                   <r>command<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>agindu<s n="n"/></l>                   <r>order<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>agindu<s n="n"/></l>                   <r>command<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agindu<s n="n"/></l>                   <r>order<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aginpide<s n="n"/></l>                 <r>authority<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agintaldi<s n="n"/></l>                <r>mandate<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agintari<s n="n"/></l>                 <r>authority<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aginte<s n="n"/></l>                   <r>control<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agiri<s n="n"/></l>                    <r>document<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>agur<s n="n"/></l>                     <r>goodbye<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>agur<s n="n"/></l>                     <r>goodbye<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>agur<s n="n"/></l>                     <r>greeting<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ahaide<s n="n"/></l>                   <r>relative<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ahalegin<s n="n"/></l>                 <r>effort<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ahalmen<s n="n"/></l>                  <r>faculty<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ahapaldi<s n="n"/></l>                 <r>stanza<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>ahizpa<s n="n"/></l>                   <r>brother<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ahizpa<s n="n"/></l>                   <r>sister<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aho<s n="n"/></l>                      <r>mouth<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aho-uhal<s n="n"/></l>                 <r>rein<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aholku<s n="n"/></l>                   <r>advice<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aholku<s n="n"/></l>                   <r>council<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aholku<s n="n"/></l>                   <r>counsel<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aholku<s n="n"/></l>                   <r>tip<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aholku<s n="n"/></l>                   <r>counsel<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aholkulari<s n="n"/></l>               <r>adviser<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aholkulari<s n="n"/></l>               <r>aide<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aholkulari<s n="n"/></l>               <r>consultant<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aholkulari<s n="n"/></l>               <r>counsellor<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aholkulari<s n="n"/></l>               <r>counsellor<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ahoskuntza<s n="n"/></l>               <r>pronunciation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ahots<s n="n"/></l>                    <r>voice<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ahultasun<s n="n"/></l>                <r>weakness<s n="n"/><s n="ND"/></r></p></e>
@@ -10286,26 +10276,20 @@
 <e>       <p><l>aisia<s n="n"/></l>                    <r>leisure<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aita<s n="n"/></l>                     <r>father<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aitatxo<s n="n"/></l>                  <r>dad<s n="n"/><s n="ND"/></r></p></e>
-<!--<e>       <p><l>aitatxo<s n="n"/></l>                  <r>daddy<s n="n"/><s n="ND"/></r></p></e>-->
+<e r="RL">       <p><l>aitatxo<s n="n"/></l>                  <r>daddy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aitona<s n="n"/></l>                   <r>grandfather<s n="n"/><s n="ND"/></r></p></e>
-<!--<e>       <p><l>aitona<s n="n"/></l>                   <r>grandfather<s n="n"/><s n="sg"/></r></p></e>-->
-<!--<e>       <p><l>aitona<s n="n"/></l>                   <r>grandparent<s n="n"/><s n="ND"/></r></p></e>-->
-<!--<e>       <p><l>aitona<s n="n"/></l>                   <r>grandparent<s n="n"/><s n="pl"/></r></p></e>-->
-<!--<e>       <p><l>aitona<s n="n"/></l>                   <r>grandmother<s n="n"/><s n="ND"/></r></p></e>-->
 <e>       <p><l>aitormen<s n="n"/></l>                 <r>confession<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aitorpen<s n="n"/></l>                 <r>statement<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aitortza<s n="n"/></l>                 <r>statement<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aitzakia<s n="n"/></l>                 <r>excuse<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aizpa<s n="n"/></l>                    <r>brother<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aizpa<s n="n"/></l>                    <r>sister<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akademia<s n="n"/></l>                 <r>academy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akats<s n="n"/></l>                    <r>defect<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akordio<s n="n"/></l>                  <r>accord<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>akordio<s n="n"/></l>                  <r>agreement<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>akordio<s n="n"/></l>                  <r>arrangement<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>akta<s n="n"/></l>                     <r>record<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>akordio<s n="n"/></l>                  <r>agreement<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>akta<s n="n"/></l>                     <r>act<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aktore<s n="n"/></l>                   <r>actor<s n="n"/><s n="ND"/></r></p></e>
-<!--<e>       <p><l>aktore<s n="n"/></l>                   <r>actress<s n="n"/><s n="ND"/></r></p></e>-->
+<e r="RL">       <p><l>aktore<s n="n"/></l>                   <r>actress<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akusatu<s n="n"/></l>                  <r>accused<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akusazio<s n="n"/></l>                 <r>indictment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>akzidente<s n="n"/></l>                <r>accident<s n="n"/><s n="ND"/></r></p></e>
@@ -10314,29 +10298,27 @@
 <e>       <p><l>alarma<s n="n"/></l>                   <r>alarm<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>albiste<s n="n"/></l>                  <r>news<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>albo<s n="n"/></l>                     <r>side<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldaera<s n="n"/></l>                  <r>array<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldaera<s n="n"/></l>                  <r>variety<s n="n"/><s n="ND"/></r></p></e>
+<e>       <p><l>aldaera<s n="n"/></l>                  <r>variation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldagai<s n="n"/></l>                  <r>variable<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldaka<s n="n"/></l>                   <r>hip<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldaketa<s n="n"/></l>                 <r>alteration<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aldaketa<s n="n"/></l>                 <r>alteration<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldaketa<s n="n"/></l>                 <r>change<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldaketa<s n="n"/></l>                 <r>modification<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldaketa<s n="n"/></l>                 <r>mutation<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldaketa<s n="n"/></l>                 <r>variation<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aldaketa<s n="n"/></l>                 <r>modification<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aldaketa<s n="n"/></l>                 <r>mutation<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aldaketa<s n="n"/></l>                 <r>variation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldakortasun<s n="n"/></l>             <r>variability<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldare<s n="n"/></l>                   <r>altar<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldarrikapen<s n="n"/></l>             <r>claim<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>alde<s n="n"/></l>                     <r>canton<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>alde<s n="n"/></l>                     <r>canton<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alde<s n="n"/></l>                     <r>side<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alderanzketa<s n="n"/></l>             <r>investment<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alderdi<s n="n"/></l>                  <r>party<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldi<s n="n"/></l>                     <r>period<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldi<s n="n"/></l>                     <r>spell<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldi<s n="n"/></l>                     <r>season<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aldi<s n="n"/></l>                     <r>period<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aldi<s n="n"/></l>                     <r>spell<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldi<s n="n"/></l>                     <r>time<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldizkari<s n="n"/></l>                <r>journal<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aldizkari<s n="n"/></l>                <r>journal<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldizkari<s n="n"/></l>                <r>magazine<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>aldizkari<s n="n"/></l>                <r>review<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>aldizkari<s n="n"/></l>                <r>review<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aldundi<s n="n"/></l>                  <r>deputation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>ale<s n="n"/></l>                      <r>copy<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>aleman<s n="n"/></l>                   <r>German<s n="n"/><s n="ND"/></r></p></e>
@@ -10354,13 +10336,10 @@
 <e>       <p><l>alkatetza<s n="n"/></l>                <r>city<b/>council<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alkazar<s n="n"/></l>                  <r>fortress<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alkohol<s n="n"/></l>                  <r>alcohol<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>alkohol<s n="n"/></l>                  <r>spirit<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>alkohol<s n="n"/></l>                  <r>spirit<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alkoholismo<s n="n"/></l>              <r>alcoholism<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>almeriz<s n="n"/></l>                  <r>mortar<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>alokairu<s n="n"/></l>                 <r>hire<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alokairu<s n="n"/></l>                 <r>rent<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>alokairu<s n="n"/></l>                 <r>rental<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>alor<s n="n"/></l>                     <r>countryside<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alor<s n="n"/></l>                     <r>field<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alternantzia<s n="n"/></l>             <r>alternation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>alternatiba<s n="n"/></l>              <r>alternative<s n="n"/><s n="ND"/></r></p></e>
@@ -10375,13 +10354,12 @@
 <e>       <p><l>ama<s n="n"/></l>                      <r>mother<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amabitxi<s n="n"/></l>                 <r>godmother<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amaiera<s n="n"/></l>                  <r>end<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>amaiera<s n="n"/></l>                  <r>ending<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>amaiera<s n="n"/></l>                  <r>final<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>amaiera<s n="n"/></l>                  <r>ending<s n="n"/><s n="ND"/></r></p></e>
+<e r="RL">       <p><l>amaiera<s n="n"/></l>                  <r>final<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amaigabetasun<s n="n"/></l>            <r>infinity<s n="n"/><s n="ND"/></r></p></e>
 <e c="traducció per defecte en masculí, per ara"><p><l>amerikar<s n="n"/></l><r>American<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amesgaizto<s n="n"/></l>               <r>nightmare<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amets<s n="n"/></l>                    <r>dream<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>amets<s n="n"/></l>                    <r>sleep<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amildegi<s n="n"/></l>                 <r>abyss<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amodio<s n="n"/></l>                   <r>love<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amona<s n="n"/></l>                    <r>grandmother<s n="n"/><s n="ND"/></r></p></e>
@@ -10389,11 +10367,8 @@
 <e>       <p><l>amorrazio<s n="n"/></l>                <r>indignation<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>amorru<s n="n"/></l>                   <r>ire<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>anai<s n="n"/></l>                     <r>brother<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>anai<s n="n"/></l>                     <r>sister<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>anai-arreba<s n="n"/></l>              <r>brother<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>anai-arreba<s n="n"/></l>              <r>sister<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>anaia<s n="n"/></l>                    <r>brother<s n="n"/><s n="ND"/></r></p></e>
-<e>       <p><l>anaia<s n="n"/></l>                    <r>sister<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>analisi<s n="n"/></l>                  <r>analysis<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>anbiguotasun<s n="n"/></l>             <r>ambiguity<s n="n"/><s n="ND"/></r></p></e>
 <e>       <p><l>anbulantzia<s n="n"/></l>              <r>ambulance<s n="n"/><s n="ND"/></r></p></e>
