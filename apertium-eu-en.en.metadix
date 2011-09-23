@@ -15273,6 +15273,8 @@
     <e lm="custom"><p><l>custom</l><r>custom<s n="n"/><s n="sg"/></r></p></e>
     <e lm="American"><i>American</i><par n="house__n"/>    </e>
     <e lm="Romanian"><i>Romanian</i><par n="house__n"/>    </e>
+    <e lm="Belgian"><i>Belgian</i><par n="house__n"/>    </e>
+    <e lm="barbarian"><i>barbarian</i><par n="house__n"/>    </e>
     <e lm="Dane"><i>Dane</i><par n="house__n"/>    </e>
     <e lm="Arab"><i>Arab</i><par n="house__n"/>    </e>
     <e lm="Aragonese"><i>Aragonese</i><par n="house__n"/>    </e>
@@ -15286,6 +15288,8 @@
     <e lm="Christian"><i>Christian</i><par n="house__n"/>    </e>
     <e lm="Christianity" a="doriua"><i>Christianit</i><par n="bab/y__n"/>    </e>
     <e lm="antiquity"><i>antiquit</i><par n="bab/y__n"/>    </e>
+    <e lm="ethnicity"><i>ethnicit</i><par n="bab/y__n"/>    </e>
+    <e lm="epistemology"><i>epistemolog</i><par n="bab/y__n"/>    </e>
     <e lm="Dutch"><i>Dutch</i><par n="politics__n"/>    </e>
     <e lm="English"><i>English</i><par n="politics__n"/>    </e>
     <e lm="European"><i>European</i><par n="house__n"/>    </e>
@@ -15561,6 +15565,7 @@
     <e lm="appreciation" a="doriua"><i>appreciation</i><par n="house__n"/>    </e>
     <e lm="approach"><i>approach</i><par n="access__n"/>    </e>
     <e lm="piss"><i>piss</i><par n="access__n"/>    </e>
+    <e lm="alias"><i>alias</i><par n="access__n"/>    </e>
     <e lm="thrush"><i>thrush</i><par n="access__n"/>    </e>
     <e lm="eucalyptus"><i>eucalyptus</i><par n="access__n"/>    </e>
     <e lm="eucalyptus" r="LR"><i>eucalypt</i><par n="stimul/us__n"/>    </e>
@@ -16087,8 +16092,17 @@
     <e lm="billiard"><i>billiard</i><par n="house__n"/>    </e>
     <e lm="bin"><i>bin</i><par n="house__n"/>    </e>
     <e lm="binoculars"><i>binoculars</i><par n="personnel__n"/>    </e>
+    <e lm="poor"><i>poor</i><par n="personnel__n"/>    </e>
+    <e lm="Jewish"><i>Jewish</i><par n="personnel__n"/>    </e>
     <e lm="biography"><i>biograph</i><par n="bab/y__n"/>    </e>
     <e lm="biographer"><i>biographer</i><par n="house__n"/>    </e>
+    <e lm="nothing"><i>nothing</i><par n="house__n"/>    </e>
+    <e lm="florin"><i>florin</i><par n="house__n"/>    </e>
+    <e lm="interference"><i>interference</i><par n="house__n"/>    </e>
+    <e lm="Iraqi"><i>Iraqi</i><par n="house__n"/>    </e>
+    <e lm="t-shirt"><i>t-shirt</i><par n="house__n"/>    </e>
+    <e lm="gang"><i>gang</i><par n="house__n"/>    </e>
+    <e lm="squirrel"><i>squirrel</i><par n="house__n"/>    </e>
     <e lm="biology"><i>biolog</i><par n="bab/y__n"/>    </e>
     <e lm="biologist"><i>biologist</i><par n="house__n"/>    </e>
     <e lm="biomass"><i>biomass</i><par n="access__n"/>    </e>
@@ -16156,7 +16170,8 @@
     <e lm="boundary" a="carmentano"><i>boundar</i><par n="bab/y__n"/>    </e>
     <e lm="bouquet"><i>bouquet</i><par n="house__n"/>    </e>
     <e lm="bouquet"><i>bouquet</i><par n="house__n"/>    </e>
-    <e lm="bourgeoisie"><i>bourgeoisie</i><par n="house__n"/>    </e>
+    <e lm="bourgeois"><p><l>bourgeois</l><r>bourgeois<s n="n"/><s n="sg"/></r></p></e>
+    <e lm="bourgeois"><p><l>bourgeoisie</l><r>bourgeois<s n="n"/><s n="pl"/></r></p></e>
     <e lm="bowel"><i>bowel</i><par n="house__n"/>    </e>
     <e lm="bowl"><i>bowl</i><par n="house__n"/>    </e>
     <e lm="box"><i>box</i><par n="bass__n"/>    </e>
@@ -16559,6 +16574,9 @@
     <e lm="commercialization"><i>commercialization</i><par n="house__n"/>    </e>
     <e lm="commissariat"><i>commissariat</i><par n="house__n"/>    </e>
     <e lm="commission"><i>commission</i><par n="house__n"/>    </e>
+    <e lm="fifth"><i>fifth</i><par n="house__n"/>    </e>
+    <e lm="deformation"><i>deformation</i><par n="house__n"/>    </e>
+    <e lm="listening"><i>listening</i><par n="house__n"/>    </e>
     <e lm="commitment"><i>commitment</i><par n="house__n"/>    </e>
     <e lm="committee"><i>committee</i><par n="house__n"/>    </e>
     <e lm="commodity" a="carmentano"><i>commodit</i><par n="bab/y__n"/>    </e>
@@ -17246,6 +17264,7 @@
     <e lm="egalitarianism"><i>egalitarianism</i><par n="house__n"/>    </e>
     <e lm="egg"><i>egg</i><par n="house__n"/>    </e>
     <e lm="eggplant"><i>eggplant</i><par n="house__n"/>    </e>
+    <e lm="coca plant"><i>coca<b/>plant</i><par n="house__n"/>    </e>
     <e lm="egocentrism"><i>egocentrism</i><par n="house__n"/>    </e>
     <e lm="ejaculation"><i>ejaculation</i><par n="house__n"/>    </e>
     <e lm="elbow"><i>elbow</i><par n="house__n"/>    </e>

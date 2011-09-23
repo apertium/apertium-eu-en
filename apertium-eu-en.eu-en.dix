@@ -9741,9 +9741,30 @@
     <e><p><l>etorrera<s n="n"/></l><r>arrival<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>birpopulaketa<s n="n"/></l><r>repopulation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>belgikar<s n="n"/></l><r>Belgian<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>behartsu<s n="n"/></l><r>poor<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>behartsu<s n="n"/></l><r>poor<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>begi-nini<s n="n"/></l><r>pupil<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barbaro<s n="n"/></l><r>barbarian<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ezerez<s n="n"/></l><r>nothing<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>eztabaidagune<s n="n"/></l><r>forum<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>florin<s n="n"/></l><r>florin<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>gaitzizen<s n="n"/></l><r>nickname<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>fuga<s n="n"/></l><r>leak<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>goitizen<s n="n"/></l><r>alias<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>harrera<s n="n"/></l><r>reception<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ingurumen<s n="n"/></l><r>environment<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>interferentzia<s n="n"/></l><r>interference<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>irakiar<s n="n"/></l><r>Iraqi<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>itsasadar<s n="n"/></l><r>estuary<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>jaunartze<s n="n"/></l><r>communion<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>judu<s n="n"/></l><r>Jewish<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>kamiseta<s n="n"/></l><r>t-shirt<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kantoi<s n="n"/></l><r>canton<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>katagorri<s n="n"/></l><r>squirrel<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>koadrila<s n="n"/></l><r>gang<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>koka-landare<s n="n"/></l><r>coca<b/>plant<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kolapso<s n="n"/></l><r>collapse<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kontakizun<s n="n"/></l><r>story<s n="n"/><s n="ND"/></r></p></e>
+
 
     <e a="matxin"><p><l>golde<s n="n"/></l><r>plough<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>golde<s n="n"/></l><r>plow<s n="n"/><s n="ND"/></r></p></e>
