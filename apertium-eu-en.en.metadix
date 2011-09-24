@@ -28564,6 +28564,11 @@
     <e lm="karstic"><i>karstic</i><par n="expensive__adj"/>     </e>
     <e lm="karyotype"><i>karyotype</i><par n="house__n"/>     </e>
     <e lm="katabatic"><i>katabatic</i><par n="expensive__adj"/>     </e>
+    <e lm="tipsy"><i>tipsy</i><par n="expensive__adj"/>     </e>
+    <e lm="express"><i>express</i><par n="expensive__adj"/>     </e>
+    <e lm="detailed"><i>detailed</i><par n="expensive__adj"/>     </e>
+    <e lm="certified"><i>certified</i><par n="expensive__adj"/>     </e>
+    <e lm="erect"><i>erect</i><par n="expensive__adj"/>     </e>
     <e lm="kayak"><i>kayak</i><par n="house__n"/>     </e>
     <e lm="keen"><i>keen</i><par n="long/__adj"/>     </e>
     <e lm="keloid"><i>keloid</i><par n="house__n"/>     </e>
