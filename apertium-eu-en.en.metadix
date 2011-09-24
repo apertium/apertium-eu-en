@@ -16174,10 +16174,22 @@
     <e lm="bourgeois"><p><l>bourgeoisie</l><r>bourgeois<s n="n"/><s n="pl"/></r></p></e>
     <e lm="bowel"><i>bowel</i><par n="house__n"/>    </e>
     <e lm="bowl"><i>bowl</i><par n="house__n"/>    </e>
+    <e lm="Soviet"><i>Soviet</i><par n="house__n"/>    </e>
+    <e lm="sermon"><i>sermon</i><par n="house__n"/>    </e>
+    <e lm="rainbow"><i>rainbow</i><par n="house__n"/>    </e>
+    <e lm="corridor"><i>corridor</i><par n="house__n"/>    </e>
+    <e lm="Serbian"><i>Serbian</i><par n="house__n"/>    </e>
+    <e lm="Celt"><i>Celt</i><par n="house__n"/>    </e>
+    <e lm="drug addict"><i>drug<b/>addict</i><par n="house__n"/>    </e>
+    <e lm="drug addiction"><i>drug<b/>addiction</i><par n="east__n"/>    </e>
+    <e lm="starting point"><i>starting<b/>point</i><par n="house__n"/>    </e>
     <e lm="box"><i>box</i><par n="bass__n"/>    </e>
     <e lm="mailbox"><i>mailbox</i><par n="bass__n"/>    </e>
     <e lm="postbox"><i>postbox</i><par n="bass__n"/>    </e>
     <e lm="boxing"><i>boxing</i><par n="east__n"/>    </e>
+    <e lm="European Union"><i>European<b/>Union</i><par n="Linux__np"/>    </e>
+    <e lm="Ertzaintza"><i>Ertzaintza</i><par n="Linux__np"/>    </e>
+    <e lm="Foral Delegation"><i>Foral<b/>Delegation</i><par n="house__n"/>    </e>
     <e lm="boy"><i>boy</i><par n="house__n"/>    </e>
     <e lm="boycott"><i>boycott</i><par n="house__n"/>    </e>
     <e lm="brother"><i>br</i><par n="br/other__n"/>    </e>
@@ -21091,7 +21103,6 @@
     <e lm="context-based machine translation" a="jimregan"><i>context-based<b/>machine<b/>translation</i><par n="east__n"/>    </e>
     <e lm="physics"><i>physics</i><par n="politics__n"/>    </e>
     
-<!-- acronyms -->
     <e lm="BBC" a="doriua"><i>BBC</i><par n="BBC__n"/>    </e>
     <e lm="CD" a="carmentano"><i>CD</i><par n="BBC__n"/>    </e>
     <e lm="CDC"><i>CDC</i><par n="BBC__n"/>    </e>
