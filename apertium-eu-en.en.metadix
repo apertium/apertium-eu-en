@@ -18237,8 +18237,11 @@
     <e lm="bombastic"><i>bombastic</i><par n="expensive__adj"/></e>
     <e lm="ostentatious"><i>ostentatious</i><par n="expensive__adj"/></e>
     <e lm="uncanny"><i>uncann</i><par n="happ/y__adj"/></e>
+    <e lm="canny"><i>cann</i><par n="happ/y__adj"/></e>
+    <e lm="sugary"><i>sugar</i><par n="happ/y__adj"/></e>
     <e lm="gaunt"><i>gaunt</i><par n="expensive__adj"/></e>
     <e lm="murky"><i>murk</i><par n="happ/y__adj"/></e>
+    <e lm="soggy"><i>sogg</i><par n="happ/y__adj"/></e>
     <e lm="conscientious"><i>conscientious</i><par n="expensive__adj"/></e>
     <e lm="guarded"><i>guarded</i><par n="expensive__adj"/></e>
     <e lm="risky"><i>risk</i><par n="happ/y__adj"/></e>
@@ -18285,9 +18288,7 @@
     <e lm="nonchalant"><i>nonchalant</i><par n="expensive__adj"/></e>
     <e lm="unsympathetic"><i>unsympathetic</i><par n="expensive__adj"/></e>
     <e lm="brisk"><i>brisk</i><par n="expensive__adj"/></e>
-    <e lm="canny"><i>canny</i><par n="expensive__adj"/></e>
     <e lm="swift"><i>swift</i><par n="expensive__adj"/></e>
-    <e lm="sugary"><i>sugary</i><par n="expensive__adj"/></e>
     <e lm="blissful"><i>blissful</i><par n="expensive__adj"/></e>
     <e lm="demented"><i>demented</i><par n="expensive__adj"/></e>
     <e lm="zany"><i>zany</i><par n="expensive__adj"/></e>
@@ -22723,7 +22724,16 @@
     <e lm="shocking"><i>shocking</i><par n="expensive__adj"/>    </e>
     <e lm="short"><i>short</i><par n="long/__adj"/>    </e>
     <e lm="showy"><i>show</i><par n="happ/y__adj"/>    </e>
+    <e lm="queasy"><i>queas</i><par n="happ/y__adj"/>    </e>
+    <e lm="dizzy"><i>dizz</i><par n="happ/y__adj"/>    </e>
+    <e lm="grubby"><i>grubb</i><par n="happ/y__adj"/>    </e>
+    <e lm="mucky"><i>muck</i><par n="happ/y__adj"/>    </e>
+    <e lm="husky"><i>husk</i><par n="happ/y__adj"/>    </e>
+    <e lm="surly"><i>surl</i><par n="happ/y__adj"/>    </e>
     <e lm="sick"><i>sick</i><par n="long/__adj"/>    </e>
+    <e lm="gruff"><i>gruff</i><par n="long/__adj"/>    </e>
+    <e lm="curt"><i>curt</i><par n="long/__adj"/>    </e>
+    <e lm="crass"><i>crass</i><par n="long/__adj"/>    </e>
     <e lm="significant"><i>significant</i><par n="expensive__adj"/>    </e>
     <e lm="silent"><i>silent</i><par n="common/__adj"/>    </e>
     <e lm="silly"><i>sill</i><par n="happ/y__adj"/>    </e>
