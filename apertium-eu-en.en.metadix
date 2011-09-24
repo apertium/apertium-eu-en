@@ -22385,7 +22385,7 @@
     <e lm="non-existent"><i>non-existent</i><par n="expensive__adj"/>    </e>
     <e lm="normal"><i>normal</i><par n="expensive__adj"/>    </e>
     <e lm="normative"><i>normative</i><par n="expensive__adj"/>    </e>
-    <e lm="north"><i>north</i><par n="long/__adj"/>    </e>
+    <e lm="north"><i>north</i><par n="expensive__adj"/>    </e>
     <e lm="northern"><i>northern</i><par n="expensive__adj"/>    </e>
     <e lm="notable"><i>notable</i><par n="expensive__adj"/>    </e>
     <e lm="notarial"><i>notarial</i><par n="expensive__adj"/>    </e>
@@ -30219,6 +30219,7 @@
     <e lm="stuttering"><i>stuttering</i><par n="house__n"/>     </e>
     <e lm="subarea"><i>subarea</i><par n="house__n"/>     </e>
     <e lm="subatomic"><i>subatomic</i><par n="expensive__adj"/>     </e>
+    <e lm="white-hot"><i>white-hot</i><par n="expensive__adj"/>     </e>
     <e lm="subchannel"><i>subchannel</i><par n="house__n"/>     </e>
     <e lm="subclass"><i>subclass</i><par n="access__n"/>     </e>
     <e lm="subcostal"><i>subcostal</i><par n="expensive__adj"/>     </e>
