@@ -15273,6 +15273,9 @@
     <e lm="custom"><p><l>custom</l><r>custom<s n="n"/><s n="sg"/></r></p></e>
     <e lm="American"><i>American</i><par n="house__n"/>    </e>
     <e lm="Romanian"><i>Romanian</i><par n="house__n"/>    </e>
+    <e lm="African"><i>African</i><par n="house__n"/>    </e>
+    <e lm="theorist"><i>theorist</i><par n="house__n"/>    </e>
+    <e lm="ceasefire"><i>ceasefire</i><par n="house__n"/>    </e>
     <e lm="Belgian"><i>Belgian</i><par n="house__n"/>    </e>
     <e lm="barbarian"><i>barbarian</i><par n="house__n"/>    </e>
     <e lm="Dane"><i>Dane</i><par n="house__n"/>    </e>
@@ -21798,6 +21801,7 @@
     <e lm="dutiful"><i>dutiful</i><par n="expensive__adj"/>    </e>
     <e lm="dynamic"><i>dynamic</i><par n="expensive__adj"/>    </e>
     <e lm="early"><i>earl</i><par n="happ/y__adj"/>    </e>
+    <e lm="foggy"><i>fogg</i><par n="happ/y__adj"/>    </e>
     <e lm="earthy"><i>earth</i><par n="happ/y__adj"/>    </e>
     <e lm="earthly"><i>earthl</i><par n="happ/y__adj"/>    </e>
     <e lm="easy"><i>eas</i><par n="happ/y__adj"/>    </e>
@@ -22707,6 +22711,9 @@
     <e lm="serious"><i>serious</i><par n="common/__adj"/>    </e>
     <e lm="severe"><i>severe</i><par n="handsome/__adj"/>    </e>
     <e lm="sexual"><i>sexual</i><par n="expensive__adj"/>    </e>
+    <e lm="mercenary"><i>mercenary</i><par n="expensive__adj"/>    </e>
+    <e lm="laconic"><i>laconic</i><par n="expensive__adj"/>    </e>
+    <e lm="overcast"><i>overcast</i><par n="expensive__adj"/>    </e>
     <e lm="shy"><i>sh</i><par n="sh/y__adj"/>    </e>
     <e lm="shady"><i>shad</i><par n="happ/y__adj"/>    </e>
     <e lm="shallow"><i>shallow</i><par n="long/__adj"/>    </e>
