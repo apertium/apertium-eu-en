@@ -22392,8 +22392,8 @@
     <e lm="knowing"><i>knowing</i><par n="expensive__adj"/></e>
     <e lm="unbearable"><i>unbearable</i><par n="expensive__adj"/></e>
     <e lm="undeniable"><i>undeniable</i><par n="expensive__adj"/></e>
-    <e lm="ready"><i>ready</i><par n="expensive__adj"/></e>
-    <e lm="bare"><i>bare</i><par n="expensive__adj"/></e>
+    <e lm="ready"><i>read</i><par n="happ/y__adj"/></e>
+    <e lm="bare"><i>bare</i><par n="nice/__adj"/></e>
     <e lm="unreasonable"><i>unreasonable</i><par n="expensive__adj"/></e>
     <e lm="motive"><i>motive</i><par n="expensive__adj"/></e>
     <e lm="murderous"><i>murderous</i><par n="expensive__adj"/></e>
@@ -22599,8 +22599,7 @@
     <e lm="void"><i>void</i><par n="expensive__adj"/></e>
     <e lm="insuperable"><i>insuperable</i><par n="expensive__adj"/></e>
     <e lm="insurmountable"><i>insurmountable</i><par n="expensive__adj"/></e>
-<!--
-    <e lm="unhealthy"><i>unhealthy</i><par n="expensive__adj"/></e>
+    <e lm="unhealthy"><i>unhealth</i><par n="happ/y__adj"/></e>
     <e lm="baleful"><i>baleful</i><par n="expensive__adj"/></e>
     <e lm="evil"><i>evil</i><par n="expensive__adj"/></e>
     <e lm="fiendish"><i>fiendish</i><par n="expensive__adj"/></e>
@@ -22609,7 +22608,7 @@
     <e lm="malicious"><i>malicious</i><par n="expensive__adj"/></e>
     <e lm="malign"><i>malign</i><par n="expensive__adj"/></e>
     <e lm="sardonic"><i>sardonic</i><par n="expensive__adj"/></e>
-    <e lm="wicked"><i>wicked</i><par n="expensive__adj"/></e>
+    <e lm="wicked"><i>wicked</i><par n="long/__adj"/></e>
     <e lm="interrogative"><i>interrogative</i><par n="expensive__adj"/></e>
     <e lm="missing"><i>missing</i><par n="expensive__adj"/></e>
     <e lm="stray"><i>stray</i><par n="expensive__adj"/></e>
@@ -22617,7 +22616,7 @@
     <e lm="convex"><i>convex</i><par n="expensive__adj"/></e>
     <e lm="lofty"><i>lofty</i><par n="expensive__adj"/></e>
     <e lm="impregnable"><i>impregnable</i><par n="expensive__adj"/></e>
-    <e lm="bland"><i>bland</i><par n="expensive__adj"/></e>
+    <e lm="bland"><i>bland</i><par n="long/__adj"/></e>
     <e lm="nightly"><i>nightly</i><par n="expensive__adj"/></e>
     <e lm="ineffectual"><i>ineffectual</i><par n="expensive__adj"/></e>
     <e lm="savory"><i>savory</i><par n="expensive__adj"/></e>
@@ -22626,10 +22625,10 @@
     <e lm="restive"><i>restive</i><par n="expensive__adj"/></e>
     <e lm="impending"><i>impending</i><par n="expensive__adj"/></e>
     <e lm="prepared"><i>prepared</i><par n="expensive__adj"/></e>
-    <e lm="burly"><i>burly</i><par n="expensive__adj"/></e>
-    <e lm="hefty"><i>hefty</i><par n="expensive__adj"/></e>
+    <e lm="burly"><i>burl</i><par n="happ/y__adj"/></e>
+    <e lm="hefty"><i>heft</i><par n="happ/y__adj"/></e>
     <e lm="irksome"><i>irksome</i><par n="expensive__adj"/></e>
-    <e lm="pesky"><i>pesky</i><par n="expensive__adj"/></e>
+    <e lm="pesky"><i>pesk</i><par n="happ/y__adj"/></e>
     <e lm="tiresome"><i>tiresome</i><par n="expensive__adj"/></e>
     <e lm="troublesome"><i>troublesome</i><par n="expensive__adj"/></e>
     <e lm="memorable"><i>memorable</i><par n="expensive__adj"/></e>
@@ -22648,8 +22647,8 @@
     <e lm="ravenous"><i>ravenous</i><par n="expensive__adj"/></e>
     <e lm="eager"><i>eager</i><par n="expensive__adj"/></e>
     <e lm="acquisitive"><i>acquisitive</i><par n="expensive__adj"/></e>
-    <e lm="airy"><i>airy</i><par n="expensive__adj"/></e>
-    <e lm="windy"><i>windy</i><par n="expensive__adj"/></e>
+    <e lm="airy"><i>air</i><par n="happ/y__adj"/></e>
+    <e lm="windy"><i>wind</i><par n="happ/y__adj"/></e>
     <e lm="turgid"><i>turgid</i><par n="expensive__adj"/></e>
     <e lm="verbose"><i>verbose</i><par n="expensive__adj"/></e>
     <e lm="amenable"><i>amenable</i><par n="expensive__adj"/></e>
@@ -22658,21 +22657,21 @@
     <e lm="amazing"><i>amazing</i><par n="expensive__adj"/></e>
     <e lm="striking"><i>striking</i><par n="expensive__adj"/></e>
     <e lm="self-important"><i>self-important</i><par n="expensive__adj"/></e>
-    <e lm="angry"><i>angry</i><par n="expensive__adj"/></e>
+    <e lm="angry"><i>angr</i><par n="happ/y__adj"/></e>
     <e lm="indignant"><i>indignant</i><par n="expensive__adj"/></e>
     <e lm="novice"><i>novice</i><par n="expensive__adj"/></e>
     <e lm="widespread"><i>widespread</i><par n="expensive__adj"/></e>
     <e lm="immature"><i>immature</i><par n="expensive__adj"/></e>
-    <e lm="rusty"><i>rusty</i><par n="expensive__adj"/></e>
+    <e lm="rusty"><i>rust</i><par n="happ/y__adj"/></e>
     <e lm="airtight"><i>airtight</i><par n="expensive__adj"/></e>
     <e lm="spiteful"><i>spiteful</i><par n="expensive__adj"/></e>
-    <e lm="lame"><i>lame</i><par n="expensive__adj"/></e>
+    <e lm="lame"><i>lame</i><par n="nice/__adj"/></e>
     <e lm="tight"><i>tight</i><par n="expensive__adj"/></e>
     <e lm="heterosexual"><i>heterosexual</i><par n="expensive__adj"/></e>
     <e lm="clammy"><i>clammy</i><par n="expensive__adj"/></e>
-    <e lm="damp"><i>damp</i><par n="expensive__adj"/></e>
+    <e lm="damp"><i>damp</i><par n="long/__adj"/></e>
     <e lm="moist"><i>moist</i><par n="expensive__adj"/></e>
-    <e lm="dank"><i>dank</i><par n="expensive__adj"/></e>
+    <e lm="dank"><i>dank</i><par n="long/__adj"/></e>
     <e lm="threadbare"><i>threadbare</i><par n="expensive__adj"/></e>
     <e lm="hygienic"><i>hygienic</i><par n="expensive__adj"/></e>
     <e lm="distasteful"><i>distasteful</i><par n="expensive__adj"/></e>
