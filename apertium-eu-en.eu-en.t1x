@@ -6219,7 +6219,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <lu>
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_det"/> 
-              <lit-tag v="2"/> 
+              <clip pos="2" side="tl" part="tipus_det"/> 
               <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
             </lu>

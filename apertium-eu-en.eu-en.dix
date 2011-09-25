@@ -4338,7 +4338,6 @@
     <e><p><l>oso<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>oso<s n="adj"/><s n="izo"/></l><r>complete<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>oso<s n="adj"/><s n="izo"/></l><r>overall<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>oso<s n="adj"/><s n="izo"/></l><r>whole<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>oso<b/>ezagun<s n="adj"/><s n="izo"/></l><r>hackneyed<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>oso<b/>gozo<s n="adj"/><s n="izo"/></l><r>delectable<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>oso<b/>gozo<s n="adj"/><s n="izo"/></l><r>delicious<s n="adj"/></r></p></e>
@@ -9717,7 +9716,7 @@
     <e><p><l>erdi<s n="preadv"/></l><r>half<s n="adv"/></r></p></e>
     <e><p><l>hain<s n="preadv"/></l><r>just<b/>as<s n="preadv"/></r></p></e>
     <e><p><l>hain<s n="preadv"/></l><r>so<s n="preadv"/></r></p></e>
-    <e><p><l>oso<s n="preadv"/></l><r>any<s n="preadv"/></r></p></e>
+    <e r="RL"><p><l>oso<s n="preadv"/></l><r>any<s n="preadv"/></r></p></e>
     <e><p><l>oso<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
     <e><p><l>kriminal<s n="n"/></l><r>criminal<s n="n"/><s n="ND"/></r></p></e>
@@ -10095,6 +10094,8 @@
     <e><p><l>baldosa<s n="n"/></l><r>floortile<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baliotasun<s n="n"/></l><r>validity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barrakoi<s n="n"/></l><r>bunkhouse<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>solstizio<s n="n"/></l><r>solstice<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>izozkizale<s n="n"/></l><r>ice<b/>cream<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>behe<s n="n"/></l><r>bottom<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>beira-arasa<s n="n"/></l><r>display<b/>case<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desplazamendu<s n="n"/></l><r>displacement<s n="n"/><s n="ND"/></r></p></e>
@@ -12769,11 +12770,11 @@
     <e><p><l>kanpotar<s n="n"/></l><r>intruder<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kanta<s n="n"/></l><r>song<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kantari<s n="n"/></l><r>singer<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>kantu<s n="n"/></l><r>edge<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>kantu<s n="n"/></l><r>singing<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kantu<s n="n"/></l><r>song<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>kantu<s n="n"/></l><r>singing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kapa<s n="n"/></l><r>coat<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>kapa<s n="n"/></l><r>layer<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>kapela<s n="n"/></l><r>bonnet<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" c="slr='layer'"><p><l>kapa<s n="n"/></l><r>layer<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>kapela<s n="n"/></l><r>bonnet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kapela<s n="n"/></l><r>hat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kapera<s n="n"/></l><r>chapel<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kapilau<s n="n"/></l><r>chaplain<s n="n"/><s n="ND"/></r></p></e>
