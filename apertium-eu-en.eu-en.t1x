@@ -14260,7 +14260,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
                 <clip pos="3" side="tl" part="temps"/>
-                <lit-tag v="pis"/>
+                <lit-tag v="past"/>
             </let>
           </when>
           <when>
@@ -14517,6 +14517,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <clip pos="4" side="tl" part="a_verb"/>
           <lit-tag v="vbhaver"/>
         </let>
+        <let>
+          <clip pos="2" side="tl" part="lem"/>
+          <lit v="not"/>
+        </let>
         <out>
           <chunk name="si" case="caseFirstWord">
             <tags>
@@ -14527,16 +14531,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
           </chunk>
           <b pos="1"/>
-          <chunk name="ez">
-            <tags>
-              <tag><lit-tag v="SADV"/></tag>
-              <tag><clip pos="2" side="tl" part="a_adv"/></tag>
-            </tags>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-          <b pos="2"/>
         </out>
         <let>
           <var n="caseFirstWord"/>
@@ -14550,71 +14544,47 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <test>
               <equal>
                 <clip pos="4" side="tl" part="temps"/>
-                <lit-tag v="pri"/>
-              </equal>
-            </test>
-            <out>
-              <chunk name="vbconj" case="caseSecondWord">
-                <tags>
-                  <tag><lit-tag v="SV"/></tag>
-                  <tag><clip pos="4" side="tl" part="a_verb"/></tag>
-                  <tag><clip pos="4" side="tl" part="persnbr"/></tag>
-                  <tag><clip pos="4" side="sl" part="nor"/></tag>
-                  <tag><clip pos="4" side="sl" part="nori"/></tag>
-                  <tag><clip pos="4" side="sl" part="nork"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="4" side="tl" part="lemh"/>
-                  <clip pos="4" side="tl" part="a_verb"/>
-                  <clip pos="4" side="tl" part="temps"/>
-                  <clip pos="4" side="tl" part="persnbr"/>
-                  <clip pos="4" side="tl" part="lemq"/>
-                </lu>
-                <b/>
-                <lu>
-                  <clip pos="1" side="tl" part="lemh"/>
-                  <clip pos="1" side="tl" part="a_verb"/>
-                  <clip pos="1" side="tl" part="temps"/>
-<!--                  <lit-tag v="m.sg"/> -->
-                  <clip pos="1" side="tl" part="lemq"/>
-                </lu>
-              </chunk>
-            </out>
-          </when>
-          <when>
-            <test>
-              <equal>
-                <clip pos="4" side="tl" part="temps"/>
                 <lit-tag v="pii"/>
               </equal>
             </test>
             <let>
-              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="4" side="tl" part="temps"/>
               <lit-tag v="past"/>
             </let>
-            <out>
-              <chunk name="vbconj" case="caseSecondWord">
-                <tags>
-                  <tag><lit-tag v="SV"/></tag>
-                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
-                  <tag><clip pos="4" side="tl" part="persnbr"/></tag>
-                  <tag><clip pos="4" side="sl" part="nor"/></tag>
-                  <tag><clip pos="4" side="sl" part="nori"/></tag>
-                  <tag><clip pos="4" side="sl" part="nork"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="1" side="tl" part="lemh"/>
-                  <clip pos="1" side="tl" part="a_verb"/>
-                  <clip pos="1" side="tl" part="temps"/>
-                  <clip pos="4" side="tl" part="persnbr"/>
-                  <clip pos="1" side="tl" part="lemq"/>
-                </lu>
-              </chunk>
-            </out>
           </when>
         </choose>
-      </action>
-    </rule>
+        <out>
+          <chunk name="vbconj_not_pp" case="caseSecondWord"><!--vbconj_not_pp-->
+          <tags>
+            <tag><lit-tag v="SV"/></tag>
+            <tag><clip pos="4" side="tl" part="a_verb"/></tag>
+            <tag><clip pos="4" side="tl" part="persnbr"/></tag>
+            <tag><clip pos="4" side="sl" part="nor"/></tag>
+            <tag><clip pos="4" side="sl" part="nori"/></tag>
+            <tag><clip pos="4" side="sl" part="nork"/></tag>
+          </tags>
+          <lu>
+            <clip pos="4" side="tl" part="lemh"/>
+            <clip pos="4" side="tl" part="a_verb"/>
+            <clip pos="4" side="tl" part="temps"/>
+            <clip pos="4" side="tl" part="persnbr"/>
+            <clip pos="4" side="tl" part="lemq"/>
+          </lu>
+          <b pos="2"/>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <b pos="3"/>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
 
 
 

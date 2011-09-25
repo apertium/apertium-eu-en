@@ -6332,8 +6332,8 @@
     <e a="matxin"><p><l>durundatu<s n="vblex"/></l><r>blare<s n="vblex"/></r></p></e>
     <e><p><l>ebaki<s n="vblex"/></l><r>cut<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ebaki<s n="vblex"/></l><r>pronounce<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ebaki<s n="vblex"/></l><r>hack<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ebaki<s n="vblex"/></l><r>pronounce<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ebaki<s n="vblex"/></l><r>hack<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ebaki<s n="vblex"/></l><r>pronounce<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ebakia_egin<s n="vblex"/></l><r>nick<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ebakuatu<s n="vblex"/></l><r>evacuate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ebaluatu<s n="vblex"/></l><r>assess<s n="vblex"/></r></p></e>
@@ -6956,7 +6956,7 @@
     <e><p><l>ezan<s n="vbsint"/></l><r>have<s n="vblex"/></r></p></e>
     <e><p><l>iro<s n="vbsint"/></l><r>would<s n="vaux"/></r></p></e>
     <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j"><p><l>ezan<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
-    <e><p><l>ezan<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ezan<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
     <e><p><l>ezarri<s n="vblex"/></l><r>establish<s n="vblex"/></r></p></e>
     <e><p><l>ezarri<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ezarri<s n="vblex"/></l><r>implant<s n="vblex"/></r></p></e>

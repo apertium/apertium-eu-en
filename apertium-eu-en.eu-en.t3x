@@ -121,6 +121,7 @@
 
     <def-cat n="vbconj">
       <cat-item name="vbconj"/>
+      <cat-item name="vbconj_not_pp"/>
       <cat-item name="lakoan_egon"/>
     </def-cat>
 
@@ -1116,6 +1117,10 @@
               </equal>
             </test>
             <out>
+              <b pos="1"/>
+  	      <lu>
+	        <clip pos="2" part="whole"/>
+	      </lu>
               <b pos="2"/>
   	      <lu>
 	        <clip pos="3" part="whole"/>
