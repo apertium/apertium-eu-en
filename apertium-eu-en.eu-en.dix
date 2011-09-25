@@ -9751,7 +9751,13 @@
     <e><p><l>zabaltza<s n="n"/></l><r>flat<b/>roof<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zoladura<s n="n"/></l><r>paving<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zomorro<s n="n"/></l><r>bug<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>zorigaizto<s n="n"/></l><r>misfortune<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>zimendu<s n="n"/></l><r>foundation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>xiita<s n="n"/></l><r>shiite<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>atso<s n="n"/></l><r>old<b/>woman<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>atso<b/>sorgin<s n="n"/></l><r>old<b/>battleaxe<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>atze<s n="n"/></l><r>rear<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" c="slr='stranger'"><p><l>atze<s n="n"/></l><r>stranger<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zelaigune<s n="n"/></l><r>esplanade<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ordubete<s n="n"/></l><r>hour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ostadar<s n="n"/></l><r>rainbow<s n="n"/><s n="ND"/></r></p></e>
@@ -10080,6 +10086,13 @@
     <e a="matxin"><p><l>gaur<s n="n"/></l><r>today<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ar<s n="n"/></l><r>buck<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ar<s n="n"/></l><r>male<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>arra<s n="n"/></l><r>handspan<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>aseguratu<s n="n"/></l><r>insured<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>aurreakordio<s n="n"/></l><r>draft<b/>agreement<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ausiki<s n="n"/></l><r>bite<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>dorpetasun<s n="n"/></l><r>sluggishness<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>baldartasun<s n="n"/></l><r>sluggishness<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>arra<s n="n"/></l><r>palm<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>garezur<s n="n"/></l><r>skull<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>izter<s n="n"/></l><r>thigh<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>konkor<s n="n"/></l><r>hunch<s n="n"/><s n="ND"/></r></p></e>

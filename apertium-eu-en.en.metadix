@@ -15278,6 +15278,8 @@
     <e lm="Aragonese"><i>Aragonese</i><par n="house__n"/>    </e>
     <e lm="Asian"><i>Asian</i><par n="house__n"/>    </e>
     <e lm="British"><i>British</i><par n="politics__n"/>    </e>
+    <e lm="insured"><i>insured</i><par n="politics__n"/>    </e>
+    <e lm="draft agreement"><i>draft<b/>agreement</i><par n="house__n"/></e>
     <e lm="Buddhism" a="doriua"><i>Buddhism</i><par n="house__n"/>    </e>
     <e lm="Buddhist" a="doriua"><i>Buddhist</i><par n="house__n"/>    </e>
     <e lm="Canadian"><i>Canadian</i><par n="house__n"/>    </e>
@@ -17842,6 +17844,9 @@
     <e lm="hangman"><i>hangm</i><par n="m/an__n"/>    </e>
     <e lm="hangover"><i>hangover</i><par n="house__n"/>    </e>
     <e lm="happiness"><i>happiness</i><par n="access__n"/>    </e>
+    <e lm="sluggishness"><i>sluggishness</i><par n="access__n"/>    </e>
+    <e lm="tile"><i>tile</i><par n="house__n"/>    </e>
+    <e lm="floortile"><i>floortile</i><par n="house__n"/>    </e>
     <e lm="harbour" c="GB"><i>harbour</i><par n="house__n"/>    </e>
     <e lm="hardship"><i>hardship</i><par n="house__n"/>    </e>
     <e lm="hardware"><i>hardware</i><par n="house__n"/>    </e>
@@ -18793,6 +18798,10 @@
     <e lm="patio"><i>patio</i><par n="house__n"/>    </e>
     <e lm="Persian blind"><i>Persian<b/>blind</i><par n="house__n"/>    </e>
     <e lm="manifesto"><i>manifesto</i><par n="house__n"/>    </e>
+    <e lm="handspan"><i>handspan</i><par n="house__n"/>    </e>
+    <e lm="rear"><i>rear</i><par n="house__n"/>    </e>
+    <e lm="old woman"><i>old<b/>wom</i><par n="m/an__n"/>    </e>
+    <e lm="old battleaxe"><i>old<b/>battleaxe</i><par n="house__n"/>    </e>
     <e lm="paving"><i>paving</i><par n="house__n"/>    </e>
     <e lm="bug"><i>bug</i><par n="house__n"/>     </e>
     <e lm="esplanade"><i>esplanade</i><par n="house__n"/>    </e>
