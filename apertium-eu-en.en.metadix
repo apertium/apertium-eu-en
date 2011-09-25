@@ -17845,6 +17845,7 @@
     <e lm="hangover"><i>hangover</i><par n="house__n"/>    </e>
     <e lm="happiness"><i>happiness</i><par n="access__n"/>    </e>
     <e lm="greenness"><i>greenness</i><par n="access__n"/>    </e>
+    <e lm="nervousness"><i>nervousness</i><par n="access__n"/>    </e>
     <e lm="sluggishness"><i>sluggishness</i><par n="access__n"/>    </e>
     <e lm="tile"><i>tile</i><par n="house__n"/>    </e>
     <e lm="floortile"><i>floortile</i><par n="house__n"/>    </e>
@@ -18815,13 +18816,18 @@
     <e lm="Shiite"><p><l>Shiite</l><r>shiite</r></p><par n="expensive__adj"/>    </e>
     <e lm="Balearic"><p><l>Balearic</l><r>balearic</r></p><par n="house__n"/>    </e>
     <e lm="ETA member"><i>ETA<b/>member</i><par n="house__n"/>    </e>
+    <e lm="group member"><i>group<b/>member</i><par n="house__n"/>    </e>
+    <e lm="skipping rope"><i>skipping<b/>rope</i><par n="house__n"/>    </e>
     <e lm="married couple"><i>married<b/>couple</i><par n="house__n"/>    </e>
+    <e lm="son of a bitch"><i>son<b/>of<b/>a<b/>bitch</i><par n="east__n"/>    </e>
+    <e lm="son of a bitch"><p><l>sons<b/>of<b/>bitches</l><r>son<b/>of<b/>a<b/>bitch</r></p><par n="personnel__n"/>    </e>
     <e lm="bride"><i>bride</i><par n="house__n"/>    </e>
     <e lm="tariff"><i>tariff</i><par n="house__n"/>    </e>
     <e lm="sibling"><i>sibling</i><par n="house__n"/>    </e>
     <e lm="sentiment"><i>sentiment</i><par n="house__n"/>    </e>
     <e lm="signatory"><i>signator</i><par n="bab/y__n"/>    </e>
     <e lm="modality"><i>modalit</i><par n="bab/y__n"/>    </e>
+    <e lm="principality"><i>principalit</i><par n="bab/y__n"/>    </e>
     <e lm="modernity"><i>modernit</i><par n="bab/y__n"/>    </e>
     <e lm="minaret"><i>minaret</i><par n="house__n"/>    </e>
     <e lm="mind"><i>mind</i><par n="house__n"/>    </e>
@@ -29112,6 +29118,7 @@
     <e lm="instantly"><i>instantly</i><par n="maybe__adv"/>     </e>
     <e lm="institutionalization"><i>institutionalization</i><par n="house__n"/>     </e>
     <e lm="insubordination"><i>insubordination</i><par n="house__n"/>     </e>
+    <e lm="ordination"><i>ordination</i><par n="house__n"/>     </e>
     <e lm="insurable"><i>insurable</i><par n="expensive__adj"/>     </e>
     <e lm="intangible"><i>intangible</i><par n="expensive__adj"/>     </e>
     <e lm="integrable"><i>integrable</i><par n="expensive__adj"/>     </e>
