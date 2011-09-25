@@ -17844,6 +17844,7 @@
     <e lm="hangman"><i>hangm</i><par n="m/an__n"/>    </e>
     <e lm="hangover"><i>hangover</i><par n="house__n"/>    </e>
     <e lm="happiness"><i>happiness</i><par n="access__n"/>    </e>
+    <e lm="greenness"><i>greenness</i><par n="access__n"/>    </e>
     <e lm="sluggishness"><i>sluggishness</i><par n="access__n"/>    </e>
     <e lm="tile"><i>tile</i><par n="house__n"/>    </e>
     <e lm="floortile"><i>floortile</i><par n="house__n"/>    </e>
@@ -18812,6 +18813,9 @@
     <e lm="Occitan"><p><l>Occitan</l><r>occitan</r></p><par n="house__n"/>    </e>
     <e lm="Shiite"><p><l>Shiite</l><r>shiite</r></p><par n="house__n"/>    </e>
     <e lm="Shiite"><p><l>Shiite</l><r>shiite</r></p><par n="expensive__adj"/>    </e>
+    <e lm="Balearic"><p><l>Balearic</l><r>balearic</r></p><par n="house__n"/>    </e>
+    <e lm="ETA member"><i>ETA<b/>member</i><par n="house__n"/>    </e>
+    <e lm="married couple"><i>married<b/>couple</i><par n="house__n"/>    </e>
     <e lm="bride"><i>bride</i><par n="house__n"/>    </e>
     <e lm="tariff"><i>tariff</i><par n="house__n"/>    </e>
     <e lm="sibling"><i>sibling</i><par n="house__n"/>    </e>
@@ -29221,7 +29225,7 @@
     <e lm="jug"><i>jug</i><par n="house__n"/>     </e>
     <e lm="jumbo"><i>jumbo</i><par n="archipelago__n"/>     </e>
     <e lm="junction"><i>junction</i><par n="house__n"/>     </e>
-    <e lm="junction"><i>junction</i><par n="house__n"/>     </e>
+    <e lm="road junction"><i>road<b/>junction</i><par n="house__n"/>     </e>
     <e lm="just here"><i>just<b/>here</i><par n="maybe__adv"/>     </e>
     <e lm="juxtapose"><i>juxtapos</i><par n="liv/e__vblex"/>     </e>
     <e lm="kaiser"><i>kaiser</i><par n="house__n"/>     </e>

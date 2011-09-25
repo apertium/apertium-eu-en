@@ -10085,6 +10085,7 @@
     <e r="RL" a="matxin"><p><l>ar<s n="n"/></l><r>buck<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ar<s n="n"/></l><r>male<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>arra<s n="n"/></l><r>handspan<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>arra<s n="n"/></l><r>palm<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aseguratu<s n="n"/></l><r>insured<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aurreakordio<s n="n"/></l><r>draft<b/>agreement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ausiki<s n="n"/></l><r>bite<s n="n"/><s n="ND"/></r></p></e>
@@ -10096,8 +10097,16 @@
     <e><p><l>barrakoi<s n="n"/></l><r>bunkhouse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>behe<s n="n"/></l><r>bottom<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>beira-arasa<s n="n"/></l><r>display<b/>case<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>desplazamendu<s n="n"/></l><r>displacement<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bizikidetasun<s n="n"/></l><r>cohabitation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bilgune<s n="n"/></l><r>junction<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bide<b/>bilgune<s n="n"/></l><r>road<b/>junction<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bidegabe<s n="n"/></l><r>injustice<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>berdetasun<s n="n"/></l><r>greenness<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>balear<s n="n"/></l><r>balearic<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>etakide<s n="n"/></l><r>ETA<b/>member<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>senar-emazte<s n="n"/></l><r>married<b/>couple<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baregarri<s n="n"/></l><r>sedative<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arra<s n="n"/></l><r>palm<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>garezur<s n="n"/></l><r>skull<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>izter<s n="n"/></l><r>thigh<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>konkor<s n="n"/></l><r>hunch<s n="n"/><s n="ND"/></r></p></e>
