@@ -9498,19 +9498,17 @@
     <e a="matxin"><p><l>zaharberritu<s n="vblex"/></l><r>restore<s n="vblex"/></r></p></e>
     <e><p><l>zaharkitu<s n="vblex"/></l><r>age<s n="vblex"/></r></p></e>
     <e><p><l>zahartu<s n="vblex"/></l><r>age<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>zahartu<s n="vblex"/></l><r>age<s n="vblex"/></r></p></e>
     <e><p><l>zaildu<s n="vblex"/></l><r>complicate<s n="vblex"/></r></p></e>
-    <e><p><l>zaildu<s n="vblex"/></l><r>hamper<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>zaildu<s n="vblex"/></l><r>hamper<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zaildu<s n="vblex"/></l><r>complicate<s n="vblex"/></r></p></e>
-    <e><p><l>zain<b/>egon<s n="vblex"/></l><r>expect<s n="vblex"/></r></p></e>
-    <e><p><l>zain<b/>egon<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>zain<b/>egon<s n="vblex"/></l><r>expect<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>zain<b/>egon<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
     <e><p><l>zain<b/>egon<s n="vblex"/></l><r>wait<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zain<b/>egon<s n="vblex"/></l><r>await<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>zain_egon<s n="vblex"/></l><r>await<s n="vblex"/></r></p></e>
     <e><p><l>zaindu<s n="vblex"/></l><r>take<g><b/>care</g><s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zaindu<s n="vblex"/></l><r>nurse<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zaindu<s n="vblex"/></l><r>police<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>zaindu<s n="vblex"/></l><r>tend<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zaindu<s n="vblex"/></l><r>tend<s n="vblex"/></r></p></e>
     <e><p><l>zalantza<b/>egin<s n="vblex"/></l><r>doubt<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zalantza<b/>egin<s n="vblex"/></l><r>hesitate<s n="vblex"/></r></p></e>
     <e><p><l>zalantza<b/>egin<s n="vblex"/></l><r>hesitate<s n="vblex"/></r></p></e>
@@ -10092,6 +10090,13 @@
     <e><p><l>ausiki<s n="n"/></l><r>bite<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dorpetasun<s n="n"/></l><r>sluggishness<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baldartasun<s n="n"/></l><r>sluggishness<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>azulejo<s n="n"/></l><r>tile<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>baldosa<s n="n"/></l><r>floortile<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>baliotasun<s n="n"/></l><r>validity<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>barrakoi<s n="n"/></l><r>bunkhouse<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>behe<s n="n"/></l><r>bottom<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>beira-arasa<s n="n"/></l><r>display<b/>case<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>baregarri<s n="n"/></l><r>sedative<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arra<s n="n"/></l><r>palm<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>garezur<s n="n"/></l><r>skull<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>izter<s n="n"/></l><r>thigh<s n="n"/><s n="ND"/></r></p></e>

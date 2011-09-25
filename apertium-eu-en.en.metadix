@@ -17847,6 +17847,9 @@
     <e lm="sluggishness"><i>sluggishness</i><par n="access__n"/>    </e>
     <e lm="tile"><i>tile</i><par n="house__n"/>    </e>
     <e lm="floortile"><i>floortile</i><par n="house__n"/>    </e>
+    <e lm="bunkhouse"><i>bunkhouse</i><par n="house__n"/>    </e>
+    <e lm="display case"><i>display<b/>case</i><par n="house__n"/>    </e>
+    <e lm="sedative"><i>sedative</i><par n="house__n"/>    </e>
     <e lm="harbour" c="GB"><i>harbour</i><par n="house__n"/>    </e>
     <e lm="hardship"><i>hardship</i><par n="house__n"/>    </e>
     <e lm="hardware"><i>hardware</i><par n="house__n"/>    </e>
