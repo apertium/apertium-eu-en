@@ -9716,7 +9716,7 @@
     <e><p><l>erdi<s n="preadv"/></l><r>half<s n="adv"/></r></p></e>
     <e><p><l>hain<s n="preadv"/></l><r>just<b/>as<s n="preadv"/></r></p></e>
     <e><p><l>hain<s n="preadv"/></l><r>so<s n="preadv"/></r></p></e>
-    <e r="RL"><p><l>oso<s n="preadv"/></l><r>any<s n="preadv"/></r></p></e>
+    <e slr="any"><p><l>oso<s n="preadv"/></l><r>any<s n="preadv"/></r></p></e>
     <e><p><l>oso<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
     <e><p><l>kriminal<s n="n"/></l><r>criminal<s n="n"/><s n="ND"/></r></p></e>
@@ -12773,7 +12773,7 @@
     <e><p><l>kantu<s n="n"/></l><r>song<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>kantu<s n="n"/></l><r>singing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kapa<s n="n"/></l><r>coat<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL" c="slr='layer'"><p><l>kapa<s n="n"/></l><r>layer<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="layer"><p><l>kapa<s n="n"/></l><r>layer<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>kapela<s n="n"/></l><r>bonnet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kapela<s n="n"/></l><r>hat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kapera<s n="n"/></l><r>chapel<s n="n"/><s n="ND"/></r></p></e>
@@ -14410,6 +14410,7 @@
     <e><p><l>edin<s n="vbsint"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>egon<s n="vbsint"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>izan<s n="vbsint"/></l><r>be<s n="vbser"/></r></p></e>
+    <e slr="have"><p><l>izan<s n="vbsint"/></l><r>have<s n="vbhaver"/></r></p></e>
 
     <e><p><l>agur<s n="ij"/></l><r>goodbye<s n="ij"/></r></p></e>
     <e><p><l>zelarik<b/>nahi<b/>ez<b/>duenari<b/>eman<b/>bekio<b/>arbalda<s n="ij"/></l><r>it<b/>never<b/>rains<b/>but<b/>it<b/>pours<s n="ij"/></r></p></e>

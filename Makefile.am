@@ -8,8 +8,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
 	$(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-	$(PREFIX1).ordinals.t1x.bin modes
-#$(PREFIX1).rlx.bin modes
+	$(PREFIX1).ordinals.t1x.bin $(PREFIX1).colloc.t1x.bin modes
      
 TARGETS = $(TARGETS_COMMON) trules-$(PREFIX1).bin trules-$(PREFIX2).bin \
           trules-$(PREFIX1).xml trules-$(PREFIX2).xml 
@@ -28,10 +27,9 @@ $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-##NO TOCAR	apertium-gen-oldbil $(BASENAME).$(PREFIX1).dix tmp$(PREFIX1).autobil.dix
-##	xsltproc translate-to-default-equivalent.xsl $(BASENAME).$(PREFIX1).dix >tmp$(PREFIX1).autobil.dix
-	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
-##	rm tmp$(PREFIX1).autobil.dix
+	xsltproc --stringparam r2l yes lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix >tmp$(PREFIX1).autobil.dix
+	lt-comp lr tmp$(PREFIX1).autobil.dix $@
+	rm tmp$(PREFIX1).autobil.dix
 
 $(BASENAME).$(LANG2).dix: $(BASENAME).$(LANG2).metadix
 	@xsltproc buscaPar.xsl apertium-$(PREFIX1).$(LANG2).metadix | uniq > tmp2gen.xsl 	 
@@ -115,8 +113,9 @@ $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 ##$(PREFIX2).lextorbil.bin: $(BASENAME).$(PREFIX2)-lextor.dix
 ##	lt-comp lr $(BASENAME).$(PREFIX2)-lextor.dix $@
 
-#$(PREFIX1).rlx.bin: $(BASENAME).$(PREFIX1).rlx
-#	cg-comp $(BASENAME).$(PREFIX1).rlx $@
+$(PREFIX1).colloc.t1x.bin: $(BASENAME).colloc.t1x
+	apertium-validate-transfer $(BASENAME).colloc.t1x
+	apertium-preprocess-transfer $(BASENAME).colloc.t1x $@
 
 $(PREFIX1).ordinals.t1x.bin: $(BASENAME).ordinals.t1x
 	apertium-validate-transfer $(BASENAME).ordinals.t1x
@@ -152,6 +151,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(BASENAME).$(LANG2).metadix \
            $(BASENAME).$(LANG1).tsx \
            $(PREFIX1).prob \
+           lexchoicebil.xsl \
            $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
            $(BASENAME).$(PREFIX1).t3x \
            buscaPar.xsl principal.xsl \
@@ -179,6 +179,7 @@ apertium_eu_es_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autogen.bin \
                     $(PREFIX1).autopgen.bin \
                     $(PREFIX1).prob $(PREFIX1).ordinals.t1x.bin \
+                    $(PREFIX1).colloc.t1x.bin \
 		    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
 		    $(PREFIX1).mode	  
 
@@ -188,6 +189,7 @@ install-data-local:
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(apertium_eu_esdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_eu_esdir)
 	$(INSTALL_DATA) $(BASENAME).ordinals.t1x $(apertium_eu_esdir)
+	$(INSTALL_DATA) $(BASENAME).colloc.t1x $(apertium_eu_esdir)
 	cp *.mode modes/
 
 CLEANFILES = -r $(TARGETS) 

@@ -5,6 +5,7 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-eu-en.colloc.t1x -text
 /apertium-eu-en.en.metadix -text
 /apertium-eu-en.eu-en.dix -text
 /apertium-eu-en.eu-en.t1x -text
@@ -34,6 +35,7 @@ dev/cross.xml -text
 dev/generation-summary.eu-en.txt -text
 dev/missing-bidix-freq.sh -text
 /eu-en.prob -text svneol=unset#unset
+/lexchoicebil.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
 /principal.xsl -text
