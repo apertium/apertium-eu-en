@@ -22788,7 +22788,7 @@
     <e lm="maniacal"><i>maniacal</i><par n="expensive__adj"/></e>
     <e lm="limp"><i>limp</i><par n="expensive__adj"/></e>
     <e lm="plump"><i>plump</i><par n="expensive__adj"/></e>
-    <e lm="grumpy"><i>grumpy</i><par n="expensive__adj"/></e>
+    <e lm="grumpy"><i>grump</i><par n="happ/y__adj"/></e>
     <e lm="tan"><i>tan</i><par n="expensive__adj"/></e>
     <e lm="materialistic"><i>materialistic</i><par n="expensive__adj"/></e>
     <e lm="moron"><i>moron</i><par n="expensive__adj"/></e>
@@ -22820,7 +22820,7 @@
     <e lm="multinational"><i>multinational</i><par n="expensive__adj"/></e>
     <e lm="temporal"><i>temporal</i><par n="expensive__adj"/></e>
     <e lm="mute"><i>mute</i><par n="expensive__adj"/></e>
-    <e lm="nosy"><i>nosy</i><par n="expensive__adj"/></e>
+    <e lm="nosy"><i>nos</i><par n="happ/y__adj"/></e>
     <e lm="sulky"><i>sulk</i><par n="happ/y__adj"/></e>
     <e lm="motley"><i>motley</i><par n="expensive__adj"/></e>
     <e lm="inconspicuous"><i>inconspicuous</i><par n="expensive__adj"/></e>
@@ -22976,7 +22976,7 @@
     <e lm="complicated"><i>complicated</i><par n="expensive__adj"/></e>
     <e lm="tangled"><i>tangled</i><par n="expensive__adj"/></e>
     <e lm="testing"><i>testing</i><par n="expensive__adj"/></e>
-    <e lm="hoarse"><i>hoarse</i><par n="expensive__adj"/></e>
+    <e lm="hoarse"><i>hoarse</i><par n="nice/__adj"/></e>
     <e lm="horrid"><i>horrid</i><par n="expensive__adj"/></e>
     <e lm="moot"><i>moot</i><par n="expensive__adj"/></e>
     <e lm="indecisive"><i>indecisive</i><par n="expensive__adj"/></e>
