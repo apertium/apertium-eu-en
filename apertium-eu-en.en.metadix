@@ -18793,8 +18793,13 @@
     <e lm="patio"><i>patio</i><par n="house__n"/>    </e>
     <e lm="Persian blind"><i>Persian<b/>blind</i><par n="house__n"/>    </e>
     <e lm="manifesto"><i>manifesto</i><par n="house__n"/>    </e>
+    <e lm="paving"><i>paving</i><par n="house__n"/>    </e>
+    <e lm="bug"><i>bug</i><par n="house__n"/>     </e>
+    <e lm="esplanade"><i>esplanade</i><par n="house__n"/>    </e>
     <e lm="dispersion"><i>dispersion</i><par n="house__n"/>    </e>
     <e lm="Occitan"><p><l>Occitan</l><r>occitan</r></p><par n="house__n"/>    </e>
+    <e lm="Shiite"><p><l>Shiite</l><r>shiite</r></p><par n="house__n"/>    </e>
+    <e lm="Shiite"><p><l>Shiite</l><r>shiite</r></p><par n="expensive__adj"/>    </e>
     <e lm="bride"><i>bride</i><par n="house__n"/>    </e>
     <e lm="tariff"><i>tariff</i><par n="house__n"/>    </e>
     <e lm="sibling"><i>sibling</i><par n="house__n"/>    </e>
