@@ -22620,8 +22620,9 @@
     <e lm="prepared"><i>prepared</i><par n="expensive__adj"/></e>
     <e lm="burly"><i>burl</i><par n="happ/y__adj"/></e>
     <e lm="hefty"><i>heft</i><par n="happ/y__adj"/></e>
+    <e lm="dainty"><i>daint</i><par n="happ/y__adj"/></e>
     <e lm="irksome"><i>irksome</i><par n="expensive__adj"/></e>
-    <e lm="pesky"><i>pesk</i><par n="happ/y__adj"/></e>
+    <e lm="pesky"><i>pesky</i><par n="expensive__adj"/></e>
     <e lm="tiresome"><i>tiresome</i><par n="expensive__adj"/></e>
     <e lm="troublesome"><i>troublesome</i><par n="expensive__adj"/></e>
     <e lm="memorable"><i>memorable</i><par n="expensive__adj"/></e>
