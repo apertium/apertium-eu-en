@@ -1453,12 +1453,12 @@
           <r>um<s n="n"/><s n="pl"/></r>
         </p>
       </e>
-    <!--  <e r="LR">
+      <e r="LR">
         <p>
           <l>ums</l>
           <r>um<s n="n"/><s n="pl"/></r>
         </p>
-      </e> -->
+      </e>
     </pardef>
     <pardef n="mon/ey__n">
       <e c="CP: nouns which add -s or remove -y and add -ies (LR)">
@@ -8917,7 +8917,6 @@
     </pardef>
 
  
-   <!-- dialects -->
     <pardef n="o_ou">
       <e c="en_GB, en_CA, en_ZA, en_IE">
 	<p>
@@ -8995,10 +8994,8 @@
   </pardefs>
   <section id="main" type="standard">
 
-<!-- Entrades multicategoria -->  
 <e lm="the most"><p><l>the<b/>most</l><r>the<s n="det"/><s n="def"/><s n="sp"/><j/>most<s n="preadv"/></r></p></e>
     
-<!-- determiners -->
     <e r="RL" lm="a"><p><l><a/>a</l><r>a</r></p><par n="a__det"/>    </e>
     <e r="LR" lm="a"><i>a</i><par n="a__det"/>    </e>
     <e lm="another"><i>another</i><par n="another__det"/>    </e>
@@ -9165,7 +9162,6 @@
     <e lm="such a"><i>such a</i><par n="another__det"/>    </e>
     <e lm="such"><i>such</i><par n="other__det"/>    </e>
     
-<!-- proper nouns -->
     <e lm="Aablina"><i>Aablina</i><par n="Mary__np"/>    </e>
     <e lm="Abi"><i>Abi</i><par n="Mary__np"/>    </e>
     <e lm="Abigail"><i>Abigail</i><par n="Mary__np"/>    </e>
@@ -15268,7 +15264,6 @@
     <e lm="Zimbabwe"><i>Zimbabwe</i><par n="Barcelona__np"/>    </e>
     <e lm="Àngel"><i>Àngel</i><par n="Mark__np"/>    </e>
     
-<!-- nouns -->
     <e lm="chemist's"><p><l>chemist's</l><r>chemist's<s n="n"/><s n="sg"/></r></p></e>
     <e lm="custom"><p><l>custom</l><r>custom<s n="n"/><s n="sg"/></r></p></e>
     <e lm="American"><i>American</i><par n="house__n"/>    </e>
@@ -21178,7 +21173,6 @@
     <e lm="tummy"><i>tumm</i><par n="bab/y__n"/></e>
     <e lm="locality"><i>localit</i><par n="bab/y__n"/></e>
     
-<!-- interjections -->
     <e lm="good morning"><i>good<b/>morning</i><par n="hello__ij"/>    </e>
     <e lm="it never rains but it pours"><i>it<b/>never<b/>rains<b/>but<b/>it<b/>pours</i><par n="hello__ij"/>    </e>
     <e lm="goodbye"><i>goodbye</i><par n="hello__ij"/>    </e>
@@ -21239,7 +21233,6 @@
     <e lm=""><i>all<b/>that<b/>glitters<b/>is<b/>not<b/>gold</i><par n="hello__ij"/>    </e>
     <e lm=""><i>mind<b/>your<b/>own<b/>business</i><par n="hello__ij"/>    </e>
     
-<!-- adjectives -->
     <e lm="bad">      <i/>      <par n="/bad__adj"/>    </e>
     <e lm="good">      <i/>      <par n="/good__adj"/>    </e>
     <e lm="Afghan">      <p>	<l>Afghan</l>	<r>afghan</r></p><par n="expensive__adj"/>    </e>
@@ -22962,7 +22955,7 @@
     <e lm="uneasy"><i>uneasy</i><par n="expensive__adj"/></e>
     <e lm="abrasive"><i>abrasive</i><par n="expensive__adj"/></e>
     <e lm="vintage"><i>vintage</i><par n="expensive__adj"/></e>
-    <e lm="juicy"><i>juicy</i><par n="expensive__adj"/></e>
+    <e lm="juicy"><i>juic</i><par n="happ/y__adj"/></e>
     <e lm="molten"><i>molten</i><par n="expensive__adj"/></e>
     <e lm="odorless"><i>odorless</i><par n="expensive__adj"/></e>
     <e lm="odourless"><i>odourless</i><par n="expensive__adj"/></e>
@@ -22971,10 +22964,10 @@
     <e lm="untapped"><i>untapped</i><par n="expensive__adj"/></e>
     <e lm="disused"><i>disused</i><par n="expensive__adj"/></e>
     <e lm="diffident"><i>diffident</i><par n="expensive__adj"/></e>
-    <e lm="soapy"><i>soapy</i><par n="expensive__adj"/></e>
+    <e lm="soapy"><i>soap</i><par n="happ/y__adj"/></e>
     <e lm="prodigal"><i>prodigal</i><par n="expensive__adj"/></e>
     <e lm="outlandish"><i>outlandish</i><par n="expensive__adj"/></e>
-    <e lm="stingy"><i>stingy</i><par n="expensive__adj"/></e>
+    <e lm="stingy"><i>sting</i><par n="happ/y__adj"/></e>
     <e lm="remiss"><i>remiss</i><par n="expensive__adj"/></e>
     <e lm="decrepit"><i>decrepit</i><par n="expensive__adj"/></e>
     <e lm="inveterate"><i>inveterate</i><par n="expensive__adj"/></e>
@@ -22985,18 +22978,17 @@
     <e lm="testing"><i>testing</i><par n="expensive__adj"/></e>
     <e lm="hoarse"><i>hoarse</i><par n="expensive__adj"/></e>
     <e lm="horrid"><i>horrid</i><par n="expensive__adj"/></e>
-    <e lm="rude"><i>rude</i><par n="expensive__adj"/></e>
     <e lm="moot"><i>moot</i><par n="expensive__adj"/></e>
     <e lm="indecisive"><i>indecisive</i><par n="expensive__adj"/></e>
-    <e lm="rowdy"><i>rowdy</i><par n="expensive__adj"/></e>
+    <e lm="rowdy"><i>rowd</i><par n="happ/y__adj"/></e>
     <e lm="vociferous"><i>vociferous</i><par n="expensive__adj"/></e>
     <e lm="enthusiast"><i>enthusiast</i><par n="expensive__adj"/></e>
     <e lm="fanatic"><i>fanatic</i><par n="expensive__adj"/></e>
     <e lm="oppressive"><i>oppressive</i><par n="expensive__adj"/></e>
     <e lm="insipid"><i>insipid</i><par n="expensive__adj"/></e>
     <e lm="tasteless"><i>tasteless</i><par n="expensive__adj"/></e>
-    <e lm="tasty"><i>tasty</i><par n="expensive__adj"/></e>
-    <e lm="shabby"><i>shabby</i><par n="expensive__adj"/></e>
+    <e lm="tasty"><i>tast</i><par n="happ/y__adj"/></e>
+    <e lm="shabby"><i>shabb</i><par n="happ/y__adj"/></e>
     <e lm="spendthrift"><i>spendthrift</i><par n="expensive__adj"/></e>
     <e lm="unhurt"><i>unhurt</i><par n="expensive__adj"/></e>
     <e lm="fastidious"><i>fastidious</i><par n="expensive__adj"/></e>
@@ -23011,7 +23003,6 @@
     <e lm="preposterous"><i>preposterous</i><par n="expensive__adj"/></e>
     <e lm="senseless"><i>senseless</i><par n="expensive__adj"/></e>
     <e lm="unwise"><i>unwise</i><par n="expensive__adj"/></e>
--->
     <e lm="ceremonial"><i>ceremonial</i><par n="expensive__adj"/></e>
     <e lm="sciatic"><i>sciatic</i><par n="expensive__adj"/></e>
     <e lm="rightful"><i>rightful</i><par n="expensive__adj"/></e>
@@ -23785,7 +23776,6 @@
     <e lm="subterranean"><i>subterranean</i><par n="expensive__adj"/></e>
     <e lm="underground"><i>underground</i><par n="expensive__adj"/></e>
     
-<!-- verbs -->
     <e lm="have"><i>ha</i><par n="ha/ve__vbhaver"/>    </e>
     <e lm="do"><i>d</i><par n="d/o__vaux"/>    </e>
     <e lm="can"><i>c</i><par n="c/an__vbmod"/>    </e>
@@ -25335,9 +25325,8 @@
     <e lm="ride"><i>r</i><par n="r/ide__vblex"/></e>
 
 
-<!--verb contractions -->
     
-  <!--  <e lm="I'm"><p><l>I'm</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e> 
+    <e lm="I'm"><p><l>I'm</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e> 
     <e lm="you're"><p><l>you're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
     <e lm="she's"><p><l>she's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="she's" i="yes" c="el tagger es confon, és més freqüent 'she is'"><p><l>she's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -25346,7 +25335,7 @@
     <e lm="it's"><p><l>it's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="it's" i="yes" c="el tagger es confon, és més freqüent 'she is'"><p><l>it's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="we're"><p><l>we're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
-    <e lm="they're"><p><l>they're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e> -->
+    <e lm="they're"><p><l>they're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
     <e lm="I'll"><p><l>I'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
     <e lm="you'll"><p><l>you'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
     <e lm="she'll"><p><l>she'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
@@ -25424,7 +25413,6 @@
     <e lm="there is" r="RL"><p><l>there<b/>is</l><r>there<b/>is<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="there is" r="RL"><p><l>there<b/>are</l><r>there<b/>is<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
     
-<!-- adverbs -->
     <e lm="any"><i>any</i><par n="very__preadv"/>    </e>
     <e lm="as"><i>as</i><par n="very__preadv"/>    </e>
     <e lm="how"><i>how</i><par n="very__preadv"/>    </e>
@@ -26246,7 +26234,6 @@
     <e lm="ready"><i>ready</i><par n="maybe__adv"/>    </e>
     <e lm="at night"><i>at<b/>night</i><par n="maybe__adv"/></e>
     
-<!-- conjunctions -->
     <e lm="and"><i>and</i><par n="and__cnjcoo"/>    </e>
     <e lm="both"><i>both</i><par n="and__cnjcoo"/>    </e>
     <e lm="but"><i>but</i><par n="and__cnjcoo"/>    </e>
@@ -26294,7 +26281,6 @@
     <e lm="undersigned">      <p>	<l>undersigned</l>	<r>undersigned</r></p><par n="politics__n"/>    </e>
     <e lm="that"><i>that</i><par n="that__cnjsub"/>    </e>
     
-<!-- numerals -->
     <e lm="one"><i>one</i><par n="one__num"/>    </e>
     <e lm="a hundred"><i>a<b/>hundred</i><par n="million__num"/>    </e>
     <e lm="a thousand"><i>a<b/>thousand</i><par n="million__num"/>    </e>
@@ -26337,7 +26323,6 @@
     <e lm="eighty"><i>eighty</i><par n="twenty__num"/>    </e>
     <e lm="ninety"><i>ninety</i><par n="twenty__num"/>    </e>
     
-<!-- pronouns -->
     <e lm="pronoms personals de subjecte">      <i/>      <par n="prsubj__prn"/>    </e>
     <e lm="pronoms personals d'objecte">      <i/>      <par n="probj__prn"/>    </e>
     <e lm="myself"><p><l>myself</l><r>myself<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -26372,8 +26357,7 @@
     <e lm="mine"><i>mine</i><par n="mine__prn"/>    </e>
     <e lm="most"><i>most</i><par n="both__prn"/>    </e>
   
-<!--    <e lm="most of"><i>most<b/>of</i><par n="enough__det"/>    </e>
- -->
+    <e lm="most of"><i>most<b/>of</i><par n="enough__det"/>    </e>
     <e lm="most of"><p><l>most<b/>of</l><r>most<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/><j/>of<s n="pr"/></r></p></e>
     <e lm="the majority" r="RL"><i>the<b/>majority</i><par n="both__prn"/></e>
     <e lm="no one"><i>no<b/>one</i><par n="everyone__prn"/>    </e>
@@ -26417,7 +26401,6 @@
     <e lm="whose"><i>whose</i><par n="whose__rel"/>    </e>
     <e lm="of which" c="aquest és el 'which' en la construcció 'of which', que es tradueix per 'de + el qual'. El 'which' relatiu de 'the man which I met' és 'an' en comptes de 'nn'."><p><l>of<b/>which</l><r>of<s n="pr"/><j/>which</r></p><par n="which__rel"/>    </e>
     
-<!-- prepositions -->
     <e>      <i>'s</i><par n="'s__gen"/>    </e>
     <e lm="about"><i>about</i><par n="at__pr"/>    </e>
     <e lm="rather than"><i>rather<b/>than</i><par n="at__pr"/></e>
@@ -26792,7 +26775,6 @@
     <e lm="boyfriend"><i>boyfriend</i><par n="house__n"/></e>
     <e lm="girlfriend"><i>girlfriend</i><par n="house__n"/></e>
 
-<!-- nou vocabulari crossdics -->
     <e lm="Abidjan"><i>Abidjan</i><par n="Barcelona__np"/>     </e>
     <e lm="Abyssinia"><i>Abyssinia</i><par n="Barcelona__np"/>     </e>
     <e lm="Alabama"><i>Alabama</i><par n="Barcelona__np"/>     </e>
@@ -30920,8 +30902,7 @@
     <e lm="supplantation"><i>supplantation</i><par n="house__n"/>     </e>
     <e lm="support"><i>support</i><par n="house__n"/>     </e>
 
-<!--    <e lm="step"><i>step</i><par n="step__vblex"/></e>
- -->
+    <e lm="step"><i>step</i><par n="step__vblex"/></e>
     <e lm="support"><i>support</i><par n="accept__vblex"/>     </e>
     <e lm="suprarenal"><i>suprarenal</i><par n="expensive__adj"/>     </e>
     <e lm="surfer"><i>surfer</i><par n="house__n"/>     </e>
@@ -30940,7 +30921,6 @@
     <e lm="swindle"><i>swindle</i><par n="house__n"/>     </e>
     <e lm="swing"><i>swing</i><par n="house__n"/>     </e>
 
-<!-- Carla: aquí freq. 50 -->
     <e lm="sycamore"><i>sycamore</i><par n="house__n"/>     </e>
     <e lm="syllabic"><i>syllabic</i><par n="expensive__adj"/>     </e>
     <e lm="syllable"><i>syllable</i><par n="house__n"/>     </e>
@@ -31413,7 +31393,6 @@
 <e lm="next year"><i>next<b/>year</i><par n="maybe__adv"/></e>
 
 
-<!--Next + temps-->
 <e lm="next Monday"><i>next<b/>Monday</i><par n="maybe__adv"/></e>
 <e lm="next Tuesday"><i>next<b/>Tuesday</i><par n="maybe__adv"/></e>
 <e lm="next Wednesday"><i>next<b/>Wednesday</i><par n="maybe__adv"/></e>
@@ -31798,7 +31777,6 @@
     <e>      <par n="emails"/>    </e>
     <e>      <par n="urls"/>    </e>
     <e>      <par n="ordinals"/>    </e>
-   <!-- <e>      <par n="acronimos"/>    </e>-->
     <e>      <par n="time"/>    </e>
     <e>      <par n="currency"/>    </e>
   </section>  
