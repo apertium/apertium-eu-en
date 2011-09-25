@@ -1184,13 +1184,41 @@
 	  <clip pos="1" part="temps"/>
 	  <clip pos="0" part="temps"/>
 	</let>
+        <choose>
+          <when>
+            <test>
+              <not>
+                <and>
+                  <equal>
+  	            <clip pos="0" part="pers"/>
+	            <lit-tag v="p3"/>
+                  </equal>
+                  <equal>
+  	            <clip pos="0" part="nbr"/>
+	            <lit-tag v="sg"/>
+                  </equal>
+                </and>
+              </not>
+            </test>
+            <out>                  
+	      <lu>
+	        <lit v="have"/>
+	        <lit-tag v="vbhaver.pres"/>
+	      </lu>
+	    </out>
+          </when>
+          <otherwise>
+            <out>                  
+	      <lu>
+	        <lit v="have"/>
+	        <lit-tag v="vbhaver.pri"/>
+	        <clip pos="0" part="pers"/>
+	        <clip pos="0" part="nbr"/>
+	      </lu>
+	    </out>
+          </otherwise>
+        </choose>
 	<out>
-	  <lu>
-	    <lit v="have"/>
-	    <lit-tag v="vbhaver.pri"/>
-	    <clip pos="0" part="pers"/>
-	    <clip pos="0" part="nbr"/>
-	  </lu>
 	  <b/>	    
 	  <lu>
 	    <clip pos="1" part="lemh"/>
@@ -1209,7 +1237,7 @@
   <action>
     <out>
       <lu>
-	<lit v="que"/>
+	<lit v="that"/>
 	<lit-tag v="cnjsub"/>
       </lu>
     </out>
@@ -1224,7 +1252,7 @@
   <action>
     <out>
       <lu>
-	<lit v="de"/>
+	<lit v="of"/>
 	<lit-tag v="pr"/>
       </lu>
     </out>
@@ -1431,7 +1459,7 @@
       <action>
 	<out>
 	  <lu>
-	    <lit v="que"/>
+	    <lit v="that"/>
 	    <lit-tag v="cnjsub"/>
 	  </lu>
 	</out>

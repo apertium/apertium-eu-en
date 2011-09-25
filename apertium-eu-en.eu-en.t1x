@@ -5086,8 +5086,28 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="ezer"/>
+              </equal>
+            </test>
+            <let>
+              <var n="lemachunk"/>
+              <lit v="ezer"/>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <var n="lemachunk"/>
+              <lit v="prntn"/>
+            </let>
+          </otherwise>
+        </choose>
         <out>
-          <chunk name="prntn" case="caseFirstWord">
+          <chunk namefrom="lemachunk" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
@@ -14554,7 +14574,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           </when>
         </choose>
         <out>
-          <chunk name="vbconj_not_pp" case="caseSecondWord"><!--vbconj_not_pp-->
+          <chunk name="vbconj_not_pp" case="caseSecondWord">
           <tags>
             <tag><lit-tag v="SV"/></tag>
             <tag><clip pos="4" side="tl" part="a_verb"/></tag>

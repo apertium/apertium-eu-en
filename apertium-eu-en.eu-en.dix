@@ -7247,9 +7247,9 @@
     <e><p><l>gogorarazi<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gogorarazi<s n="vblex"/></l><r>evoke<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gogorarazi<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
-    <e><p><l>gogoratu<s n="vblex"/></l><r>evoke<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gogoratu<s n="vblex"/></l><r>evoke<s n="vblex"/></r></p></e>
     <e><p><l>gogoratu<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
-    <e><p><l>gogoratu<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gogoratu<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gogoratu<s n="vblex"/></l><r>recall<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gogoratu<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
     <e><p><l>gogortu<s n="vblex"/></l><r>toughen<s n="vblex"/></r></p></e>
@@ -7383,16 +7383,15 @@
     <e r="RL"><p><l>hasi<s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>hasi<s n="vblex"/></l><r>get<g><b/>started</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>hasi<s n="vblex"/></l><r>tackle<s n="vblex"/></r></p></e>
-    <e><p><l>hasi<s n="vblex"/></l><r>undertake<s n="vblex"/></r></p></e>
-    <e><p><l>hasi<s n="vblex"/></l><r>head<s n="vblex"/></r></p></e>
-    <e><p><l>hasi<s n="vblex"/></l><r>initiate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>hasi<s n="vblex"/></l><r>undertake<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>hasi<s n="vblex"/></l><r>head<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>hasi<s n="vblex"/></l><r>initiate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>hasi<s n="vblex"/></l><r>pioneer<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>hasi<s n="vblex"/></l><r>begin<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>hasi<s n="vblex"/></l><r>commence<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>hasi<s n="vblex"/></l><r>initiate<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>hasi<s n="vblex"/></l><r>begin<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>hasi<s n="vblex"/></l><r>commence<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>hasi<s n="vblex"/></l><r>initiate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>hasi<s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>hasi<s n="vblex"/></l><r>top<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>hasi<s n="vblex"/></l><r>undertake<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>hasi<s n="vblex"/></l><r>top<s n="vblex"/></r></p></e>
     <e><p><l>hasperen<b/>egin<s n="vblex"/></l><r>sigh<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>hasperen_egin<s n="vblex"/></l><r>sigh<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>hausnartu<s n="vblex"/></l><r>brood<s n="vblex"/></r></p></e>
@@ -14551,8 +14550,8 @@
     <e c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>edozer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>edozer<s n="prn"/><s n="ind"/></l><r>whatever<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e c="frases negatives"><p><l>ezer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>ezer<s n="prn"/><s n="ind"/></l><r>nothing<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="frases negatives"><p><l>ezer<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ezer<s n="prn"/><s n="ind"/><s n="sg"/></l><r>nothing<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>hi<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
     <e c="preguntes i negatives" r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="frases negatives" r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>

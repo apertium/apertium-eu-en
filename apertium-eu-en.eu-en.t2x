@@ -4265,7 +4265,7 @@
 	<chunk>
 	  <lit v="de"/>
 	  <lit-tag v="PREP"/>
-	  <lit v="{^de"/>
+	  <lit v="{^of"/>
 	  <lit-tag v="pr"/>
 	  <lit v="$}"/>
 	</chunk>
@@ -4427,20 +4427,6 @@
 	  <when>
 	    <test>
 	      <equal>
-		<clip pos="3" part="gen"/>
-		<lit-tag v="GD"/>
-	      </equal>
-	    </test>
-	    <let>
-	      <clip pos="3" part="gen"/>
-	      <lit-tag v="m"/>
-	    </let>
-	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
 		<clip pos="3" part="nbr"/>
 		<lit-tag v="ND"/>
 	      </equal>
@@ -4460,10 +4446,33 @@
 	    <clip pos="4" part="whole"/>
 	  </chunk>
 	  <b pos="2"/>
-	  <chunk>
-	    <clip pos="3" part="whole"/>
-	  </chunk>
 	</out>
+	<choose>
+	  <when>
+	    <test>
+	      <equal>
+		<clip pos="3" part="lem"/>
+		<lit v="ezer"/>
+	      </equal>
+	    </test>
+            <out>
+              <chunk>
+                <lit v="anything"/>
+                <lit-tag v="SN"/>
+                <lit v="{^anything"/>
+                <lit-tag v="prn.tn.m.sg"/>
+                <lit v="$}"/>
+              </chunk>
+            </out>
+	  </when>
+          <otherwise>
+            <out>
+	      <chunk>
+	        <clip pos="3" part="whole"/>
+  	      </chunk>
+            </out>
+          </otherwise>
+	</choose>
 	<call-macro n="f_bcond">
 	  <with-param pos="3"/>
 	</call-macro>
