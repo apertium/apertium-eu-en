@@ -18787,6 +18787,21 @@
     <e lm="million"><i>million</i><par n="house__n"/>    </e>
     <e lm="millionaire"><i>millionaire</i><par n="house__n"/>    </e>
     <e lm="min."><p><l>min.</l><r>min.</r></p><par n="east__n"/>    </e>
+    <e lm="melancholy"><i>melancholy</i><par n="east__n"/>    </e>
+    <e lm="manure"><i>manure</i><par n="house__n"/>    </e>
+    <e lm="yell"><i>yell</i><par n="house__n"/>    </e>
+    <e lm="patio"><i>patio</i><par n="house__n"/>    </e>
+    <e lm="Persian blind"><i>Persian<b/>blind</i><par n="house__n"/>    </e>
+    <e lm="manifesto"><i>manifesto</i><par n="house__n"/>    </e>
+    <e lm="dispersion"><i>dispersion</i><par n="house__n"/>    </e>
+    <e lm="Occitan"><p><l>Occitan</l><r>occitan</r></p><par n="house__n"/>    </e>
+    <e lm="bride"><i>bride</i><par n="house__n"/>    </e>
+    <e lm="tariff"><i>tariff</i><par n="house__n"/>    </e>
+    <e lm="sibling"><i>sibling</i><par n="house__n"/>    </e>
+    <e lm="sentiment"><i>sentiment</i><par n="house__n"/>    </e>
+    <e lm="signatory"><i>signator</i><par n="bab/y__n"/>    </e>
+    <e lm="modality"><i>modalit</i><par n="bab/y__n"/>    </e>
+    <e lm="modernity"><i>modernit</i><par n="bab/y__n"/>    </e>
     <e lm="minaret"><i>minaret</i><par n="house__n"/>    </e>
     <e lm="mind"><i>mind</i><par n="house__n"/>    </e>
     <e lm="mine"><i>mine</i><par n="house__n"/>    </e>
@@ -19879,6 +19894,10 @@
     <e lm="romance" a="carmentano"><i>romance</i><par n="house__n"/>    </e>
     <e lm="romanticism"><i>romanticism</i><par n="house__n"/>    </e>
     <e lm="roof"><i>roof</i><par n="house__n"/>    </e>
+    <e lm="flat roof"><i>flat<b/>roof</i><par n="house__n"/>    </e>
+    <e lm="reservoir"><i>reservoir</i><par n="house__n"/>    </e>
+    <e lm="violation"><i>violation</i><par n="house__n"/>    </e>
+    <e lm="gut"><i>gut</i><par n="house__n"/>     </e>
     <e lm="room" c="MG: és ambigua en singular (espai/habitació) però no en plural (habitacions). Caldria fer dues entrades, una per a n sg (incomptable) i una per a n sg i n pl?"><i>room</i><par n="house__n"/>    </e>
     <e lm="changing room"><i>changing<b/>room</i><par n="house__n"/></e>
     <e lm="living room"><i>living<b/>room</i><par n="house__n"/></e>
@@ -31095,6 +31114,7 @@
     <e lm="tracheostomy"><i>tracheostom</i><par n="bab/y__n"/>     </e>
     <e lm="tracheotomy"><i>tracheotom</i><par n="bab/y__n"/>     </e>
     <e lm="trachoma"><i>trachoma</i><par n="schema__n"/>     </e>
+    <e lm="trail"><i>trail</i><par n="house__n"/>     </e>
     <e lm="trailer"><i>trailer</i><par n="house__n"/>     </e>
     <e lm="transactional"><i>transactional</i><par n="expensive__adj"/>     </e>
     <e lm="transceiver"><i>transceiver</i><par n="house__n"/>     </e>

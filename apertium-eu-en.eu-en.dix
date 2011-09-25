@@ -9730,7 +9730,7 @@
     <e><p><l>manifestu<s n="n"/></l><r>manifesto<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>mediana<s n="n"/></l><r>median<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>mekanika<s n="n"/></l><r>mechanics<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>melankolia<s n="n"/></l><r>melancholy<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>melankolia<s n="n"/></l><r>melancholy<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>meseta<s n="n"/></l><r>plateau<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>meza<s n="n"/></l><r>Mass<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>modalitate<s n="n"/></l><r>modality<s n="n"/><s n="ND"/></r></p></e>
@@ -9738,8 +9738,16 @@
     <e><p><l>murru<s n="n"/></l><r>wall<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nazi<s n="n"/></l><r>Nazi<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>noble<s n="n"/></l><r>noble<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>okzitaniar<s n="n"/></l><r>Occitan<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>okzitaniera<s n="n"/></l><r>Occitan<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>okzitaniar<s n="n"/></l><r>occitan<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>okzitaniera<s n="n"/></l><r>occitan<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>pertsiana<s n="n"/></l><r>Persian<b/>blind<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>unibertsitario<s n="n"/></l><r>university<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>uraska<s n="n"/></l><r>reservoir<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>urraketa<s n="n"/></l><r>violation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>sosegu<s n="n"/></l><r>peace<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>suizida<s n="n"/></l><r>suicide<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>tripa<s n="n"/></l><r>gut<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>urtegi<s n="n"/></l><r>reservoir<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ordubete<s n="n"/></l><r>hour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ostadar<s n="n"/></l><r>rainbow<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>partida<s n="n"/></l><r>game<s n="n"/><s n="ND"/></r></p></e>
@@ -9752,7 +9760,7 @@
     <e><p><l>serbiar<s n="n"/></l><r>Serbian<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sermoi<s n="n"/></l><r>sermon<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sigla<s n="n"/></l><r>acronym<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>simaur<s n="n"/></l><r>manure<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>simaur<s n="n"/></l><r>manure<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>sinatzaile<s n="n"/></l><r>signatory<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sobietar<s n="n"/></l><r>Soviet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>su-eten<s n="n"/></l><r>ceasefire<s n="n"/><s n="ND"/></r></p></e>
