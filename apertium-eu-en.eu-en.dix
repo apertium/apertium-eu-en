@@ -10114,7 +10114,7 @@
     <e><p><l>sokasalto<s n="n"/></l><r>skipping<b/>rope<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>urduritasun<s n="n"/></l><r>nervousness<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zenbateko<s n="n"/></l><r>amount<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>pilotaleku<s n="n"/></l><r>prediment<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>pilotaleku<s n="n"/></l><r>pediment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ordenazio<s n="n"/></l><r>ordination<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baregarri<s n="n"/></l><r>sedative<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>garezur<s n="n"/></l><r>skull<s n="n"/><s n="ND"/></r></p></e>
@@ -11919,7 +11919,7 @@
     <e><p><l>fondo<s n="n"/></l><r>fund<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>fonetika<s n="n"/></l><r>phonetics<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>forma<s n="n"/></l><r>form<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>forma<s n="n"/></l><r>shape<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>forma<s n="n"/></l><r>shape<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>formatu<s n="n"/></l><r>format<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>formula<s n="n"/></l><r>formula<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>formulario<s n="n"/></l><r>form<s n="n"/><s n="ND"/></r></p></e>
@@ -11952,19 +11952,19 @@
     <e><p><l>furgoneta<s n="n"/></l><r>van<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>fusil<s n="n"/></l><r>rifle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>fusio<s n="n"/></l><r>fusion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>fusio<s n="n"/></l><r>merger<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fusio<s n="n"/></l><r>merger<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>futbol<s n="n"/></l><r>football<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>futbolari<s n="n"/></l><r>footballer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gabezia<s n="n"/></l><r>lack<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gabon<s n="n"/></l><r>christmas<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gai<s n="n"/></l><r>subject<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gai<s n="n"/></l><r>theme<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gai<s n="n"/></l><r>topic<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gai<s n="n"/></l><r>matter<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gai<s n="n"/></l><r>affair<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gai<s n="n"/></l><r>issue<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gai<s n="n"/></l><r>theme<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gai<s n="n"/></l><r>topic<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gai<s n="n"/></l><r>matter<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gai<s n="n"/></l><r>affair<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gai<s n="n"/></l><r>issue<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gailur<s n="n"/></l><r>peak<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gailur<s n="n"/></l><r>summit<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gailur<s n="n"/></l><r>summit<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>gain<s n="n"/></l><r>top<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gainbegiratu<s n="n"/></l><r>glimpse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gainbehera<s n="n"/></l><r>decadence<s n="n"/><s n="ND"/></r></p></e>

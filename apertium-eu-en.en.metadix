@@ -19724,7 +19724,13 @@
     <e lm="reagent"><i>reagent</i><par n="house__n"/>    </e>
     <e lm="real estate"><i>real<b/>estate</i><par n="house__n"/>    </e>
     <e lm="realism"><i>realism</i><par n="house__n"/>    </e>
+    <e lm="pediment"><i>pediment</i><par n="house__n"/>    </e>
+    <e lm="abertzale"><i>abertzale</i><par n="house__n"/>    </e>
+    <e lm="coloniser"><i>coloniser</i><par n="house__n"/>    </e>
+    <e lm="sensation"><i>sensation</i><par n="house__n"/>    </e>
+    <e lm="instauration"><i>instauration</i><par n="house__n"/>    </e>
     <e lm="reality"><i>realit</i><par n="bab/y__n"/>    </e>
+    <e lm="validity"><i>validit</i><par n="bab/y__n"/>    </e>
     <e lm="realization"><i>realization</i><par n="house__n"/>    </e>
     <e lm="reallocation"><i>reallocation</i><par n="house__n"/>    </e>
     <e lm="reanimation"><i>reanimation</i><par n="house__n"/>    </e>
