@@ -24829,7 +24829,7 @@
     <e lm="pack"><i>pack</i><par n="accept__vblex"/>    </e>
     <e lm="paint"><i>paint</i><par n="accept__vblex"/>    </e>
     <e lm="parade"><i>parad</i><par n="liv/e__vblex"/>    </e>
-    <e lm="paralyze"><i>paralyz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="paralyze"><i>paraly</i><par n="organi/ze__vblex"/>    </e>
     <e lm="park"><i>park</i><par n="accept__vblex"/>    </e>
     <e lm="part"><i>part</i><par n="accept__vblex"/>    </e>
     <e lm="participate"><i>participat</i><par n="liv/e__vblex"/>    </e>
@@ -24909,7 +24909,7 @@
     <e lm="price"><i>pric</i><par n="liv/e__vblex"/>    </e>
     <e lm="prime"><i>prim</i><par n="liv/e__vblex"/>    </e>
     <e lm="print"><i>print</i><par n="accept__vblex"/>    </e>
-    <e lm="prioritize"><i>prioritiz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="prioritize"><i>prioriti</i><par n="organi/ze__vblex"/>    </e>
     <e lm="proceed"><i>proceed</i><par n="accept__vblex"/>    </e>
     <e lm="succeed"><i>succeed</i><par n="accept__vblex"/>    </e>
     <e lm="process"><i>process</i><par n="approach__vblex"/>    </e>
@@ -24955,8 +24955,7 @@
     <e lm="reactivate"><i>reactivat</i><par n="liv/e__vblex"/>    </e>
     <e lm="read"><i>read</i><par n="cost__vblex"/>    </e>
     <e lm="readjust"><i>readjust</i><par n="accept__vblex"/>    </e>
-    <e lm="realise"><i>realis</i><par n="liv/e__vblex"/>    </e>
-    <e lm="realize"><i>realiz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="realize"><i>reali</i><par n="organi/ze__vblex"/>    </e>
     <e lm="reappear"><i>reappear</i><par n="accept__vblex"/>    </e>
     <e lm="reason"><i>reason</i><par n="accept__vblex"/>    </e>
     <e lm="reassure"><i>reassur</i><par n="liv/e__vblex"/>    </e>
@@ -24966,8 +24965,7 @@
     <e lm="recess"><i>recess</i><par n="approach__vblex"/>    </e>
     <e lm="recite"><i>recit</i><par n="liv/e__vblex"/>    </e>
     <e lm="reckon"><i>reckon</i><par n="accept__vblex"/>    </e>
-    <e lm="recognize"><i>recogniz</i><par n="liv/e__vblex"/>    </e>
-    <e lm="recognize"><i>recogniz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="recognize"><i>recogni</i><par n="organi/ze__vblex"/>    </e>
     <e lm="recommend"><i>recommend</i><par n="accept__vblex"/>    </e>
     <e lm="reconsider"><i>reconsider</i><par n="accept__vblex"/>    </e>
     <e lm="reconstruct"><i>reconstruct</i><par n="accept__vblex"/>    </e>
@@ -25008,7 +25006,7 @@
     <e lm="rename"><i>renam</i><par n="liv/e__vblex"/>    </e>
     <e lm="renew"><i>renew</i><par n="accept__vblex"/>    </e>
     <e lm="rent"><i>rent</i><par n="accept__vblex"/>    </e>
-    <e lm="reorganize"><i>reorganiz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="reorganize"><i>reorgani</i><par n="organi/ze__vblex"/>    </e>
     <e lm="repair"><i>repair</i><par n="accept__vblex"/>    </e>
     <e lm="repeat"><i>repeat</i><par n="accept__vblex"/>    </e>
     <e lm="repel"><i>repel</i><par n="control__vblex"/>    </e>
@@ -25053,7 +25051,7 @@
     <e lm="revive"><i>reviv</i><par n="liv/e__vblex"/>    </e>
     <e lm="revoke"><i>revok</i><par n="liv/e__vblex"/>    </e>
     <e lm="revolt"><i>revolt</i><par n="accept__vblex"/>    </e>
-    <e lm="revolutionize"><i>revolutioniz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="revolutionize"><i>revolutioni</i><par n="organi/ze__vblex"/>    </e>
     <e lm="reward"><i>reward</i><par n="accept__vblex"/>    </e>
     <e lm="rhyme"><i>rhym</i><par n="liv/e__vblex"/>    </e>
     <e lm="rid"><i>rid</i><par n="outbid__vblex"/>    </e>
@@ -25108,7 +25106,7 @@
     <e lm="send in"><i>sen</i><par n="ben/d__vblex"/>      <p>        <l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="send"><i>sen</i><par n="ben/d__vblex"/>    </e>
     <e lm="sense"><i>sens</i><par n="liv/e__vblex"/>    </e>
-    <e lm="sensitize"><i>sensitiz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="sensitize"><i>sensiti</i><par n="organi/ze__vblex"/>    </e>
     <e lm="sentence"><i>sentenc</i><par n="liv/e__vblex"/>    </e>
     <e lm="separate"><i>separat</i><par n="liv/e__vblex"/>    </e>
     <e lm="serve"><i>serv</i><par n="liv/e__vblex"/>    </e>
@@ -25210,7 +25208,7 @@
     <e lm="submerge"><i>submerg</i><par n="liv/e__vblex"/>    </e>
     <e lm="submit"><i>submit</i><par n="admit__vblex"/>    </e>
     <e lm="subordinate"><i>subordinat</i><par n="liv/e__vblex"/>    </e>
-    <e lm="subsidize"><i>subsidiz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="subsidize"><i>subsidi</i><par n="organi/ze__vblex"/>    </e>
     <e lm="substitute"><i>substitut</i><par n="liv/e__vblex"/>    </e>
     <e lm="subtract"><i>subtract</i><par n="accept__vblex"/>    </e>
     <e lm="suck"><i>suck</i><par n="accept__vblex"/>    </e>
@@ -25243,8 +25241,8 @@
     <e lm="sweep"><i>swe</i><par n="ke/ep__vblex"/>    </e>
     <e lm="sweat"><i>sweat</i><par n="accept__vblex"/>    </e>
     <e lm="switch"><i>switch</i><par n="approach__vblex"/>    </e>
-    <e lm="symbolize"><i>symboliz</i><par n="liv/e__vblex"/>    </e>
-    <e lm="synchronize"><i>synchroniz</i><par n="liv/e__vblex"/>    </e>
+    <e lm="symbolize"><i>symboli</i><par n="organi/ze__vblex"/>    </e>
+    <e lm="synchronize"><i>synchroni</i><par n="organi/ze__vblex"/>    </e>
     <e lm="tell"><i>t</i><par n="s/ell__vblex"/>    </e>
     <e lm="tear"><i>t</i><par n="sw/ear__vblex"/>    </e>
     <e lm="take off"><i>t</i><par n="t/ake__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>off</l><r><g><b/>off</g></r></p></e>
@@ -27170,7 +27168,7 @@
     <e lm="analgesia"><i>analgesia</i><par n="house__n"/>     </e>
     <e lm="analyse"><i>analys</i><par n="liv/e__vblex"/>     </e>
     <e lm="analyser"><i>analyser</i><par n="house__n"/>     </e>
-    <e lm="analyze" a="doriua"><i>analyz</i><par n="liv/e__vblex"/>     </e>
+    <e lm="analyze" a="doriua"><i>analy</i><par n="organi/ze__vblex"/>     </e>
     <e lm="anaphylaxis"><i>anaphylax</i><par n="analys/is__n"/>     </e>
     <e lm="anatomical"><i>anatomical</i><par n="expensive__adj"/>     </e>
     <e lm="anatoxin"><i>anatoxin</i><par n="house__n"/>     </e>
@@ -29494,7 +29492,7 @@
     <e lm="melanoma"><i>melanoma</i><par n="house__n"/>     </e>
     <e lm="melisma"><i>melisma</i><par n="schema__n"/>     </e>
     <e lm="melodrama"><i>melodrama</i><par n="house__n"/>     </e>
-    <e lm="memorize"><i>memoriz</i><par n="liv/e__vblex"/>     </e>
+    <e lm="memorize"><i>memori</i><par n="organi/ze__vblex"/>     </e>
     <e lm="memorization"><i>memorization</i><par n="house__n"/>     </e>
     <e lm="mendelevium"><i>mendelevium</i><par n="house__n"/>     </e>
     <e lm="menhir"><i>menhir</i><par n="house__n"/>     </e>
@@ -29838,7 +29836,7 @@
     <e lm="ophthalmology"><i>ophthalmolog</i><par n="bab/y__n"/>     </e>
     <e lm="ophthalmoscope"><i>ophthalmoscope</i><par n="house__n"/>     </e>
     <e lm="opposable"><i>opposable</i><par n="expensive__adj"/>     </e>
-    <e lm="optimize"><i>optimiz</i><par n="liv/e__vblex"/>     </e>
+    <e lm="optimize"><i>optimi</i><par n="organi/ze__vblex"/>     </e>
     <e lm="optocoupler"><i>optocoupler</i><par n="house__n"/>     </e>
     <e lm="optoelectronical"><i>optoelectronical</i><par n="expensive__adj"/>     </e>
     <e lm="optometry"><i>optometr</i><par n="bab/y__n"/>     </e>
