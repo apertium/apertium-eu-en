@@ -24525,6 +24525,7 @@
     <e lm="flee"><i>fle</i><par n="fle/e__vblex"/>    </e>
     <e lm="flood"><i>flood</i><par n="accept__vblex"/>    </e>
     <e lm="flow"><i>flow</i><par n="accept__vblex"/>    </e>
+    <e lm="overflow"><i>overflow</i><par n="accept__vblex"/>    </e>
     <e lm="flower"><i>flower</i><par n="accept__vblex"/>    </e>
     <e lm="lower"><i>lower</i><par n="accept__vblex"/>    </e>
     <e lm="fluctuate"><i>fluctuat</i><par n="liv/e__vblex"/>    </e>
@@ -25397,6 +25398,46 @@
 
     <e lm="tease"><i>teas</i><par n="liv/e__vblex"/></e>
     <e lm="stare"><i>star</i><par n="liv/e__vblex"/></e>
+    <e lm="jab"><i>jab</i><par n="dub__vblex"/></e>
+    <e lm="stab"><i>stab</i><par n="dub__vblex"/></e>
+    <e lm="sob"><i>sob</i><par n="dub__vblex"/></e>
+    <e lm="hog"><i>hog</i><par n="plug__vblex"/></e>
+    <e lm="caution"><i>caution</i><par n="accept__vblex"/></e>
+    <e lm="repay"><i>repay</i><par n="enjoy__vblex"/></e>
+    <e lm="ordain"><i>ordain</i><par n="accept__vblex"/></e>
+    <e lm="puff"><i>puff</i><par n="accept__vblex"/></e>
+    <e lm="endeavour"><i>endeavour</i><par n="accept__vblex"/></e>
+    <e lm="jockey"><i>jockey</i><par n="enjoy__vblex"/></e>
+    <e lm="fray"><i>fray</i><par n="enjoy__vblex"/></e>
+    <e lm="cosset"><i>cosset</i><par n="cut__vblex"/></e>
+    <e lm="fret"><i>fret</i><par n="cut__vblex"/></e>
+    <e lm="pat"><i>pat</i><par n="cut__vblex"/></e>
+    <e lm="numb"><i>numb</i><par n="accept__vblex"/></e>
+    <e lm="emit"><i>emit</i><par n="cut__vblex"/></e>
+    <e lm="vet"><i>vet</i><par n="cut__vblex"/></e>
+    <e lm="prowl"><i>prowl</i><par n="accept__vblex"/></e>
+    <e lm="plod"><i>plod</i><par n="outbid__vblex"/></e>
+    <e lm="sweeten"><i>sweeten</i><par n="accept__vblex"/></e>
+    <e lm="snip"><i>snip</i><par n="step__vblex"/></e>
+    <e lm="lessen"><i>lessen</i><par n="accept__vblex"/></e>
+    <e lm="brood"><i>brood</i><par n="accept__vblex"/></e>
+    <e lm="overload"><i>overload</i><par n="accept__vblex"/></e>
+    <e lm="overheat"><i>overheat</i><par n="accept__vblex"/></e>
+    <e lm="overlap"><i>overlap</i><par n="step__vblex"/></e>
+    <e lm="dwarf"><i>dwarf</i><par n="accept__vblex"/></e>
+    <e lm="clutter"><i>clutter</i><par n="accept__vblex"/></e>
+    <e lm="jeer"><i>jeer</i><par n="accept__vblex"/></e>
+    <e lm="seep"><i>seep</i><par n="accept__vblex"/></e>
+    <e lm="deem"><i>deem</i><par n="accept__vblex"/></e>
+    <e lm="chatter"><i>chatter</i><par n="accept__vblex"/></e>
+    <e lm="stagger"><i>stagger</i><par n="accept__vblex"/></e>
+    <e lm="borrow"><i>borrow</i><par n="accept__vblex"/></e>
+    <e lm="ponder"><i>ponder</i><par n="accept__vblex"/></e>
+    <e lm="snap"><i>snap</i><par n="step__vblex"/></e>
+    <e lm="soar"><i>soar</i><par n="accept__vblex"/></e>
+    <e lm="flutter"><i>flutter</i><par n="accept__vblex"/></e>
+    <e lm="brim"><i>brim</i><par n="program__vblex"/></e>
+
     <e lm="nod"><i>nod</i><par n="outbid__vblex"/></e>
     <e lm="trespass"><i>trespass</i><par n="approach__vblex"/></e>
     <e lm="lurch"><i>lurch</i><par n="approach__vblex"/></e>
