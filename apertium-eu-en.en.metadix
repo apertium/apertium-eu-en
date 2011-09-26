@@ -7948,6 +7948,118 @@
         </p>
       </e>
     </pardef>
+    <pardef n="tatto\/o__vblex">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="vblex"/><sa/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="vblex"/><sa/><s n="pres"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r><s n="vblex"/><sa/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ed</l>
+          <r><s n="vblex"/><sa/><s n="past"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oed</l>
+          <r><s n="vblex"/><sa/><s n="past"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ed</l>
+          <r><s n="vblex"/><sa/><s n="pp"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oed</l>
+          <r><s n="vblex"/><sa/><s n="pp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oing</l>
+          <r><s n="vblex"/><sa/><s n="ger"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oing</l>
+          <r><s n="vblex"/><sa/><s n="pprs"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oing</l>
+          <r><s n="vblex"/><sa/><s n="subs"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="whiz__vblex">
+      <e>
+        <p>
+          <l/>
+          <r><s n="vblex"/><sa/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r><s n="vblex"/><sa/><s n="pres"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zes</l>
+          <r><s n="vblex"/><sa/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zed</l>
+          <r><s n="vblex"/><sa/><s n="past"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zed</l>
+          <r><s n="vblex"/><sa/><s n="pp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zing</l>
+          <r><s n="vblex"/><sa/><s n="ger"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zing</l>
+          <r><s n="vblex"/><sa/><s n="pprs"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zing</l>
+          <r><s n="vblex"/><sa/><s n="subs"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="st/ick__vblex">
       <e>
         <p>
@@ -24022,6 +24134,7 @@
     <e lm="belong"><i>belong</i><par n="accept__vblex"/>    </e>
     <e lm="belong"><i>belong</i><par n="accept__vblex"/>    </e>
     <e lm="bend"><i>ben</i><par n="ben/d__vblex"/>    </e>
+    <e lm="unbend"><i>unben</i><par n="ben/d__vblex"/>    </e>
     <e lm="benefit"><i>benefit</i><par n="accept__vblex"/>    </e>
     <e lm="bequeath"><i>bequeath</i><par n="accept__vblex"/>    </e>
     <e lm="besiege"><i>besieg</i><par n="liv/e__vblex"/>    </e>
@@ -25437,7 +25550,80 @@
     <e lm="soar"><i>soar</i><par n="accept__vblex"/></e>
     <e lm="flutter"><i>flutter</i><par n="accept__vblex"/></e>
     <e lm="brim"><i>brim</i><par n="program__vblex"/></e>
-
+    <e lm="purify"><i>purif</i><par n="appl/y__vblex"/></e>
+    <e lm="fidget"><i>fidget</i><par n="accept__vblex"/></e>
+    <e lm="pacify"><i>pacif</i><par n="appl/y__vblex"/></e>
+    <e lm="annul"><i>annul</i><par n="control__vblex"/></e>
+    <e lm="nullify"><i>nullif</i><par n="appl/y__vblex"/></e>
+    <e lm="concur"><i>concur</i><par n="occur__vblex"/></e>
+    <e lm="endear"><i>endear</i><par n="accept__vblex"/></e>
+    <e lm="vitrify"><i>vitrif</i><par n="appl/y__vblex"/></e>
+    <e lm="prop"><i>prop</i><par n="step__vblex"/></e>
+    <e lm="jabber"><i>jabber</i><par n="accept__vblex"/></e>
+    <e lm="recur"><i>recur</i><par n="occur__vblex"/></e>
+    <e lm="nap"><i>nap</i><par n="step__vblex"/></e>
+    <e lm="signify"><i>signif</i><par n="appl/y__vblex"/></e>
+    <e lm="petition"><i>petition</i><par n="accept__vblex"/></e>
+    <e lm="proffer"><i>proffer</i><par n="accept__vblex"/></e>
+    <e lm="stint"><i>stint</i><par n="accept__vblex"/></e>
+    <e lm="thank"><i>thank</i><par n="accept__vblex"/></e>
+    <e lm="clutch"><i>clutch</i><par n="approach__vblex"/></e>
+    <e lm="tag"><i>tag</i><par n="plug__vblex"/></e>
+    <e lm="default"><i>default</i><par n="accept__vblex"/></e>
+    <e lm="repeal"><i>repeal</i><par n="accept__vblex"/></e>
+    <e lm="wed"><i>wed</i><par n="outbid__vblex"/></e>
+    <e lm="wax"><i>wax</i><par n="approach__vblex"/></e>
+    <e lm="peep"><i>peep</i><par n="accept__vblex"/></e>
+    <e lm="eavesdrop"><i>eavesdrop</i><par n="step__vblex"/></e>
+    <e lm="splinter"><i>splinter</i><par n="accept__vblex"/></e>
+    <e lm="fax"><i>fax</i><par n="approach__vblex"/></e>
+    <e lm="gel"><i>gel</i><par n="control__vblex"/></e>
+    <e lm="abhor"><i>abhor</i><par n="occur__vblex"/></e>
+    <e lm="stratify"><i>stratif</i><par n="appl/y__vblex"/></e>
+    <e lm="magnify"><i>magnif</i><par n="appl/y__vblex"/></e>
+    <e lm="propel"><i>propel</i><par n="control__vblex"/></e>
+    <e lm="slay"><i>slay</i><par n="enjoy__vblex"/></e>
+    <e lm="mar"><i>mar</i><par n="occur__vblex"/></e>
+    <e lm="pry"><i>pr</i><par n="appl/y__vblex"/></e>
+    <e lm="levy"><i>lev</i><par n="appl/y__vblex"/></e>
+    <e lm="incur"><i>incur</i><par n="occur__vblex"/></e>
+    <e lm="grin"><i>grin</i><par n="plan__vblex"/></e>
+    <e lm="con"><i>con</i><par n="plan__vblex"/></e>
+    <e lm="terrify"><i>terrif</i><par n="appl/y__vblex"/></e>
+    <e lm="tally"><i>tall</i><par n="appl/y__vblex"/></e>
+    <e lm="libel"><i>libel</i><par n="control__vblex"/></e>
+    <e lm="comply"><i>compl</i><par n="appl/y__vblex"/></e>
+    <e lm="scurry"><i>scurr</i><par n="appl/y__vblex"/></e>
+    <e lm="extol"><i>extol</i><par n="control__vblex"/></e>
+    <e lm="blur"><i>blur</i><par n="occur__vblex"/></e>
+    <e lm="mutiny"><i>mutin</i><par n="appl/y__vblex"/></e>
+    <e lm="excel"><i>excel</i><par n="control__vblex"/></e>
+    <e lm="slur"><i>slur</i><par n="occur__vblex"/></e>
+    <e lm="infer"><i>infer</i><par n="occur__vblex"/></e>
+    <e lm="tidy"><i>tid</i><par n="appl/y__vblex"/></e>
+    <e lm="shovel"><i>shovel</i><par n="control__vblex"/></e>
+    <e lm="personify"><i>personif</i><par n="appl/y__vblex"/></e>
+    <e lm="lobby"><i>lobb</i><par n="appl/y__vblex"/></e>
+    <e lm="prophesy"><i>prophes</i><par n="appl/y__vblex"/></e>
+    <e lm="parry"><i>parr</i><par n="appl/y__vblex"/></e>
+    <e lm="embitter"><i>embitter</i><par n="accept__vblex"/></e>
+    <e lm="sanctify"><i>sanctif</i><par n="appl/y__vblex"/></e>
+    <e lm="solidify"><i>solidif</i><par n="appl/y__vblex"/></e>
+    <e lm="haul"><i>haul</i><par n="accept__vblex"/></e>
+    <e lm="wean"><i>wean</i><par n="accept__vblex"/></e>
+    <e lm="relay"><i>relay</i><par n="enjoy__vblex"/></e>
+    <e lm="stupefy"><i>stupef</i><par n="appl/y__vblex"/></e>
+    <e lm="reel"><i>reel</i><par n="accept__vblex"/></e>
+    <e lm="stun"><i>stun</i><par n="plan__vblex"/></e>
+    <e lm="hiccup"><i>hiccup</i><par n="step__vblex"/></e>
+    <e lm="veto"><i>veto</i><par n="approach__vblex"/></e>
+    <e lm="woo"><i>woo</i><par n="accept__vblex"/></e>
+    <e lm="boo"><i>boo</i><par n="accept__vblex"/></e>
+    <e lm="moo"><i>moo</i><par n="accept__vblex"/></e>
+    <e lm="tattoo"><i>tatto</i><par n="tatto/o__vblex/></e>
+    <e lm="coo"><i>coo</i><par n="accept__vblex"/></e>
+    <e lm="shampoo"><i>shampoo</i><par n="accept__vblex"/></e>
+    <e lm="whiz"><i>whiz</i><par n="whiz__vblex"/></e>
     <e lm="nod"><i>nod</i><par n="outbid__vblex"/></e>
     <e lm="trespass"><i>trespass</i><par n="approach__vblex"/></e>
     <e lm="lurch"><i>lurch</i><par n="approach__vblex"/></e>
@@ -25486,7 +25672,6 @@
     <e lm="defrost"><i>defrost</i><par n="accept__vblex"/></e>
     <e lm="disqualify"><i>disqualify</i><par n=/></e>
     <e lm="skim"><i>skim</i><par n="program__vblex"/></e>
-    <e lm="unbend"><i>unbend</i><par n="accept__vblex"/></e>
     <e lm="decipher"><i>decipher</i><par n="accept__vblex"/></e>
     <e lm="digest"><i>digest</i><par n="accept__vblex"/></e>
     <e lm="glisten"><i>glisten</i><par n="accept__vblex"/></e>
