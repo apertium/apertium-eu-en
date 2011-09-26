@@ -11599,7 +11599,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="pri"/>
+              <lit-tag v="pres"/>
             </let>
           </when>
         </choose>
@@ -11627,7 +11627,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </test>
             <let>
               <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="cni"/>
+              <lit-tag v="past"/>
             </let>
           </when>
         </choose>
@@ -11643,9 +11643,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_verb"/>
+              <!--<clip pos="1" side="tl" part="a_verb"/>-->
+              <lit-tag v="vaux"/>
               <clip pos="1" side="tl" part="temps"/>
-              <clip pos="1" side="tl" part="persnbr"/>
+              <!--<clip pos="1" side="tl" part="persnbr"/>-->
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -12643,6 +12644,49 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
               <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="EZ + ADITZ IZENA + KO (ez joateko - not to go) ">
+      <pattern>
+        <pattern-item n="ez"/>
+        <pattern-item n="vbizen"/>
+        <pattern-item n="ko"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <let>
+          <clip pos="2" side="tl" part="temps"/>
+          <lit-tag v="inf"/>
+        </let>
+        <out>
+          <chunk name="ez_tzeko" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SVsub"/></tag>
+              <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="2" side="tl" part="temps"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><lit-tag v="ND"/></tag>
+            </tags>
+            <lu>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="to"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -15124,7 +15168,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </let>
         <let>
           <clip pos="2" side="tl" part="a_verb"/>
-          <lit-tag v="vaux"/>
+          <lit-tag v="vbmod"/>
         </let>
         <choose>
           <when>

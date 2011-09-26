@@ -8980,7 +8980,7 @@
     <e a="matxin"><p><l>postaz_bidali<s n="vblex"/></l><r>mail<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>postontzira_bota<s n="vblex"/></l><r>post<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>postulatu<s n="vblex"/></l><r>postulate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>poteratu<s n="vblex"/></l><r>can<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>poteratu<s n="vblex"/></l><r>can<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>poteratu<s n="vblex"/></l><r>tin<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>pozoitu<s n="vblex"/></l><r>poison<s n="vblex"/></r></p></e>
     <e r="RL" c="reflexivo, alegrarse"><p><l>poztu<s n="vblex"/></l><r>cheer<s n="vblex"/></r></p></e>
@@ -10817,14 +10817,14 @@
     <e><p><l>audientzia<s n="n"/></l><r>audience<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>audientzia<s n="n"/></l><r>high<b/>court<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>auhen<s n="n"/></l><r>wail<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aukera<s n="n"/></l><r>choice<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aukera<s n="n"/></l><r>election<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aukera<s n="n"/></l><r>occasion<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>aukera<s n="n"/></l><r>choice<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>aukera<s n="n"/></l><r>election<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>aukera<s n="n"/></l><r>occasion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aukera<s n="n"/></l><r>option<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aukera<s n="n"/></l><r>opportunity<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>aukera<s n="n"/></l><r>opportunity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aukeraketa<s n="n"/></l><r>selection<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aulki<s n="n"/></l><r>chair<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aulki<s n="n"/></l><r>seat<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>aulki<s n="n"/></l><r>seat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aurkari<s n="n"/></l><r>opponent<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aurkaritza<s n="n"/></l><r>opposition<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aurkezpen<s n="n"/></l><r>presentation<s n="n"/><s n="ND"/></r></p></e>

@@ -80,6 +80,7 @@
     </def-cat> 
  <def-cat n="tzeko">
       <cat-item lemma="tzeko" tags="SVsub.*"/>
+      <cat-item lemma="ez_tzeko" tags="SVsub.*"/>
     </def-cat>  
 
  <def-cat n="SVsub">
