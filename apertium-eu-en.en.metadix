@@ -7948,7 +7948,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="tatto\/o__vblex">
+    <pardef n="tatto/o__vblex">
       <e>
         <p>
           <l>o</l>
@@ -25620,7 +25620,7 @@
     <e lm="woo"><i>woo</i><par n="accept__vblex"/></e>
     <e lm="boo"><i>boo</i><par n="accept__vblex"/></e>
     <e lm="moo"><i>moo</i><par n="accept__vblex"/></e>
-    <e lm="tattoo"><i>tatto</i><par n="tatto/o__vblex/></e>
+    <e lm="tattoo"><i>tatto</i><par n="tatto/o__vblex"/></e>
     <e lm="coo"><i>coo</i><par n="accept__vblex"/></e>
     <e lm="shampoo"><i>shampoo</i><par n="accept__vblex"/></e>
     <e lm="whiz"><i>whiz</i><par n="whiz__vblex"/></e>
@@ -25642,7 +25642,7 @@
     <e lm="redeem"><i>redeem</i><par n="accept__vblex"/></e>
     <e lm="overhaul"><i>overhaul</i><par n="accept__vblex"/></e>
     <e lm="revamp"><i>revamp</i><par n="accept__vblex"/></e>
-    <e lm="rediscover"><i>rediscover</i><par n=/></e>
+    <e lm="rediscover"><i>rediscover</i><par n="accept__vblex"/></e>
     <e lm="replenish"><i>replenish</i><par n="approach__vblex"/></e>
     <e lm="hug"><i>hug</i><par n="plug__vblex"/></e>
     <e lm="throb"><i>throb</i><par n="dub__vblex"/></e>
@@ -25670,7 +25670,7 @@
     <e lm="potter"><i>potter</i><par n="accept__vblex"/></e>
     <e lm="deflect"><i>deflect</i><par n="accept__vblex"/></e>
     <e lm="defrost"><i>defrost</i><par n="accept__vblex"/></e>
-    <e lm="disqualify"><i>disqualify</i><par n=/></e>
+    <e lm="disqualify"><i>disqualif</i><par n="appl/y__vblex"/></e>
     <e lm="skim"><i>skim</i><par n="program__vblex"/></e>
     <e lm="decipher"><i>decipher</i><par n="accept__vblex"/></e>
     <e lm="digest"><i>digest</i><par n="accept__vblex"/></e>
@@ -25685,7 +25685,7 @@
     <e lm="festoon"><i>festoon</i><par n="accept__vblex"/></e>
     <e lm="eject"><i>eject</i><par n="accept__vblex"/></e>
     <e lm="bask"><i>bask</i><par n="accept__vblex"/></e>
-    <e lm="electrify"><i>electrify</i><par n=/></e>
+    <e lm="electrify"><i>electrif</i><par n="appl/y__vblex"/></e>
     <e lm="fool"><i>fool</i><par n="accept__vblex"/></e>
     <e lm="mesh"><i>mesh</i><par n="approach__vblex"/></e>
     <e lm="demolish"><i>demolish</i><par n="approach__vblex"/></e>
