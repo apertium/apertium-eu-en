@@ -5253,8 +5253,7 @@
     <e a="matxin"><p><l>amorrarazi<s n="vblex"/></l><r>nettle<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>amorratu<s n="vblex"/></l><r>fume<s n="vblex"/></r></p></e>
     <e><p><l>analizatu<s n="vblex"/></l><r>analyse<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>analizatu<s n="vblex"/></l><r>analyze<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>analizatu<s n="vblex"/></l><r>analyse<s n="vblex"/></r></p></e>
+    <e><p><l>analizatu<s n="vblex"/></l><r>analyse<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>anestesiatu<s n="vblex"/></l><r>anaesthetise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>anexionatu<s n="vblex"/></l><r>annex<s n="vblex"/></r></p></e>
     <e><p><l>animatu<s n="vblex"/></l><r>encourage<s n="vblex"/></r></p></e>
@@ -8743,7 +8742,6 @@
     <e a="matxin"><p><l>neurtu<s n="vblex"/></l><r>assess<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>neurtu<s n="vblex"/></l><r>measure<s n="vblex"/></r></p></e>
     <e><p><l>neutralizatu<s n="vblex"/></l><r>neutralize<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>neutralizatu<s n="vblex"/></l><r>neutralize<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>nolabaiteko_konponketak_egin<s n="vblex"/></l><r>tinker<s n="vblex"/></r></p></e>
     <e><p><l>nor<b/>berean<b/>egon<s n="vblex"/></l><r>persist<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>nor_den_jakin<s n="vblex"/></l><r>identify<s n="vblex"/></r></p></e>
@@ -8756,7 +8754,7 @@
     <e a="matxin"><p><l>norbaiti_begiak_estali<s n="vblex"/></l><r>blindfold<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>norbaiti_botoa_eskatu<s n="vblex"/></l><r>canvass<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>norbaiti_faktura_bidali<s n="vblex"/></l><r>bill<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>normaldu<s n="vblex"/></l><r>normalize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>normaldu<s n="vblex"/></l><r>normalise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>nortasun-agiria_eskatu<s n="vblex"/></l><r>card<s n="vblex"/></r></p></e>
     <e><p><l>oharrak<b/>hartu<s n="vblex"/></l><r>note<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>oharrak_hartu<s n="vblex"/></l><r>note<s n="vblex"/></r></p></e>
@@ -8766,7 +8764,7 @@
     <e a="matxin"><p><l>ohartarazi<s n="vblex"/></l><r>warn<s n="vblex"/></r></p></e>
     <e><p><l>ohartu<s n="vblex"/></l><r>warn<s n="vblex"/></r></p></e>
     <e><p><l>ohitu<s n="vblex"/></l><r>accustom<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ohitu<s n="vblex"/></l><r>familiarize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>ohitu<s n="vblex"/></l><r>familiarise<s n="vblex"/></r></p></e>
     <e><p><l>ohoratu<s n="vblex"/></l><r>honour<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>oihu<b/>egin<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>
     <e><p><l>oihu<b/>egin<s n="vblex"/></l><r>shout<s n="vblex"/></r></p></e>
@@ -8816,7 +8814,7 @@
     <e a="matxin"><p><l>ondu<s n="vblex"/></l><r>season<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ondu<s n="vblex"/></l><r>spice<s n="vblex"/></r></p></e>
     <e><p><l>onetsi<s n="vblex"/></l><r>access<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ongarritu<s n="vblex"/></l><r>fertilize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>ongarritu<s n="vblex"/></l><r>fertilise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ongietorria_egin<s n="vblex"/></l><r>welcome<s n="vblex"/></r></p></e>
     <e><p><l>oniritzi<s n="vblex"/></l><r>accept<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ontziratu<s n="vblex"/></l><r>embark<s n="vblex"/></r></p></e>
@@ -8856,7 +8854,7 @@
     <e><p><l>oroitu<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>oroitu<s n="vblex"/></l><r>recall<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>oroitu<s n="vblex"/></l><r>recall<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>orokortu<s n="vblex"/></l><r>generalize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>orokortu<s n="vblex"/></l><r>generalise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>orratzez_lotu<s n="vblex"/></l><r>pin<s n="vblex"/></r></p></e>
     <e><p><l>orraztu<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>orraztu<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
@@ -8875,7 +8873,7 @@
     <e a="matxin"><p><l>osatu<s n="vblex"/></l><r>supplement<s n="vblex"/></r></p></e>
     <e><p><l>ospatu<s n="vblex"/></l><r>celebrate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ospatu<s n="vblex"/></l><r>celebrate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ospitaleratu<s n="vblex"/></l><r>hospitalize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>ospitaleratu<s n="vblex"/></l><r>hospitalise<s n="vblex"/></r></p></e>
     <e><p><l>ostatatu<s n="vblex"/></l><r>lodge<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ostatatu<s n="vblex"/></l><r>billet<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ostatatu<s n="vblex"/></l><r>lodge<s n="vblex"/></r></p></e>
@@ -8886,7 +8884,7 @@
     <e a="matxin"><p><l>ostikoz_jo<s n="vblex"/></l><r>kick<s n="vblex"/></r></p></e>
     <e><p><l>ostu<s n="vblex"/></l><r>steal<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>otoitz_egin<s n="vblex"/></l><r>pray<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>oxidatu<s n="vblex"/></l><r>oxidize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>oxidatu<s n="vblex"/></l><r>oxidise<s n="vblex"/></r></p></e>
     <e><p><l>oztopatu<s n="vblex"/></l><r>hinder<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>oztopatu<s n="vblex"/></l><r>hamper<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>oztopatu<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e>
@@ -8898,8 +8896,7 @@
     <e a="matxin"><p><l>papereztatu<s n="vblex"/></l><r>paper<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>papereztatu<s n="vblex"/></l><r>wallpaper<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>parafraseatu<s n="vblex"/></l><r>paraphrase<s n="vblex"/></r></p></e>
-    <e><p><l>paralizatu<s n="vblex"/></l><r>paralyze<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>paralizatu<s n="vblex"/></l><r>paralyse<s n="vblex"/></r></p></e>
+    <e><p><l>paralizatu<s n="vblex"/></l><r>paralyse<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>paratu<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
     <e><p><l>paratu<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>paratu<s n="vblex"/></l><r>set<s n="vblex"/></r></p></e>
@@ -8952,7 +8949,7 @@
     <e><p><l>piztu<s n="vblex"/></l><r>light<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>piztu<s n="vblex"/></l><r>kindle<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>piztu<s n="vblex"/></l><r>light<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>plagiatu<s n="vblex"/></l><r>plagiarize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>plagiatu<s n="vblex"/></l><r>plagiarise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>plantak_egin<s n="vblex"/></l><r>masquerade<s n="vblex"/></r></p></e>
     <e><p><l>planteatu<s n="vblex"/></l><r>pose<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>planteatu<s n="vblex"/></l><r>state<s n="vblex"/></r></p></e>
@@ -8962,7 +8959,7 @@
     <e><p><l>plegatu<s n="vblex"/></l><r>fold<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>plisti-plasta_ibili<s n="vblex"/></l><r>squelch<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>polinizatu<s n="vblex"/></l><r>pollinate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>politizatu<s n="vblex"/></l><r>politicize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>politizatu<s n="vblex"/></l><r>politicise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ponpatu<s n="vblex"/></l><r>pump<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>populatu<s n="vblex"/></l><r>populate<s n="vblex"/></r></p></e>
     <e><p><l>portatu<s n="vblex"/></l><r>carry<s n="vblex"/></r></p></e>
@@ -9128,7 +9125,7 @@
     <e a="matxin"><p><l>sastatu<s n="vblex"/></l><r>knife<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sastatu<s n="vblex"/></l><r>slash<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sastatu<s n="vblex"/></l><r>stab<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>satirizatu<s n="vblex"/></l><r>satirize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>satirizatu<s n="vblex"/></l><r>satirise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>segada_ipini<s n="vblex"/></l><r>ambush<s n="vblex"/></r></p></e>
     <e><p><l>segitu<s n="vblex"/></l><r>follow<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>segitu<s n="vblex"/></l><r>track<s n="vblex"/></r></p></e>
@@ -9139,7 +9136,7 @@
     <e><p><l>sendatu<s n="vblex"/></l><r>cure<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sendatu<s n="vblex"/></l><r>cure<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sendatu<s n="vblex"/></l><r>salve<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>sentikortu<s n="vblex"/></l><r>sensitize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>sentikortu<s n="vblex"/></l><r>sensitise<s n="vblex"/></r></p></e>
     <e><p><l>sentitu<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>sentitu<s n="vblex"/></l><r>be<g><b/>sorry</g><s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sentitu<s n="vblex"/></l><r>experience<s n="vblex"/></r></p></e>
@@ -9152,13 +9149,12 @@
     <e><p><l>sinatu<s n="vblex"/></l><r>sign<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sinatu<s n="vblex"/></l><r>autograph<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sinatu<s n="vblex"/></l><r>sign<s n="vblex"/></r></p></e>
-    <e><p><l>sinbolizatu<s n="vblex"/></l><r>symbolize<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>sinbolizatu<s n="vblex"/></l><r>symbolize<s n="vblex"/></r></p></e>
+    <e><p><l>sinbolizatu<s n="vblex"/></l><r>symbolise<s n="vblex"/></r></p></e>
     <e><p><l>sinetsi<s n="vblex"/></l><r>believe<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sinetsi<s n="vblex"/></l><r>believe<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>sinkronizatu<s n="vblex"/></l><r>synchronize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>sinkronizatu<s n="vblex"/></l><r>synchronise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sinplifikatu<s n="vblex"/></l><r>simplify<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>sintetizatu<s n="vblex"/></l><r>synthesize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>sintetizatu<s n="vblex"/></l><r>synthesise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>sokaz_lotu<s n="vblex"/></l><r>rope<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>soldatu<s n="vblex"/></l><r>solder<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>soldatu<s n="vblex"/></l><r>weld<s n="vblex"/></r></p></e>
@@ -9229,7 +9225,7 @@
     <e><p><l>tentatu<s n="vblex"/></l><r>tempt<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>tentatu<s n="vblex"/></l><r>tempt<s n="vblex"/></r></p></e>
     <e><p><l>tentetu<s n="vblex"/></l><r>heave<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>teorizatu<s n="vblex"/></l><r>theorize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>teorizatu<s n="vblex"/></l><r>theorise<s n="vblex"/></r></p></e>
     <e><p><l>tindatu<s n="vblex"/></l><r>dye<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>tindatu<s n="vblex"/></l><r>dye<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>tindatu<s n="vblex"/></l><r>tinge<s n="vblex"/></r></p></e>
@@ -9321,7 +9317,7 @@
     <e a="matxin"><p><l>txertatu<s n="vblex"/></l><r>vaccinate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>txigortu<s n="vblex"/></l><r>toast<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>txikiagotu<s n="vblex"/></l><r>dwarf<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>txikiagotu<s n="vblex"/></l><r>minimize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>txikiagotu<s n="vblex"/></l><r>minimise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>txikiagotu<s n="vblex"/></l><r>shrink<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>txikikeriez_kexatu<s n="vblex"/></l><r>quibble<s n="vblex"/></r></p></e>
     <e><p><l>txikitu<s n="vblex"/></l><r>destroy<s n="vblex"/></r></p></e>
@@ -9366,7 +9362,7 @@
     <e a="matxin"><p><l>uko_egin<s n="vblex"/></l><r>relinquish<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>uko_egin<s n="vblex"/></l><r>renounce<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ukondoz_jo<s n="vblex"/></l><r>elbow<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ulerkor_agertu<s n="vblex"/></l><r>sympathize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>ulerkor_agertu<s n="vblex"/></l><r>sympathise<s n="vblex"/></r></p></e>
     <e><p><l>ulertu<s n="vblex"/></l><r>comprise<s n="vblex"/></r></p></e>
     <e><p><l>ulertu<s n="vblex"/></l><r>understand<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ulertu<s n="vblex"/></l><r>comprehend<s n="vblex"/></r></p></e>
@@ -9547,7 +9543,7 @@
     <e a="matxin"><p><l>zeharkatu<s n="vblex"/></l><r>span<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zeharkatu<s n="vblex"/></l><r>traverse<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zehatz-mehatz_azaldu<s n="vblex"/></l><r>pinpoint<s n="vblex"/></r></p></e>
-    <e><p><l>zehaztu<s n="vblex"/></l><r>concretize<s n="vblex"/></r></p></e>
+    <e><p><l>zehaztu<s n="vblex"/></l><r>concretise<s n="vblex"/></r></p></e>
     <e><p><l>zehaztu<s n="vblex"/></l><r>specify<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zehaztu<s n="vblex"/></l><r>detail<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zehaztu<s n="vblex"/></l><r>determine<s n="vblex"/></r></p></e>
@@ -9561,7 +9557,7 @@
     <e><p><l>zenbatu<s n="vblex"/></l><r>explain<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zenbatu<s n="vblex"/></l><r>count<s n="vblex"/></r></p></e>
     <e><p><l>zendu<s n="vblex"/></l><r>die<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>zentralizatu<s n="vblex"/></l><r>centralize<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>zentralizatu<s n="vblex"/></l><r>centralise<s n="vblex"/></r></p></e>
     <e><p><l>zentsuratu<s n="vblex"/></l><r>censor<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zentsuratu<s n="vblex"/></l><r>censor<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zentsuratu<s n="vblex"/></l><r>censure<s n="vblex"/></r></p></e>
@@ -9579,8 +9575,7 @@
     <e a="matxin"><p><l>zerrendatan_moztu<s n="vblex"/></l><r>shred<s n="vblex"/></r></p></e>
     <e><p><l>zerrendatu<s n="vblex"/></l><r>enumerate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zerrendatu<s n="vblex"/></l><r>list<s n="vblex"/></r></p></e>
-    <e><p><l>zibilizatu<s n="vblex"/></l><r>civilize<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>zibilizatu<s n="vblex"/></l><r>civilize<s n="vblex"/></r></p></e>
+    <e><p><l>zibilizatu<s n="vblex"/></l><r>civilise<s n="vblex"/></r></p></e>
     <e><p><l>zifratu<s n="vblex"/></l><r>encipher<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zigilatu<s n="vblex"/></l><r>seal<s n="vblex"/></r></p></e>
     <e><p><l>zigortu<s n="vblex"/></l><r>punish<s n="vblex"/></r></p></e>
@@ -9589,7 +9584,7 @@
     <e r="RL" a="matxin"><p><l>zigortu<s n="vblex"/></l><r>convict<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zigortu<s n="vblex"/></l><r>ground<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zigortu<s n="vblex"/></l><r>lash<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>zigortu<s n="vblex"/></l><r>penalize<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zigortu<s n="vblex"/></l><r>penalise<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zigortu<s n="vblex"/></l><r>punish<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zigortu<s n="vblex"/></l><r>scourge<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zigortu<s n="vblex"/></l><r>sentence<s n="vblex"/></r></p></e>
