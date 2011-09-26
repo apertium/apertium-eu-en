@@ -217,6 +217,7 @@
       <attr-item tags="SPR"/>        
       <attr-item tags="SPR-SN"/>     
       <attr-item tags="SV"/> 
+      <attr-item tags="SVneg"/> 
     </def-attr> 
 
 
@@ -2060,7 +2061,7 @@
 	      <chunk>
 		<lit v="de"/>
 		<lit-tag v="PREP"/>
-		<lit v="{^de"/>
+		<lit v="{^of"/>
 		<lit-tag v="pr"/>
 		<lit v="$}"/>
 	      </chunk>

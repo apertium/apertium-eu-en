@@ -198,6 +198,11 @@
       <attr-item tags="SPR-SN"/> 
     </def-attr>
 
+ <def-attr n="a_SV">
+      <attr-item tags="SV"/>
+      <attr-item tags="SVneg"/>
+    </def-attr>
+
 <def-attr n="pr">          
       <attr-item tags="pr"/>     
     </def-attr>
@@ -1059,6 +1064,25 @@
                 <lit v="will"/>
                 <lit-tag v="vaux.inf"/>
 	      </lu> 
+	    </out>
+            <choose>
+              <when>
+                <test>
+                  <equal>
+                    <clip pos="0" part="a_SV"/>
+                    <lit-tag v="SVneg"/>
+                  </equal>
+                </test>
+                <out>
+                  <b/>
+	          <lu>
+                    <lit v="not"/>
+                    <lit-tag v="adv"/>
+	          </lu> 
+                </out>
+              </when>
+            </choose>
+	    <out>
               <b/>
 	      <lu>
 		<clip pos="1" part="lemh"/>
