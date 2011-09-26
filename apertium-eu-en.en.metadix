@@ -24083,6 +24083,7 @@
     <e lm="camp"><i>camp</i><par n="accept__vblex"/>    </e>
     <e lm="campaign"><i>campaign</i><par n="accept__vblex"/>    </e>
     <e lm="cancel"><i>cancel</i><par n="control__vblex"/>    </e>
+    <e lm="annul"><i>annul</i><par n="control__vblex"/>    </e>
     <e lm="capitalize"><i>capitali</i><par n="organi/ze__vblex"/>    </e>
     <e lm="capsize"><i>capsiz</i><par n="liv/e__vblex"/>    </e>
     <e lm="captivate"><i>captivat</i><par n="liv/e__vblex"/>    </e>
@@ -24241,6 +24242,7 @@
     <e lm="cut"><i>cut</i><par n="cut__vblex"/>    </e>
     <e lm="do"><i>d</i><par n="d/o__vblex"/>    </e>
     <e lm="die"><i>d</i><par n="d/ie__vblex"/>    </e>
+    <e lm="vie"><i>v</i><par n="d/ie__vblex"/>    </e>
     <e lm="dig"><i>d</i><par n="d/ig__vblex"/>    </e>
     <e lm="damage"><i>damag</i><par n="liv/e__vblex"/>    </e>
     <e lm="dampen"><i>dampen</i><par n="accept__vblex"/>    </e>
@@ -25080,6 +25082,7 @@
     <e lm="rule"><i>rul</i><par n="liv/e__vblex"/>    </e>
     <e lm="rush"><i>rush</i><par n="approach__vblex"/>    </e>
     <e lm="sit"><i>s</i><par n="s/it__vblex"/>    </e>
+    <e lm="spit"><i>sp</i><par n="s/it__vblex"/>    </e>
     <e lm="see"><i>s</i><par n="s/ee__vblex"/>    </e>
     <e lm="sing"><i>s</i><par n="r/ing__vblex"/>    </e>
     <e lm="seek"><i>s</i><par n="s/eek__vblex"/>    </e>
@@ -25389,6 +25392,71 @@
 
     <e lm="tease"><i>teas</i><par n="liv/e__vblex"/></e>
     <e lm="stare"><i>star</i><par n="liv/e__vblex"/></e>
+    <e lm="ambush"><i>ambush</i><par n="approach__vblex"/></e>
+    <e lm="pleat"><i>pleat</i><par n="accept__vblex"/></e>
+    <e lm="bolt"><i>bolt</i><par n="accept__vblex"/></e>
+    <e lm="maltreat"><i>maltreat</i><par n="accept__vblex"/></e>
+    <e lm="gush"><i>gush</i><par n="approach__vblex"/></e>
+    <e lm="swirl"><i>swirl</i><par n="accept__vblex"/></e>
+    <e lm="swig"><i>swig</i><par n="plug__vblex"/></e>
+    <e lm="tout"><i>tout</i><par n="accept__vblex"/></e>
+    <e lm="slaughter"><i>slaughter</i><par n="accept__vblex"/></e>
+    <e lm="autograph"><i>autograph</i><par n="accept__vblex"/></e>
+    <e lm="solder"><i>solder</i><par n="accept__vblex"/></e>
+    <e lm="turf"><i>turf</i><par n="accept__vblex"/></e>
+    <e lm="surf"><i>surf</i><par n="accept__vblex"/></e>
+    <e lm="butt"><i>butt</i><par n="accept__vblex"/></e>
+    <e lm="snag"><i>snag</i><par n="plug__vblex"/></e>
+    <e lm="retail"><i>retail</i><par n="accept__vblex"/></e>
+    <e lm="vacuum"><i>vacuum</i><par n="accept__vblex"/></e>
+    <e lm="stack"><i>stack</i><par n="accept__vblex"/></e>
+    <e lm="squelch"><i>squelch</i><par n="approach__vblex"/></e>
+    <e lm="hoe"><i>hoe</i><par n="agree__vblex"/></e>
+    <e lm="quip"><i>quip</i><par n="step__vblex"/></e>
+    <e lm="chop"><i>chop</i><par n="step__vblex"/></e>
+    <e lm="streak"><i>streak</i><par n="accept__vblex"/></e>
+    <e lm="hop"><i>hop</i><par n="step__vblex"/></e>
+    <e lm="braid"><i>braid</i><par n="accept__vblex"/></e>
+    <e lm="plait"><i>plait</i><par n="accept__vblex"/></e>
+    <e lm="harness"><i>harness</i><par n="approach__vblex"/></e>
+    <e lm="throng"><i>throng</i><par n="accept__vblex"/></e>
+    <e lm="stencil"><i>stencil</i><par n="accept__vblex"/></e>
+    <e lm="hiss"><i>hiss</i><par n="approach__vblex"/></e>
+    <e lm="twitter"><i>twitter</i><par n="accept__vblex"/></e>
+    <e lm="straighten"><i>straighten</i><par n="accept__vblex"/></e>
+    <e lm="astound"><i>astound</i><par n="accept__vblex"/></e>
+    <e lm="abound"><i>abound</i><par n="accept__vblex"/></e>
+    <e lm="relinquish"><i>relinquish</i><par n="approach__vblex"/></e>
+    <e lm="comprehend"><i>comprehend</i><par n="accept__vblex"/></e>
+    <e lm="fathom"><i>fathom</i><par n="accept__vblex"/></e>
+    <e lm="hoot"><i>hoot</i><par n="accept__vblex"/></e>
+    <e lm="swamp"><i>swamp</i><par n="accept__vblex"/></e>
+    <e lm="tramp"><i>tramp</i><par n="accept__vblex"/></e>
+    <e lm="sniff"><i>sniff</i><par n="accept__vblex"/></e>
+    <e lm="mash"><i>mash</i><par n="approach__vblex"/></e>
+    <e lm="squash"><i>squash</i><par n="approach__vblex"/></e>
+    <e lm="quash"><i>quash</i><par n="approach__vblex"/></e>
+    <e lm="thwart"><i>thwart</i><par n="accept__vblex"/></e>
+    <e lm="clang"><i>clang</i><par n="accept__vblex"/></e>
+    <e lm="pinpoint"><i>pinpoint</i><par n="accept__vblex"/></e>
+    <e lm="lurk"><i>lurk</i><par n="accept__vblex"/></e>
+    <e lm="stalk"><i>stalk</i><par n="accept__vblex"/></e>
+    <e lm="stump"><i>stump</i><par n="accept__vblex"/></e>
+    <e lm="pelt"><i>pelt</i><par n="accept__vblex"/></e>
+    <e lm="wither"><i>wither</i><par n="accept__vblex"/></e>
+    <e lm="whimper"><i>whimper</i><par n="accept__vblex"/></e>
+    <e lm="spatter"><i>spatter</i><par n="accept__vblex"/></e>
+    <e lm="splash"><i>splash</i><par n="approach__vblex"/></e>
+    <e lm="sketch"><i>sketch</i><par n="approach__vblex"/></e>
+    <e lm="lisp"><i>lisp</i><par n="accept__vblex"/></e>
+    <e lm="tack"><i>tack</i><par n="accept__vblex"/></e>
+    <e lm="tint"><i>tint</i><par n="accept__vblex"/></e>
+    <e lm="weld"><i>weld</i><par n="accept__vblex"/></e>
+    <e lm="tuck"><i>tuck</i><par n="accept__vblex"/></e>
+    <e lm="slash"><i>slash</i><par n="approach__vblex"/></e>
+    <e lm="flick"><i>flick</i><par n="accept__vblex"/></e>
+    <e lm="circumvent"><i>circumvent</i><par n="accept__vblex"/></e>
+    <e lm="avert"><i>avert</i><par n="accept__vblex"/></e>
     <e lm="compromise"><i>compromi</i><par n="organi/ze__vblex"/></e>
     <e lm="salute"><i>salut</i><par n="liv/e__vblex"/></e>
     <e lm="waddle"><i>waddl</i><par n="liv/e__vblex"/></e>
@@ -25396,7 +25464,7 @@
     <e lm="gag"><i>gag</i><par n="plug__vblex"/></e>
     <e lm="brag"><i>brag</i><par n="plug__vblex"/></e>
     <e lm="ventilate"><i>ventilat</i><par n="liv/e__vblex"/></e>
-    <e lm="hoe"><i>ho</i><par n="liv/e__vblex"/></e>
+    <e lm="swap"><i>swap</i><par n="step__vblex"/></e>
     <e lm="activate"><i>activat</i><par n="liv/e__vblex"/></e>
     <e lm="fume"><i>fum</i><par n="liv/e__vblex"/></e>
     <e lm="amputate"><i>amputat</i><par n="liv/e__vblex"/></e>
