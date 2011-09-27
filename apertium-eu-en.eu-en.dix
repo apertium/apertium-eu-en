@@ -13,8 +13,6 @@
     <sdef n="KONP" /> 
     <sdef n="GABE" /> 
     <sdef n="EMEN" /> 
-    <sdef n="IZGGAL" /> 
-    <sdef n="MOD" /> 
     <sdef n="KONT" /> 
     <sdef n="pos" /> 
     <sdef n="FAK" /> 
@@ -206,13 +204,7 @@
     <sdef n="dem" /> 
     <sdef n="mi" /> 
     <sdef n="enc" /> 
-    <sdef n="EGI" /> 
-    <sdef n="NUMP" /> 
-    <sdef n="LAB" /> 
     <sdef n="post" /> 
-    <sdef n="MDNC" /> 
-    <sdef n="MOD_DENB" /> 
-    <sdef n="NUMS" /> 
     <sdef n="pron" /> 
     <sdef n="bald" /> 
     <sdef n="MEN" /> 
