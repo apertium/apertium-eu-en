@@ -7908,86 +7908,82 @@
     <e a="matxin"><p><l>janaria_prestatu<s n="vblex"/></l><r>cook<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>janariz_eta_edariz_hornitu<s n="vblex"/></l><r>cater<s n="vblex"/></r></p></e>
     <e><p><l>jantzi<s n="vblex"/></l><r>dress<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jantzi<s n="vblex"/></l><r>dress<s n="vblex"/></r></p></e>
     <e><p><l>jariatu<s n="vblex"/></l><r>flow<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jariatu<s n="vblex"/></l><r>secrete<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jariatu<s n="vblex"/></l><r>secrete<s n="vblex"/></r></p></e>
     <e><p><l>jarraiki<s n="vblex"/></l><r>follow<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarraiki<s n="vblex"/></l><r>track<s n="vblex"/></r></p></e>
-    <e><p><l>jarraiki<s n="vbsint"/></l><r>follow<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>jarraiki<s n="vblex"/></l><r>follow<s n="vblex"/></r></p></e>
-    <e><p><l>jarraitu<s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jarraitu<s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarraitu<s n="vblex"/></l><r>go<g><b/>on</g><s n="vblex"/></r></p></e>
     <e r="RL" c="keep + ger (keep doing...) -> transfer?. En direcció ca-en tb s'hauria de detectar la construcció amb gerundi"><p><l>jarraitu<s n="vblex"/></l><r>keep<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarraitu<s n="vblex"/></l><r>keep<g><b/>on</g><s n="vblex"/></r></p></e>
     <e><p><l>jarraitu<s n="vblex"/></l><r>follow<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarraitu<s n="vblex"/></l><r>track<s n="vblex"/></r></p></e>
-    <e><p><l>jarraitu<s n="vblex"/></l><r>chase<s n="vblex"/></r></p></e>
-    <e><p><l>jarraitu<s n="vblex"/></l><r>pursue<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>dog<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>ensue<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>proceed<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>pursue<s n="vblex"/></r></p></e>
-    <e><p><l>jarri<s n="vblex"/></l><r>interpose<s n="vblex"/></r></p></e>
-    <e><p><l>jarri<s n="vblex"/></l><r>apply<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jarraitu<s n="vblex"/></l><r>chase<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jarraitu<s n="vblex"/></l><r>pursue<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>dog<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>ensue<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarraitu<s n="vblex"/></l><r>proceed<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jarri<s n="vblex"/></l><r>interpose<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jarri<s n="vblex"/></l><r>apply<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarri<s n="vblex"/></l><r>enforce<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarri<s n="vblex"/></l><r>dispose<s n="vblex"/></r></p></e>
-    <e><p><l>jarri<s n="vblex"/></l><r>place<s n="vblex"/></r></p></e>
+    <e slr="place"><p><l>jarri<s n="vblex"/></l><r>place<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarri<s n="vblex"/></l><r>position<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarri<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
     <e><p><l>jarri<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarri<s n="vblex"/></l><r>set<s n="vblex"/></r></p></e>
-    <e><p><l>jarri<s n="vblex"/></l><r>seat<s n="vblex"/></r></p></e>
+    <e slr="seat"><p><l>jarri<s n="vblex"/></l><r>seat<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarri<s n="vblex"/></l><r>sit<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarri<s n="vblex"/></l><r>sit<g><b/>down</g><s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>arrange<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>dispose<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>enforce<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>fix<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>lean<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>place<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>position<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>set<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>sit<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>stand<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jarri<s n="vblex"/></l><r>station<s n="vblex"/></r></p></e>
-    <e><p><l>jasan<s n="vblex"/></l><r>suffer<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jasan<s n="vblex"/></l><r>abide<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jasan<s n="vblex"/></l><r>endure<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jasan<s n="vblex"/></l><r>stomach<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>arrange<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>dispose<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>enforce<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>fix<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>lean<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>place<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>position<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>set<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>sit<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>stand<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jarri<s n="vblex"/></l><r>station<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jasan<s n="vblex"/></l><r>suffer<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jasan<s n="vblex"/></l><r>abide<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jasan<s n="vblex"/></l><r>endure<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jasan<s n="vblex"/></l><r>stomach<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>jasan<s n="vblex"/></l><r>tolerate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jasan<s n="vblex"/></l><r>withstand<s n="vblex"/></r></p></e>
-    <e><p><l>jaso<s n="vblex"/></l><r>elevate<s n="vblex"/></r></p></e>
-    <e><p><l>jaso<s n="vblex"/></l><r>collect<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jasan<s n="vblex"/></l><r>withstand<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jaso<s n="vblex"/></l><r>elevate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jaso<s n="vblex"/></l><r>collect<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jaso<s n="vblex"/></l><r>pick<s n="vblex"/></r></p></e>
-    <e><p><l>jaso<s n="vblex"/></l><r>pick<g><b/>up</g><s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaso<s n="vblex"/></l><r>gather<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>jaso<s n="vblex"/></l><r>pick<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaso<s n="vblex"/></l><r>gather<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>jaso<s n="vblex"/></l><r>lift<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaso<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaso<s n="vblex"/></l><r>record<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaso<s n="vblex"/></l><r>shrug<s n="vblex"/></r></p></e>
+    <e a="matxin" slr="receive"><p><l>jaso<s n="vblex"/></l><r>receive<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaso<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaso<s n="vblex"/></l><r>record<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaso<s n="vblex"/></l><r>shrug<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>jaten_ez_eman<s n="vblex"/></l><r>starve<s n="vblex"/></r></p></e>
     <e><p><l>jatorria<b/>edun<s n="vblex"/></l><r>proceed<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jaurti<s n="vblex"/></l><r>cast<s n="vblex"/></r></p></e>
     <e><p><l>jaurti<s n="vblex"/></l><r>launch<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jaurti<s n="vblex"/></l><r>sling<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaurti<s n="vblex"/></l><r>fling<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaurti<s n="vblex"/></l><r>hurl<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaurti<s n="vblex"/></l><r>launch<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaurti<s n="vblex"/></l><r>pitch<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaurti<s n="vblex"/></l><r>sling<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaurti<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jaurti<s n="vblex"/></l><r>toss<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaurti<s n="vblex"/></l><r>fling<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaurti<s n="vblex"/></l><r>hurl<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaurti<s n="vblex"/></l><r>pitch<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaurti<s n="vblex"/></l><r>sling<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaurti<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jaurti<s n="vblex"/></l><r>toss<s n="vblex"/></r></p></e>
     <e><p><l>jauzi<b/>egin<s n="vblex"/></l><r>jump<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>leap<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>spring<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>jerk<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>jump<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>leap<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>pounce<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>spring<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>vault<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>jerk<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>leap<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>pounce<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>spring<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>jauzi<b/>egin<s n="vblex"/></l><r>vault<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>jauzika_ibili<s n="vblex"/></l><r>frolic<s n="vblex"/></r></p></e>
     <e><p><l>jazarri<s n="vblex"/></l><r>attack<s n="vblex"/></r></p></e>
     <e r="RL" c="Mil."><p><l>jazarri<s n="vblex"/></l><r>strike<s n="vblex"/></r></p></e>
@@ -8082,17 +8078,16 @@
     <e a="matxin"><p><l>karraskatu<s n="vblex"/></l><r>creak<s n="vblex"/></r></p></e>
     <e><p><l>kartzelaratu<s n="vblex"/></l><r>imprison<s n="vblex"/></r></p></e>
     <e><p><l>kartzelatu<s n="vblex"/></l><r>imprison<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>kartzelatu<s n="vblex"/></l><r>imprison<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>kartzelatu<s n="vblex"/></l><r>incarcerate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>kasurik_ez<b/>egin<s n="vblex"/></l><r>disregard<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>kartzelatu<s n="vblex"/></l><r>incarcerate<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>kasurik<b/>ez<b/>egin<s n="vblex"/></l><r>disregard<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>katalogatu<s n="vblex"/></l><r>catalogue<s n="vblex"/></r></p></e>
     <e><p><l>katea<b/>kendu<s n="vblex"/></l><r>unchain<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>kateatu<s n="vblex"/></l><r>chain<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>keinu-kodez_transmititu<s n="vblex"/></l><r>semaphore<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>keinu<b/>egin<s n="vblex"/></l><r>gesticulate<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>keinu-kodez<b/>transmititu<s n="vblex"/></l><r>semaphore<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>keinu<b/>egin<s n="vblex"/></l><r>gesticulate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>keinu<b/>egin<s n="vblex"/></l><r>gesture<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>keinu<b/>egin<s n="vblex"/></l><r>grimace<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>keinu<b/>egin<s n="vblex"/></l><r>motion<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>keinu<b/>egin<s n="vblex"/></l><r>grimace<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>keinu<b/>egin<s n="vblex"/></l><r>motion<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>kendu<s n="vblex"/></l><r>pull<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>kendu<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>kendu<s n="vblex"/></l><r>take<g><b/>away</g><s n="vblex"/></r></p></e>
