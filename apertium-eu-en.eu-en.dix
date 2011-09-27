@@ -128,24 +128,14 @@
     <sdef n="suf" /> 
     <sdef n="IZO" /> 
     <sdef n="TO" /> 
-    <sdef n="IZB" /> 
     <sdef n="sup" /> 
-    <sdef n="IZE" /> 
     <sdef n="indizl" /> 
-    <sdef n="DZH" /> 
-    <sdef n="DZG" /> 
     <sdef n="NK_ZK" /> 
-    <sdef n="parol" /> 
     <sdef n="NK_ZU" /> 
-    <sdef n="ZUEK" /> 
     <sdef n="gra" /> 
-    <sdef n="IZGMGB" /> 
     <sdef n="prs" /> 
-    <sdef n="ADIZE" /> 
-    <sdef n="ERKARR" /> 
     <sdef n="al" /> 
     <sdef n="pri" /> 
-    <sdef n="HELB" /> 
     <sdef n="an" /> 
     <sdef n="pro" /> 
     <sdef n="sep" /> 
@@ -156,28 +146,21 @@
     <sdef n="nt" /> 
     <sdef n="spost" /> 
     <sdef n="p3" /> 
-    <sdef n="ADOIN" /> 
     <sdef n="p2" /> 
     <sdef n="np" /> 
     <sdef n="p1" /> 
     <sdef n="potps" /> 
     <sdef n="nn" /> 
-    <sdef n="LOK" /> 
     <sdef n="potpr" /> 
     <sdef n="vblex" /> 
     <sdef n="onpr" /> 
-    <sdef n="MG" /> 
     <sdef n="vpost" /> 
     <sdef n="preadv" /> 
-    <sdef n="DAT" /> 
-    <sdef n="LOT" /> 
     <sdef n="rom" /> 
     <sdef n="art" /> 
     <sdef n="NI_NI" /> 
     <sdef n="vbsint" /> 
-    <sdef n="KAUS" /> 
     <sdef n="vbser" /> 
-    <sdef n="PERIND" /> 
     <sdef n="NI" /> 
     <sdef n="vbdo" /> 
     <sdef n="NK_HU" /> 
@@ -187,16 +170,12 @@
     <sdef n="vbper" /> 
     <sdef n="ND" /> 
     <sdef n="NK_HK" /> 
-    <sdef n="ADOARR" /> 
     <sdef n="det" /> 
     <sdef n="ord" /> 
-    <sdef n="HUR" /> 
     <sdef n="vbhaver" /> 
     <sdef n="NK_GU" /> 
     <sdef n="NO" /> 
     <sdef n="NI_ZU" /> 
-    <sdef n="NOLARR" /> 
-    <sdef n="ALA" /> 
     <sdef n="def" /> 
     <sdef n="adjant" /> 
     <sdef n="NI_ZK" /> 
@@ -207,78 +186,45 @@
     <sdef n="post" /> 
     <sdef n="pron" /> 
     <sdef n="bald" /> 
-    <sdef n="MEN" /> 
-    <sdef n="ALGARR" /> 
     <sdef n="detnt" /> 
     <sdef n="poth" /> 
-    <sdef n="PH" /> 
     <sdef n="per" /> 
     <sdef n="obj" /> 
-    <sdef n="BNK" /> 
     <sdef n="NI_HU" /> 
-    <sdef n="HAUT" /> 
     <sdef n="cnjloc" /> 
-    <sdef n="HI" /> 
     <sdef n="predet" /> 
-    <sdef n="PRT" /> 
     <sdef n="imp" /> 
-    <sdef n="DEK" /> 
-    <sdef n="ALGGAL" /> 
-    <sdef n="AMM" /> 
-    <sdef n="ITJ" /> 
     <sdef n="sent" /> 
-    <sdef n="DET" /> 
-    <sdef n="DES" /> 
     <sdef n="apos" /> 
     <sdef n="ind" /> 
     <sdef n="NI_HK" /> 
     <sdef n="NI_HI" /> 
-    <sdef n="ORO" /> 
-    <sdef n="ORD" /> 
-    <sdef n="PRO" /> 
-    <sdef n="ZU" /> 
-    <sdef n="ONDO" /> 
     <sdef n="sint" /> 
     <sdef n="prs2" /> 
     <sdef n="inf" /> 
     <sdef n="ko" /> 
-    <sdef n="GAN" /> 
     <sdef n="cnjsub" /> 
-    <sdef n="PAR" /> 
     <sdef n="exc" /> 
-    <sdef n="HURA" /> 
     <sdef n="hs" /> 
-    <sdef n="SNB" /> 
-    <sdef n="GRA" /> 
     <sdef n="pprs" /> 
-    <sdef n="ESPL" /> 
     <sdef n="adj" /> 
     <sdef n="subj" /> 
     <sdef n="atn" /> 
     <sdef n="padv" /> 
-    <sdef n="ZHG" /> 
     <sdef n="subs" /> 
     <sdef n="qnt" /> 
     <sdef n="adv" /> 
     <sdef n="izo" /> 
-    <sdef n="BAN" /> 
-    <sdef n="ERG" /> 
     <sdef n="izl" /> 
-    <sdef n="ERL" /> 
     <sdef n="ij" /> 
     <sdef n="NR_NI" /> 
     <sdef n="past" /> 
-    <sdef n="MAR" /> 
-    <sdef n="GEHI" /> 
     <sdef n="cnjadv" /> 
     <sdef n="guio" /> 
     <sdef n="pii" /> 
-    <sdef n="EZBU" /> 
     <sdef n="pis" /> 
     <sdef n="pfut" /> 
-    <sdef n="SOZ" /> 
     <sdef n="acr" /> 
-    <sdef n="DESK" /> 
   </sdefs>
   <section id="main" type="standard">
 
@@ -389,7 +335,7 @@
     <e r="LR"><p><l>ino<s n="rel"/></l><r></r></p></e>
     <e r="LR"><p><l>k<s n="post"/></l><r></r></p></e>
     <e r="LR" c="while/when"><p><l>larik<s n="rel"/></l><r></r></p></e>
-    <e r="LR"><p><l>xe<s n="GRA"/><s n="IND"/></l><r></r></p></e>
+    <e r="LR"><p><l>xe<s n="gra"/><s n="ind"/></l><r></r></p></e>
 
     <e><p><l>a<s n="det"/><s n="art"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
