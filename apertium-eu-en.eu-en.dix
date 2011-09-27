@@ -404,6 +404,7 @@
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+    <e><p><l>inolako<s n="adj"/></l><r>any<s n="adj"/></r></p></e>
     <e><p><l>aurren<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>aurreneko<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e i="yes"><p><l>azken<s n="adj"/></l><r>last<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -5311,11 +5312,11 @@
     <e><p><l>atentatu<s n="vblex"/></l><r>attack<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>extract<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>adduce<s n="vblex"/></r></p></e>
-    <e><p><l>atera<s n="vblex"/></l><r>pull<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>atera<s n="vblex"/></l><r>pull<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>take<g><b/>away</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>take<g><b/>off</g><s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>atera<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e><p><l>atera<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>come<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>exit<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>go<g><b/>out</g><s n="vblex"/></r></p></e>
@@ -5323,7 +5324,7 @@
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>get<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>atera<s n="vblex"/></l><r>emerge<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>atera<s n="vblex"/></l><r>extricate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>atera<s n="vblex"/></l><r>pluck<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>atera<s n="vblex"/></l><r>pluck<s n="vblex"/></r></p></e>
     <e><p><l>ateratzen<b/>hasi<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ateratzen<b/>hasi<s n="vblex"/></l><r>prompt<s n="vblex"/></r></p></e>
     <e><p><l>atertu<s n="vblex"/></l><r>cease<s n="vblex"/></r></p></e>
@@ -9526,25 +9527,23 @@
     <e a="matxin"><p><l>asun<s n="n"/></l><r>nettle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atal<s n="n"/></l><r>part<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atalase<s n="n"/></l><r>threshold<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>atari<s n="n"/></l><r>threshold<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>atari<s n="n"/></l><r>threshold<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atari<s n="n"/></l><r>entrance<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>atari<s n="n"/></l><r>entry<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>atari<s n="n"/></l><r>input<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>atari<s n="n"/></l><r>ticket<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>atari<s n="n"/></l><r>entry<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>atari<s n="n"/></l><r>input<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>atari<s n="n"/></l><r>ticket<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ate<s n="n"/></l><r>door<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ate<s n="n"/></l><r>gate<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ate<s n="n"/></l><r>gateway<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ate<s n="n"/></l><r>gate<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ate<s n="n"/></l><r>gateway<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atentatu<s n="n"/></l><r>attack<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>atentatu<s n="n"/></l><r>attempt<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aterabide<s n="n"/></l><r>departure<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>atentatu<s n="n"/></l><r>attempt<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>aterabide<s n="n"/></l><r>departure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aterabide<s n="n"/></l><r>exit<s n="n"/><s n="ND"/></r></p></e>
-    <e c="Inform."><p><l>aterabide<s n="n"/></l><r>output<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aterabide<s n="n"/></l><r>start<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" c="Inform."><p><l>aterabide<s n="n"/></l><r>output<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ateraldi<s n="n"/></l><r>occurrence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aterpe<s n="n"/></l><r>shelter<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>atezain<s n="n"/></l><r>doorman<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>atezain<s n="n"/></l><r>goalkeeper<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>atezain<s n="n"/></l><r>janitor<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="goalkeeper" a="matxin"><p><l>atezain<s n="n"/></l><r>goalkeeper<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>atezain<s n="n"/></l><r>porter<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>atezain<s n="n"/></l><r>usher<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atmosfera<s n="n"/></l><r>atmosphere<s n="n"/><s n="ND"/></r></p></e>
