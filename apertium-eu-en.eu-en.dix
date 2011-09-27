@@ -5350,9 +5350,9 @@
     <e r="RL" a="matxin"><p><l>aurretik_jakin<s n="vblex"/></l><r>predict<s n="vblex"/></r></p></e>
     <e><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>foresee<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>aurrez_aurre_ipini<s n="vblex"/></l><r>confront<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>aurrez_ikusi<s n="vblex"/></l><r>anticipate<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>aurrez_ikusi<s n="vblex"/></l><r>envisage<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>aurrez_ikusi<s n="vblex"/></l><r>foresee<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>anticipate<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>envisage<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>foresee<s n="vblex"/></r></p></e>
     <e><p><l>aurreztu<s n="vblex"/></l><r>save<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aurreztu<s n="vblex"/></l><r>spare<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>aurreztu<s n="vblex"/></l><r>conserve<s n="vblex"/></r></p></e>
@@ -5369,7 +5369,6 @@
     <e r="RL"><p><l>axola<b/>izan<s n="vblex"/></l><r>import<s n="vblex"/></r></p></e>
     <e><p><l>axola<b/>izan<s n="vblex"/></l><r>matter<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>axola<b/>izan<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>axola_izan<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>azala_jarri<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>azaldu<s n="vblex"/></l><r>express<s n="vblex"/></r></p></e>
     <e><p><l>azaldu<s n="vblex"/></l><r>explain<s n="vblex"/></r></p></e>
@@ -5378,7 +5377,7 @@
     <e><p><l>azaleratu<s n="vblex"/></l><r>emerge<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>azeleratu<s n="vblex"/></l><r>accelerate<s n="vblex"/></r></p></e>
     <e><p><l>azentuatu<s n="vblex"/></l><r>stress<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>azkar_joan<s n="vblex"/></l><r>speed<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>azkar<b/>joan<s n="vblex"/></l><r>speed<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>azkartu<s n="vblex"/></l><r>precipitate<s n="vblex"/></r></p></e>
     <e><p><l>azkendu<s n="vblex"/></l><r>conclude<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>azkura_eragin<s n="vblex"/></l><r>prickle<s n="vblex"/></r></p></e>
@@ -5411,7 +5410,7 @@
     <e r="RL" a="matxin"><p><l>bahitu<s n="vblex"/></l><r>embargo<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>bahitu<s n="vblex"/></l><r>hijack<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>bahitu<s n="vblex"/></l><r>requisition<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bahituran_eman<s n="vblex"/></l><r>pawn<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>bahituran<b/>eman<s n="vblex"/></l><r>pawn<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>baietsi<s n="vblex"/></l><r>sanction<s n="vblex"/></r></p></e>
     <e><p><l>baieztatu<s n="vblex"/></l><r>affirm<s n="vblex"/></r></p></e>
     <e><p><l>baieztatu<s n="vblex"/></l><r>assert<s n="vblex"/></r></p></e>
