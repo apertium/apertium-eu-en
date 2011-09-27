@@ -3416,19 +3416,16 @@
     <e a="matxin"><p><l>sinboliko<s n="adj"/><s n="izo"/></l><r>symbolic<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>sinboliko<s n="adj"/><s n="izo"/></l><r>token<s n="adj"/></r></p></e>
     <e><p><l>sindikal<s n="adj"/></l><r>sindical<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>sinesgaitz<s n="adj"/><s n="izo"/></l><r>contrived<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>sinesgaitz<s n="adj"/><s n="izo"/></l><r>implausible<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>sinesgaitz<s n="adj"/><s n="izo"/></l><r>contrived<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>sinesgaitz<s n="adj"/><s n="izo"/></l><r>implausible<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>sinesgaitz<s n="adj"/><s n="izo"/></l><r>unrealistic<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>sinesgarri<s n="adj"/></l><r>plausible<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>sinesgarri<s n="adj"/><s n="izo"/></l><r>compelling<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>sinesgarri<s n="adj"/><s n="izo"/></l><r>plausible<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>sinesgarri<s n="adj"/><s n="izo"/></l><r>compelling<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>sinesgogor<s n="adj"/><s n="izo"/></l><r>incredulous<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>sineskor<s n="adj"/><s n="izo"/></l><r>gullible<s n="adj"/></r></p></e>
     <e><p><l>sinestezin<s n="adj"/></l><r>incredible<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>sinestezin<s n="adj"/><s n="izo"/></l><r>incredible<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>sinestezin<s n="adj"/><s n="izo"/></l><r>unbelievable<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>sinestezin<s n="adj"/><s n="izo"/></l><r>unbelievable<s n="adj"/></r></p></e>
     <e><p><l>singular<s n="adj"/></l><r>singular<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>singular<s n="adj"/><s n="izo"/></l><r>singular<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>sinkroniko<s n="adj"/><s n="izo"/></l><r>synchronic<s n="adj"/></r></p></e>
     <e><p><l>sinonimo<s n="adj"/></l><r>synonymous<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>sinonimo<s n="adj"/><s n="izo"/></l><r>synonymous<s n="adj"/></r></p></e>
@@ -3704,28 +3701,25 @@
     <e r="RL" a="matxin"><p><l>zabal<s n="adj"/><s n="izo"/></l><r>lengthy<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zabal<s n="adj"/><s n="izo"/></l><r>spacious<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zabar<s n="adj"/><s n="izo"/></l><r>negligent<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zabar<s n="adj"/><s n="izo"/></l><r>remiss<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zabar<s n="adj"/><s n="izo"/></l><r>remiss<s n="adj"/></r></p></e>
     <e r="RL"><p><l>zahar<s n="adj"/></l><r>elderly<s n="adj"/></r></p></e>
     <e r="RL"><p><l>zahar<s n="adj"/></l><r>ancient<s n="adj"/></r></p></e>
     <e r="RL"><p><l>zahar<s n="adj"/></l><r>antique<s n="adj"/></r></p></e>
     <e><p><l>zahar<s n="adj"/></l><r>old<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin"><p><l>zahar<s n="adj"/><s n="izo"/></l><r>ancient<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zahar<s n="adj"/><s n="izo"/></l><r>antique<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zahar<s n="adj"/><s n="izo"/></l><r>decrepit<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zahar<s n="adj"/><s n="izo"/></l><r>inveterate<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zahar<s n="adj"/><s n="izo"/></l><r>stale<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zahar<s n="adj"/><s n="izo"/></l><r>decrepit<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zahar<s n="adj"/><s n="izo"/></l><r>inveterate<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zahar<s n="adj"/><s n="izo"/></l><r>stale<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zaharkitu<s n="adj"/><s n="izo"/></l><r>obsolete<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zaharkitu<s n="adj"/><s n="izo"/></l><r>old-fashioned<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zaharren<s n="adj"/><s n="izo"/></l><r>elder<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zaharren<s n="adj"/><s n="izo"/></l><r>eldest<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zaharren<s n="adj"/><s n="izo"/></l><r>senior<s n="adj"/></r></p></e>
     <e><p><l>zail<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>arduous<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>complicated<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>difficult<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>tangled<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>testing<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>tough<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>arduous<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>complicated<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>tangled<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>testing<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zail<s n="adj"/><s n="izo"/></l><r>tough<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zakar<s n="adj"/></l><r>brusque<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zakar<s n="adj"/><s n="izo"/></l><r>brusque<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zakar<s n="adj"/><s n="izo"/></l><r>crass<s n="adj"/><s n="sint"/></r></p></e>
@@ -3768,16 +3762,17 @@
     <e r="RL" a="matxin"><p><l>zauririk<b/>gabe<s n="adj"/><s n="izo"/></l><r>unscathed<s n="adj"/></r></p></e>
     <e><p><l>zeharkako<s n="adj"/></l><r>indirect<s n="adj"/></r></p></e>
     <e r="RL"><p><l>zehatz<s n="adj"/></l><r>concrete<s n="adj"/></r></p></e>
-    <e><p><l>zehatz<s n="adj"/></l><r>thorough<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zehatz<s n="adj"/><s n="izo"/></l><r>concrete<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zehatz<s n="adj"/><s n="izo"/></l><r>fastidious<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zehatz<s n="adj"/><s n="izo"/></l><r>meticulous<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zehatz<s n="adj"/><s n="izo"/></l><r>precise<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zehatz<s n="adj"/></l><r>thorough<s n="adj"/></r></p></e>
+    <e><p><l>zehatz<s n="adj"/></l><r>specific<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zehatz<s n="adj"/><s n="izo"/></l><r>concrete<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zehatz<s n="adj"/><s n="izo"/></l><r>fastidious<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zehatz<s n="adj"/><s n="izo"/></l><r>meticulous<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zehatz<s n="adj"/><s n="izo"/></l><r>precise<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zehaztu<s n="adj"/><s n="izo"/></l><r>detailed<s n="adj"/></r></p></e>
     <e r="RL"><p><l>zehaztugabe<s n="adj"/></l><r>indeterminate<s n="adj"/></r></p></e>
-    <e><p><l>zehaztugabe<s n="adj"/></l><r>imprecise<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zehaztugabe<s n="adj"/><s n="izo"/></l><r>inaccurate<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zehaztugabe<s n="adj"/><s n="izo"/></l><r>indefinite<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>zehaztugabe<s n="adj"/></l><r>imprecise<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zehaztugabe<s n="adj"/><s n="izo"/></l><r>inaccurate<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zehaztugabe<s n="adj"/><s n="izo"/></l><r>indefinite<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zehaztugabe<s n="adj"/><s n="izo"/></l><r>undefined<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zeken<s n="adj"/><s n="izo"/></l><r>mean<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zelai<s n="adj"/></l><r>flat<s n="adj"/><s n="sint"/></r></p></e>
@@ -3845,8 +3840,9 @@
     <e a="matxin"><p><l>ziztatzaile<s n="adj"/><s n="izo"/></l><r>incisive<s n="adj"/></r></p></e>
     <e><p><l>ziztrin<s n="adj"/></l><r>insignificant<s n="adj"/></r></p></e>
     <e r="RL"><p><l>ziztrin<s n="adj"/></l><r>marginal<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zoli<s n="adj"/><s n="izo"/></l><r>raucous<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zoli<s n="adj"/><s n="izo"/></l><r>resonant<s n="adj"/></r></p></e>
+    <e><p><l>zoli<s n="adj"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zoli<s n="adj"/><s n="izo"/></l><r>raucous<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zoli<s n="adj"/><s n="izo"/></l><r>resonant<s n="adj"/></r></p></e>
     <e><p><l>zona<s n="adj"/></l><r>zonal<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zoologiko<s n="adj"/><s n="izo"/></l><r>zoological<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zorabiatu<s n="adj"/><s n="izo"/></l><r>dizzy<s n="adj"/><s n="sint"/></r></p></e>
@@ -4913,7 +4909,7 @@
     <e a="matxin"><p><l>adarra_jo<s n="vblex"/></l><r>tease<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>adi-adi_begiratu<s n="vblex"/></l><r>gaze<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>adi-adi_begiratu<s n="vblex"/></l><r>stare<s n="vblex"/></r></p></e>
-    <e><p><l>adiakatu<s n="vblex"/></l><r>groan<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>adiakatu<s n="vblex"/></l><r>groan<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>adiakatu<s n="vblex"/></l><r>moan<s n="vblex"/></r></p></e>
     <e><p><l>adierazi<s n="vblex"/></l><r>express<s n="vblex"/></r></p></e>
     <e><p><l>aditu<s n="vblex"/></l><r>understand<s n="vblex"/></r></p></e>
@@ -4934,8 +4930,8 @@
     <e a="matxin"><p><l>ados_ez_izan<s n="vblex"/></l><r>disagree<s n="vblex"/></r></p></e>
     <e><p><l>adostu<s n="vblex"/></l><r>agree<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>adostu<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
-    <e><p><l>adostu<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>adostu<s n="vblex"/></l><r>compromise<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>adostu<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>adostu<s n="vblex"/></l><r>compromise<s n="vblex"/></r></p></e>
     <e><p><l>afaldu<s n="vblex"/></l><r>dine<s n="vblex"/></r></p></e>
     <e><p><l>afiliatu<s n="vblex"/></l><r>affiliate<s n="vblex"/></r></p></e>
 
@@ -4949,15 +4945,15 @@
     <e r="RL"><p><l>agertu<s n="vblex"/></l><r>turn<g><b/>up</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agertu<s n="vblex"/></l><r>display<s n="vblex"/></r></p></e>
     <e><p><l>agertu<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>agertu<s n="vblex"/></l><r>haunt<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>agertu<s n="vblex"/></l><r>haunt<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>agertu<s n="vblex"/></l><r>present<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agindu<s n="vblex"/></l><r>sort<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>agindu<s n="vblex"/></l><r>order<s n="vblex"/></r></p></e>
-    <e><p><l>agindu<s n="vblex"/></l><r>promise<s n="vblex"/></r></p></e>
+    <e><p><l>agindu<s n="vblex"/></l><r>order<s n="vblex"/></r></p></e>
+    <e slr="promise"><p><l>agindu<s n="vblex"/></l><r>promise<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agindu<s n="vblex"/></l><r>pledge<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>agindu<s n="vblex"/></l><r>boss<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>agindu<s n="vblex"/></l><r>command<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>agindu<s n="vblex"/></l><r>instruct<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>agindu<s n="vblex"/></l><r>instruct<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>agindu<s n="vblex"/></l><r>prescribe<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>agiraka<b/>egin<s n="vblex"/></l><r>rebuke<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>agiraka<b/>egin<s n="vblex"/></l><r>reprimand<s n="vblex"/></r></p></e>
@@ -5400,21 +5396,21 @@
     <e a="matxin"><p><l>aztertu<s n="vblex"/></l><r>scrutinise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>aztoratu<s n="vblex"/></l><r>alarm<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>azukreztatu<s n="vblex"/></l><r>sugar<s n="vblex"/></r></p></e>
-    <e><p><l>babestu<s n="vblex"/></l><r>preserve<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>babestu<s n="vblex"/></l><r>preserve<s n="vblex"/></r></p></e>
     <e><p><l>babestu<s n="vblex"/></l><r>protect<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>babestu<s n="vblex"/></l><r>back<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>babestu<s n="vblex"/></l><r>safeguard<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>babestu<s n="vblex"/></l><r>shelter<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>babestu<s n="vblex"/></l><r>shield<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>babestu<s n="vblex"/></l><r>sponsor<s n="vblex"/></r></p></e>
-    <e><p><l>bahetu<s n="vblex"/></l><r>sift<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>babestu<s n="vblex"/></l><r>safeguard<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>babestu<s n="vblex"/></l><r>shelter<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>babestu<s n="vblex"/></l><r>shield<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>babestu<s n="vblex"/></l><r>sponsor<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>bahetu<s n="vblex"/></l><r>sift<s n="vblex"/></r></p></e>
     <e><p><l>bahetu<s n="vblex"/></l><r>sieve<s n="vblex"/></r></p></e>
     <e><p><l>bahia<b/>atera<s n="vblex"/></l><r>exert<s n="vblex"/></r></p></e>
     <e><p><l>bahitu<s n="vblex"/></l><r>kidnap<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bahitu<s n="vblex"/></l><r>abduct<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bahitu<s n="vblex"/></l><r>embargo<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bahitu<s n="vblex"/></l><r>hijack<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bahitu<s n="vblex"/></l><r>requisition<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bahitu<s n="vblex"/></l><r>abduct<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bahitu<s n="vblex"/></l><r>embargo<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bahitu<s n="vblex"/></l><r>hijack<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bahitu<s n="vblex"/></l><r>requisition<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>bahituran_eman<s n="vblex"/></l><r>pawn<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>baietsi<s n="vblex"/></l><r>sanction<s n="vblex"/></r></p></e>
     <e><p><l>baieztatu<s n="vblex"/></l><r>affirm<s n="vblex"/></r></p></e>
