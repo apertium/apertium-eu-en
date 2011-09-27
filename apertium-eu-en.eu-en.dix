@@ -1577,8 +1577,9 @@
     <e><p><l>ziur<s n="adv"/></l><r>sure<s n="adv"/></r></p></e>
     <e><p><l>ziur<b/>aski<s n="adv"/></l><r>surely<s n="adv"/></r></p></e>
     <e><p><l>ziur<b/>asko<s n="adv"/></l><r>surely<s n="adv"/></r></p></e>
-    <e><p><l>ziztu<b/>bizian<s n="adv"/></l><r>carelessly<s n="adv"/></r></p></e>
-    <e><p><l>ziztu<b/>bizian<s n="adv"/></l><r>at<b/>full<b/>speed<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ziztu<b/>bizian<s n="adv"/></l><r>carelessly<s n="adv"/></r></p></e>
+    <e><p><l>ziztu<b/>bizian<s n="adv"/></l><r>rapidly<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ziztu<b/>bizian<s n="adv"/></l><r>at<b/>full<b/>speed<s n="adv"/></r></p></e>
     <e><p><l>zorionez<s n="adv"/></l><r>fortunately<s n="adv"/></r></p></e>
     <e r="RL"><p><l>zorionez<s n="adv"/></l><r>happily<s n="adv"/></r></p></e>
     <e r="RL"><p><l>zorionez<s n="adv"/></l><r>luckily<s n="adv"/></r></p></e>
@@ -2233,7 +2234,7 @@
     <e><p><l>bakar<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
     <e r="RL"><p><l>bakar<s n="adj"/></l><r>sole<s n="adj"/></r></p></e>
     <e r="RL"><p><l>bakar<s n="adj"/></l><r>unique<s n="adj"/></r></p></e>
-    <e c="check"><p><l>bakarti<s n="adj"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL" c="check"><p><l>bakarti<s n="adj"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bakarti<s n="adj"/></l><r>solitary<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>bakarti<s n="adj"/><s n="izo"/></l><r>lone<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>bakarti<s n="adj"/><s n="izo"/></l><r>reclusive<s n="adj"/></r></p></e>
@@ -2683,13 +2684,12 @@
     <e r="RL" a="matxin"><p><l>erakargarri<s n="adj"/><s n="izo"/></l><r>glamorous<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>erakargarri<s n="adj"/><s n="izo"/></l><r>handsome<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>erakargarri<s n="adj"/><s n="izo"/></l><r>taking<s n="adj"/></r></p></e>
-    <e><p><l>eraman_handiko<s n="adj"/></l><r>patient<s n="adj"/></r></p></e>
+    <e><p><l>eraman<b/>handiko<s n="adj"/></l><r>patient<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>eramangarri<s n="adj"/><s n="izo"/></l><r>portable<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>eranskor<s n="adj"/><s n="izo"/></l><r>sticky<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin"><p><l>eranskor<s n="adj"/><s n="izo"/></l><r>tacky<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>eranskor<s n="adj"/><s n="izo"/></l><r>tacky<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>eratorri<s n="adj"/><s n="izo"/></l><r>derivative<s n="adj"/></r></p></e>
-    <e><p><l>erdi_Aroko<s n="adj"/></l><r>mediaeval<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>erdi_Aroko<s n="adj"/></l><r>medieval<s n="adj"/></r></p></e>
+    <e><p><l>erdi<b/>Aroko<s n="adj"/></l><r>mediaeval<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>erdi_ireki<s n="adj"/><s n="izo"/></l><r>ajar<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>erdibitzaile<s n="adj"/><s n="izo"/></l><r>median<s n="adj"/></r></p></e>
     <e><p><l>erdiko<s n="adj"/></l><r>intermediate<s n="adj"/></r></p></e>
