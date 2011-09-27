@@ -1950,14 +1950,9 @@
     <e r="RL"><p><l>gaur_egungo<s n="adj"/></l><r>ongoing<s n="adj"/></r></p></e>
     <e r="RL"><p><l>gaur_egungo<s n="adj"/></l><r>up-to-date<s n="adj"/></r></p></e>
     <e><p><l>gautar<s n="adj"/></l><r>nocturnal<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gautar<s n="adj"/><s n="izo"/></l><r>nightly<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gautar<s n="adj"/><s n="izo"/></l><r>nocturnal<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gautar<s n="adj"/><s n="izo"/></l><r>nightly<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>gauzaez<s n="adj"/></l><r>ineffectual<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gauzaez<s n="adj"/><s n="izo"/></l><r>ineffectual<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>gazi<s n="adj"/></l><r>savoury<s n="adj"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>gazi<s n="adj"/></l><r>savory<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gazi<s n="adj"/><s n="izo"/></l><r>savory<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gazi<s n="adj"/><s n="izo"/></l><r>savoury<s n="adj"/></r></p></e>
     <e c="check"><p><l>gaztaina-koloreko<s n="adj"/></l><r>brown<s n="adj"/></r></p></e>
     <e r="RL"><p><l>gazte<s n="adj"/></l><r>juvenile<s n="adj"/></r></p></e>
     <e><p><l>gazte<s n="adj"/></l><r>young<s n="adj"/><s n="sint"/></r></p></e>
@@ -1967,20 +1962,16 @@
     <e><p><l>gehiegi<s n="adj"/></l><r>excessive<s n="adj"/></r></p></e>
     <e><p><l>gehiegizko<s n="adj"/></l><r>excessive<s n="adj"/></r></p></e>
     <e><p><l>gehigarri<s n="adj"/></l><r>additional<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gehigarri<s n="adj"/><s n="izo"/></l><r>additional<s n="adj"/></r></p></e>
     <e r="RL"><p><l>geldi<s n="adj"/></l><r>motionless<s n="adj"/></r></p></e>
     <e><p><l>geldi<s n="adj"/></l><r>still<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin"><p><l>geldi<s n="adj"/><s n="izo"/></l><r>motionless<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>geldi<s n="adj"/><s n="izo"/></l><r>stationary<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>geldi<s n="adj"/><s n="izo"/></l><r>stationary<s n="adj"/></r></p></e>
     <e><p><l>geldiezin<s n="adj"/></l><r>restless<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>geldiezin<s n="adj"/><s n="izo"/></l><r>restive<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>geldiezin<s n="adj"/><s n="izo"/></l><r>restive<s n="adj"/></r></p></e>
     <e><p><l>genetiko<s n="adj"/></l><r>genetic<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>genetiko<s n="adj"/><s n="izo"/></l><r>genetic<s n="adj"/></r></p></e>
     <e><p><l>genital<s n="adj"/></l><r>genital<s n="adj"/></r></p></e>
     <e><p><l>geografiko<s n="adj"/></l><r>geographic<s n="adj"/></r></p></e>
     <e><p><l>geologiko<s n="adj"/></l><r>geological<s n="adj"/></r></p></e>
     <e><p><l>geometriko<s n="adj"/></l><r>geometrical<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>geometriko<s n="adj"/><s n="izo"/></l><r>geometrical<s n="adj"/></r></p></e>
     <e><p><l>geostrofiko<s n="adj"/><s n="izo"/></l><r>geostrophic<s n="adj"/></r></p></e>
     <e><p><l>germaniar<s n="adj"/></l><r>germanic<s n="adj"/></r></p></e>
     <e><p><l>geroko<s n="adj"/></l><r>future<s n="adj"/></r></p></e>
@@ -1988,15 +1979,16 @@
     <e r="RL"><p><l>geroko<s n="adj"/></l><r>posterior<s n="adj"/></r></p></e>
     <e><p><l>geroz_eta_handiagoa_den<s n="adj"/></l><r>increasing<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>gerrazale<s n="adj"/></l><r>belligerent<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gerrazale<s n="adj"/><s n="izo"/></l><r>belligerent<s n="adj"/></r></p></e>
-    <e c="check"><p><l>gerta_daitekeen<s n="adj"/></l><r>contingent<s n="adj"/></r></p></e>
-    <e><p><l>gerta_daitekeen<s n="adj"/></l><r>likely<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>gerta_daitekeen<s n="adj"/></l><r>probable<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>gerta_daitekeen<s n="adj"/></l><r>prospective<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gertatu_berri<s n="adj"/><s n="izo"/></l><r>recent<s n="adj"/></r></p></e>
-    <e><p><l>gertu<s n="adj"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin"><p><l>gertu<s n="adj"/><s n="izo"/></l><r>impending<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gertu<s n="adj"/><s n="izo"/></l><r>prepared<s n="adj"/></r></p></e>
+    <e r="RL" c="check"><p><l>gerta<b/>daitekeen<s n="adj"/></l><r>contingent<s n="adj"/></r></p></e>
+    <e><p><l>gerta<b/>daitekeen<s n="adj"/></l><r>likely<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gerta<b/>daitekeen<s n="adj"/></l><r>probable<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gerta<b/>daitekeen<s n="adj"/></l><r>prospective<s n="adj"/></r></p></e>
+    <e a="matxin"><p><l>gertatu<b/>berri<s n="adj"/><s n="izo"/></l><r>recent<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>gertu<s n="adj"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
+    <e slr="sure"><p><l>gertu<s n="adj"/></l><r>sure<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>gertu<s n="adj"/></l><r>close<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gertu<s n="adj"/><s n="izo"/></l><r>impending<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gertu<s n="adj"/><s n="izo"/></l><r>prepared<s n="adj"/></r></p></e>
     <e><p><l>gezur<s n="adj"/></l><r>uncertain<s n="adj"/></r></p></e>
     <e><p><l>gezurrezko<s n="adj"/></l><r>false<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gihartsu<s n="adj"/><s n="izo"/></l><r>burly<s n="adj"/><s n="sint"/></r></p></e>
@@ -6186,6 +6178,7 @@
     <e r="RL" c="(intransitiu)"><p><l>egon<s n="vblex"/></l><r>stand<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>egon<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>egon<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
+    <e><p><l>gertu<b/>egon<s n="vbsint"/></l><r>be<g><b/>ready</g><s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>egonkortu<s n="vblex"/></l><r>stabilise<s n="vblex"/></r></p></e>
     <e><p><l>egosi<s n="vblex"/></l><r>bake<s n="vblex"/></r></p></e>
     <e><p><l>egotzi<s n="vblex"/></l><r>accuse<s n="vblex"/></r></p></e>
@@ -6403,7 +6396,7 @@
     <e a="matxin"><p><l>erdeinatu<s n="vblex"/></l><r>scorn<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>erdeinatu<s n="vblex"/></l><r>snub<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>erdeinuzko<b/>keinua<b/>egin<s n="vblex"/></l><r>sneer<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>erdi<b/>lo<b/>egon<s n="vblex"/></l><r>doze<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>erdi<b/>lo<b/>egon<s n="vbsint"/></l><r>doze<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>erdibitu<s n="vblex"/></l><r>bisect<s n="vblex"/></r></p></e>
     <e><p><l>erdietsi<s n="vblex"/></l><r>achieve<s n="vblex"/></r></p></e>
     <e><p><l>erdietsi<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>

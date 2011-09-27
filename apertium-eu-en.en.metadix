@@ -22789,8 +22789,7 @@
     <e lm="bland"><i>bland</i><par n="long/__adj"/></e>
     <e lm="nightly"><i>nightly</i><par n="expensive__adj"/></e>
     <e lm="ineffectual"><i>ineffectual</i><par n="expensive__adj"/></e>
-    <e lm="savory"><i>savory</i><par n="expensive__adj"/></e>
-    <e lm="savoury"><i>savoury</i><par n="expensive__adj"/></e>
+    <e lm="savoury"><i>sav</i><par n="o_ou"/><i>ry</i><par n="expensive__adj"/></e>
     <e lm="stationary"><i>stationary</i><par n="expensive__adj"/></e>
     <e lm="restive"><i>restive</i><par n="expensive__adj"/></e>
     <e lm="impending"><i>impending</i><par n="expensive__adj"/></e>
@@ -23978,6 +23977,7 @@
     <e lm="be worthwhile"><i></i><par n="/be__vblex"/><p><l><b/>worthwhile</l><r><g><b/>worthwhile</g></r></p></e>
     <e lm="be left">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>left</l><r><g><b/>left</g></r></p></e>
     <e lm="be missing">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>missing</l><r><g><b/>missing</g></r></p></e>
+    <e lm="be ready">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>ready</l><r><g><b/>ready</g></r></p></e>
     <e lm="be a member of" r="RL">      <i/>      <par n="/be__vblex"/>      <p>        <l><b/>a<b/>member<b/>of</l><r><g><b/>a<b/>member<b/>of</g></r></p></e>
     <e lm="go in">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="go on">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>on</l><r><g><b/>on</g></r></p></e>
