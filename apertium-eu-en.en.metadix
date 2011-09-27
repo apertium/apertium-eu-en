@@ -21633,7 +21633,7 @@
     <e lm="aerodynamic"><i>aerodynamic</i><par n="expensive__adj"/>    </e>
     <e lm="aeronautical"><i>aeronautical</i><par n="expensive__adj"/>    </e>
     <e lm="aerospace"><i>aerospace</i><par n="expensive__adj"/>    </e>
-    <e lm="aesthetic"><i>aesthetic</i><par n="expensive__adj"/>    </e>
+    <e lm="aesthetic"><par n="e_ae"/><i>sthetic</i><par n="expensive__adj"/>    </e>
     <e lm="affective"><i>affective</i><par n="expensive__adj"/>    </e>
     <e lm="affine"><i>affine</i><par n="expensive__adj"/>    </e>
     <e lm="affirmative"><i>affirmative</i><par n="expensive__adj"/>    </e>
@@ -22731,7 +22731,6 @@
     <e lm="unscrupulous"><i>unscrupulous</i><par n="expensive__adj"/></e>
     <e lm="unobtainable"><i>unobtainable</i><par n="expensive__adj"/></e>
     <e lm="spasmodic"><i>spasmodic</i><par n="expensive__adj"/></e>
-    <e lm="esthetic"><i>esthetic</i><par n="expensive__adj"/></e>
     <e lm="stoical"><i>stoical</i><par n="expensive__adj"/></e>
     <e lm="stoic"><i>stoic</i><par n="expensive__adj"/></e>
     <e lm="alien"><i>alien</i><par n="expensive__adj"/></e>
@@ -23954,6 +23953,7 @@
     <e lm="busy"><i>bus</i><par n="happ/y__adj"/></e>
     <e lm="subterranean"><i>subterranean</i><par n="expensive__adj"/></e>
     <e lm="underground"><i>underground</i><par n="expensive__adj"/></e>
+    <e lm="erudite"><i>erudite</i><par n="expensive__adj"/></e>
     
     <e lm="have"><i>ha</i><par n="ha/ve__vbhaver"/>    </e>
     <e lm="do"><i>d</i><par n="d/o__vaux"/>    </e>
