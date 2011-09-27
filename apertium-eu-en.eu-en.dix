@@ -2196,10 +2196,8 @@
     <e r="RL" a="matxin"><p><l>heze<s n="adj"/><s n="izo"/></l><r>damp<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>heze<s n="adj"/><s n="izo"/></l><r>humid<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>heze<s n="adj"/><s n="izo"/></l><r>moist<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>heze_eta_hotz<s n="adj"/><s n="izo"/></l><r>dank<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hezigarri<s n="adj"/></l><r>educational<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>hezigarri<s n="adj"/><s n="izo"/></l><r>educational<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>hezigarri<s n="adj"/><s n="izo"/></l><r>formative<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>hezigarri<s n="adj"/><s n="izo"/></l><r>formative<s n="adj"/></r></p></e>
     <e><p><l>hidrauliko<s n="adj"/></l><r>hydraulic<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>hidrauliko<s n="adj"/><s n="izo"/></l><r>hydraulic<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>hidroelektriko<s n="adj"/><s n="izo"/></l><r>hydroelectric<s n="adj"/></r></p></e>
