@@ -25440,6 +25440,7 @@
     <e lm="travel across"><i>travel</i><par n="control__vblex"/>      <p>        <l><b/>across</l><r><g><b/>across</g></r></p></e>
     <e lm="treasure"><i>treasur</i><par n="liv/e__vblex"/>    </e>
     <e lm="treat"><i>treat</i><par n="accept__vblex"/>    </e>
+    <e lm="treat unfairly"><i>treat</i><par n="accept__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>unfairly</l><r><g><b/>unfairly</g></r></p></e>
     <e lm="tremble"><i>trembl</i><par n="liv/e__vblex"/>    </e>
     <e lm="trigger"><i>trigger</i><par n="accept__vblex"/>    </e>
     <e lm="truncate"><i>truncat</i><par n="liv/e__vblex"/>    </e>

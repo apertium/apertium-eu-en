@@ -5918,23 +5918,23 @@
     <e a="matxin"><p><l>bibratu<s n="vblex"/></l><r>vibrate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>bidaia<b/>egin<s n="vblex"/></l><r>cruise<s n="vblex"/></r></p></e>
     <e><p><l>bidaiatu<s n="vblex"/></l><r>travel<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bidaiatu<s n="vblex"/></l><r>journey<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bidaiatu<s n="vblex"/></l><r>travel<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bidaiatu<s n="vblex"/></l><r>journey<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bidali<s n="vblex"/></l><r>forward<s n="vblex"/></r></p></e>
     <e><p><l>bidali<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bidali<s n="vblex"/></l><r>send<g><b/>in</g><s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bidali<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bidali<s n="vblex"/></l><r>refer<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bidali<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bidali<s n="vblex"/></l><r>ship<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bidali<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bidali<s n="vblex"/></l><r>refer<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bidali<s n="vblex"/></l><r>ship<s n="vblex"/></r></p></e>
     <e><p><l>bidatu<s n="vblex"/></l><r>guide<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>bidegabe_erabili<s n="vblex"/></l><r>embezzle<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bidegabe_tratatu<s n="vblex"/></l><r>victimise<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bidegabe_tratatu<s n="vblex"/></l><r>wrong<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bideoz_grabatu<s n="vblex"/></l><r>video<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bideoz_grabatu<s n="vblex"/></l><r>videotape<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bidegabe<b/>tratatu<s n="vblex"/></l><r>victimise<s n="vblex"/></r></p></e>
+    <e><p><l>bidegabe<b/>tratatu<s n="vblex"/></l><r>mistreat<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>bidegabe<b/>tratatu<s n="vblex"/></l><r>treat<g><b/>unfairly</g><s n="vblex"/><s n="sep"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bidegabe<b/>tratatu<s n="vblex"/></l><r>wrong<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>bideoz<b/>grabatu<s n="vblex"/></l><r>video<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bideoz<b/>grabatu<s n="vblex"/></l><r>videotape<s n="vblex"/></r></p></e>
     <e><p><l>bideratu<s n="vblex"/></l><r>direct<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>bideratu<s n="vblex"/></l><r>channel<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bideratu<s n="vblex"/></l><r>channel<s n="vblex"/></r></p></e>
     <e><p><l>bigundu<s n="vblex"/></l><r>soften<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>bigungarria_jarri<s n="vblex"/></l><r>pad<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>bihurdikatu<s n="vblex"/></l><r>wring<s n="vblex"/></r></p></e>
@@ -9735,7 +9735,7 @@
     <e><p><l>ETA<s n="n"/><s n="acr"/></l><r>ETA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>Jaunaren_jaiotza<s n="n"/></l><r>christmas<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>Mallorcako<s n="n"/></l><r>Majorcan<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>Mendebal<s n="n"/></l><r>occident<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>Mendebal<s n="n"/></l><r>occident<s n="n"/><s n="ND"/></r></p></e>
     <e c="North Atlantic Treaty Organisation"><p><l>NATO<s n="n"/><s n="acr"/></l><r>NATO<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>UPV/EHU<s n="n"/><s n="acr"/></l><r>UPV/EHU<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>EB-IU<s n="n"/><s n="acr"/></l><r>EB-IU<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
@@ -10074,7 +10074,7 @@
     <e r="RL" a="matxin"><p><l>tontor<s n="n"/></l><r>bulge<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>tontor<s n="n"/></l><r>peak<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>tontor<s n="n"/></l><r>protuberance<s n="n"/><s n="ND"/></r></p></e>
-    <e a="matxin"><p><l>bidaia<s n="n"/></l><r>tour<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bidaia<s n="n"/></l><r>tour<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>zarakar<s n="n"/></l><r>scab<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>amnistia<s n="n"/></l><r>amnesty<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>bufanda<s n="n"/></l><r>scarf<s n="n"/><s n="ND"/></r></p></e>
@@ -10144,9 +10144,10 @@
     <e r="RL" a="matxin"><p><l>sirena<s n="n"/></l><r>mermaid<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>sirena<s n="n"/></l><r>siren<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>sorbalda<s n="n"/></l><r>shoulder<s n="n"/><s n="ND"/></r></p></e>
-    <e a="matxin"><p><l>tamaina<s n="n"/></l><r>calibre<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>tamaina<s n="n"/></l><r>calibre<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>tamaina<s n="n"/></l><r>magnitude<s n="n"/><s n="ND"/></r></p></e>
-    <e a="matxin"><p><l>tamaina<s n="n"/></l><r>scale<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>tamaina<s n="n"/></l><r>scale<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>tamaina<s n="n"/></l><r>size<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>teknika<s n="n"/></l><r>technique<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>tolerantzia<s n="n"/></l><r>indulgence<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>tolerantzia<s n="n"/></l><r>tolerance<s n="n"/><s n="ND"/></r></p></e>
@@ -10248,7 +10249,7 @@
     <e r="RL" a="matxin"><p><l>ipurdi<s n="n"/></l><r>bottom<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ipurdi<s n="n"/></l><r>bum<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ipurdi<s n="n"/></l><r>posterior<s n="n"/><s n="ND"/></r></p></e>
-    <e a="matxin"><p><l>irrintzi<s n="n"/></l><r>neigh<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>irrintzi<s n="n"/></l><r>neigh<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>irrintzi<s n="n"/></l><r>whinny<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>isolamendu<s n="n"/></l><r>insulation<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>itxaronaldi<s n="n"/></l><r>wait<s n="n"/><s n="ND"/></r></p></e>
@@ -10548,10 +10549,10 @@
     <e><p><l>antena<s n="n"/></l><r>antenna<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>antigorputz<s n="n"/></l><r>antibody<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>antolakuntza<s n="n"/></l><r>organisation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>antolamendu<s n="n"/></l><r>disposal<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>antolamendu<s n="n"/></l><r>distribution<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>antolamendu<s n="n"/></l><r>disposal<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>antolamendu<s n="n"/></l><r>distribution<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>antolamendu<s n="n"/></l><r>regulation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>antolamendu<s n="n"/></l><r>willingness<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>antolamendu<s n="n"/></l><r>willingness<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>antolatzaile<s n="n"/></l><r>organiser<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>antxoa<s n="n"/></l><r>anchovy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>antz<s n="n"/></l><r>similarity<s n="n"/><s n="ND"/></r></p></e>
@@ -10561,7 +10562,6 @@
     <e><p><l>antzoki<s n="n"/></l><r>theater<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apaindura<s n="n"/></l><r>embellishment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apaintze-mahai<s n="n"/></l><r>dresser<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>apaiz<s n="n"/></l><r>cure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apaiz<s n="n"/></l><r>priest<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apal<s n="n"/></l><r>shelf<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apalkuntza<s n="n"/></l><r>humiliation<s n="n"/><s n="ND"/></r></p></e>
@@ -11000,21 +11000,21 @@
     <e><p><l>betile<s n="n"/></l><r>eyelash<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bezeria<s n="n"/></l><r>clientele<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bezero<s n="n"/></l><r>client<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bezero<s n="n"/></l><r>customer<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bezero<s n="n"/></l><r>customer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bibliografia<s n="n"/></l><r>bibliography<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>biblioteka<s n="n"/></l><r>library<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bibote<s n="n"/></l><r>moustache<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidaia<s n="n"/></l><r>journey<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bidaia<s n="n"/></l><r>travel<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bidaia<s n="n"/></l><r>trip<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bidaia<s n="n"/></l><r>travel<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bidaia<s n="n"/></l><r>trip<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidaiari<s n="n"/></l><r>traveller<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidaltze<s n="n"/></l><r>dismissal<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bide<s n="n"/></l><r>lane<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bide<s n="n"/></l><r>path<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bide<s n="n"/></l><r>lane<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bide<s n="n"/></l><r>path<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bide<s n="n"/></l><r>way<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bide<s n="n"/></l><r>course<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bide<s n="n"/></l><r>footpath<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bide<s n="n"/></l><r>railway<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bide<s n="n"/></l><r>course<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bide<s n="n"/></l><r>footpath<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bide<s n="n"/></l><r>railway<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidegabekeria<s n="n"/></l><r>haste<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidegurutze<s n="n"/></l><r>crossing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidegurutze<s n="n"/></l><r>junction<s n="n"/><s n="ND"/></r></p></e>
