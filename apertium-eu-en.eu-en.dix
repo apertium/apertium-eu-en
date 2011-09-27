@@ -3152,22 +3152,19 @@
     <e a="matxin"><p><l>goresgarri<s n="adj"/><s n="izo"/></l><r>deserving<s n="adj"/></r></p></e>
     <e><p><l>gori<s n="adj"/></l><r>passionate<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>gori<s n="adj"/><s n="izo"/></l><r>red-hot<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gori<s n="adj"/><s n="izo"/></l><r>white-hot<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gori<s n="adj"/><s n="izo"/></l><r>white-hot<s n="adj"/></r></p></e>
     <e><p><l>gorri<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gorri<s n="adj"/><s n="izo"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>gorrixka<s n="adj"/></l><r>reddish<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gorrixka<s n="adj"/><s n="izo"/></l><r>reddish<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gorrixka<s n="adj"/><s n="izo"/></l><r>ruddy<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gorrotagarri<s n="adj"/><s n="izo"/></l><r>abominable<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorrixka<s n="adj"/><s n="izo"/></l><r>ruddy<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorrotagarri<s n="adj"/><s n="izo"/></l><r>abominable<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>gorrotagarri<s n="adj"/><s n="izo"/></l><r>hateful<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gorrotagarri<s n="adj"/><s n="izo"/></l><r>obnoxious<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>gorrotagarri<s n="adj"/><s n="izo"/></l><r>odious<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorrotagarri<s n="adj"/><s n="izo"/></l><r>obnoxious<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorrotagarri<s n="adj"/><s n="izo"/></l><r>odious<s n="adj"/></r></p></e>
     <e><p><l>gotiko<s n="adj"/></l><r>gothic<s n="adj"/></r></p></e>
     <e r="RL"><p><l>goxo<s n="adj"/></l><r>mellow<s n="adj"/></r></p></e>
     <e><p><l>goxo<s n="adj"/></l><r>sweet<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>gozo<s n="adj"/></l><r>mellow<s n="adj"/></r></p></e>
     <e><p><l>gozo<s n="adj"/></l><r>sweet<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin"><p><l>gozo<s n="adj"/><s n="izo"/></l><r>mellow<s n="adj"/></r></p></e>
     <e><p><l>grafiko<s n="adj"/></l><r>graphic<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>grafiko<s n="adj"/><s n="izo"/></l><r>graphic<s n="adj"/></r></p></e>
     <e><p><l>gramatikal<s n="adj"/></l><r>grammatical<s n="adj"/></r></p></e>
