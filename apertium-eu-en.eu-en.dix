@@ -10526,8 +10526,9 @@
     <e><p><l>amona<s n="n"/></l><r>grandmother<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>amorante<s n="n"/></l><r>lover<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>amorrazio<s n="n"/></l><r>indignation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>amorru<s n="n"/></l><r>rabies<s n="n"/><s n="ND"/></r></p></e>
-    <e slr="ire"><p><l>amorru<s n="n"/></l><r>ire<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="rabies"><p><l>amorru<s n="n"/></l><r>rabies<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>amorru<s n="n"/></l><r>ire<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>amorru<s n="n"/></l><r>rage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>anai<s n="n"/></l><r>brother<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>anai-arreba<s n="n"/></l><r>brother<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>anaia<s n="n"/></l><r>brother<s n="n"/><s n="ND"/></r></p></e>
