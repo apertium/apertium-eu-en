@@ -339,6 +339,7 @@
     <e r="LR"><p><l>xe<s n="gra"/><s n="ind"/></l><r></r></p></e>
 
     <e><p><l>a<s n="det"/><s n="art"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
+    <e r="LR"><p><l>guzti<s n="det"/><s n="ind"/></l><r>all<s n="predet"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
@@ -13799,6 +13800,7 @@
     <e><p><l>zortzi<s n="num"/><s n="pl"/></l><r>eight<s n="num"/><s n="sp"/></r></p></e>
 
     <e><p><l>ber<s n="prn"/><s n="pers"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/></r></p></e>
+    <e><p><l>geu<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
