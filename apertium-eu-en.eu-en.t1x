@@ -6,6 +6,10 @@
       <cat-item lemma="ari izan" tags="vbper.*"/>
     </def-cat>
 
+    <def-cat n="nahi">
+      <cat-item lemma="nahi" tags="n"/>
+    </def-cat>
+
     <def-cat n="nom">
       <cat-item tags="n"/>
     </def-cat>
@@ -14549,6 +14553,163 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <call-macro n="f_bcond">
               <with-param pos="1"/>
             </call-macro>
+          </when>
+        </choose>
+      </action>
+    </rule>
+    <rule comment="REGLA: PP + BA-+ VERBO SINT (ikusi badut) (repassar aquesta i les altres formes de condicional)">
+      <pattern>
+        <pattern-item n="pp"/>
+        <pattern-item n="nahi"/>
+        <pattern-item n="ba"/>
+        <pattern-item n="vbsint_aux"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="ser_tener">
+          <with-param pos="1"/>
+          <with-param pos="4"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="4" side="sl" part="temps"/>
+                <lit-tag v="hs"/>
+              </equal>
+            </test>
+            <let>
+                <clip pos="4" side="tl" part="temps"/>
+                <lit-tag v="past"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <equal>
+                <clip pos="4" side="sl" part="temps"/>
+                <lit-tag v="prs2"/>
+              </equal>
+            </test>
+            <let>
+                <clip pos="4" side="tl" part="temps"/>
+                <lit-tag v="pri"/><!--erantsi badiezaiegu - hemos agregado -->
+            </let>
+          </when>
+        </choose>
+        <let>
+          <clip pos="4" side="tl" part="lem"/>
+          <lit v="have"/>
+        </let>
+        <let>
+          <clip pos="4" side="tl" part="a_verb"/>
+          <lit-tag v="vbhaver"/>
+        </let>
+        <out>
+          <chunk name="si" case="caseFirstWord">
+            <tags>
+              <tag><clip pos="3" side="tl" part="tags"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+          <b/>
+        </out>
+        <let>
+          <var n="caseFirstWord"/>
+          <lit v="aa"/>
+        </let>
+        <call-macro n="verbal_flex">
+          <with-param pos="4"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="4" side="tl" part="temps"/>
+                <lit-tag v="pri"/>
+              </equal>
+            </test>
+            <out>
+              <chunk name="have_wanted_to_inf" case="caseSecondWord">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="4" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="4" side="tl" part="persnbr"/></tag>
+                  <tag><clip pos="4" side="sl" part="nor"/></tag>
+                  <tag><clip pos="4" side="sl" part="nori"/></tag>
+                  <tag><clip pos="4" side="sl" part="nork"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="4" side="tl" part="lemh"/>
+                  <clip pos="4" side="tl" part="a_verb"/>
+                  <clip pos="4" side="tl" part="temps"/>
+                  <clip pos="4" side="tl" part="persnbr"/>
+                  <clip pos="4" side="tl" part="lemq"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <lit v="want"/>
+                  <lit-tag v="vblex.pp"/>
+                </lu>
+                <b pos="2"/>
+                <lu>
+                  <lit v="to"/>
+                  <lit-tag v="pr"/>
+                </lu>
+                <b/>
+                <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit-tag v="inf"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <when>
+            <test>
+              <equal>
+                <clip pos="3" side="tl" part="temps"/>
+                <lit-tag v="pii"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="past"/>
+            </let>
+            <out>
+              <chunk name="want_to_inf" case="caseSecondWord">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="4" side="tl" part="persnbr"/></tag>
+                  <tag><clip pos="4" side="sl" part="nor"/></tag>
+                  <tag><clip pos="4" side="sl" part="nori"/></tag>
+                  <tag><clip pos="4" side="sl" part="nork"/></tag>
+                </tags>
+                <lu>
+                  <lit v="want"/>
+                  <lit-tag v="vblex"/>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <clip pos="4" side="tl" part="persnbr"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <lit v="to"/>
+                  <lit-tag v="pr"/>
+                </lu>
+                <b pos="2"/>
+                <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit-tag v="inf"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
           </when>
         </choose>
       </action>
