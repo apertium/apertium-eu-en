@@ -3203,7 +3203,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <let>
               <clip pos="1" side="tl" part="lemh"/>
               <get-case-from pos="1">
-                <lit v="tener"/>
+                <lit v="have"/>
               </get-case-from>
             </let>
             <let>

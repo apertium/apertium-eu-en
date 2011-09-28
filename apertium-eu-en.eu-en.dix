@@ -5345,14 +5345,13 @@
     <e a="matxin"><p><l>aurreratu<s n="vblex"/></l><r>overtake<s n="vblex"/></r></p></e>
     <e><p><l>aurretik<b/>gertatu<s n="vblex"/></l><r>precede<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>aurretik_gertatu<s n="vblex"/></l><r>precede<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>aurretik_jakin<s n="vblex"/></l><r>forecast<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>aurretik_jakin<s n="vblex"/></l><r>foretell<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>aurretik_jakin<s n="vblex"/></l><r>predict<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>aurretik<b/>jakin<s n="vblex"/></l><r>forecast<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>aurretik<b/>jakin<s n="vblex"/></l><r>foretell<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>aurretik<b/>jakin<s n="vblex"/></l><r>predict<s n="vblex"/></r></p></e>
     <e><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>foresee<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>aurrez_aurre_ipini<s n="vblex"/></l><r>confront<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>anticipate<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>aurrez_ikusi<s n="vblex"/></l><r>anticipate<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>envisage<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>aurrez<b/>ikusi<s n="vblex"/></l><r>foresee<s n="vblex"/></r></p></e>
     <e><p><l>aurreztu<s n="vblex"/></l><r>save<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aurreztu<s n="vblex"/></l><r>spare<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>aurreztu<s n="vblex"/></l><r>conserve<s n="vblex"/></r></p></e>
@@ -7370,7 +7369,7 @@
     <e a="matxin"><p><l>izan<s n="vblex"/></l><r>be<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>izan<s n="vblex"/></l><r>constitute<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>izan<s n="vblex"/></l><r>harbour<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>izan<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
+    <e a="matxin" slr="have"><p><l>izan<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>izena<b/>eman<s n="vblex"/></l><r>enlist<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>izena_eman<s n="vblex"/></l><r>enrol<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>izena_jarri<s n="vblex"/></l><r>name<s n="vblex"/></r></p></e>
