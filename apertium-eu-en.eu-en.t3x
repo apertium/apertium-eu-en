@@ -123,6 +123,7 @@
       <cat-item name="vbconj"/>
       <cat-item name="vbconj_not_pp"/>
       <cat-item name="lakoan_egon"/>
+      <cat-item name="have_wanted_to_inf"/>
     </def-cat>
 
   </section-def-cats>
@@ -1143,6 +1144,30 @@
               <b pos="2"/>
   	      <lu>
 	        <clip pos="3" part="whole"/>
+	      </lu>
+            </out>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <lu-count/>
+                <lit v="4"/>
+              </equal>
+            </test>
+            <out>
+              <b pos="1"/>
+  	      <lu>
+	        <clip pos="2" part="whole"/>
+	      </lu>
+              <b pos="2"/>
+  	      <lu>
+	        <clip pos="3" part="whole"/>
+	      </lu>
+              <b pos="3"/>
+  	      <lu>
+	        <clip pos="4" part="whole"/>
 	      </lu>
             </out>
           </when>
