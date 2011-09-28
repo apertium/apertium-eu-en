@@ -5538,15 +5538,14 @@
     <e><p><l>begiztatu<s n="vblex"/></l><r>discern<s n="vblex"/></r></p></e>
     <e><p><l>behar<b/>izan<s n="vblex"/></l><r>owe<s n="vblex"/></r></p></e>
     <e><p><l>behar<b/>izan<s n="vbper"/></l><r>need<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>behar_izan<s n="vblex"/></l><r>necessitate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>behar_izan<s n="vblex"/></l><r>need<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>behar_izan<s n="vblex"/></l><r>require<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>behar<b/>izan<s n="vblex"/></l><r>necessitate<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>behar<b/>izan<s n="vblex"/></l><r>require<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>behartu<s n="vblex"/></l><r>bind<s n="vblex"/></r></p></e>
     <e><p><l>behartu<s n="vblex"/></l><r>force<s n="vblex"/></r></p></e>
-    <e><p><l>behartu<s n="vblex"/></l><r>compel<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>behartu<s n="vblex"/></l><r>exact<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>behartu<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>behartu<s n="vblex"/></l><r>railroad<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>behartu<s n="vblex"/></l><r>compel<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>behartu<s n="vblex"/></l><r>exact<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>behartu<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>behartu<s n="vblex"/></l><r>railroad<s n="vblex"/></r></p></e>
     <e><p><l>behaztopatu<s n="vblex"/></l><r>trip<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>behaztopatu<s n="vblex"/></l><r>stumble<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>behera<b/>egin<s n="vblex"/></l><r>drop<s n="vblex"/></r></p></e>

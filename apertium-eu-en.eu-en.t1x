@@ -2666,7 +2666,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
       </test>
       <let>
         <clip pos="1" side="tl" part="temps"/>
-        <lit-tag v="pii"/>
+        <lit-tag v="past"/>
       </let>
     </when>
   </choose>
