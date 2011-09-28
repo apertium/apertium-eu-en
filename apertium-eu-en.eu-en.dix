@@ -311,6 +311,7 @@
     <e r="RL" c="MG: He fell off his chair"><p><l>ko<s n="post"/></l><r>off<s n="pr"/></r></p></e>
     <e><p><l>kontra<s n="spost"/></l><r>against<s n="pr"/></r></p></e>
     <e><p><l>ondoan<s n="adv"/><s n="gen"/></l><r>beside<s n="pr"/></r></p></e>
+    <e><p><l>hurbiletik<s n="adv"/></l><r>closely<s n="adv"/></r></p></e>
     <e><p><l>pean<s n="post"/></l><r>under<s n="pr"/></r></p></e>
     <e r="RL"><p><l>pean<s n="post"/></l><r>below<s n="pr"/></r></p></e>
     <e><p><l>ra<s n="post"/></l><r>at<s n="pr"/></r></p></e>
@@ -4650,8 +4651,10 @@
     <e r="RL"><p><l>neko<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
     <e><p><l>neko<s n="cnjadv"/></l><r>as<s n="cnjadv"/></r></p></e>
     <e><p><l>nez<s n="cnjadv"/></l><r>as<s n="cnjadv"/></r></p></e>
+    <e><p><l>ez<b/>ezik<s n="cnjadv"/></l><r>not<b/>only<s n="cnjadv"/></r></p></e>
 
     <e><p><l>Afganistan<s n="np"/><s n="loc"/></l><r>Afghanistan<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Gernika<s n="np"/><s n="loc"/></l><r>Gernika<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Afrika<s n="np"/><s n="loc"/></l><r>Africa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Agirre<s n="np"/><s n="ant"/></l><r>Agirre<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Aingeru<s n="np"/><s n="ant"/></l><r>Aingeru<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -9649,21 +9652,22 @@
     <e><p><l>baratze<s n="n"/></l><r>orchard<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barbaro<s n="n"/></l><r>barbarian<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>bare<s n="n"/></l><r>slug<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL" a="matxin" c="slr='spleed'"><p><l>bare<s n="n"/></l><r>spleen<s n="n"/><s n="ND"/></r></p></e>
+    <e a="matxin" slr="spleen"><p><l>bare<s n="n"/></l><r>spleen<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barealdi<s n="n"/></l><r>calm<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>postulatu<s n="n"/></l><r>postulate<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baregarri<s n="n"/></l><r>sedative<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barkamen<s n="n"/></l><r>pardon<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barne<s n="n"/></l><r>inside<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>barne<s n="n"/></l><r>interior<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>barne<s n="n"/></l><r>interior<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barne-zola<s n="n"/></l><r>staff<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barne-zola<s n="n"/></l><r>team<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barne-zola<s n="n"/></l><r>template<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barra<s n="n"/></l><r>bar<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>barra<s n="n"/></l><r>rail<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>barra<s n="n"/></l><r>rail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barraka<s n="n"/></l><r>barrack<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barrakoi<s n="n"/></l><r>bunkhouse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barre<s n="n"/></l><r>laugh<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>barre<s n="n"/></l><r>laughter<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>barre<s n="n"/></l><r>laughter<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barrera<s n="n"/></l><r>barrier<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barru<s n="n"/></l><r>inside<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barru<s n="n"/></l><r>interior<s n="n"/><s n="ND"/></r></p></e>

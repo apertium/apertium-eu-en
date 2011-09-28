@@ -15337,6 +15337,7 @@
     <e lm="South Africa"><i>South<b/>Africa</i><par n="Barcelona__np"/>    </e>
     <e lm="South Africa"><i>South<b/>Africa</i><par n="Barcelona__np"/>    </e>
     <e lm="Spain"><i>Spain</i><par n="Barcelona__np"/>    </e>
+    <e lm="Gernika"><i>Gernika</i><par n="Barcelona__np"/>    </e>
     <e lm="Stephen"><i>Stephen</i><par n="Mark__np"/>    </e>
     <e lm="Steven"><i>Steven</i><par n="Mark__np"/>    </e>
     <e lm="Stockholm"><i>Stockholm</i><par n="Barcelona__np"/>    </e>
@@ -31152,6 +31153,7 @@
     <e lm="praetorium"><i>praetorium</i><par n="house__n"/>     </e>
     <e lm="pragmatically"><i>pragmatically</i><par n="maybe__adv"/>     </e>
     <e lm="pram"><i>pram</i><par n="house__n"/>     </e>
+    <e lm="postulate"><i>postulate</i><par n="house__n"/>     </e>
     <e lm="praseodymium"><i>praseodymium</i><par n="house__n"/>     </e>
     <e lm="precariously"><i>precariously</i><par n="maybe__adv"/>     </e>
     <e lm="precedence"><i>precedence</i><par n="house__n"/>     </e>
@@ -31965,6 +31967,7 @@
     <e lm="thalamus"><i>thalamus</i><par n="access__n"/>     </e>
     <e lm="thalassocracy"><i>thalassocrac</i><par n="bab/y__n"/>     </e>
     <e lm="that's why"><i>that's<b/>why</i><par n="after__cnjadv"/>     </e>
+    <e lm="not only"><i>not<b/>only</i><par n="after__cnjadv"/>     </e>
     <e lm="the day before yesterday"><i>the<b/>day<b/>before<b/>yesterday</i><par n="maybe__adv"/>     </e>
     <e lm="the other way round"><i>the<b/>other<b/>way<b/>round</i><par n="maybe__adv"/>     </e>
     <e lm="the world over"><i>the<b/>world<b/>over</i><par n="maybe__adv"/>     </e>
