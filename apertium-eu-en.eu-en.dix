@@ -336,6 +336,8 @@
     <e r="LR"><p><l>ino<s n="rel"/></l><r></r></p></e>
     <e r="LR"><p><l>k<s n="post"/></l><r></r></p></e>
     <e r="LR" c="while/when"><p><l>larik<s n="rel"/></l><r></r></p></e>
+    <e r="LR" c="when/before"><p><l>nerako<s n="rel"/></l><r></r></p></e>
+    <e c="since"><p><l>netik<s n="rel"/></l><r>since<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>xe<s n="gra"/><s n="ind"/></l><r></r></p></e>
 
     <e><p><l>a<s n="det"/><s n="art"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
