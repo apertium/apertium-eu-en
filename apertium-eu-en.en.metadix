@@ -22327,6 +22327,7 @@
     <e lm="insolvent"><i>insolvent</i><par n="expensive__adj"/>    </e>
     <e lm="instantaneous"><i>instantaneous</i><par n="expensive__adj"/>    </e>
     <e lm="institutional"><i>institutional</i><par n="expensive__adj"/>    </e>
+    <e lm="juridico-institutional"><i>juridiko-institutional</i><par n="expensive__adj"/>    </e>
     <e lm="instrumental"><i>instrumental</i><par n="expensive__adj"/>    </e>
     <e lm="insufficient"><i>insufficient</i><par n="expensive__adj"/>    </e>
     <e lm="insular"><i>insular</i><par n="expensive__adj"/>    </e>
@@ -26295,7 +26296,7 @@
     <e lm="he's"><p><l>he's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="he's" i="yes" c="el tagger es confon, és més freqüent 'he is'"><p><l>he's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="it's"><p><l>it's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="it's" i="yes" c="el tagger es confon, és més freqüent 'she is'"><p><l>it's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="it's" i="yes" c="el tagger es confon, és més freqüent 'it is'"><p><l>it's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="we're"><p><l>we're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
     <e lm="they're"><p><l>they're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
     <e lm="I'll"><p><l>I'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
