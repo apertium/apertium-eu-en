@@ -24145,6 +24145,7 @@
     <e lm="bark"><i>bark</i><par n="accept__vblex"/>    </e>
     <e lm="base"><i>bas</i><par n="liv/e__vblex"/>    </e>
     <e lm="bathe"><i>bath</i><par n="liv/e__vblex"/>    </e>
+    <e lm="sunbathe"><i>sunbath</i><par n="liv/e__vblex"/>    </e>
     <e lm="become"><i>bec</i><par n="bec/ome__vblex"/>    </e>
     <e lm="bed"><i>bed</i><par n="bed__vblex"/>    </e>
     <e lm="begin"><i>beg</i><par n="beg/in__vblex"/>    </e>
@@ -26404,7 +26405,9 @@
     <e lm="God willing"><i>God<b/>willing</i><par n="maybe__adv"/>    </e>
     <e lm="in the strictest sense of the word"><i>in<b/>the<b/>strictest<b/>sense<b/>of<b/>the<b/>word</i><par n="maybe__adv"/>    </e>
     <e lm="a.m."><i>a.m.</i><par n="maybe__adv"/>    </e>
+    <e lm="to and fro"><i>to<b/>and<b/>fro</i><par n="maybe__adv"/>    </e>
     <e lm="observing"><i>observing</i><par n="maybe__adv"/>    </e>
+    <e lm="tottering"><i>tottering</i><par n="maybe__adv"/>    </e>
     <e lm="a bit"><i>a<b/>bit</i><par n="maybe__adv"/>    </e>
     <e lm="a little bit"><i>a<b/>little<b/>bit</i><par n="maybe__adv"/>    </e>
     <e lm="a lot"><i>a<b/>lot</i><par n="maybe__adv"/>    </e>
