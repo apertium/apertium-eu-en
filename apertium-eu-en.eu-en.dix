@@ -378,7 +378,7 @@
     <e><p><l>berrogeita<b/>seigarren<s n="adj"/><s n="izl"/></l><r>forty<b/>sixth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>berrogeita<b/>zazpigarren<s n="adj"/><s n="izl"/></l><r>forty<b/>seventh<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>berrogeita<b/>zortzigarren<s n="adj"/><s n="izl"/></l><r>forty<b/>eighth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
-    <e><p><l>beste<s n="adj"/><s n="izl"/></l><r>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>beste<s n="adj"/><s n="izl"/></l><r>other<s n="adj"/></r></p></e>
     <e><p><l>bigarren<s n="adj"/></l><r>second<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>bosgarren<s n="adj"/></l><r>fifth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>bostgarren<s n="adj"/></l><r>fifth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -4677,6 +4677,7 @@
     <e><p><l>Arzalluz<s n="np"/><s n="ant"/></l><r>Arzalluz<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Asia<s n="np"/><s n="ant"/></l><r>Asia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Asia<s n="np"/><s n="loc"/></l><r>Asia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Asia<b/>mendebalde<s n="np"/><s n="loc"/></l><r>Western<b/>Asia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Asier<s n="np"/><s n="ant"/></l><r>Asier<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Atutxa<s n="np"/><s n="ant"/></l><r>Atutxa<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Aurkene<s n="np"/><s n="ant"/></l><r>Aurkene<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
@@ -11148,6 +11149,7 @@
     <e><p><l>hego<s n="n"/></l><r>south<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>hego-ekialde<s n="n"/></l><r>south-east<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>hego-mendebalde<s n="n"/></l><r>southwest<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>mendebalde<s n="n"/></l><r>west<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegoalde<s n="n"/></l><r>south<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hein<s n="n"/></l><r>measure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hein<s n="n"/></l><r>measurement<s n="n"/><s n="ND"/></r></p></e>

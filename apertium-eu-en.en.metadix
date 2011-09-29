@@ -14879,6 +14879,7 @@
     <e lm="Arizona"><i>Arizona</i><par n="Barcelona__np"/>    </e>
     <e lm="Artur"><i>Artur</i><par n="Mark__np"/>    </e>
     <e lm="Asia"><i>Asia</i><par n="Barcelona__np"/>    </e>
+    <e lm="Western Asia"><i>Western<b/>Asia</i><par n="Barcelona__np"/>    </e>
     <e lm="Asturias"><i>Asturias</i><par n="Barcelona__np"/>    </e>
     <e lm="Athens"><i>Athens</i><par n="Barcelona__np"/>    </e>
     <e lm="Australia"><i>Australia</i><par n="Barcelona__np"/>    </e>
@@ -18285,6 +18286,7 @@
     <e lm="intermediary"><i>intermediar</i><par n="bab/y__n"/>    </e>
     <e lm="coordinated"><i>coordinated</i><par n="expensive__adj"/></e>
     <e r="RL" lm="any"><i>any</i><par n="expensive__adj"/></e>
+    <e r="RL" lm="other"><i>other</i><par n="expensive__adj"/></e>
     <e lm="quasi-geostrophic"><i>quasi-geostrophic</i><par n="expensive__adj"/></e>
     <e lm="geostrophic"><i>geostrophic</i><par n="expensive__adj"/></e>
     <e lm="exciting"><i>exciting</i><par n="expensive__adj"/></e>
