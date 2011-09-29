@@ -4890,6 +4890,7 @@
     <e><p><l>Zapatero<s n="np"/><s n="ant"/></l><r>Zapatero<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Zimbawe<s n="np"/><s n="loc"/></l><r>Zimbabwe<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Zorione<s n="np"/><s n="ant"/></l><r>Zorione<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ahetze<s n="np"/><s n="loc"/></l><r>Ahetze<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
 
     <e a="matxin"><p><l>'Sir'_titulua_eman<s n="vblex"/></l><r>knight<s n="vblex"/></r></p></e>
     <e><p><l>abandonatu<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
@@ -9054,6 +9055,7 @@
     <e><p><l>UPN<s n="n"/><s n="acr"/></l><r>UPN<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>UPV/EHU<s n="n"/><s n="acr"/></l><r>UPV/EHU<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>abandonu<s n="n"/></l><r>abandonment<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>latsarri<s n="n"/></l><r>wash<b/>house<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abaniko<s n="n"/></l><r>fan<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abantaila<s n="n"/></l><r>advantage<s n="n"/><s n="ND"/></r></p></e>
     <e c="Ángel"><p><l>abdomen<s n="n"/></l><r>abdomen<s n="n"/><s n="ND"/></r></p></e>
@@ -9785,6 +9787,7 @@
     <e><p><l>berrikuntza<s n="n"/></l><r>innovation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berritze<s n="n"/></l><r>renewal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berritze<s n="n"/></l><r>renovation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>eraberritze<s n="n"/></l><r>renovation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bertako<s n="n"/></l><r>resident<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>bertsio<s n="n"/></l><r>release<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bertsio<s n="n"/></l><r>version<s n="n"/><s n="ND"/></r></p></e>
@@ -10448,6 +10451,7 @@
     <e><p><l>errege-erregina<s n="n"/></l><r>king<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errege-erregina<s n="n"/></l><r>queen<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erregela<s n="n"/></l><r>rule<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ezurte<s n="n"/></l><r>lean<b/>year<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>erregeorde<s n="n"/></l><r>regent<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>erregimen<s n="n"/></l><r>diet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erregimen<s n="n"/></l><r>regime<s n="n"/><s n="ND"/></r></p></e>
@@ -13620,6 +13624,7 @@
     <e><p><l>zigarreta<s n="n"/></l><r>cigarette<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>zigilu<s n="n"/></l><r>seal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zigilu<s n="n"/></l><r>stamp<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>seilu<s n="n"/></l><r>stamp<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zigor<s n="n"/></l><r>punishment<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>zigor<s n="n"/></l><r>sanction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zigortu<s n="n"/></l><r>convict<s n="n"/><s n="ND"/></r></p></e>

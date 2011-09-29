@@ -15134,6 +15134,7 @@
     <e lm="Ireland"><i>Ireland</i><par n="Barcelona__np"/>    </e>
     <e lm="Northern Ireland"><i>Northern<b/>Ireland</i><par n="Barcelona__np"/>    </e>
     <e lm="La Palma"><i>La<b/>Palma</i><par n="Barcelona__np"/>    </e>
+    <e lm="Ahetze"><i>Ahetze</i><par n="Barcelona__np"/>    </e>
     <e lm="Irene"><i>Irene</i><par n="Mary__np"/>    </e>
     <e lm="Isabel"><i>Isabel</i><par n="Mary__np"/>    </e>
     <e lm="Islamabad"><i>Islamabad</i><par n="Barcelona__np"/>    </e>
@@ -21160,6 +21161,7 @@
     <e lm="yacht"><i>yacht</i><par n="house__n"/>    </e>
     <e lm="yard"><i>yard</i><par n="house__n"/>    </e>
     <e lm="year"><i>year</i><par n="house__n"/>    </e>
+    <e lm="lean year"><i>lean<b/>year</i><par n="house__n"/>    </e>
     <e lm="yearbook"><i>yearbook</i><par n="house__n"/>    </e>
     <e lm="yen"><i>yen</i><par n="house__n"/>    </e>
     <e lm="yield" a="carmentano"><i>yield</i><par n="house__n"/>    </e>
@@ -32267,6 +32269,7 @@
     <e lm="faithfully"><i>faithfully</i><par n="maybe__adv"/></e>
     <e lm="warp"><i>warp</i><par n="house__n"/>     </e>
     <e lm="washbowl"><i>washbowl</i><par n="house__n"/>     </e>
+    <e lm="wash house"><i>wash<b/>house</i><par n="house__n"/>     </e>
     <e lm="waterfall"><i>waterfall</i><par n="house__n"/>     </e>
     <e lm="weakening"><i>weakening</i><par n="house__n"/>     </e>
     <e lm="weathercock"><i>weathercock</i><par n="house__n"/>     </e>
