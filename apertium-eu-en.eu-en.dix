@@ -3646,7 +3646,6 @@
     <e a="matxin"><p><l>urtsu<s n="adj"/><s n="izo"/></l><r>juicy<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL" a="matxin"><p><l>urtsu<s n="adj"/><s n="izo"/></l><r>watery<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>urtu<s n="adj"/><s n="izo"/></l><r>molten<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>usaingabe<s n="adj"/><s n="izo"/></l><r>odorless<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>usaingabe<s n="adj"/><s n="izo"/></l><r>odourless<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>usaintsu<s n="adj"/><s n="izo"/></l><r>redolent<s n="adj"/></r></p></e>
     <e><p><l>ustekabeko<s n="adj"/></l><r>casual<s n="adj"/></r></p></e>
@@ -3714,13 +3713,13 @@
     <e r="RL" a="matxin"><p><l>zalantzati<s n="adj"/><s n="izo"/></l><r>indecisive<s n="adj"/></r></p></e>
     <e><p><l>zalantzazko<s n="adj"/></l><r>doubtful<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zalapartatsu<s n="adj"/><s n="izo"/></l><r>rowdy<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin"><p><l>zalapartatsu<s n="adj"/><s n="izo"/></l><r>vociferous<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zalapartatsu<s n="adj"/><s n="izo"/></l><r>vociferous<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zale<s n="adj"/></l><r>enthusiast<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zale<s n="adj"/></l><r>fanatic<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zale<s n="adj"/></l><r>keen<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zangar<s n="adj"/></l><r>brave<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>zapaltzaile<s n="adj"/><s n="izo"/></l><r>oppressive<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>zaporegabe<s n="adj"/><s n="izo"/></l><r>insipid<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zaporegabe<s n="adj"/><s n="izo"/></l><r>insipid<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zaporegabe<s n="adj"/><s n="izo"/></l><r>tasteless<s n="adj"/></r></p></e>
     <e r="RL"><p><l>zaporetsu<s n="adj"/></l><r>succulent<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>zaporetsu<s n="adj"/><s n="izo"/></l><r>tasty<s n="adj"/><s n="sint"/></r></p></e>
@@ -4869,7 +4868,7 @@
     <e><p><l>abian<b/>jarri<s n="vblex"/></l><r>set<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>abiatu<s n="vblex"/></l><r>initiate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>abiatu<s n="vblex"/></l><r>pioneer<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>abiatu<s n="vblex"/></l><r>depart<s n="vblex"/></r></p></e>
+    <e slr="depart" a="matxin"><p><l>abiatu<s n="vblex"/></l><r>depart<s n="vblex"/></r></p></e>
     <e><p><l>abisatu<s n="vblex"/></l><r>warn<s n="vblex"/></r></p></e>
     <e><p><l>abonatu<s n="vblex"/></l><r>credit<s n="vblex"/></r></p></e>
     <e><p><l>abordatu<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
@@ -4884,8 +4883,8 @@
     <e r="RL" a="matxin"><p><l>adarkatu<s n="vblex"/></l><r>gore<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>adarkatu<s n="vblex"/></l><r>ramify<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>adarra_jo<s n="vblex"/></l><r>tease<s n="vblex"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>adi-adi_begiratu<s n="vblex"/></l><r>gaze<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>adi-adi_begiratu<s n="vblex"/></l><r>stare<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>adi-adi<b/>begiratu<s n="vblex"/></l><r>gaze<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>adi-adi<b/>begiratu<s n="vblex"/></l><r>stare<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>adiakatu<s n="vblex"/></l><r>groan<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>adiakatu<s n="vblex"/></l><r>moan<s n="vblex"/></r></p></e>
     <e><p><l>adierazi<s n="vblex"/></l><r>express<s n="vblex"/></r></p></e>
@@ -4937,15 +4936,15 @@
     <e r="RL" a="matxin"><p><l>agindu<s n="vblex"/></l><r>prescribe<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>agiraka<b/>egin<s n="vblex"/></l><r>rebuke<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>agiraka<b/>egin<s n="vblex"/></l><r>reprimand<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>agiritegian_gorde<s n="vblex"/></l><r>file<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>agiritegian<b/>gorde<s n="vblex"/></l><r>file<s n="vblex"/></r></p></e>
     <e><p><l>agitatu<s n="vblex"/></l><r>agitate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agitatu<s n="vblex"/></l><r>wave<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>agortu<s n="vblex"/></l><r>exhaust<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agur<b/>egin<s n="vblex"/></l><r>fire<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>agur<b/>egin<s n="vblex"/></l><r>sack<s n="vblex"/></r></p></e>
     <e><p><l>agur<b/>egin<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>agur<b/>egin<s n="vblex"/></l><r>bow<s n="vblex"/></r></p></e>
-    <e><p><l>agurtu<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
+    <e a="matxin" slr="bow"><p><l>agur<b/>egin<s n="vblex"/></l><r>bow<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>agurtu<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>agurtu<s n="vblex"/></l><r>salute<s n="vblex"/></r></p></e>
     <e><p><l>ahalbidetu<s n="vblex"/></l><r>make<g><b/>possible</g><s n="vblex"/></r></p></e>
     <e c="MG: sería reflexivo"><p><l>ahalegindu<s n="vblex"/></l><r>encourage<s n="vblex"/></r></p></e>
@@ -8983,6 +8982,8 @@
     <e><p><l>AHT<s n="n"/><s n="acr"/></l><r>HSR<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>ANV<s n="n"/><s n="acr"/></l><r>ANV<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 
+    <e><p><l>agiritegi<s n="n"/></l><r>archive<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>araztegi<s n="n"/></l><r>refinery<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>Andorrako<s n="n"/></l><r>Andorran<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>Aragoiko<s n="n"/></l><r>Aragonese<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>BPG<s n="n"/><s n="acr"/></l><r>GDP<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
