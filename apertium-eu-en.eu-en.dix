@@ -11678,21 +11678,22 @@
     <e><p><l>joko<s n="n"/></l><r>gambling<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>joko<s n="n"/></l><r>game<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>joko<s n="n"/></l><r>play<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>jolas<s n="n"/></l><r>gambling<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>jolas<s n="n"/></l><r>game<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>jolas<s n="n"/></l><r>gambling<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>jolas<s n="n"/></l><r>game<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jolas<s n="n"/></l><r>play<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>jolas-parke<s n="n"/></l><r>fair<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>jolastoki<s n="n"/></l><r>playground<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>jomuga<s n="n"/></l><r>aim<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>jomuga<s n="n"/></l><r>aim<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jomuga<s n="n"/></l><r>goal<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>jomuga<s n="n"/></l><r>objective<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>jomuga<s n="n"/></l><r>target<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>jomuga<s n="n"/></l><r>objective<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="target"><p><l>jomuga<s n="n"/></l><r>target<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jostailu<s n="n"/></l><r>toy<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>judizio<s n="n"/></l><r>judgement<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>judizio<s n="n"/></l><r>judgment<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>judizio<s n="n"/></l><r>judgement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>judizio<s n="n"/></l><r>trial<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>judu<s n="n"/></l><r>Jewish<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>junta<s n="n"/></l><r>board<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bigungarri<s n="n"/></l><r>pad<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>jubileu<s n="n"/></l><r>jubilee<s n="n"/><s n="ND"/></r></p></e>
     <e c="Téc."><p><l>junta<s n="n"/></l><r>joint<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>juntagailu<s n="n"/></l><r>conjunction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jurisdikzio<s n="n"/></l><r>jurisdiction<s n="n"/><s n="ND"/></r></p></e>
@@ -11702,7 +11703,7 @@
     <e><p><l>kabina<s n="n"/></l><r>cabin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kabinete<s n="n"/></l><r>cabinet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kable<s n="n"/></l><r>cable<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>kable<s n="n"/></l><r>wire<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>kable<s n="n"/></l><r>wire<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kabo<s n="n"/></l><r>cape<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kafe<s n="n"/></l><r>coffee<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kafeina<s n="n"/></l><r>caffeine<s n="n"/><s n="ND"/></r></p></e>
@@ -12673,6 +12674,7 @@
     <e><p><l>ondo<s n="n"/></l><r>canton<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondo<s n="n"/></l><r>side<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondoez<s n="n"/></l><r>unrest<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="fainting"><p><l>ondoez<s n="n"/></l><r>fainting<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondoko<s n="n"/></l><r>successor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondorengo<s n="n"/></l><r>successor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondorio<s n="n"/></l><r>consequence<s n="n"/><s n="ND"/></r></p></e>

@@ -17390,6 +17390,7 @@
     <e lm="edge"><i>edge</i><par n="house__n"/>    </e>
     <e lm="path edge"><i>path<b/>edge</i><par n="house__n"/>    </e>
     <e lm="riverbank"><i>riverbank</i><par n="house__n"/>    </e>
+    <e lm="jubilee"><i>jubilee</i><par n="house__n"/>    </e>
     <e lm="edict"><i>edict</i><par n="house__n"/>    </e>
     <e lm="edition"><i>edition</i><par n="house__n"/>    </e>
     <e lm="editor"><i>editor</i><par n="house__n"/>    </e>
@@ -17780,6 +17781,7 @@
     <e lm="freezer"><i>freezer</i><par n="house__n"/>    </e>
     <e lm="frequency"><i>frequenc</i><par n="bab/y__n"/>    </e>
     <e lm="fresco"><i>fresco</i><par n="archipelago__n"/>    </e>
+    <e lm="veto"><i>veto</i><par n="archipelago__n"/>    </e>
     <e lm="freshness"><i>freshness</i><par n="access__n"/>    </e>
     <e lm="friar"><i>friar</i><par n="house__n"/>    </e>
     <e lm="fridge"><i>fridge</i><par n="house__n"/>    </e>
