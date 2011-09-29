@@ -21115,6 +21115,7 @@
     <e lm="will"><i>will</i><par n="house__n"/>    </e>
     <e lm="willingness"><i>willingness</i><par n="access__n"/>    </e>
     <e lm="wind"><i>wind</i><par n="house__n"/>    </e>
+    <e lm="south wind"><i>south<b/>wind</i><par n="house__n"/>    </e>
     <e lm="window"><i>window</i><par n="house__n"/>    </e>
     <e lm="windscreen"><i>windscreen</i><par n="house__n"/>    </e>
     <e lm="wine"><i>wine</i><par n="house__n"/>    </e>

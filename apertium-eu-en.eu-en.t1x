@@ -2473,6 +2473,17 @@
 
 
     <def-macro n="tipo_det" npar="1">
+      <let>
+        <var n="blanco"/>
+        <concat>
+          <lit v="["/>
+          <clip pos="1" side="tl" part="tipus_det"/>
+          <lit v="]"/>
+        </concat>
+      </let>
+      <out>
+        <var n="blanco"/>
+      </out>
       <choose>
         <when>
           <test>
@@ -10473,12 +10484,12 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="tipo_det">
+          <with-param pos="4"/>
+        </call-macro>
         <call-macro n="concord_n3">
           <with-param pos="1"/>
           <with-param pos="2"/>
-          <with-param pos="4"/>
-        </call-macro>
-        <call-macro n="tipo_det">
           <with-param pos="4"/>
         </call-macro>
         <call-macro n="adv_adj">
