@@ -6408,8 +6408,8 @@
     <e a="matxin"><p><l>esan<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>esan<s n="vblex"/></l><r>utter<s n="vblex"/></r></p></e>
     <e><p><l>esan<b/>nahi<b/>edun<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>esan_nahi_izan<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>esan_nahi_izan<s n="vblex"/></l><r>signify<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>esan<b/>nahi<b/>izan<s n="vbsint"/></l><r>mean<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>esan<b/>nahi<b/>izan<s n="vbsint"/></l><r>signify<s n="vblex"/></r></p></e>
     <e><p><l>esana<b/>egin<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
     <e><p><l>eseki<s n="vblex"/></l><r>hang<s n="vblex"/></r></p></e>
     <e c="reflexivo: sentarse"><p><l>eseri<s n="vblex"/></l><r>seat<s n="vblex"/></r></p></e>
@@ -7098,8 +7098,8 @@
     <e a="matxin"><p><l>igorri<s n="vblex"/></l><r>dispatch<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>igorri<s n="vblex"/></l><r>emit<s n="vblex"/></r></p></e>
     <e><p><l>igurtzi<s n="vblex"/></l><r>rub<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>igurtziz_garbitu<s n="vblex"/></l><r>scour<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>igurtziz_garbitu<s n="vblex"/></l><r>scrub<s n="vblex"/></r></p></e>
+    be r="RL" a="matxin"><p><l>igurtziz<b/>garbitu<s n="vblex"/></l><r>scour<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>igurtziz<b/>garbitu<s n="vblex"/></l><r>scrub<s n="vblex"/></r></p></e>
     <e><p><l>ihardetsi<s n="vblex"/></l><r>retort<s n="vblex"/></r></p></e>
     <e><p><l>ihardetsi<s n="vbsint"/></l><r>retort<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ihardetsi<s n="vblex"/></l><r>reply<s n="vblex"/></r></p></e>
@@ -7358,11 +7358,11 @@
     <e r="RL" a="matxin"><p><l>izan<s n="vblex"/></l><r>constitute<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>izan<s n="vblex"/></l><r>harbour<s n="vblex"/></r></p></e>
     <e a="matxin" slr="have"><p><l>izan<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>izena<b/>eman<s n="vblex"/></l><r>enlist<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>izena_eman<s n="vblex"/></l><r>enrol<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>izena<b/>eman<s n="vbsint"/></l><r>enlist<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>izena<b/>eman<s n="vbsint"/></l><r>enrol<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>izena<b/>jarri<s n="vblex"/></l><r>name<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>izena_kendu<s n="vblex"/></l><r>denigrate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>izena_kendu<s n="vblex"/></l><r>discredit<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>izena<b/>kendu<s n="vblex"/></l><r>denigrate<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>izena<b/>kendu<s n="vblex"/></l><r>discredit<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>izenburua<b/>edun<s n="vblex"/></l><r>entitle<s n="vblex"/></r></p></e>
     <e><p><l>izenburua<b/>edun<s n="vblex"/></l><r>title<s n="vblex"/></r></p></e>
     <e c="nombrar o designar a alguien"><p><l>izendatu<s n="vblex"/></l><r>appoint<s n="vblex"/></r></p></e>
@@ -7686,8 +7686,8 @@
     <e a="matxin"><p><l>kontsultatu<s n="vblex"/></l><r>consult<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>kontsumitu<s n="vblex"/></l><r>consume<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>kontua_izan<s n="vblex"/></l><r>bank<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>kontuan_hartu<s n="vblex"/></l><r>consider<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>kontuan_hartu<s n="vblex"/></l><r>heed<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>kontuan<b/>hartu<s n="vblex"/></l><r>consider<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>kontuan<b/>hartu<s n="vblex"/></l><r>heed<s n="vblex"/></r></p></e>
     <e><p><l>konturatu<s n="vblex"/></l><r>realise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>konturatu<s n="vblex"/></l><r>twig<s n="vblex"/></r></p></e>
     <e><p><l>kontzentratu<s n="vblex"/></l><r>mass<s n="vblex"/></r></p></e>
@@ -12509,13 +12509,14 @@
     <e><p><l>nagusi<s n="n"/></l><r>boss<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>nagusi<s n="n"/></l><r>chief<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nagusigo<s n="n"/></l><r>predominance<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>nagusitasun<s n="n"/></l><r>command<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nagusitasun<s n="n"/></l><r>command<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nagusitasun<s n="n"/></l><r>superiority<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>nahasia_egote<s n="n"/></l><r>implication<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>nahasia_egote<s n="n"/></l><r>involvement<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>nahaste<s n="n"/></l><r>confusion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>nahaste<s n="n"/></l><r>melange<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>nahaste<s n="n"/></l><r>mix<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nahasia<b/>egote<s n="n"/></l><r>implication<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>nahasia<b/>egote<s n="n"/></l><r>involvement<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>nahaste<s n="n"/></l><r>disorder<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nahaste<s n="n"/></l><r>confusion<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nahaste<s n="n"/></l><r>melange<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nahaste<s n="n"/></l><r>mix<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nahi<s n="n"/></l><r>will<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>natura<s n="n"/></l><r>nature<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nazi<s n="n"/></l><r>Nazi<s n="n"/><s n="ND"/></r></p></e>
