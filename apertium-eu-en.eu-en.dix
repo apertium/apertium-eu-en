@@ -338,6 +338,7 @@
     <e r="LR" c="while/when"><p><l>larik<s n="rel"/></l><r></r></p></e>
     <e r="LR" c="when/before"><p><l>nerako<s n="rel"/></l><r></r></p></e>
     <e c="since"><p><l>netik<s n="rel"/></l><r>since<s n="cnjadv"/></r></p></e>
+    <e c="FIXME - can't find"><p><l>nentz<s n="rel"/></l><r></r></p></e>
     <e r="LR"><p><l>xe<s n="gra"/><s n="ind"/></l><r></r></p></e>
 
     <e><p><l>a<s n="det"/><s n="art"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
@@ -9057,6 +9058,10 @@
     <e><p><l>abantaila<s n="n"/></l><r>advantage<s n="n"/><s n="ND"/></r></p></e>
     <e c="Ángel"><p><l>abdomen<s n="n"/></l><r>abdomen<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abelburu<s n="n"/></l><r>animal<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>beto<s n="n"/></l><r>veto<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kuleto<s n="n"/></l><r>Caesar's<b/>mushroom<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>inizial<s n="n"/></l><r>initial<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>koarentena<s n="n"/></l><r>quarantine<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abendu<s n="n"/></l><r>December<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abentura<s n="n"/></l><r>adventure<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>abentura<s n="n"/></l><r>venture<s n="n"/><s n="ND"/></r></p></e>
@@ -9340,6 +9345,7 @@
     <e><p><l>argazkilari<s n="n"/></l><r>photographer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>argentinar<s n="n"/></l><r>Argentinian<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>argi<s n="n"/></l><r>light<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>seinale-argi<s n="n"/></l><r>signal<b/>light<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>argibide<s n="n"/></l><r>explanation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>argindar<s n="n"/></l><r>electricity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>argitalpen<s n="n"/></l><r>publication<s n="n"/><s n="ND"/></r></p></e>
@@ -10509,12 +10515,14 @@
     <e><p><l>errusiar<s n="n"/></l><r>Russian<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errusiera<s n="n"/></l><r>russian<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>errutina<s n="n"/></l><r>routine<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ertz<s n="n"/></l><r>border<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ertz<s n="n"/></l><r>border<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ertz<s n="n"/></l><r>edge<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ertz<s n="n"/></l><r>bank<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ertz<s n="n"/></l><r>bank<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bide-ertz<s n="n"/></l><r>path<b/>edge<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ibai-ertz<s n="n"/></l><r>riverbank<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ertzain<s n="n"/></l><r>police<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>ertzain<s n="n"/></l><r>policeman<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ertzain<s n="n"/></l><r>policewoman<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ertzain<s n="n"/></l><r>policeman<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ertzain<s n="n"/></l><r>policewoman<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eruditu<s n="n"/></l><r>scholar<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esaldi<s n="n"/></l><r>phrase<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esaldi<s n="n"/></l><r>sentence<s n="n"/><s n="ND"/></r></p></e>
@@ -11192,6 +11200,7 @@
     <e><p><l>herrizain<s n="n"/></l><r>officer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hesi<s n="n"/></l><r>barrier<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>hesola<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>elur-hesola<s n="n"/></l><r>snow<b/>stake<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hezetasun<s n="n"/></l><r>humidity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heziketa<s n="n"/></l><r>education<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hezitzaile<s n="n"/></l><r>educator<s n="n"/><s n="ND"/></r></p></e>

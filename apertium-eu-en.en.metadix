@@ -17388,6 +17388,8 @@
     <e lm="eddy"><i>edd</i><par n="bab/y__n"/>    </e>
     <e lm="edema"><i>edema</i><par n="house__n"/>    </e>
     <e lm="edge"><i>edge</i><par n="house__n"/>    </e>
+    <e lm="path edge"><i>path<b/>edge</i><par n="house__n"/>    </e>
+    <e lm="riverbank"><i>riverbank</i><par n="house__n"/>    </e>
     <e lm="edict"><i>edict</i><par n="house__n"/>    </e>
     <e lm="edition"><i>edition</i><par n="house__n"/>    </e>
     <e lm="editor"><i>editor</i><par n="house__n"/>    </e>
@@ -18697,6 +18699,7 @@
     <e lm="lift"><i>lift</i><par n="house__n"/>    </e>
     <e lm="ligament"><i>ligament</i><par n="house__n"/>    </e>
     <e lm="light"><i>light</i><par n="house__n"/>    </e>
+    <e lm="signal light"><i>signal<b/>light</i><par n="house__n"/>    </e>
     <e lm="lighter"><i>lighter</i><par n="house__n"/>    </e>
     <e lm="lightning"><i>lightning</i><par n="house__n"/>    </e>
     <e lm="lightning"><i>lightning</i><par n="house__n"/>    </e>
@@ -19081,6 +19084,7 @@
     <e lm="muse"><i>muse</i><par n="house__n"/>    </e>
     <e lm="museum"><i>museum</i><par n="house__n"/>    </e>
     <e lm="mushroom"><i>mushroom</i><par n="house__n"/>    </e>
+    <e lm="Caesar's mushroom"><i>Caesar's<b/>mushroom</i><par n="house__n"/>    </e>
     <e lm="music"><i>music</i><par n="house__n"/>    </e>
     <e lm="musician"><i>musician</i><par n="house__n"/>    </e>
     <e lm="mussel"><i>mussel</i><par n="house__n"/>    </e>
