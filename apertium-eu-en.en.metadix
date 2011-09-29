@@ -23153,8 +23153,8 @@
     <e lm="vintage"><i>vintage</i><par n="expensive__adj"/></e>
     <e lm="juicy"><i>juic</i><par n="happ/y__adj"/></e>
     <e lm="molten"><i>molten</i><par n="expensive__adj"/></e>
-    <e lm="odorless"><i>odorless</i><par n="expensive__adj"/></e>
-    <e lm="odourless"><i>odourless</i><par n="expensive__adj"/></e>
+    <e lm="outdated"><i>outdated</i><par n="expensive__adj"/></e>
+    <e lm="odourless"><i>od</i><par n="o_ou"/><i>rless</i><par n="expensive__adj"/></e>
     <e lm="redolent"><i>redolent</i><par n="expensive__adj"/></e>
     <e lm="rotten"><i>rotten</i><par n="expensive__adj"/></e>
     <e lm="untapped"><i>untapped</i><par n="expensive__adj"/></e>
