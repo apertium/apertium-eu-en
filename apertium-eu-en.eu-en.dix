@@ -5396,11 +5396,11 @@
     <e r="RL" a="matxin"><p><l>bahitu<s n="vblex"/></l><r>requisition<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>bahituran<b/>eman<s n="vblex"/></l><r>pawn<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>baietsi<s n="vblex"/></l><r>sanction<s n="vblex"/></r></p></e>
-    <e><p><l>baieztatu<s n="vblex"/></l><r>affirm<s n="vblex"/></r></p></e>
-    <e><p><l>baieztatu<s n="vblex"/></l><r>assert<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>baieztatu<s n="vblex"/></l><r>affirm<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>baieztatu<s n="vblex"/></l><r>assert<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>baieztatu<s n="vblex"/></l><r>claim<s n="vblex"/></r></p></e>
     <e><p><l>baieztatu<s n="vblex"/></l><r>confirm<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>baieztatu<s n="vblex"/></l><r>nod<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>baieztatu<s n="vblex"/></l><r>nod<s n="vblex"/></r></p></e>
     <e><p><l>baimena<b/>eman<s n="vblex"/></l><r>authorise<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>baimena<b/>eman<s n="vblex"/></l><r>entitle<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>baimena_eman<s n="vblex"/></l><r>licence<s n="vblex"/></r></p></e>
@@ -6525,14 +6525,14 @@
     <e r="RL" a="matxin"><p><l>eutsi<s n="vblex"/></l><r>uphold<s n="vblex"/></r></p></e>
     <e><p><l>exijitu<s n="vblex"/></l><r>demand<s n="vblex"/></r></p></e>
     <e><p><l>existitu<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ez<b/>egin<s n="vblex"/></l><r>abstain<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ez<b/>egin<s n="vblex"/></l><r>omit<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ez<b/>egin<s n="vblex"/></l><r>refrain<s n="vblex"/></r></p></e>
-    <e><p><l>ez<b/>jakin<s n="vblex"/></l><r>ignore<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ez_aurrera_ez_atzera_utzi<s n="vblex"/></l><r>fox<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ez_bete<s n="vblex"/></l><r>breach<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ez_bete<s n="vblex"/></l><r>default<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ez_ukan<s n="vblex"/></l><r>lack<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ez<b/>egin<s n="vblex"/></l><r>abstain<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ez<b/>egin<s n="vblex"/></l><r>omit<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ez<b/>egin<s n="vblex"/></l><r>refrain<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ez<b/>jakin<s n="vblex"/></l><r>ignore<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ez<b/>aurrera<b/>ez<b/>atzera<b/>utzi<s n="vblex"/></l><r>fox<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ez<b/>bete<s n="vblex"/></l><r>breach<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ez<b/>bete<s n="vblex"/></l><r>default<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ez<b/>ukan<s n="vblex"/></l><r>lack<s n="vblex"/></r></p></e>
     <e><p><l>ezabatu<s n="vblex"/></l><r>erase<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ezabatu<s n="vblex"/></l><r>delete<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ezabatu<s n="vblex"/></l><r>efface<s n="vblex"/></r></p></e>
