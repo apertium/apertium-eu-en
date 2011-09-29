@@ -4892,7 +4892,6 @@
     <e><p><l>Zorione<s n="np"/><s n="ant"/></l><r>Zorione<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Ahetze<s n="np"/><s n="loc"/></l><r>Ahetze<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
 
-    <e a="matxin"><p><l>'Sir'_titulua_eman<s n="vblex"/></l><r>knight<s n="vblex"/></r></p></e>
     <e><p><l>abandonatu<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
 
     <e a="matxin"><p><l>abdikatu<s n="vblex"/></l><r>abdicate<s n="vblex"/></r></p></e>
@@ -9787,7 +9786,7 @@
     <e><p><l>berrikuntza<s n="n"/></l><r>innovation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berritze<s n="n"/></l><r>renewal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berritze<s n="n"/></l><r>renovation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eraberritze<s n="n"/></l><r>renovation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>eraberritze<s n="n"/></l><r>renovation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bertako<s n="n"/></l><r>resident<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>bertsio<s n="n"/></l><r>release<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bertsio<s n="n"/></l><r>version<s n="n"/><s n="ND"/></r></p></e>
@@ -10448,8 +10447,7 @@
     <e><p><l>erregai<s n="n"/></l><r>fuel<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errege<s n="n"/></l><r>king<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errege-bide<s n="n"/></l><r>royal<b/>road<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>errege-erregina<s n="n"/></l><r>king<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>errege-erregina<s n="n"/></l><r>queen<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>errege-erregina<s n="n"/></l><r>king<b/>and<b/>queen<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>erregela<s n="n"/></l><r>rule<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezurte<s n="n"/></l><r>lean<b/>year<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>erregeorde<s n="n"/></l><r>regent<s n="n"/><s n="ND"/></r></p></e>
