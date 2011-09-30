@@ -8723,14 +8723,14 @@
     <e><p><l>urreztatu<s n="vblex"/></l><r>gild<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>urritu<s n="vblex"/></l><r>wane<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>urrumatu<s n="vblex"/></l><r>coo<s n="vblex"/></r></p></e>
-    <e><p><l>urrundu<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>urrundu<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>urrundu<s n="vblex"/></l><r>recede<s n="vblex"/></r></p></e>
     <e><p><l>urtu<s n="vblex"/></l><r>melt<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>urtu<s n="vblex"/></l><r>dissolve<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>urtu<s n="vblex"/></l><r>thaw<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>urtu<s n="vblex"/></l><r>dissolve<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>urtu<s n="vblex"/></l><r>thaw<s n="vblex"/></r></p></e>
     <e><p><l>usain<b/>hartu<s n="vblex"/></l><r>smell<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>usain_izan<s n="vblex"/></l><r>smell<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>usaindu<s n="vblex"/></l><r>scent<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>usaindu<s n="vblex"/></l><r>scent<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>usaindu<s n="vblex"/></l><r>sniff<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>usatu<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>usin<b/>egin<s n="vblex"/></l><r>sneeze<s n="vblex"/></r></p></e>
@@ -8836,9 +8836,8 @@
     <e r="RL"><p><l>zarratu<s n="vblex"/></l><r>shut<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zarratu<s n="vblex"/></l><r>shut<g><b/>down</g><s n="vblex"/></r></p></e>
     <e><p><l>zartarazi<s n="vblex"/></l><r>explode<s n="vblex"/></r></p></e>
-    <e><p><l>zartatu<s n="vblex"/></l><r>explode<s n="vblex"/></r></p></e>
-    <e><p><l>zartatu<s n="vblex"/></l><r>exploit<s n="vblex"/></r></p></e>
-    <e><p><l>zatitu<s n="vblex"/></l><r>divide<s n="vblex"/></r></p></e>
+    <e><p><l>zartatu<s n="vblex"/></l><r>crack<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>zatitu<s n="vblex"/></l><r>divide<s n="vblex"/></r></p></e>
     <e><p><l>zatitu<s n="vblex"/></l><r>split<s n="vblex"/></r></p></e>
     <e><p><l>zaunka<b/>egin<s n="vblex"/></l><r>bark<s n="vblex"/></r></p></e>
     <e><p><l>zauritu<s n="vblex"/></l><r>injure<s n="vblex"/></r></p></e>
@@ -8846,9 +8845,11 @@
     <e r="RL" a="matxin"><p><l>zauritu<s n="vblex"/></l><r>wound<s n="vblex"/></r></p></e>
     <e><p><l>zeharkatu<s n="vblex"/></l><r>cross<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zeharkatu<s n="vblex"/></l><r>get<g><b/>across</g><s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>zeharkatu<s n="vblex"/></l><r>span<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zeharkatu<s n="vblex"/></l><r>span<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zeharkatu<s n="vblex"/></l><r>traverse<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>zehatz-mehatz_azaldu<s n="vblex"/></l><r>pinpoint<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>zehatz-mehatz<b/>azaldu<s n="vblex"/></l><r>pinpoint<s n="vblex"/></r></p></e>
+    <e><p><l>zehatz-mehatz<s n="adv"/></l><r>in<b/>great<b/>detail<s n="adv"/></r></p></e>
+    <e><p><l>zehatz<s n="adv"/></l><r>precisely<s n="adv"/></r></p></e>
     <e><p><l>zehaztu<s n="vblex"/></l><r>concretise<s n="vblex"/></r></p></e>
     <e><p><l>zehaztu<s n="vblex"/></l><r>specify<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zehaztu<s n="vblex"/></l><r>detail<s n="vblex"/></r></p></e>
@@ -13828,10 +13829,10 @@
     <e r="RL" c="afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="frases afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL" c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>edozer<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>edozer<s n="prn"/><s n="ind"/></l><r>whatever<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL" c="frases negatives"><p><l>ezer<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
@@ -13841,23 +13842,23 @@
     <e r="RL" c="frases negatives"><p><l>inor<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>no<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>inor<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e c="preguntes i negatives"><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="preguntes i negatives"><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>nahinor<s n="prn"/><s n="ind"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>nehor<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>nehor<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>nehor<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>ni<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>nor<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e c="frases afirmatives"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>somebody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="frases afirmatives"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>somebody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>norbait<s n="prn"/><s n="ind"/></l><r>someone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>norbera<s n="prn"/><s n="ind"/></l><r>each<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>nornahi<s n="prn"/><s n="ind"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>zein<s n="prn"/><s n="itg"/></l><r>which<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>zein<s n="prn"/><s n="itg"/></l><r>which<b/>one<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>zer<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>zerbait<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>zerbait<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>zerbait<s n="prn"/><s n="ind"/></l><r>something<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>zertxobait<s n="prn"/><s n="ind"/></l><r>something<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>zu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
