@@ -5881,16 +5881,17 @@
     <e><p><l>dantza<b/>egin<s n="vblex"/></l><r>dance<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>dar-dar<b/>egin<s n="vblex"/></l><r>quiver<s n="vblex"/></r></p></e>
     <e><p><l>dardaratu<s n="vblex"/></l><r>shiver<s n="vblex"/></r></p></e>
-    <e><p><l>dardaratu<s n="vblex"/></l><r>tremble<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>dardaratu<s n="vblex"/></l><r>quake<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>dardaratu<s n="vblex"/></l><r>waver<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>dardaratu<s n="vblex"/></l><r>tremble<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>dardaratu<s n="vblex"/></l><r>quake<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>dardaratu<s n="vblex"/></l><r>waver<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>dastatu<s n="vblex"/></l><r>test<s n="vblex"/></r></p></e>
-    <e><p><l>dastatu<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>dastatu<s n="vblex"/></l><r>savour<s n="vblex"/></r></p></e>
+    <e><p><l>dastatu<s n="vblex"/></l><r>taste<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>dastatu<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>dastatu<s n="vblex"/></l><r>savour<s n="vblex"/></r></p></e>
     <e><p><l>data<b/>jarri<s n="vblex"/></l><r>date<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>data<b/>jarri<s n="vblex"/></l><r>date<s n="vblex"/></r></p></e>
     <e><p><l>debekatu<s n="vblex"/></l><r>ban<s n="vblex"/></r></p></e>
-    <e><p><l>debekatu<s n="vblex"/></l><r>forbid<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>debekatu<s n="vblex"/></l><r>forbid<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>debekatu<s n="vblex"/></l><r>outlaw<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>debekatu<s n="vblex"/></l><r>prohibit<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>debekatu<s n="vblex"/></l><r>proscribe<s n="vblex"/></r></p></e>
@@ -5904,7 +5905,7 @@
     <e><p><l>deitoratu<s n="vblex"/></l><r>regret<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>deitoratu<s n="vblex"/></l><r>deplore<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>deitoratu<s n="vblex"/></l><r>lament<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>deitoratu<s n="vblex"/></l><r>mourn<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>deitoratu<s n="vblex"/></l><r>mourn<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>deitu<s n="vblex"/></l><r>set<g><b/>up</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>deitu<s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
     <e><p><l>deitu<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>
@@ -5924,16 +5925,16 @@
     <e r="RL"><p><l>desafio<b/>egin<s n="vblex"/></l><r>defy<s n="vblex"/></r></p></e>
     <e><p><l>desafio<b/>egin<s n="vblex"/></l><r>challenge<s n="vblex"/></r></p></e>
     <e><p><l>desagerrarazi<s n="vblex"/></l><r>dissipate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>desagerrarazi<s n="vblex"/></l><r>dispel<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>desagerrarazi<s n="vblex"/></l><r>dispel<s n="vblex"/></r></p></e>
     <e><p><l>desagertu<s n="vblex"/></l><r>disappear<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>desagertu<s n="vblex"/></l><r>vanish<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desaktibatu<s n="vblex"/></l><r>defuse<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desberdina_izan<s n="vblex"/></l><r>differ<s n="vblex"/></r></p></e>
     <e><p><l>desbideratu<s n="vblex"/></l><r>divert<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>desbideratu<s n="vblex"/></l><r>deflect<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>desbideratu<s n="vblex"/></l><r>deflect<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>desbideratu<s n="vblex"/></l><r>deviate<s n="vblex"/></r></p></e>
     <e><p><l>desegin<s n="vblex"/></l><r>undo<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>desegin<s n="vblex"/></l><r>disintegrate<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>desegin<s n="vblex"/></l><r>disintegrate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desengainatu<s n="vblex"/></l><r>disappoint<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desertatu<s n="vblex"/></l><r>defect<s n="vblex"/></r></p></e>
     <e><p><l>desesperatu<s n="vblex"/></l><r>exasperate<s n="vblex"/></r></p></e>
@@ -5943,7 +5944,7 @@
     <e><p><l>desfilatu<s n="vblex"/></l><r>parade<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desinfektatu<s n="vblex"/></l><r>disinfect<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desira_izan<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
-    <e><p><l>desiratu<s n="vblex"/></l><r>desire<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>desiratu<s n="vblex"/></l><r>desire<s n="vblex"/></r></p></e>
     <e><p><l>desiratu<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desiratu<s n="vblex"/></l><r>will<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desitxuratu<s n="vblex"/></l><r>disfigure<s n="vblex"/></r></p></e>
@@ -5952,7 +5953,7 @@
     <e><p><l>deskantsatu<s n="vblex"/></l><r>rest<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>deskargatu<s n="vblex"/></l><r>discharge<s n="vblex"/></r></p></e>
     <e><p><l>deskargatu<s n="vblex"/></l><r>download<s n="vblex"/></r></p></e>
-    <e><p><l>deskargatu<s n="vblex"/></l><r>unload<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>deskargatu<s n="vblex"/></l><r>unload<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>deskodetu<s n="vblex"/></l><r>decode<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>deskrematu<s n="vblex"/></l><r>skim<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>deskribatu<s n="vblex"/></l><r>depict<s n="vblex"/></r></p></e>
@@ -5961,7 +5962,7 @@
     <e><p><l>desmoralizatu<s n="vblex"/></l><r>demoralise<s n="vblex"/></r></p></e>
     <e><p><l>desmuntatu<s n="vblex"/></l><r>disassemble<s n="vblex"/></r></p></e>
     <e><p><l>desnaturalizatu<s n="vblex"/></l><r>denaturalise<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>desnaturalizatu<s n="vblex"/></l><r>denature<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>desnaturalizatu<s n="vblex"/></l><r>denature<s n="vblex"/></r></p></e>
     <e><p><l>desnazionalizatu<s n="vblex"/></l><r>denationalise<s n="vblex"/></r></p></e>
     <e><p><l>desnibelatu<s n="vblex"/></l><r>throw<g><b/>off<b/>balance</g><s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>desobeditu<s n="vblex"/></l><r>defy<s n="vblex"/></r></p></e>
@@ -5969,7 +5970,7 @@
     <e><p><l>desplazatu<s n="vblex"/></l><r>displace<s n="vblex"/></r></p></e>
     <e><p><l>destatu<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>destatu<s n="vblex"/></l><r>note<g><b/>down</g><s n="vblex"/></r></p></e>
-    <e><p><l>destatu<s n="vblex"/></l><r>point<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>destatu<s n="vblex"/></l><r>point<s n="vblex"/></r></p></e>
     <e r="RL" c="en el teatro"><p><l>destatu<s n="vblex"/></l><r>prompt<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>destatu<s n="vblex"/></l><r>target<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>destolestu<s n="vblex"/></l><r>unbend<s n="vblex"/></r></p></e>
@@ -5994,20 +5995,25 @@
     <e a="matxin"><p><l>dirutza_gordina_irabazi<s n="vblex"/></l><r>gross<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>diruz_hornitu<s n="vblex"/></l><r>endow<s n="vblex"/></r></p></e>
     <e><p><l>diseinatu<s n="vblex"/></l><r>design<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>diseinatu<s n="vblex"/></l><r>devise<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>diseinatu<s n="vblex"/></l><r>engineer<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>diseinatu<s n="vblex"/></l><r>devise<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>diseinatu<s n="vblex"/></l><r>engineer<s n="vblex"/></r></p></e>
     <e><p><l>disimulatu<s n="vblex"/></l><r>dissemble<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>dislokatu<s n="vblex"/></l><r>dislocate<s n="vblex"/></r></p></e>
     <e><p><l>disolbatu<s n="vblex"/></l><r>dissolve<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>disolbatu<s n="vblex"/></l><r>dilute<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>disolbatu<s n="vblex"/></l><r>dilute<s n="vblex"/></r></p></e>
     <e><p><l>dispentsatu<s n="vblex"/></l><r>dispense<s n="vblex"/></r></p></e>
+    <e><p><l>distilatu<s n="vblex"/></l><r>distill<s n="vblex"/></r></p></e>
+    <e><p><l>distortsionatu<s n="vblex"/></l><r>distort<s n="vblex"/></r></p></e>
+    <e><p><l>dixidatu<s n="vblex"/></l><r>challenge<s n="vblex"/></r></p></e>
+    <e><p><l>diziplinatu<s n="vblex"/></l><r>discipline<s n="vblex"/></r></p></e>
     <e><p><l>distira<b/>egin<s n="vblex"/></l><r>shine<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>distira<b/>egin<s n="vblex"/></l><r>glow<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>distira<b/>egin<s n="vblex"/></l><r>twinkle<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>distiratu<s n="vblex"/></l><r>flash<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>distiratu<s n="vblex"/></l><r>glint<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>distiratu<s n="vblex"/></l><r>glitter<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>distiratu<s n="vblex"/></l><r>sparkle<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>distira<b/>egin<s n="vblex"/></l><r>glow<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>distira<b/>egin<s n="vblex"/></l><r>twinkle<s n="vblex"/></r></p></e>
+    <e><p><l>distiratu<s n="vblex"/></l><r>shine<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>distiratu<s n="vblex"/></l><r>flash<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>distiratu<s n="vblex"/></l><r>glint<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>distiratu<s n="vblex"/></l><r>glitter<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>distiratu<s n="vblex"/></l><r>sparkle<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>diziplina<b/>jarri<s n="vblex"/></l><r>discipline<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>doitu<s n="vblex"/></l><r>adjust<s n="vblex"/></r></p></e>
     <e><p><l>dokumentatu<s n="vblex"/></l><r>document<s n="vblex"/></r></p></e>
