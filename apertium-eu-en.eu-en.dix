@@ -6561,28 +6561,29 @@
     <e r="RL" a="matxin"><p><l>ezabatu<s n="vblex"/></l><r>delete<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ezabatu<s n="vblex"/></l><r>efface<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ezabatu<s n="vblex"/></l><r>eliminate<s n="vblex"/></r></p></e>
-    <e><p><l>ezagutarazi<s n="vblex"/></l><r>disclose<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ezagutarazi<s n="vblex"/></l><r>disclose<s n="vblex"/></r></p></e>
     <e><p><l>ezagutarazi<s n="vblex"/></l><r>reveal<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ezagutarazi<s n="vblex"/></l><r>unveil<s n="vblex"/></r></p></e>
     <e><p><l>ezagutu<s n="vblex"/></l><r>know<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ezagutu<s n="vblex"/></l><r>meet<s n="vblex"/></r></p></e>
     <e><p><l>ezagutu<s n="vbsint"/></l><r>know<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezagutu<s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ezagutu<s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>
     <e><p><l>ezan<s n="vbsint"/></l><r>have<s n="vblex"/></r></p></e>
-    <e c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j"><p><l>ezan<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
+    <e r="RL" c="para solucionar problema técnico de 'i've got', en que no puede haver un grupo g dentro de una forma enlazada con j"><p><l>ezan<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ezan<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
-    <e><p><l>ezarri<s n="vblex"/></l><r>establish<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ezarri<s n="vblex"/></l><r>establish<s n="vblex"/></r></p></e>
     <e><p><l>ezarri<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezarri<s n="vblex"/></l><r>implant<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezarri<s n="vblex"/></l><r>impose<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ezarri<s n="vblex"/></l><r>implant<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ezarri<s n="vblex"/></l><r>impose<s n="vblex"/></r></p></e>
     <e><p><l>ezaugarri<b/>izan<s n="vblex"/></l><r>characterise<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezeztatu<s n="vblex"/></l><r>abolish<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezeztatu<s n="vblex"/></l><r>contradict<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezeztatu<s n="vblex"/></l><r>override<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezeztatu<s n="vblex"/></l><r>repeal<s n="vblex"/></r></p></e>
+    <e><p><l>ezeztatu<s n="vblex"/></l><r>cancel<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ezeztatu<s n="vblex"/></l><r>abolish<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ezeztatu<s n="vblex"/></l><r>contradict<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ezeztatu<s n="vblex"/></l><r>override<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ezeztatu<s n="vblex"/></l><r>repeal<s n="vblex"/></r></p></e>
     <e c="MG: sería reflexivo"><p><l>ezkondu<s n="vblex"/></l><r>marry<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezkondu<s n="vblex"/></l><r>wed<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ezkoz_estali<s n="vblex"/></l><r>wax<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ezkondu<s n="vblex"/></l><r>wed<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>ezkoz<b/>estali<s n="vblex"/></l><r>wax<s n="vblex"/></r></p></e>
     <e><p><l>ezkutatu<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ezkutatu<s n="vblex"/></l><r>obscure<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ezkutatu<s n="vblex"/></l><r>secrete<s n="vblex"/></r></p></e>
@@ -6590,10 +6591,10 @@
     <e a="matxin"><p><l>ezkutuan_entzun<s n="vblex"/></l><r>eavesdrop<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ezpaldu<s n="vblex"/></l><r>splinter<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ezproiez_jo<s n="vblex"/></l><r>spur<s n="vblex"/></r></p></e>
-    <e><p><l>eztabaidatu<s n="vblex"/></l><r>debate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>eztabaidatu<s n="vblex"/></l><r>debate<s n="vblex"/></r></p></e>
     <e><p><l>eztabaidatu<s n="vblex"/></l><r>argue<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>eztabaidatu<s n="vblex"/></l><r>deliberate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>eztabaidatu<s n="vblex"/></l><r>dispute<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>eztabaidatu<s n="vblex"/></l><r>deliberate<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>eztabaidatu<s n="vblex"/></l><r>dispute<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>eztul<b/>egin<s n="vblex"/></l><r>cough<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>faktura_bidali<s n="vblex"/></l><r>invoice<s n="vblex"/></r></p></e>
     <e><p><l>falta<b/>izan<s n="vbper"/></l><r>be<g><b/>missing</g><s n="vblex"/></r></p></e>
@@ -6611,14 +6612,14 @@
     <e r="RL" a="matxin"><p><l>fidatu<s n="vblex"/></l><r>depend<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>filmatu<s n="vblex"/></l><r>film<s n="vblex"/></r></p></e>
     <e><p><l>finantzatu<s n="vblex"/></l><r>finance<s n="vblex"/></r></p></e>
-    <e><p><l>finantzatu<s n="vblex"/></l><r>fund<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>finantzatu<s n="vblex"/></l><r>fund<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>findu<s n="vblex"/></l><r>refine<s n="vblex"/></r></p></e>
     <e r="RL" c="fijar la hora"><p><l>finkatu<s n="vblex"/></l><r>appoint<s n="vblex"/></r></p></e>
     <e><p><l>finkatu<s n="vblex"/></l><r>fix<s n="vblex"/></r></p></e>
-    <e><p><l>finkatu<s n="vblex"/></l><r>consolidate<s n="vblex"/></r></p></e>
-    <e><p><l>finkatu<s n="vblex"/></l><r>attach<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>finkatu<s n="vblex"/></l><r>consolidate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>finkatu<s n="vblex"/></l><r>attach<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>finkatu<s n="vblex"/></l><r>clip<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>finkatu<s n="vblex"/></l><r>ensure<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>finkatu<s n="vblex"/></l><r>ensure<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>finkatu<s n="vblex"/></l><r>entrench<s n="vblex"/></r></p></e>
     <e><p><l>flotatu<s n="vblex"/></l><r>float<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>fluktuatu<s n="vblex"/></l><r>fluctuate<s n="vblex"/></r></p></e>
@@ -6637,7 +6638,7 @@
     <e a="matxin"><p><l>freskatu<s n="vblex"/></l><r>freshen<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>freskatu<s n="vblex"/></l><r>refresh<s n="vblex"/></r></p></e>
     <e><p><l>frijitu<s n="vblex"/></l><r>fry<s n="vblex"/></r></p></e>
-    <e><p><l>frogatu<s n="vblex"/></l><r>demonstrate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>frogatu<s n="vblex"/></l><r>demonstrate<s n="vblex"/></r></p></e>
     <e><p><l>frogatu<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>frogatu<s n="vblex"/></l><r>prove<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>frutari_hezurra_kendu<s n="vblex"/></l><r>core<s n="vblex"/></r></p></e>
@@ -6648,20 +6649,20 @@
     <e><p><l>funtzionatu<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
     <e><p><l>gabetu<s n="vblex"/></l><r>deprive<s n="vblex"/></r></p></e>
     <e><p><l>gailendu<s n="vblex"/></l><r>highlight<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gailendu<s n="vblex"/></l><r>prevail<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gailendu<s n="vblex"/></l><r>prevail<s n="vblex"/></r></p></e>
     <e><p><l>gainbegiratu<s n="vblex"/></l><r>review<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gainbegiratu<s n="vblex"/></l><r>browse<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gainbegiratu<s n="vblex"/></l><r>oversee<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gainbegiratu<s n="vblex"/></l><r>superintend<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gainbegiratu<s n="vblex"/></l><r>supervise<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gainbegiratu<s n="vblex"/></l><r>supervise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gainbeheratu<s n="vblex"/></l><r>degenerate<s n="vblex"/></r></p></e>
-    <e><p><l>gainditu<s n="vblex"/></l><r>exceed<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gainditu<s n="vblex"/></l><r>exceed<s n="vblex"/></r></p></e>
     <e><p><l>gainditu<s n="vblex"/></l><r>surpass<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gainditu<s n="vblex"/></l><r>overcome<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gainditu<s n="vblex"/></l><r>surmount<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gainditu<s n="vblex"/></l><r>transcend<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gainditu<s n="vblex"/></l><r>weather<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gaindosi_bat_hartu<s n="vblex"/></l><r>overdose<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>gaindosi<b/>bat<b/>hartu<s n="vblex"/></l><r>overdose<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gainean_ibili<s n="vblex"/></l><r>ride<s n="vblex"/></r></p></e>
     <e><p><l>gaineratu<s n="vblex"/></l><r>add<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gainezka<b/>egin<s n="vblex"/></l><r>overflow<s n="vblex"/></r></p></e>
@@ -6672,7 +6673,7 @@
     <e a="matxin"><p><l>gaitasuna_eman<s n="vblex"/></l><r>empower<s n="vblex"/></r></p></e>
     <e><p><l>gaitzetsi<s n="vblex"/></l><r>condemn<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gaitzetsi<s n="vblex"/></l><r>convict<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gaitzetsi<s n="vblex"/></l><r>abhor<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gaitzetsi<s n="vblex"/></l><r>abhor<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gaizki_hartu<s n="vblex"/></l><r>resent<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gaizki_irakurri<s n="vblex"/></l><r>misread<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gaizki_ulertu<s n="vblex"/></l><r>mistake<s n="vblex"/></r></p></e>
@@ -6688,13 +6689,13 @@
     <e a="matxin"><p><l>galdatu<s n="vblex"/></l><r>smelt<s n="vblex"/></r></p></e>
     <e c="ask sb to do smth"><p><l>galdegin<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e>
     <e><p><l>galdekatu<s n="vblex"/></l><r>interrogate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>galdekatu<s n="vblex"/></l><r>quiz<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>galdekatu<s n="vblex"/></l><r>quiz<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>galdera<b/>egin<s n="vblex"/></l><r>question<s n="vblex"/></r></p></e>
     <e><p><l>galdetu<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>galdetu<s n="vblex"/></l><r>enquire<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>galdetu<s n="vblex"/></l><r>query<s n="vblex"/></r></p></e>
     <e><p><l>galdu<s n="vblex"/></l><r>lose<s n="vblex"/></r></p></e>
-    <e><p><l>galdu<s n="vblex"/></l><r>miss<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>galdu<s n="vblex"/></l><r>miss<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>galdu<s n="vblex"/></l><r>damage<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>galdu<s n="vblex"/></l><r>forfeit<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>galdu<s n="vblex"/></l><r>harm<s n="vblex"/></r></p></e>
@@ -6704,69 +6705,69 @@
     <e a="matxin"><p><l>galgatu<s n="vblex"/></l><r>brake<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>galvanizatu<s n="vblex"/></l><r>galvanise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>garaiagoa_izan<s n="vblex"/></l><r>tower<s n="vblex"/></r></p></e>
-    <e><p><l>garaitu<s n="vblex"/></l><r>overcome<s n="vblex"/></r></p></e>
-    <e><p><l>garaitu<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>garaitu<s n="vblex"/></l><r>overcome<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>garaitu<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
     <e><p><l>garaitu<s n="vblex"/></l><r>defeat<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>garaitu<s n="vblex"/></l><r>rout<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>garaitu<s n="vblex"/></l><r>triumph<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>garaitu<s n="vblex"/></l><r>vanquish<s n="vblex"/></r></p></e>
     <e><p><l>garatu<s n="vblex"/></l><r>develop<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>garatu<s n="vblex"/></l><r>evolve<s n="vblex"/></r></p></e>
-    <e><p><l>garbitu<s n="vblex"/></l><r>wash<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>garbitu<s n="vblex"/></l><r>wash<s n="vblex"/></r></p></e>
     <e><p><l>garbitu<s n="vblex"/></l><r>clean<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>garbitu<s n="vblex"/></l><r>bathe<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>garbitu<s n="vblex"/></l><r>clear<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>garbitu<s n="vblex"/></l><r>purge<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>garbitu<s n="vblex"/></l><r>wipe<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>garia_jo<s n="vblex"/></l><r>thresh<s n="vblex"/></r></p></e>
-    <e><p><l>garraiatu<s n="vblex"/></l><r>convey<s n="vblex"/></r></p></e>
-    <e><p><l>garraiatu<s n="vblex"/></l><r>transport<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>garraiatu<s n="vblex"/></l><r>convey<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>garraiatu<s n="vblex"/></l><r>transport<s n="vblex"/></r></p></e>
     <e><p><l>garraiatu<s n="vblex"/></l><r>carry<s n="vblex"/></r></p></e>
-    <e c="(I took him home)"><p><l>garraiatu<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
-    <e c="(roba)"><p><l>garraiatu<s n="vblex"/></l><r>wear<s n="vblex"/></r></p></e>
+    <e r="RL" c="(I took him home)"><p><l>garraiatu<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>garrantzitsua_izan<s n="vblex"/></l><r>matter<s n="vblex"/></r></p></e>
     <e><p><l>garrasi<b/>egin<s n="vblex"/></l><r>scream<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>garrasi<b/>egin<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>
-    <e><p><l>garrasi<b/>egin<s n="vblex"/></l><r>shout<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>garrasi<b/>egin<s n="vblex"/></l><r>shriek<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>garrasi<b/>egin<s n="vblex"/></l><r>yell<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>garrasi<b/>egin<s n="vblex"/></l><r>shout<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>garrasi<b/>egin<s n="vblex"/></l><r>shriek<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>garrasi<b/>egin<s n="vblex"/></l><r>yell<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>garraztu<s n="vblex"/></l><r>sour<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gartu<s n="vblex"/></l><r>flare<s n="vblex"/></r></p></e>
     <e><p><l>gastatu<s n="vblex"/></l><r>spend<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gatzatu<s n="vblex"/></l><r>curdle<s n="vblex"/></r></p></e>
     <e><p><l>gautu<s n="vblex"/></l><r>get<g><b/>dark</g><s n="vblex"/></r></p></e>
     <e><p><l>gauzatu<s n="vblex"/></l><r>carry<g><b/>out</g><s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gauzatu<s n="vblex"/></l><r>materialise<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gauzatu<s n="vblex"/></l><r>materialise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gazitu<s n="vblex"/></l><r>salt<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gehiago_eskaini<s n="vblex"/></l><r>bid<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gehiegi_berotu<s n="vblex"/></l><r>overheat<s n="vblex"/></r></p></e>
-    <e><p><l>gehitu<s n="vblex"/></l><r>boost<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gehitu<s n="vblex"/></l><r>boost<s n="vblex"/></r></p></e>
     <e><p><l>gehitu<s n="vblex"/></l><r>increase<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gehitu<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gehitu<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gehitu<s n="vblex"/></l><r>add<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gehitu<s n="vblex"/></l><r>augment<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gehitu<s n="vblex"/></l><r>add<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gehitu<s n="vblex"/></l><r>augment<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>geldi<b/>egon<s n="vbsint"/></l><r>repose<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>geldiarazi<s n="vblex"/></l><r>staunch<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>geldiarazi<s n="vblex"/></l><r>stem<s n="vblex"/></r></p></e>
-    <e><p><l>gelditu<s n="vblex"/></l><r>cease<s n="vblex"/></r></p></e>
-    <e><p><l>gelditu<s n="vblex"/></l><r>detain<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>geldiarazi<s n="vblex"/></l><r>staunch<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>geldiarazi<s n="vblex"/></l><r>stem<s n="vblex"/></r></p></e>
+    <e><p><l>geldiarazi<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gelditu<s n="vblex"/></l><r>cease<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gelditu<s n="vblex"/></l><r>detain<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gelditu<s n="vblex"/></l><r>halt<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gelditu<s n="vblex"/></l><r>pause<s n="vblex"/></r></p></e>
     <e c="MG: per al transfer: 'stop' + -ing = deixar de fer"><p><l>gelditu<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gelditu<s n="vblex"/></l><r>stall<s n="vblex"/></r></p></e>
-    <e><p><l>gelditu<s n="vblex"/></l><r>be<g><b/>left</g><s n="vblex"/></r></p></e>
-    <e><p><l>gelditu<s n="vblex"/></l><r>remain<s n="vblex"/></r></p></e>
-    <e><p><l>gelditu<s n="vblex"/></l><r>stay<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gelditu<s n="vblex"/></l><r>be<g><b/>left</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gelditu<s n="vblex"/></l><r>remain<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gelditu<s n="vblex"/></l><r>stay<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gelditu<s n="vblex"/></l><r>linger<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gelditu<s n="vblex"/></l><r>steady<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>geldo_ibili<s n="vblex"/></l><r>plod<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>geldotu<s n="vblex"/></l><r>slow<s n="vblex"/></r></p></e>
     <e><p><l>geratu<s n="vblex"/></l><r>detain<s n="vblex"/></r></p></e>
-    <e><p><l>geratu<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>geratu<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>geroko_utzi<s n="vblex"/></l><r>procrastinate<s n="vblex"/></r></p></e>
     <e><p><l>geroratu<s n="vblex"/></l><r>postpone<s n="vblex"/></r></p></e>
-    <e><p><l>gertatu<s n="vblex"/></l><r>become<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gertatu<s n="vblex"/></l><r>become<s n="vblex"/></r></p></e>
     <e><p><l>gertatu<s n="vblex"/></l><r>occur<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gertatu<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gertutik_jarraitu<s n="vblex"/></l><r>tail<s n="vblex"/></r></p></e>
@@ -6775,12 +6776,12 @@
     <e><p><l>gezur<b/>erran<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gezurra<b/>esan<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
     <e><p><l>gezurtatu<s n="vblex"/></l><r>deny<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gezurtatu<s n="vblex"/></l><r>refute<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gezurtatu<s n="vblex"/></l><r>refute<s n="vblex"/></r></p></e>
     <e><p><l>gidatu<s n="vblex"/></l><r>guide<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gidatu<s n="vblex"/></l><r>drive<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gidatu<s n="vblex"/></l><r>manoeuvre<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gidatu<s n="vblex"/></l><r>marshal<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gidatu<s n="vblex"/></l><r>steer<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gidatu<s n="vblex"/></l><r>drive<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gidatu<s n="vblex"/></l><r>manoeuvre<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gidatu<s n="vblex"/></l><r>marshal<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gidatu<s n="vblex"/></l><r>steer<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gillotinatu<s n="vblex"/></l><r>guillotine<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>giltzaperatu<s n="vblex"/></l><r>enclose<s n="vblex"/></r></p></e>
     <e><p><l>giltzaperatu<s n="vblex"/></l><r>shut<s n="vblex"/></r></p></e>
@@ -6789,12 +6790,12 @@
     <e><p><l>gizendu<s n="vblex"/></l><r>fatten<s n="vblex"/></r></p></e>
     <e><p><l>gizon<b/>egin<s n="vblex"/></l><r>embody<s n="vblex"/></r></p></e>
     <e><p><l>gobernatu<s n="vblex"/></l><r>govern<s n="vblex"/></r></p></e>
-    <e><p><l>gobernatu<s n="vblex"/></l><r>rule<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gobernatu<s n="vblex"/></l><r>sail<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gobernatu<s n="vblex"/></l><r>rule<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gobernatu<s n="vblex"/></l><r>sail<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gogaitarazi<s n="vblex"/></l><r>badger<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gogaitu<s n="vblex"/></l><r>bother<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gogaitu<s n="vblex"/></l><r>plague<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gogaitu<s n="vblex"/></l><r>vex<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gogaitu<s n="vblex"/></l><r>plague<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gogaitu<s n="vblex"/></l><r>vex<s n="vblex"/></r></p></e>
     <e><p><l>goganbehartu<s n="vblex"/></l><r>suspect<s n="vblex"/></r></p></e>
     <e><p><l>gogoan<b/>erabili<s n="vblex"/></l><r>contrive<s n="vblex"/></r></p></e>
     <e><p><l>gogoan<b/>hartu<s n="vblex"/></l><r>consider<s n="vblex"/></r></p></e>
@@ -6824,22 +6825,23 @@
     <e><p><l>gomendatu<s n="vblex"/></l><r>recommend<s n="vblex"/></r></p></e>
     <e><p><l>gonbidatu<s n="vblex"/></l><r>invite<s n="vblex"/></r></p></e>
     <e><p><l>gora<b/>egin<s n="vblex"/></l><r>go<g><b/>up</g><s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gora<b/>egin<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gora<b/>egin<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>goraipatu<s n="vblex"/></l><r>acclaim<s n="vblex"/></r></p></e>
     <e><p><l>goratu<s n="vblex"/></l><r>heave<s n="vblex"/></r></p></e>
-    <e><p><l>gorde<s n="vblex"/></l><r>save<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gorde<s n="vblex"/></l><r>save<s n="vblex"/></r></p></e>
     <e><p><l>gorde<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gorde<s n="vblex"/></l><r>book<s n="vblex"/></r></p></e>
-    <e><p><l>gorde<s n="vblex"/></l><r>reserve<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gorde<s n="vblex"/></l><r>guard<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gorde<s n="vblex"/></l><r>withhold<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gorde<s n="vblex"/></l><r>reserve<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorde<s n="vblex"/></l><r>guard<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorde<s n="vblex"/></l><r>withhold<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>goren_maila_lortu<s n="vblex"/></l><r>peak<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>goretsi<s n="vblex"/></l><r>praise<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gorritu<s n="vblex"/></l><r>blush<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gorritu<s n="vblex"/></l><r>flush<s n="vblex"/></r></p></e>
-    <e><p><l>gorrotatu<s n="vblex"/></l><r>detest<s n="vblex"/></r></p></e>
+    <e><p><l>gorritu<s n="vblex"/></l><r>redden<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorritu<s n="vblex"/></l><r>blush<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorritu<s n="vblex"/></l><r>flush<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gorrotatu<s n="vblex"/></l><r>detest<s n="vblex"/></r></p></e>
     <e><p><l>gorrotatu<s n="vblex"/></l><r>hate<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>gorrotatu<s n="vblex"/></l><r>loathe<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>gorrotatu<s n="vblex"/></l><r>loathe<s n="vblex"/></r></p></e>
     <e><p><l>gorroto<b/>izan<s n="vbper"/></l><r>hate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gorteiatu<s n="vblex"/></l><r>court<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>gorteiatu<s n="vblex"/></l><r>woo<s n="vblex"/></r></p></e>
