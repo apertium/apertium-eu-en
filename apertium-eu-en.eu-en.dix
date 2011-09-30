@@ -12617,28 +12617,29 @@
     <e><p><l>obsesio<s n="n"/></l><r>obsession<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>odol<s n="n"/></l><r>blood<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ofizial<s n="n"/></l><r>official<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ofizio<s n="n"/></l><r>craft<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ofizio<s n="n"/></l><r>job<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ofizio<s n="n"/></l><r>craft<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ofizio<s n="n"/></l><r>trade<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ofizio<s n="n"/></l><r>job<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ogasun<s n="n"/></l><r>exchequer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ogi<s n="n"/></l><r>bread<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ogitarteko<s n="n"/></l><r>sandwich<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ohar<s n="n"/></l><r>notice<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ohar<s n="n"/></l><r>warning<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ohar<s n="n"/></l><r>grade<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ohar<s n="n"/></l><r>notice<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ohar<s n="n"/></l><r>warning<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ohar<s n="n"/></l><r>grade<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ohar<s n="n"/></l><r>note<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ohartarazpen<s n="n"/></l><r>warning<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ohe<s n="n"/></l><r>bed<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ohe<s n="n"/></l><r>mulch<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ohe<s n="n"/></l><r>mulch<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>oheburu<s n="n"/></l><r>bedside<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ohitura<s n="n"/></l><r>custom<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ohitura<s n="n"/></l><r>habit<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ohitura<s n="n"/></l><r>frock<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ohitura<s n="n"/></l><r>habit<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ohitura<s n="n"/></l><r>frock<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ohore<s n="n"/></l><r>honour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oihal<s n="n"/></l><r>cloth<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oihartzun<s n="n"/></l><r>echo<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oihu<s n="n"/></l><r>cry<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>oihu<s n="n"/></l><r>scream<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>oihu<s n="n"/></l><r>shout<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>oihu<s n="n"/></l><r>scream<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>oihu<s n="n"/></l><r>shout<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>oilar<s n="n"/></l><r>cock<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>oilar<s n="n"/></l><r>rooster<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oilasko<s n="n"/></l><r>chicken<s n="n"/><s n="ND"/></r></p></e>
@@ -12647,14 +12648,14 @@
     <e><p><l>oin<s n="n"/></l><r>foot<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>oin-ohar<s n="n"/></l><r>footnote<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oinarri<s n="n"/></l><r>base<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>oinarri<s n="n"/></l><r>basis<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>oinarri<s n="n"/></l><r>basis<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oinatz<s n="n"/></l><r>footprint<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>oinatz<s n="n"/></l><r>print<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>oinatz<s n="n"/></l><r>print<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>oinordeko<s n="n"/></l><r>heir<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>oinordeko<s n="n"/></l><r>heiress<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>oker<s n="n"/></l><r>setback<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>okertze<s n="n"/></l><r>perversion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>okupazio<s n="n"/></l><r>employment<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>okupazio<s n="n"/></l><r>employment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>okupazio<s n="n"/></l><r>occupation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>okzitaniar<s n="n"/></l><r>occitan<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>okzitaniera<s n="n"/></l><r>occitan<s n="n"/><s n="ND"/></r></p></e>
@@ -12666,36 +12667,37 @@
     <e><p><l>on<s n="n"/></l><r>good<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>onarpen<s n="n"/></l><r>acceptance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>onartze<s n="n"/></l><r>approval<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>onartze<s n="n"/></l><r>endorsement<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>onartze<s n="n"/></l><r>endorsement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondare<s n="n"/></l><r>heritage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondasun<s n="n"/></l><r>wealth<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ondeste<s n="n"/></l><r>rectum<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ondo<s n="n"/></l><r>canton<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ondo<s n="n"/></l><r>side<s n="n"/><s n="ND"/></r></p></e>
+    <e i="yes"><p><l>ondo<s n="n"/></l><r>canton<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ondo<s n="n"/></l><r>side<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ondo<s n="n"/></l><r>stub<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondoez<s n="n"/></l><r>unrest<s n="n"/><s n="ND"/></r></p></e>
     <e slr="fainting"><p><l>ondoez<s n="n"/></l><r>fainting<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondoko<s n="n"/></l><r>successor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondorengo<s n="n"/></l><r>successor<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ondorio<s n="n"/></l><r>consequence<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ondorio<s n="n"/></l><r>repercussion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ondorio<s n="n"/></l><r>outcome<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ondorio<s n="n"/></l><r>consequence<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ondorio<s n="n"/></l><r>repercussion<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ondorio<s n="n"/></l><r>outcome<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ondorio<s n="n"/></l><r>result<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>onespen<s n="n"/></l><r>approval<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>onespen<s n="n"/></l><r>endorsement<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>onespen<s n="n"/></l><r>endorsement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ongi<s n="n"/></l><r>good<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ongietorri<s n="n"/></l><r>welcome<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ongizate<s n="n"/></l><r>welfare<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oniritzi<s n="n"/></l><r>approval<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>oniritzi<s n="n"/></l><r>endorsement<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ontasun<s n="n"/></l><r>goodness<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>oniritzi<s n="n"/></l><r>endorsement<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ontasun<s n="n"/></l><r>goodness<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ontasun<s n="n"/></l><r>kindness<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ontzi<s n="n"/></l><r>building<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ontzi<s n="n"/></l><r>nave<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ontzi<s n="n"/></l><r>building<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ontzi<s n="n"/></l><r>nave<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ontzi<s n="n"/></l><r>ship<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ontzi<s n="n"/></l><r>fuselage<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ontzi<s n="n"/></l><r>fuselage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>onura<s n="n"/></l><r>benefit<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>onura<s n="n"/></l><r>gain<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>onura<s n="n"/></l><r>profit<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>onura<s n="n"/></l><r>gain<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>onura<s n="n"/></l><r>profit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>opari<s n="n"/></l><r>gift<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>opera<s n="n"/></l><r>opera<s n="n"/><s n="ND"/></r></p></e>
     <e c="Med."><p><l>operazio<s n="n"/></l><r>operation<s n="n"/><s n="ND"/></r></p></e>
@@ -12710,7 +12712,7 @@
     <e><p><l>orain<s n="n"/></l><r>present<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>orainaldi<s n="n"/></l><r>present<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>orban<s n="n"/></l><r>spot<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>orban<s n="n"/></l><r>stain<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>orban<s n="n"/></l><r>stain<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>orbita<s n="n"/></l><r>orbit<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ordain<s n="n"/></l><r>remuneration<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ordainketa<s n="n"/></l><r>payment<s n="n"/><s n="ND"/></r></p></e>
@@ -12727,12 +12729,12 @@
     <e><p><l>ordezko<s n="n"/></l><r>substitute<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ordoki<s n="n"/></l><r>plain<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ordu<s n="n"/></l><r>hour<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ordu<s n="n"/></l><r>time<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ordu<s n="n"/></l><r>time<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ordubete<s n="n"/></l><r>hour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ordutegi<s n="n"/></l><r>schedule<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ordutegi<s n="n"/></l><r>timetable<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ordutegi<s n="n"/></l><r>timetable<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oreka<s n="n"/></l><r>balance<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>oreka<s n="n"/></l><r>equilibrium<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>oreka<s n="n"/></l><r>equilibrium<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>orga<s n="n"/></l><r>carriage<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>orga<s n="n"/></l><r>cart<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>orga<s n="n"/></l><r>trolley<s n="n"/><s n="ND"/></r></p></e>
