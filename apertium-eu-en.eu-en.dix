@@ -7098,7 +7098,7 @@
     <e a="matxin"><p><l>igorri<s n="vblex"/></l><r>dispatch<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>igorri<s n="vblex"/></l><r>emit<s n="vblex"/></r></p></e>
     <e><p><l>igurtzi<s n="vblex"/></l><r>rub<s n="vblex"/></r></p></e>
-    be r="RL" a="matxin"><p><l>igurtziz<b/>garbitu<s n="vblex"/></l><r>scour<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>igurtziz<b/>garbitu<s n="vblex"/></l><r>scour<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>igurtziz<b/>garbitu<s n="vblex"/></l><r>scrub<s n="vblex"/></r></p></e>
     <e><p><l>ihardetsi<s n="vblex"/></l><r>retort<s n="vblex"/></r></p></e>
     <e><p><l>ihardetsi<s n="vbsint"/></l><r>retort<s n="vblex"/></r></p></e>
@@ -8917,8 +8917,8 @@
     <e a="matxin"><p><l>ziurtatu<s n="vblex"/></l><r>assure<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zizipaza<b/>egin<s n="vblex"/></l><r>lisp<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ziztu<b/>bizian<b/>joan<s n="vblex"/></l><r>career<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ziztu_bizian_igaro<s n="vblex"/></l><r>whiz<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>ziztu_bizian_igaro<s n="vblex"/></l><r>zoom<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>ziztu<b/>bizian<b/>igaro<s n="vblex"/></l><r>whiz<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>ziztu<b/>bizian<b/>igaro<s n="vblex"/></l><r>zoom<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zolaberritu<s n="vblex"/></l><r>sole<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zolatu<s n="vblex"/></l><r>pave<s n="vblex"/></r></p></e>
     <e><p><l>zor<b/>edun<s n="vblex"/></l><r>owe<s n="vblex"/></r></p></e>
