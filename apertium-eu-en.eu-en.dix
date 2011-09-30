@@ -4860,7 +4860,16 @@
     <e><p><l>Zapatero<s n="np"/><s n="ant"/></l><r>Zapatero<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Zimbawe<s n="np"/><s n="loc"/></l><r>Zimbabwe<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Zorione<s n="np"/><s n="ant"/></l><r>Zorione<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Ahetze<s n="np"/><s n="loc"/></l><r>Ahetze<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ahetze<s n="np"/><s n="loc"/></l><r>Ahetze<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Zisjordania<s n="np"/><s n="loc"/></l><r>West<b/>Bank<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Hondarribia<s n="np"/><s n="loc"/></l><r>Hondarribia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Zornotza<s n="np"/><s n="loc"/></l><r>Zornotza<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Hendaia<s n="np"/><s n="loc"/></l><r>Hendaye<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Pasaia<s n="np"/><s n="loc"/></l><r>Pasaia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Valentzia<s n="np"/><s n="loc"/></l><r>Valencia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>India<s n="np"/><s n="loc"/></l><r>India<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Hondarribi<s n="np"/><s n="loc"/></l><r>Hondarribia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Zaragoza<s n="np"/><s n="loc"/></l><r>Saragossa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 
     <e><p><l>abandonatu<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
 
@@ -5175,7 +5184,7 @@
     <e a="matxin"><p><l>arretaz_begiratu<s n="vblex"/></l><r>peer<s n="vblex"/></r></p></e>
     <e><p><l>arrimatu<s n="vblex"/></l><r>come<g><b/>close</g><s n="vblex"/></r></p></e>
     <e><p><l>arriskatu<s n="vblex"/></l><r>risk<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>arriskatu<s n="vblex"/></l><r>chance<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>arriskatu<s n="vblex"/></l><r>chance<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>arriskatu<s n="vblex"/></l><r>hazard<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>arriskatu<s n="vblex"/></l><r>jeopardise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>arriskuan<b/>jarri<s n="vblex"/></l><r>endanger<s n="vblex"/></r></p></e>
@@ -5186,7 +5195,7 @@
     <e><p><l>artxibatu<s n="vblex"/></l><r>file<s n="vblex"/></r></p></e>
     <e><p><l>asaldatu<s n="vblex"/></l><r>disturb<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>asaldatu<s n="vblex"/></l><r>perturb<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>asaldatu<s n="vblex"/></l><r>unsettle<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>asaldatu<s n="vblex"/></l><r>unsettle<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>asaldatuta_mugitu<s n="vblex"/></l><r>fidget<s n="vblex"/></r></p></e>
     <e><p><l>ase<s n="vblex"/></l><r>satiate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ase<s n="vblex"/></l><r>gorge<s n="vblex"/></r></p></e>
@@ -5425,7 +5434,6 @@
     <e><p><l>balio<b/>izan<s n="vblex"/></l><r>cost<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>balio<b/>izan<s n="vbper"/></l><r>be<g><b/>worth</g><s n="vblex"/></r></p></e>
     <e><p><l>balio<b/>izan<s n="vbper"/></l><r>cost<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>balio_izan<s n="vblex"/></l><r>cost<s n="vblex"/></r></p></e>
     <e><p><l>baliogabetu<s n="vblex"/></l><r>cancel<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>baliogabetu<s n="vblex"/></l><r>annul<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>baliogabetu<s n="vblex"/></l><r>nullify<s n="vblex"/></r></p></e>

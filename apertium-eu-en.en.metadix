@@ -14880,6 +14880,12 @@
     <e lm="Artur"><i>Artur</i><par n="Mark__np"/>    </e>
     <e lm="Asia"><i>Asia</i><par n="Barcelona__np"/>    </e>
     <e lm="Western Asia"><i>Western<b/>Asia</i><par n="Barcelona__np"/>    </e>
+    <e lm="West Bank"><i>West<b/>Bank</i><par n="Barcelona__np"/>    </e>
+    <e lm="Hondarribia"><i>Hondarribia</i><par n="Barcelona__np"/>    </e>
+    <e lm="Zornotza"><i>Zornotza</i><par n="Barcelona__np"/>    </e>
+    <e lm="Hendaye"><i>Hendaye</i><par n="Barcelona__np"/>    </e>
+    <e lm="Pasaia"><i>Pasaia</i><par n="Barcelona__np"/>    </e>
+    <e lm="Valencia"><i>Valencia</i><par n="Barcelona__np"/>    </e>
     <e lm="Asturias"><i>Asturias</i><par n="Barcelona__np"/>    </e>
     <e lm="Athens"><i>Athens</i><par n="Barcelona__np"/>    </e>
     <e lm="Australia"><i>Australia</i><par n="Barcelona__np"/>    </e>
