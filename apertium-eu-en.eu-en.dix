@@ -4841,6 +4841,12 @@
     <e><p><l>Tito<s n="np"/><s n="ant"/></l><r>Tito<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Turkia<s n="np"/><s n="loc"/></l><r>Turkey<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Txekia<s n="np"/><s n="loc"/></l><r>Czech<b/>Republic<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Geneva<s n="np"/><s n="loc"/></l><r>Geneva<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Gaztela<s n="np"/><s n="loc"/></l><r>Castile<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Azpeitia<s n="np"/><s n="loc"/></l><r>Azpeitia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Azkoitia<s n="np"/><s n="loc"/></l><r>Azkoitia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Barajas<s n="np"/><s n="loc"/></l><r>Barajas<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Cuenca<s n="np"/><s n="loc"/></l><r>Cuenca<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Txekiar<b/>Errepublika<s n="np"/><s n="loc"/></l><r>Czech<b/>Republic<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Txile<s n="np"/><s n="loc"/></l><r>Chile<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Txina<s n="np"/><s n="loc"/></l><r>China<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
@@ -4868,6 +4874,7 @@
     <e><p><l>Pasaia<s n="np"/><s n="loc"/></l><r>Pasaia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Valentzia<s n="np"/><s n="loc"/></l><r>Valencia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>India<s n="np"/><s n="loc"/></l><r>India<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Habana<s n="np"/><s n="loc"/></l><r>Havana<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Hondarribi<s n="np"/><s n="loc"/></l><r>Hondarribia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Zaragoza<s n="np"/><s n="loc"/></l><r>Saragossa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 
@@ -5197,12 +5204,10 @@
     <e r="RL"><p><l>asaldatu<s n="vblex"/></l><r>perturb<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>asaldatu<s n="vblex"/></l><r>unsettle<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>asaldatuta_mugitu<s n="vblex"/></l><r>fidget<s n="vblex"/></r></p></e>
-    <e><p><l>ase<s n="vblex"/></l><r>satiate<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ase<s n="vblex"/></l><r>satiate<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ase<s n="vblex"/></l><r>gorge<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ase<s n="vblex"/></l><r>sate<s n="vblex"/></r></p></e>
     <e><p><l>asebete<s n="vblex"/></l><r>satiate<s n="vblex"/></r></p></e>
-    <e><p><l>aseguratu<s n="vblex"/></l><r>ensure<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>aseguratu<s n="vblex"/></l><r>assure<s n="vblex"/></r></p></e>
     <e><p><l>aseguratu<s n="vblex"/></l><r>insure<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>aseguratu<s n="vblex"/></l><r>secure<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>asfixiatu<s n="vblex"/></l><r>asphyxiate<s n="vblex"/></r></p></e>
@@ -5571,7 +5576,7 @@
     <e a="matxin"><p><l>belztu<s n="vblex"/></l><r>blacken<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>belztu<s n="vblex"/></l><r>black<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>belztu<s n="vblex"/></l><r>tan<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>beneratu<s n="vblex"/></l><r>revere<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>beneratu<s n="vblex"/></l><r>revere<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>beneratu<s n="vblex"/></l><r>venerate<s n="vblex"/></r></p></e>
     <e><p><l>berandutu<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>berbidura<b/>egin<s n="vblex"/></l><r>square<s n="vblex"/></r></p></e>
@@ -12786,7 +12791,7 @@
     <e><p><l>pairamenik<b/>ez<s n="n"/></l><r>impatience<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>paisaia<s n="n"/></l><r>landscape<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>pakete<s n="n"/></l><r>pack<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>pakete<s n="n"/></l><r>package<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>pakete<s n="n"/></l><r>package<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>pakete<s n="n"/></l><r>packet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>palestinar<s n="n"/></l><r>Palestinian<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>paleta<s n="n"/></l><r>bricklayer<s n="n"/><s n="ND"/></r></p></e>
@@ -12817,16 +12822,16 @@
     <e><p><l>parlamentu<s n="n"/></l><r>parliament<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>parrokia<s n="n"/></l><r>parish<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>parte<s n="n"/></l><r>part<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>parte-hartze<s n="n"/></l><r>intervention<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>parte-hartze<s n="n"/></l><r>intervention<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>parte-hartze<s n="n"/></l><r>participation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>parte-hartze<s n="n"/></l><r>share<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>parte-hartze<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>parte-hartze<s n="n"/></l><r>share<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>parte-hartze<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>parte<b/>hartze<s n="n"/></l><r>participation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>parte<b/>hartze<s n="n"/></l><r>share<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>parte<b/>hartze<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>parte<b/>hartze<s n="n"/></l><r>share<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>parte<b/>hartze<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>partida<s n="n"/></l><r>game<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>partikula<s n="n"/></l><r>particle<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>partzela<s n="n"/></l><r>lot<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>partzela<s n="n"/></l><r>lot<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>partzela<s n="n"/></l><r>plot<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>pasabide<s n="n"/></l><r>passage<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>pasadizo<s n="n"/></l><r>anecdote<s n="n"/><s n="ND"/></r></p></e>
@@ -13813,14 +13818,14 @@
     <e><p><l>ber<s n="prn"/><s n="pers"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/></r></p></e>
     <e><p><l>geu<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>deus<s n="prn"/><s n="ind"/></l><r>nothing<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e c="frases afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e c="afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="frases afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL" c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL" c="afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e c="frases afirmatives"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>edozein<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>

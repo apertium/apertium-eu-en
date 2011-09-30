@@ -4467,6 +4467,29 @@
               </chunk>
             </out>
 	  </when>
+	  <when>
+	    <test>
+              <or>
+	        <equal>
+		  <clip pos="3" part="lem"/>
+		  <lit v="inortxo"/>
+	        </equal>
+	        <equal>
+		  <clip pos="3" part="lem"/>
+		  <lit v="nehor"/>
+	        </equal>
+              </or>
+	    </test>
+            <out>
+              <chunk>
+                <lit v="anybody"/>
+                <lit-tag v="SN"/>
+                <lit v="{^anybody"/>
+                <lit-tag v="prn.tn.m.sg"/>
+                <lit v="$}"/>
+              </chunk>
+            </out>
+	  </when>
           <otherwise>
             <out>
 	      <chunk>

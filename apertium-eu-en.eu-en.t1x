@@ -5127,6 +5127,30 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <lit v="ezer"/>
             </let>
           </when>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="inortxo"/>
+              </equal>
+            </test>
+            <let>
+              <var n="lemachunk"/>
+              <lit v="inortxo"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="nehor"/>
+              </equal>
+            </test>
+            <let>
+              <var n="lemachunk"/>
+              <lit v="nehor"/>
+            </let>
+          </when>
           <otherwise>
             <let>
               <var n="lemachunk"/>
