@@ -12766,7 +12766,7 @@
     <e><p><l>osaba<s n="n"/></l><r>uncle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>osaera<s n="n"/></l><r>composition<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>osagai<s n="n"/></l><r>component<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>osagai<s n="n"/></l><r>ingredient<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="ingredient"><p><l>osagai<s n="n"/></l><r>ingredient<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>osagarri<s n="n"/></l><r>attachment<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>osagarri<s n="n"/></l><r>supplement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>osaketa<s n="n"/></l><r>composition<s n="n"/><s n="ND"/></r></p></e>
