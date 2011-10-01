@@ -11248,7 +11248,7 @@
     <e><p><l>ibilbide<s n="n"/></l><r>route<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilera<s n="n"/></l><r>walk<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilgailu<s n="n"/></l><r>vehicle<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ibilgu<s n="n"/></l><r>gully<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ibilgu<s n="n"/></l><r>gully<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilgu<s n="n"/></l><r>course<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>idazkari<s n="n"/></l><r>secretary<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>idazle<s n="n"/></l><r>writer<s n="n"/><s n="ND"/></r></p></e>
@@ -11257,7 +11257,7 @@
     <e><p><l>idazte<s n="n"/></l><r>writing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ideal<s n="n"/></l><r>ideal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ideia<s n="n"/></l><r>idea<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ideia<s n="n"/></l><r>insight<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ideia<s n="n"/></l><r>insight<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ideia<s n="n"/></l><r>notion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>identifikazio<s n="n"/></l><r>identification<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>identitate<s n="n"/></l><r>identity<s n="n"/><s n="ND"/></r></p></e>
@@ -11266,21 +11266,21 @@
     <e a="matxin"><p><l>iduneko<s n="n"/></l><r>necklace<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>igande<s n="n"/></l><r>Sunday<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>igaraba<s n="n"/></l><r>otter<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>igarobide<s n="n"/></l><r>pace<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>igarobide<s n="n"/></l><r>passage<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>igarobide<s n="n"/></l><r>passing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>igarobide<s n="n"/></l><r>pace<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>igarobide<s n="n"/></l><r>passage<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>igarobide<s n="n"/></l><r>passing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>igarobide<s n="n"/></l><r>step<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>igarotze<s n="n"/></l><r>traffic<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>igeltsero<s n="n"/></l><r>bricklayer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>igeltsu<s n="n"/></l><r>plaster<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>igerileku<s n="n"/></l><r>pool<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>igerileku<s n="n"/></l><r>swimming<b/>pool<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>igerileku<s n="n"/></l><r>swimming<b/>pool<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>igoera<s n="n"/></l><r>rise<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>igogailu<s n="n"/></l><r>elevator<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>igogailu<s n="n"/></l><r>lift<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>igogailu<s n="n"/></l><r>lift<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>igorle<s n="n"/></l><r>sender<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ihardespen<s n="n"/></l><r>reply<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ihardespen<s n="n"/></l><r>retort<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ihardespen<s n="n"/></l><r>retort<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ihes<s n="n"/></l><r>escape<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ihes<s n="n"/></l><r>evasion<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ihes<s n="n"/></l><r>leak<s n="n"/><s n="ND"/></r></p></e>
@@ -11290,31 +11290,29 @@
     <e a="matxin"><p><l>ihintz<s n="n"/></l><r>dew<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>ihintz<s n="n"/></l><r>spray<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ijito<s n="n"/></l><r>tinker<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikasketa<s n="n"/></l><r>studio<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikasketa<s n="n"/></l><r>study<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikaskuntza<s n="n"/></l><r>studio<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikaskuntza<s n="n"/></l><r>study<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikasle<s n="n"/></l><r>pupil<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikasle<s n="n"/></l><r>pupil<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikasle<s n="n"/></l><r>student<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikastaro<s n="n"/></l><r>course<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikaste<s n="n"/></l><r>learning<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikastetxe<s n="n"/></l><r>school<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikasturte<s n="n"/></l><r>course<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikatz<s n="n"/></l><r>coal<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikerketa<s n="n"/></l><r>enquiry<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikerketa<s n="n"/></l><r>inquiry<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikerketa<s n="n"/></l><r>investigation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikerketa<s n="n"/></l><r>enquiry<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikerketa<s n="n"/></l><r>inquiry<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikerketa<s n="n"/></l><r>investigation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikerketa<s n="n"/></l><r>research<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikerkuntza<s n="n"/></l><r>enquiry<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikerkuntza<s n="n"/></l><r>inquiry<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikerkuntza<s n="n"/></l><r>investigation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikerkuntza<s n="n"/></l><r>enquiry<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikerkuntza<s n="n"/></l><r>inquiry<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikerkuntza<s n="n"/></l><r>investigation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikerkuntza<s n="n"/></l><r>research<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikertzaile<s n="n"/></l><r>researcher<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikur<s n="n"/></l><r>symbol<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ikusgai<s n="n"/></l><r>exhibit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikusi<s n="n"/></l><r>visit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikuskatzaile<s n="n"/></l><r>inspector<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikuskatze<s n="n"/></l><r>examination<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikuskatze<s n="n"/></l><r>examination<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikuskatze<s n="n"/></l><r>inspection<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikuskizun<s n="n"/></l><r>show<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikusle<s n="n"/></l><r>viewer<s n="n"/><s n="ND"/></r></p></e>
@@ -11324,15 +11322,13 @@
     <e><p><l>ikuste<s n="n"/></l><r>vision<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ilara<s n="n"/></l><r>queue<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ilargi<s n="n"/></l><r>moon<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ildo<s n="n"/></l><r>address<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ildo<s n="n"/></l><r>direction<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ildo<s n="n"/></l><r>way<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="groove"><p><l>ildo<s n="n"/></l><r>groove<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ile<s n="n"/></l><r>hair<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iltze<s n="n"/></l><r>nail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ilun<s n="n"/></l><r>dark<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ilun<s n="n"/></l><r>darkness<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ilunabar<s n="n"/></l><r>dusk<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ilunantz<s n="n"/></l><r>gloom<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iluntasun<s n="n"/></l><r>dark<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iluntasun<s n="n"/></l><r>darkness<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iluntze<s n="n"/></l><r>evening<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ilusio<s n="n"/></l><r>illusion<s n="n"/><s n="ND"/></r></p></e>
