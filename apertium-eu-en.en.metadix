@@ -18837,6 +18837,7 @@
     <e lm="marathon"><i>marathon</i><par n="house__n"/>    </e>
     <e lm="marble"><i>marble</i><par n="house__n"/>    </e>
     <e lm="march"><i>march</i><par n="access__n"/>    </e>
+    <e lm="protest march"><i>protest<b/>march</i><par n="access__n"/>    </e>
     <e lm="margin" a="carmentano"><i>margin</i><par n="house__n"/>    </e>
     <e lm="marginalization"><i>marginali</i><par n="globali/sation__n"/>    </e>
     <e lm="marine"><i>marine</i><par n="house__n"/>    </e>

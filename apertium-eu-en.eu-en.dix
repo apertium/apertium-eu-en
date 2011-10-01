@@ -9686,27 +9686,25 @@
     <e><p><l>bateria<s n="n"/></l><r>battery<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>batezbesteko<s n="n"/></l><r>average<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>batuketa<s n="n"/></l><r>sum<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>batzar<s n="n"/></l><r>assembly<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>batzar<s n="n"/></l><r>assembly<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>batzar<s n="n"/></l><r>meeting<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>batzorde<s n="n"/></l><r>commission<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bazkaleku<s n="n"/></l><r>pasture<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bazkari<s n="n"/></l><r>food<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bazkari<s n="n"/></l><r>food<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bazkari<s n="n"/></l><r>lunch<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bazkari<s n="n"/></l><r>meal<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bazkide<s n="n"/></l><r>fellow<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bazkari<s n="n"/></l><r>meal<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bazkide<s n="n"/></l><r>fellow<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bazkide<s n="n"/></l><r>partner<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bazter<s n="n"/></l><r>margin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bedeinkazio<s n="n"/></l><r>blessing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>begetal<s n="n"/></l><r>vegetable<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>begi<s n="n"/></l><r>eye<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>begi-nini<s n="n"/></l><r>pupil<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>begirada<s n="n"/></l><r>glance<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>begirada<s n="n"/></l><r>glance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>begirada<s n="n"/></l><r>look<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>begiratu<s n="n"/></l><r>glance<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>begiratu<s n="n"/></l><r>glance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>begiratu<s n="n"/></l><r>look<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>begizta<s n="n"/></l><r>noose<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>begizta<s n="n"/></l><r>tie<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>begizta<s n="n"/></l><r>bow<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>begizta<s n="n"/></l><r>loop<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>behaketa<s n="n"/></l><r>observation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>behar<s n="n"/></l><r>need<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>behargin<s n="n"/></l><r>worker<s n="n"/><s n="ND"/></r></p></e>
@@ -9723,7 +9721,6 @@
     <e><p><l>bekain<s n="n"/></l><r>eyebrow<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>bekatari<s n="n"/></l><r>sinner<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bekatu<s n="n"/></l><r>sin<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bela<s n="n"/></l><r>candle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bela<s n="n"/></l><r>sail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>belar<s n="n"/></l><r>grass<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>belardi<s n="n"/></l><r>meadow<s n="n"/><s n="ND"/></r></p></e>
@@ -9735,7 +9732,7 @@
     <e><p><l>belo<s n="n"/></l><r>veil<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>beltz<s n="n"/></l><r>black<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>belus<s n="n"/></l><r>velvet<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>berbaldi<s n="n"/></l><r>chat<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>berbaldi<s n="n"/></l><r>chat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berbaldi<s n="n"/></l><r>talk<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berde<s n="n"/></l><r>green<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berdetasun<s n="n"/></l><r>greenness<s n="n"/><s n="ND"/></r></p></e>
@@ -9743,13 +9740,12 @@
     <e><p><l>berdintasun<s n="n"/></l><r>equality<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>bereizgarri<s n="n"/></l><r>hallmark<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>bereizgarri<s n="n"/></l><r>trait<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bereizketa<s n="n"/></l><r>distinction<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bereizketa<s n="n"/></l><r>distinction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bereizketa<s n="n"/></l><r>separation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berezitasun<s n="n"/></l><r>peculiarity<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>berme<s n="n"/></l><r>assurance<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>berme<s n="n"/></l><r>assurance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berme<s n="n"/></l><r>guarantee<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>berme<s n="n"/></l><r>undertaking<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>berme<s n="n"/></l><r>warranty<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>berme<s n="n"/></l><r>warranty<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bero<s n="n"/></l><r>heat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>beroketa<s n="n"/></l><r>warming<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>beroki<s n="n"/></l><r>coat<s n="n"/><s n="ND"/></r></p></e>
@@ -9759,7 +9755,7 @@
     <e><p><l>berpizkunde<s n="n"/></l><r>resurrection<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berrantolaketa<s n="n"/></l><r>reorganisation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berraztertze<s n="n"/></l><r>review<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>berraztertze<s n="n"/></l><r>revision<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>berraztertze<s n="n"/></l><r>revision<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berreraikitze<s n="n"/></l><r>reconstruction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berreskuratze<s n="n"/></l><r>recovery<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berretzaile<s n="n"/></l><r>exponent<s n="n"/><s n="ND"/></r></p></e>
@@ -9767,7 +9763,7 @@
     <e><p><l>berri<s n="n"/></l><r>news<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berrikuntza<s n="n"/></l><r>innovation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>berritze<s n="n"/></l><r>renewal<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>berritze<s n="n"/></l><r>renovation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>berritze<s n="n"/></l><r>renovation<s n="n"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>eraberritze<s n="n"/></l><r>renovation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bertako<s n="n"/></l><r>resident<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>bertsio<s n="n"/></l><r>release<s n="n"/><s n="ND"/></r></p></e>
@@ -9776,9 +9772,7 @@
     <e a="matxin"><p><l>berun<s n="n"/></l><r>plumb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>besarkada<s n="n"/></l><r>embrace<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>besaulki<s n="n"/></l><r>armchair<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>beso<s n="n"/></l><r>arm<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>beso<s n="n"/></l><r>arm<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>beso<s n="n"/></l><r>shoulder<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>beso<s n="n"/></l><r>arm<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>betazal<s n="n"/></l><r>lid<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>betebehar<s n="n"/></l><r>duty<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>beteranotasun<s n="n"/></l><r>experience<s n="n"/><s n="ND"/></r></p></e>
@@ -9808,14 +9802,14 @@
     <e><p><l>bide<b/>bilgune<s n="n"/></l><r>road<b/>junction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidegabe<s n="n"/></l><r>injustice<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidegabekeria<s n="n"/></l><r>haste<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bidegurutze<s n="n"/></l><r>crossing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bidegurutze<s n="n"/></l><r>crossing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bidegurutze<s n="n"/></l><r>junction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bideo<s n="n"/></l><r>video<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bielorrusiera<s n="n"/></l><r>belarusian<s n="n"/><s n="sg"/></r></p></e>
     <e a="matxin"><p><l>bihar<s n="n"/></l><r>tomorrow<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bihotz<s n="n"/></l><r>heart<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>bihotzerre<s n="n"/></l><r>heartburn<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>bihurgune<s n="n"/></l><r>bend<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bihurgune<s n="n"/></l><r>bend<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bihurgune<s n="n"/></l><r>curve<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bihurtze<s n="n"/></l><r>conversion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bikaintasun<s n="n"/></l><r>excellence<s n="n"/><s n="ND"/></r></p></e>
@@ -9824,22 +9818,19 @@
     <e c="a married couple"><p><l>bikotekide<s n="n"/></l><r>couple<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>biktima<s n="n"/></l><r>victim<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bilakaera<s n="n"/></l><r>evolution<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bilaketa<s n="n"/></l><r>pursuit<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bilaketa<s n="n"/></l><r>research<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bilaketa<s n="n"/></l><r>pursuit<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bilaketa<s n="n"/></l><r>research<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bilaketa<s n="n"/></l><r>search<s n="n"/><s n="ND"/></r></p></e>
     <e c="Lit."><p><l>bilbe<s n="n"/></l><r>plot<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bilduma<s n="n"/></l><r>collection<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bilera<s n="n"/></l><r>meeting<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bilera<s n="n"/></l><r>session<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bilera<s n="n"/></l><r>session<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bilgune<s n="n"/></l><r>junction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bilioi<s n="n"/></l><r>trillion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bilketa<s n="n"/></l><r>meeting<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bilkura<s n="n"/></l><r>meeting<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>biloba<s n="n"/></l><r>grandson<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>biloba<s n="n"/></l><r>grandchild<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>biloba<s n="n"/></l><r>grandson<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>biloba<s n="n"/></l><r>grandchild<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>biloba<s n="n"/></l><r>granddaughter<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>biloba<s n="n"/></l><r>grandchild<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>biltegi<s n="n"/></l><r>warehouse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>biltzar<s n="n"/></l><r>meeting<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>binper<s n="n"/></l><r>reverse<s n="n"/><s n="ND"/></r></p></e>
@@ -9897,7 +9888,6 @@
     <e><p><l>bolumen<s n="n"/></l><r>volume<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>boluntario<s n="n"/></l><r>volunteer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<s n="n"/></l><r>bomb<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bonba<s n="n"/></l><r>pump<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonbardaketa<s n="n"/></l><r>bombardment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonbilla<s n="n"/></l><r>bulb<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>bonbilla<s n="n"/></l><r>light<b/>bulb<s n="n"/><s n="ND"/></r></p></e>
@@ -11267,6 +11257,7 @@
     <e><p><l>ibai<s n="n"/></l><r>river<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibar<s n="n"/></l><r>valley<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilaldi<s n="n"/></l><r>excursion<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>protesta-ibilaldi<s n="n"/></l><r>protest<b/>march<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilbide<s n="n"/></l><r>route<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilera<s n="n"/></l><r>gear<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilera<s n="n"/></l><r>march<s n="n"/><s n="ND"/></r></p></e>
