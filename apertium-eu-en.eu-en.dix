@@ -9888,6 +9888,11 @@
     <e><p><l>bolumen<s n="n"/></l><r>volume<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>boluntario<s n="n"/></l><r>volunteer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<s n="n"/></l><r>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>napalm-ezko<b/>bonba<s n="n"/></l><r>napalm<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>napalmezko<b/>bonba<s n="n"/></l><r>napalm<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>atomo-bonba<s n="n"/></l><r>atomic<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bonba<b/>nuklear<s n="n"/></l><r>nuclear<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bonba<b/>termonuklear<s n="n"/></l><r>thermonuclear<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonbardaketa<s n="n"/></l><r>bombardment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonbilla<s n="n"/></l><r>bulb<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>bonbilla<s n="n"/></l><r>light<b/>bulb<s n="n"/><s n="ND"/></r></p></e>

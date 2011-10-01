@@ -16289,6 +16289,11 @@
     <e lm="bodywork"><i>bodywork</i><par n="house__n"/>    </e>
     <e lm="boiler"><i>boiler</i><par n="house__n"/>    </e>
     <e lm="bomb"><i>bomb</i><par n="house__n"/>    </e>
+    <e lm="napalm bomb"><i>napalm<b/>bomb</i><par n="house__n"/>    </e>
+    <e lm="atom bomb"><i>atom<b/>bomb</i><par n="house__n"/>    </e>
+    <e lm="atomic bomb"><i>atomic<b/>bomb</i><par n="house__n"/>    </e>
+    <e lm="nuclear bomb"><i>nuclear<b/>bomb</i><par n="house__n"/>    </e>
+    <e lm="thermonuclear bomb"><i>thermonuclear<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="bombardment"><i>bombardment</i><par n="house__n"/>    </e>
     <e lm="bomber"><i>bomber</i><par n="house__n"/>    </e>
     <e lm="bond" a="carmentano"><i>bond</i><par n="house__n"/>    </e>
