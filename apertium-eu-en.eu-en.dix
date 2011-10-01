@@ -12322,7 +12322,18 @@
     <e r="RL"><p><l>gozoki<s n="n"/></l><r>candy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gozoki<s n="n"/></l><r>sweet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etxeko<s n="n"/></l><r>household<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eusko<b/>jaurlaritza<s n="n"/></l><r>Basque<b/>government<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>Eusko<b/>Jaurlaritza<s n="np"/><s n="al"/></l><r>Basque<b/>Government<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Euskaltzaindia<s n="np"/><s n="al"/></l><r>Royal<b/>Academy<b/>of<b/>the<b/>Basque<b/>language<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>euskaltzain<s n="n"/></l><r>member<g><b/>of<b/>the<b/>Basque<b/>Academy</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>euskaltzain<b/>urgazle<s n="n"/></l><r>associate<b/>member<g><b/>of<b/>the<b/>Basque<b/>Academy</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>euskaltzain<b/>oso<s n="n"/></l><r>regular<b/>member<g><b/>of<b/>the<b/>Basque<b/>Academy</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>euskaltzain<b/>ohorezko<s n="n"/></l><r>honorary<b/>member<g><b/>of<b/>the<b/>Basque<b/>Academy</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>zamari<s n="n"/></l><r>beast<g><b/>of<b/>burden</g><s n="n"/><s n="ND"/></r></p></e>
+    <e slr="smuggler"><p><l>zamari<s n="n"/></l><r>smuggler<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>uko<s n="n"/></l><r>refusal<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>zeregin<s n="n"/></l><r>occupation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>zahartzaro<s n="n"/></l><r>old<b/>age<s n="n"/><s n="sg"/></r></p></e>
+
     <e><p><l>gizakunde<s n="n"/></l><r>incarnation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>independentista<s n="n"/></l><r>independence<b/>supporter<s n="n"/><s n="ND"/></r></p></e>
 

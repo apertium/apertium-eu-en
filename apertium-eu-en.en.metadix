@@ -17932,7 +17932,8 @@
     <e lm="gorilla"><i>gorilla</i><par n="house__n"/>    </e>
     <e lm="gossip"><i>gossip</i><par n="house__n"/>    </e>
     <e lm="government"><i>government</i><par n="house__n"/>    </e>
-    <e lm="Basque government"><i>Basque<b/>government</i><par n="house__n"/>    </e>
+    <e lm="Basque Government"><i>Basque<b/>Government</i><par n="Linux__np"/>    </e>
+    <e lm="Royal Academy of the Basque language"><i>Royal<b/>Academy<b/>of<b/>the<b/>Basque<b/>language</i><par n="Linux__np"/>    </e>
     <e lm="governor"><i>governor</i><par n="house__n"/>    </e>
     <e lm="grace"><i>grace</i><par n="house__n"/>    </e>
     <e lm="grade"><i>grade</i><par n="house__n"/>    </e>
@@ -18910,8 +18911,15 @@
     <e lm="melody"><i>melod</i><par n="bab/y__n"/>    </e>
     <e lm="melomaniac"><i>melomaniac</i><par n="house__n"/>    </e>
     <e lm="melon"><i>melon</i><par n="house__n"/>    </e>
+    <e lm="smuggler"><i>smuggler</i><par n="house__n"/>    </e>
+    <e lm="old age"><i>old<b/>age</i><par n="east__n"/>    </e>
     <e lm="member"><i>member</i><par n="house__n"/>    </e>
+    <e lm="beast of burden"><i>beast</i><par n="house__n"/>      <p>        <l><b/>of<b/>burden</l><r><g><b/>of<b/>burden</g></r></p></e>
     <e lm="member of parliament"><i>member</i><par n="house__n"/>      <p>        <l><b/>of<b/>parliament</l><r><g><b/>of<b/>parliament</g></r></p></e>
+    <e lm="member of the Basque Academy"><i>member</i><par n="house__n"/>      <p>        <l><b/>of<b/>the<b/>Basque<b/>Academy</l><r><g><b/>of<b/>the<b/>Basque<b/>Academy</g></r></p></e>
+    <e lm="associate member of the Basque Academy"><i>associate<b/>member</i><par n="house__n"/>      <p>        <l><b/>of<b/>the<b/>Basque<b/>Academy</l><r><g><b/>of<b/>the<b/>Basque<b/>Academy</g></r></p></e>
+    <e lm="regular member of the Basque Academy"><i>regular<b/>member</i><par n="house__n"/>      <p>        <l><b/>of<b/>the<b/>Basque<b/>Academy</l><r><g><b/>of<b/>the<b/>Basque<b/>Academy</g></r></p></e>
+    <e lm="honorary member of the Basque Academy"><i>honorary<b/>member</i><par n="house__n"/>      <p>        <l><b/>of<b/>the<b/>Basque<b/>Academy</l><r><g><b/>of<b/>the<b/>Basque<b/>Academy</g></r></p></e>
     <e lm="motion of censure"><i>motion</i><par n="house__n"/>      <p>        <l><b/>of<b/>censure</l><r><g><b/>of<b/>censure</g></r></p></e>
     <e lm="term of office"><i>term</i><par n="house__n"/>      <p>        <l><b/>of<b/>office</l><r><g><b/>of<b/>office</g></r></p></e>
     <e lm="membership"><i>membership</i><par n="house__n"/>    </e>
