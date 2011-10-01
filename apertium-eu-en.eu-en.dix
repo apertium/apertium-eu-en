@@ -9375,39 +9375,38 @@
     <e><p><l>armiarma-sare<s n="n"/></l><r>cobweb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arnasa<s n="n"/></l><r>breath<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arnasketa<s n="n"/></l><r>breath<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arnasketa<s n="n"/></l><r>breathing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>arnasketa<s n="n"/></l><r>breathing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aro<s n="n"/></l><r>period<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>arra<s n="n"/></l><r>handspan<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arra<s n="n"/></l><r>palm<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrain<s n="n"/></l><r>fish<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arraio<s n="n"/></l><r>ray<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arraio<s n="n"/></l><r>thunderbolt<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arrakasta<s n="n"/></l><r>hit<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>arraio<s n="n"/></l><r>thunderbolt<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>arrakasta<s n="n"/></l><r>hit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrakasta<s n="n"/></l><r>success<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrano<s n="n"/></l><r>eagle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrantza<s n="n"/></l><r>fishing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrantzale<s n="n"/></l><r>fisherman<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arrantzale<s n="n"/></l><r>fisherwoman<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>arrantzale<s n="n"/></l><r>fisherwoman<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrasto<s n="n"/></l><r>trace<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arratoi<s n="n"/></l><r>rat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrats<s n="n"/></l><r>dusk<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arratsalde<s n="n"/></l><r>afternoon<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrautza<s n="n"/></l><r>egg<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arraza<s n="n"/></l><r>breed<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>arraza<s n="n"/></l><r>breed<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arraza<s n="n"/></l><r>race<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrazakeria<s n="n"/></l><r>racism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrazoi<s n="n"/></l><r>reason<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrazoiketa<s n="n"/></l><r>reasoning<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arreba<s n="n"/></l><r>brother<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arreba<s n="n"/></l><r>sister<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arreta<s n="n"/></l><r>attention<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arrisku<s n="n"/></l><r>danger<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>arrisku<s n="n"/></l><r>danger<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrisku<s n="n"/></l><r>risk<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>arro<s n="n"/></l><r>watershed<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arropa<s n="n"/></l><r>cloth<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>arropa<s n="n"/></l><r>cloth<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>arropa<s n="n"/></l><r>clothes<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>arropa<s n="n"/></l><r>clothing<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>arrosa<s n="n"/></l><r>pink<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>arropa<s n="n"/></l><r>clothing<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="pink"><p><l>arrosa<s n="n"/></l><r>pink<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrosa<s n="n"/></l><r>rose<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arrosario<s n="n"/></l><r>rosary<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>arrotz<s n="n"/></l><r>stranger<s n="n"/><s n="ND"/></r></p></e>
@@ -9416,13 +9415,10 @@
     <e><p><l>arta<s n="n"/></l><r>care<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>arte<s n="n"/></l><r>art<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>artikulazio<s n="n"/></l><r>articulation<s n="n"/><s n="ND"/></r></p></e>
-    <e c="Anat."><p><l>artikulazio<s n="n"/></l><r>joint<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>artikulu<s n="n"/></l><r>article<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>artikulu<s n="n"/></l><r>paper<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>artile<s n="n"/></l><r>wool<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>artisau<s n="n"/></l><r>craftsman<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>artista<s n="n"/></l><r>artist<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>artista<s n="n"/></l><r>entertainer<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>arto<s n="n"/></l><r>maize<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>arto<s n="n"/></l><r>sweetcorn<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>artxibo<s n="n"/></l><r>file<s n="n"/><s n="ND"/></r></p></e>
@@ -9445,32 +9441,31 @@
     <e><p><l>asmatzaile<s n="n"/></l><r>inventor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>asmatze<s n="n"/></l><r>tarpaulin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>asmo<s n="n"/></l><r>intention<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>asmo<s n="n"/></l><r>purpose<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>asmo<s n="n"/></l><r>purpose<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aspaldi<s n="n"/></l><r>while<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aspektu<s n="n"/></l><r>appearance<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>aspektu<s n="n"/></l><r>appearance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aspektu<s n="n"/></l><r>aspect<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aspektu<s n="n"/></l><r>look<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>astakeria<s n="n"/></l><r>nonsense<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>aspektu<s n="n"/></l><r>look<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>astakeria<s n="n"/></l><r>atrocity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aste<s n="n"/></l><r>week<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>astearte<s n="n"/></l><r>Tuesday<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>asteazken<s n="n"/></l><r>Wednesday<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>asteburu<s n="n"/></l><r>weekend<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>astegun<s n="n"/></l><r>working<b/>day<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>astegun<s n="n"/></l><r>business<b/>day<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>astegun<s n="n"/></l><r>business<b/>day<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>astelehen<s n="n"/></l><r>Monday<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>astindu<s n="n"/></l><r>jerk<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>astintze<s n="n"/></l><r>agitation<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>asto<s n="n"/></l><r>ass<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>asto<s n="n"/></l><r>donkey<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL" a="matxin" c="slr='easel'"><p><l>asto<s n="n"/></l><r>easel<s n="n"/><s n="ND"/></r></p></e>
+    <e a="matxin" slr="easel"><p><l>asto<s n="n"/></l><r>easel<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>asun<s n="n"/></l><r>nettle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atal<s n="n"/></l><r>part<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atalase<s n="n"/></l><r>threshold<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>atari<s n="n"/></l><r>threshold<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atari<s n="n"/></l><r>entrance<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>atari<s n="n"/></l><r>entry<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>atari<s n="n"/></l><r>input<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="input"><p><l>atari<s n="n"/></l><r>input<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>atari<s n="n"/></l><r>ticket<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ate<s n="n"/></l><r>door<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>ate<s n="n"/></l><r>gate<s n="n"/><s n="ND"/></r></p></e>
@@ -9493,7 +9488,6 @@
     <e><p><l>atseden<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atsedenaldi<s n="n"/></l><r>interval<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atsegin<s n="n"/></l><r>pleasure<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>atsegin<s n="n"/></l><r>placer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atsekabe<s n="n"/></l><r>discontent<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atso<s n="n"/></l><r>old<b/>woman<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atso<b/>sorgin<s n="n"/></l><r>old<b/>battleaxe<s n="n"/><s n="ND"/></r></p></e>
@@ -9502,7 +9496,7 @@
     <e r="RL"><p><l>atxiloketa<s n="n"/></l><r>detention<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atxilotu<s n="n"/></l><r>arrested<b/>person<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atze<s n="n"/></l><r>rear<s n="n"/><s n="ND"/></r></p></e>
-    <e c="slr='stranger'"><p><l>atze<s n="n"/></l><r>stranger<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="stranger"><p><l>atze<s n="n"/></l><r>stranger<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atzera-egite<s n="n"/></l><r>withdrawal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atzeraldi<s n="n"/></l><r>recession<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>atzeraldi<s n="n"/></l><r>slump<s n="n"/><s n="ND"/></r></p></e>
@@ -9627,7 +9621,6 @@
     <e r="RL" a="matxin"><p><l>balentria<s n="n"/></l><r>exploit<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>balentria<s n="n"/></l><r>feat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>balentzia<s n="n"/></l><r>valency<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>baliabide<s n="n"/></l><r>resort<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baliabide<s n="n"/></l><r>resource<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>balio<s n="n"/></l><r>courage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>balio<s n="n"/></l><r>value<s n="n"/><s n="ND"/></r></p></e>
@@ -9639,7 +9632,6 @@
     <e><p><l>balkoi<s n="n"/></l><r>balcony<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baloi<s n="n"/></l><r>balloon<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>balorazio<s n="n"/></l><r>assessment<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>banaketa<s n="n"/></l><r>cast<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>banaketa<s n="n"/></l><r>distribution<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>banakotasun<s n="n"/></l><r>individuality<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>banatzaile<s n="n"/></l><r>distributor<s n="n"/><s n="ND"/></r></p></e>
@@ -9663,8 +9655,7 @@
     <e><p><l>barne<s n="n"/></l><r>inside<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>barne<s n="n"/></l><r>interior<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barne-zola<s n="n"/></l><r>staff<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>barne-zola<s n="n"/></l><r>team<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>barne-zola<s n="n"/></l><r>template<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>barne-zola<s n="n"/></l><r>team<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barra<s n="n"/></l><r>bar<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>barra<s n="n"/></l><r>rail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barraka<s n="n"/></l><r>barrack<s n="n"/><s n="ND"/></r></p></e>
@@ -9672,9 +9663,9 @@
     <e><p><l>barre<s n="n"/></l><r>laugh<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>barre<s n="n"/></l><r>laughter<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barrera<s n="n"/></l><r>barrier<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>barru<s n="n"/></l><r>inside<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>barru<s n="n"/></l><r>inside<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barru<s n="n"/></l><r>interior<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>barrualde<s n="n"/></l><r>inside<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>barrualde<s n="n"/></l><r>inside<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barrualde<s n="n"/></l><r>interior<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barrunbe<s n="n"/></l><r>cavity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>barruti<s n="n"/></l><r>district<s n="n"/><s n="ND"/></r></p></e>
@@ -9683,13 +9674,13 @@
     <e><p><l>base<s n="n"/></l><r>base<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baserritar<s n="n"/></l><r>peasant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>basilika<s n="n"/></l><r>basilica<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>baso<s n="n"/></l><r>glass<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="glass"><p><l>baso<s n="n"/></l><r>glass<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="vase"><p><l>baso<s n="n"/></l><r>vase<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baso<s n="n"/></l><r>forest<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>baso<s n="n"/></l><r>wood<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>baso<s n="n"/></l><r>wood<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>baso<s n="n"/></l><r>wood<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>bataila<s n="n"/></l><r>battle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bataio<s n="n"/></l><r>baptism<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>batasun<s n="n"/></l><r>unit<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="union"><p><l>batasun<s n="n"/></l><r>union<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>batasun<s n="n"/></l><r>unity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bateko<s n="n"/></l><r>ace<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bateria<s n="n"/></l><r>battery<s n="n"/><s n="ND"/></r></p></e>
