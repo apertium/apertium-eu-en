@@ -15942,6 +15942,7 @@
     <e lm="thirst"><i>thirst</i><par n="house__n"/></e>
     <e lm="dawn"><i>dawn</i><par n="house__n"/></e>
     <e lm="sunrise"><i>sunrise</i><par n="house__n"/></e>
+    <e lm="newlywed"><i>newlywed</i><par n="house__n"/></e>
     <e lm="greenhouse"><i>greenhouse</i><par n="house__n"/></e>
     <e lm="hothouse"><i>hothouse</i><par n="house__n"/></e>
     <e lm="tray"><i>tray</i><par n="house__n"/></e>
@@ -26495,6 +26496,7 @@
     <e r="RL" lm="at a guess"><i>at<b/>a<b/>guess</i><par n="maybe__adv"/>    </e>
     <e lm="at a time"><i>at<b/>a<b/>time</i><par n="maybe__adv"/>    </e>
     <e lm="at all"><i>at<b/>all</i><par n="maybe__adv"/>    </e>
+    <e lm="nothing at all"><i>nothing<b/>at<b/>all</i><par n="maybe__adv"/>    </e>
     <e lm="at first"><i>at<b/>first</i><par n="maybe__adv"/>    </e>
     <e lm="at full speed"><i>at<b/>full<b/>speed</i><par n="maybe__adv"/>    </e>
     <e lm="at full speed"><i>at<b/>full<b/>speed</i><par n="maybe__adv"/>    </e>

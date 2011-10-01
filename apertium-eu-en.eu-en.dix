@@ -350,6 +350,7 @@
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>inolako<s n="adj"/></l><r>any<s n="adj"/></r></p></e>
+    <e><p><l>bera<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
     <e><p><l>aurren<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>aurreneko<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e i="yes"><p><l>azken<s n="adj"/></l><r>last<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -4148,6 +4149,7 @@
     <e><p><l>ere<b/>bai<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e r="RL" c="frases negatives"><p><l>ere<b/>ez<s n="adv"/></l><r>either<s n="adv"/></r></p></e>
     <e><p><l>ere<b/>ez<s n="adv"/></l><r>neither<s n="adv"/></r></p></e>
+    <e><p><l>ezer<b/>ere<b/>ez<s n="adv"/></l><r>nothing<b/>at<b/>all<s n="adv"/></r></p></e>
     <e><p><l>ero-eroan<s n="adv"/></l><r>by<b/>fits<b/>and<b/>starts<s n="adv"/></r></p></e>
     <e><p><l>erraz<b/>agertu<s n="adv"/></l><r>on<b/>the<b/>surface<s n="adv"/></r></p></e>
     <e c="check"><p><l>errurik<b/>izan<b/>gabe<s n="adv"/></l><r>without<b/>having<b/>anything<b/>to<b/>do<b/>with<b/>it<s n="adv"/></r></p></e>
@@ -10324,13 +10326,13 @@
     <e><p><l>erailketa<s n="n"/></l><r>murder<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erakargarritasun<s n="n"/></l><r>appeal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erakarpen<s n="n"/></l><r>attraction<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erakarpen<s n="n"/></l><r>pull<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erakarpen<s n="n"/></l><r>pull<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eraketa<s n="n"/></l><r>formation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eraketa<s n="n"/></l><r>training<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eraketa<s n="n"/></l><r>training<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erakunde<s n="n"/></l><r>organism<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erakusketa<s n="n"/></l><r>exhibit<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erakusketa<s n="n"/></l><r>exhibit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erakusketa<s n="n"/></l><r>exhibition<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erakusketa<s n="n"/></l><r>exposure<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erakusketa<s n="n"/></l><r>exposure<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>erakusleiho<s n="n"/></l><r>display<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>erakustaldi<s n="n"/></l><r>show<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erakutsi<s n="n"/></l><r>example<s n="n"/><s n="ND"/></r></p></e>
@@ -10339,7 +10341,7 @@
     <e a="matxin"><p><l>eramaile<s n="n"/></l><r>carrier<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eranskin<s n="n"/></l><r>appendix<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eranste<s n="n"/></l><r>incorporation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erantzukizun<s n="n"/></l><r>liability<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erantzukizun<s n="n"/></l><r>liability<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erantzukizun<s n="n"/></l><r>responsibility<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erantzule<s n="n"/></l><r>manager<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erantzun<s n="n"/></l><r>answer<s n="n"/><s n="ND"/></r></p></e>
@@ -10347,7 +10349,7 @@
     <e r="RL"><p><l>erantzun<s n="n"/></l><r>response<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eraso<s n="n"/></l><r>assault<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erasoaldi<s n="n"/></l><r>attack<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erasoaldi<s n="n"/></l><r>stroke<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erasoaldi<s n="n"/></l><r>stroke<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erasotzaile<s n="n"/></l><r>attacker<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eraztun<s n="n"/></l><r>ring<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erbeste<s n="n"/></l><r>exile<s n="n"/><s n="ND"/></r></p></e>
@@ -10363,7 +10365,7 @@
     <e r="RL" a="matxin"><p><l>eredu<s n="n"/></l><r>ideal<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>eredu<s n="n"/></l><r>example<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eredu<s n="n"/></l><r>model<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ereinotz<s n="n"/></l><r>bay<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ereinotz<s n="n"/></l><r>bay<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ereinotz<s n="n"/></l><r>laurel<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>eremu<s n="n"/></l><r>domain<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eremu<s n="n"/></l><r>area<s n="n"/><s n="ND"/></r></p></e>
@@ -10403,7 +10405,7 @@
     <e a="matxin"><p><l>errauts<s n="n"/></l><r>ash<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>errauts<s n="n"/></l><r>cinder<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erraztasun<s n="n"/></l><r>ease<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erraztasun<s n="n"/></l><r>facility<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erraztasun<s n="n"/></l><r>facility<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erreakzio<s n="n"/></l><r>reaction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errealismo<s n="n"/></l><r>realism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errealitate<s n="n"/></l><r>reality<s n="n"/><s n="ND"/></r></p></e>
@@ -10429,8 +10431,8 @@
     <e r="RL"><p><l>erregimen<s n="n"/></l><r>diet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erregimen<s n="n"/></l><r>regime<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erregina<s n="n"/></l><r>queen<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erregistro<s n="n"/></l><r>record<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erregistro<s n="n"/></l><r>recording<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erregistro<s n="n"/></l><r>record<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erregistro<s n="n"/></l><r>recording<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erregistro<s n="n"/></l><r>register<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erregulartasun<s n="n"/></l><r>regularity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erregulazio<s n="n"/></l><r>regulation<s n="n"/><s n="ND"/></r></p></e>
@@ -10438,11 +10440,11 @@
     <e><p><l>errektore<s n="n"/></l><r>rector<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erremedio<s n="n"/></l><r>remedy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erreminta<s n="n"/></l><r>tool<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>errenkada<s n="n"/></l><r>rank<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>errenkada<s n="n"/></l><r>rank<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errenkada<s n="n"/></l><r>row<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errenta<s n="n"/></l><r>income<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errepertorio<s n="n"/></l><r>repertoire<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>errepide<s n="n"/></l><r>highway<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>errepide<s n="n"/></l><r>highway<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errepide<s n="n"/></l><r>road<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errepikapen<s n="n"/></l><r>repetition<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erreportaje<s n="n"/></l><r>report<s n="n"/><s n="ND"/></r></p></e>
@@ -10451,7 +10453,7 @@
     <e><p><l>errepublikano<s n="n"/></l><r>republican<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errepublikazale<s n="n"/></l><r>republican<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erreserba<s n="n"/></l><r>reservation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erreserba<s n="n"/></l><r>reserve<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erreserba<s n="n"/></l><r>reserve<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erresistentzia<s n="n"/></l><r>resistance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erreskate<s n="n"/></l><r>rescue<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errespetu<s n="n"/></l><r>respect<s n="n"/><s n="ND"/></r></p></e>
@@ -10466,28 +10468,27 @@
     <e><p><l>erretxina<s n="n"/></l><r>resin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erretzaile<s n="n"/></l><r>smoker<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errezelo<s n="n"/></l><r>distrust<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erritmo<s n="n"/></l><r>rate<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erritmo<s n="n"/></l><r>rate<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erritmo<s n="n"/></l><r>rhythm<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erritu<s n="n"/></l><r>rite<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erritu<s n="n"/></l><r>rite<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erritu<s n="n"/></l><r>ritual<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erro<s n="n"/></l><r>root<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erro<s n="n"/></l><r>stem<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erro<s n="n"/></l><r>stem<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>errolda<s n="n"/></l><r>census<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erromaniko<s n="n"/></l><r>romance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erromantze<s n="n"/></l><r>romance<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>erromero<s n="n"/></l><r>rosemary<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erronka<s n="n"/></l><r>challenge<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erropa<s n="n"/></l><r>cloth<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>erropa<s n="n"/></l><r>clothes<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>errore<s n="n"/></l><r>error<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>errota<s n="n"/></l><r>grinder<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>errota<s n="n"/></l><r>mill<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erru<s n="n"/></l><r>blame<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erru<s n="n"/></l><r>blame<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erru<s n="n"/></l><r>fault<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erruduntasun<s n="n"/></l><r>culpability<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errugabetasun<s n="n"/></l><r>innocence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erruki<s n="n"/></l><r>compassion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erruki<s n="n"/></l><r>sympathy<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erruki<s n="n"/></l><r>sympathy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errumaniar<s n="n"/></l><r>Romanian<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errusiar<s n="n"/></l><r>Russian<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errusiera<s n="n"/></l><r>russian<s n="n"/><s n="sg"/></r></p></e>
@@ -10501,7 +10502,7 @@
     <e r="RL"><p><l>ertzain<s n="n"/></l><r>policeman<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>ertzain<s n="n"/></l><r>policewoman<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eruditu<s n="n"/></l><r>scholar<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>esaldi<s n="n"/></l><r>phrase<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>esaldi<s n="n"/></l><r>phrase<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esaldi<s n="n"/></l><r>sentence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esamesa<s n="n"/></l><r>gossip<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>esan<s n="n"/></l><r>saying<s n="n"/><s n="ND"/></r></p></e>
@@ -10511,13 +10512,13 @@
     <e r="RL" a="matxin"><p><l>esfera<s n="n"/></l><r>dial<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>esfera<s n="n"/></l><r>sphere<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esfortzu<s n="n"/></l><r>effort<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eskaera<s n="n"/></l><r>demand<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eskaera<s n="n"/></l><r>demand<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskaera<s n="n"/></l><r>request<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskailera<s n="n"/></l><r>stair<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>eskailera<s n="n"/></l><r>staircase<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eskaintza<s n="n"/></l><r>bid<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eskailera<s n="n"/></l><r>staircase<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eskaintza<s n="n"/></l><r>bid<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskaintza<s n="n"/></l><r>offer<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eskaintza<s n="n"/></l><r>tender<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eskaintza<s n="n"/></l><r>tender<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>eskakizun<s n="n"/></l><r>demand<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskala<s n="n"/></l><r>scale<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskale<s n="n"/></l><r>beggar<s n="n"/><s n="ND"/></r></p></e>
@@ -10527,9 +10528,9 @@
     <e><p><l>eske<s n="n"/></l><r>request<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>eskema<s n="n"/></l><r>diagram<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskema<s n="n"/></l><r>scheme<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>esker<s n="n"/></l><r>appreciation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>esker<s n="n"/></l><r>appreciation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esker<s n="n"/></l><r>gratitude<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>esker<b/>on<s n="n"/></l><r>appreciation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>esker<b/>on<s n="n"/></l><r>appreciation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esker<b/>on<s n="n"/></l><r>gratitude<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esklabo<s n="n"/></l><r>slave<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esklusiba<s n="n"/></l><r>scoop<s n="n"/><s n="ND"/></r></p></e>
@@ -10544,7 +10545,6 @@
     <e c="check"><p><l>eskuliburu<s n="n"/></l><r>manual<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskultura<s n="n"/></l><r>sculpture<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskumen<s n="n"/></l><r>power<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eskumutur<s n="n"/></l><r>doll<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskumutur<s n="n"/></l><r>wrist<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskuordetze<s n="n"/></l><r>delegation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eskuratze<s n="n"/></l><r>acquisition<s n="n"/><s n="ND"/></r></p></e>
@@ -10580,14 +10580,14 @@
     <e><p><l>espiritu<s n="n"/></l><r>spirit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esplikazio<s n="n"/></l><r>explanation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esplorazio<s n="n"/></l><r>exploration<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>esplorazio<s n="n"/></l><r>screening<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>esplorazio<s n="n"/></l><r>screening<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esplotazio<s n="n"/></l><r>exploitation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esportazio<s n="n"/></l><r>export<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>esprint<s n="n"/></l><r>sprint<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>establezimendu<s n="n"/></l><r>establishment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estadio<s n="n"/></l><r>stadium<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estaldura<s n="n"/></l><r>coverage<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>estaldura<s n="n"/></l><r>covering<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>estaldura<s n="n"/></l><r>covering<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estaltze<s n="n"/></l><r>coating<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estandar<s n="n"/></l><r>standard<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estandarizazio<s n="n"/></l><r>standardisation<s n="n"/><s n="ND"/></r></p></e>
@@ -10606,19 +10606,19 @@
     <e><p><l>estimulu<s n="n"/></l><r>stimulus<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estrategia<s n="n"/></l><r>strategy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estres<s n="n"/></l><r>stress<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>estudio<s n="n"/></l><r>studio<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="studio"><p><l>estudio<s n="n"/></l><r>studio<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estudio<s n="n"/></l><r>study<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estutasun<s n="n"/></l><r>anxiety<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eszena<s n="n"/></l><r>scene<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eszenatoki<s n="n"/></l><r>stage<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eszenatoki<s n="n"/></l><r>scenario<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eszenatoki<s n="n"/></l><r>scenario<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etakide<s n="n"/></l><r>ETA<b/>member<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etapa<s n="n"/></l><r>stage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etekin<s n="n"/></l><r>performance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eten<s n="n"/></l><r>interruption<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>etenaldi<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>etenaldi<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etenaldi<s n="n"/></l><r>pause<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>etendura<s n="n"/></l><r>breach<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>etendura<s n="n"/></l><r>breach<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etendura<s n="n"/></l><r>split<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etnia<s n="n"/></l><r>ethnicity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etorbide<s n="n"/></l><r>avenue<s n="n"/><s n="ND"/></r></p></e>
@@ -10631,8 +10631,8 @@
     <e><p><l>etxebizitza<s n="n"/></l><r>house<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etxeko_nagusi<s n="n"/></l><r>owner<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>etxekoandre<s n="n"/></l><r>housewife<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>etxola<s n="n"/></l><r>shed<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>etxola<s n="n"/></l><r>hut<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>etxola<s n="n"/></l><r>shed<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>etxola<s n="n"/></l><r>hut<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etxola<s n="n"/></l><r>cabin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>euforia<s n="n"/></l><r>euphoria<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>eukalipto<s n="n"/></l><r>eucalyptus<s n="n"/><s n="ND"/></r></p></e>
@@ -10655,9 +10655,9 @@
     <e><p><l>ezagutarazte<s n="n"/></l><r>disclosure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezagutza<s n="n"/></l><r>knowledge<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezarpen<s n="n"/></l><r>instauration<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezaugarri<s n="n"/></l><r>characteristic<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ezaugarri<s n="n"/></l><r>characteristic<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezaugarri<s n="n"/></l><r>feature<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezaugarri<s n="n"/></l><r>signal<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ezaugarri<s n="n"/></l><r>signal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezbehar<s n="n"/></l><r>accident<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezberdintasun<s n="n"/></l><r>difference<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezegonkortasun<s n="n"/></l><r>unsteadiness<s n="n"/><s n="ND"/></r></p></e>
@@ -10666,27 +10666,20 @@
     <e><p><l>ezezagun<s n="n"/></l><r>stranger<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezezko<s n="n"/></l><r>refusal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezinikusi<s n="n"/></l><r>grudge<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezintasun<s n="n"/></l><r>disability<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ezintasun<s n="n"/></l><r>disability<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezintasun<s n="n"/></l><r>inability<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezintasun<s n="n"/></l><r>impossibility<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezintasun<s n="n"/></l><r>impotence<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ezintasun<s n="n"/></l><r>impossibility<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ezintasun<s n="n"/></l><r>impotence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezjakintasun<s n="n"/></l><r>ignorance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezker<s n="n"/></l><r>left<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezkonberri<s n="n"/></l><r>bridegroom<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezkonberri<s n="n"/></l><r>groom<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezkonberri<s n="n"/></l><r>bride<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezkonberri<s n="n"/></l><r>boyfriend<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezkonberri<s n="n"/></l><r>girlfriend<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ezkonberri<s n="n"/></l><r>newlywed<s n="n"/><s n="pl"/></r></p></e>
     <e a="matxin"><p><l>ezkongai<s n="n"/></l><r>suitor<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezkontza<s n="n"/></l><r>wedding<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ezkontza<s n="n"/></l><r>couple<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezkontza<s n="n"/></l><r>marriage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezkutu<s n="n"/></l><r>shield<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezpain<s n="n"/></l><r>lip<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ezpata<s n="n"/></l><r>sword<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eztabaida<s n="n"/></l><r>discussion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eztabaidagune<s n="n"/></l><r>forum<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eztainu<s n="n"/></l><r>lake<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eztainu<s n="n"/></l><r>tin<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>eztanda<s n="n"/></l><r>burst<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eztanda<s n="n"/></l><r>explosion<s n="n"/><s n="ND"/></r></p></e>
@@ -10695,7 +10688,7 @@
     <e><p><l>ezti<s n="n"/></l><r>honey<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>fabrika<s n="n"/></l><r>factory<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>fabrikazio<s n="n"/></l><r>manufacture<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>fabrikazio<s n="n"/></l><r>manufacturing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fabrikazio<s n="n"/></l><r>manufacturing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>faktore<s n="n"/></l><r>factor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>faktura<s n="n"/></l><r>bill<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>faktura<s n="n"/></l><r>invoice<s n="n"/><s n="ND"/></r></p></e>
@@ -10747,8 +10740,6 @@
     <e><p><l>flora<s n="n"/></l><r>flora<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>florin<s n="n"/></l><r>florin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>flota<s n="n"/></l><r>fleet<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>fondo<s n="n"/></l><r>background<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>fondo<s n="n"/></l><r>bottom<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>fondo<s n="n"/></l><r>fund<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>fonetika<s n="n"/></l><r>phonetics<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>forma<s n="n"/></l><r>form<s n="n"/><s n="ND"/></r></p></e>
