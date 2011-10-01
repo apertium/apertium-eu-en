@@ -20491,6 +20491,9 @@
     <e lm="spot"><i>spot</i><par n="house__n"/>    </e>
     <e lm="sprain"><i>sprain</i><par n="house__n"/>    </e>
     <e lm="spring"><i>spring</i><par n="house__n"/>    </e>
+    <e lm="hot spring"><i>hot<b/>spring</i><par n="house__n"/>    </e>
+    <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
+    <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
     <e lm="springboard"><i>springboard</i><par n="house__n"/>    </e>
     <e lm="square"><i>square</i><par n="house__n"/>    </e>
     <e lm="squeeze"><i>squeeze</i><par n="house__n"/>    </e>

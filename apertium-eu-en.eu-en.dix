@@ -11343,8 +11343,8 @@
     <e><p><l>inbestidura<s n="n"/></l><r>investiture<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inbidia<s n="n"/></l><r>envy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>indar<s n="n"/></l><r>force<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>indar<s n="n"/></l><r>strength<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>indar<s n="n"/></l><r>vigour<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>indar<s n="n"/></l><r>strength<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>indar<s n="n"/></l><r>vigour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>indarkeria<s n="n"/></l><r>violence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>independentismo<s n="n"/></l><r>independentism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>independentzia<s n="n"/></l><r>independence<s n="n"/><s n="ND"/></r></p></e>
@@ -11352,8 +11352,8 @@
     <e><p><l>indibiduo<s n="n"/></l><r>individual<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>indigena<s n="n"/></l><r>native<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>indize<s n="n"/></l><r>index<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>indize<s n="n"/></l><r>rate<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>indize<s n="n"/></l><r>rating<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>indize<s n="n"/></l><r>rate<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>indize<s n="n"/></l><r>rating<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>indultu<s n="n"/></l><r>reprieve<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>industria<s n="n"/></l><r>industry<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>industrializazio<s n="n"/></l><r>industrialisation<s n="n"/><s n="ND"/></r></p></e>
@@ -11368,36 +11368,36 @@
     <e><p><l>informazio<s n="n"/></l><r>information<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ingeles<s n="n"/></l><r>English<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ingeniari<s n="n"/></l><r>engineer<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>inguramendu<s n="n"/></l><r>contour<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>inguramendu<s n="n"/></l><r>contour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inguramendu<s n="n"/></l><r>outline<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>inguru<s n="n"/></l><r>locality<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ingurumen<s n="n"/></l><r>environment<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ingurune<s n="n"/></l><r>environment<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ingurune<s n="n"/></l><r>environment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ingurune<s n="n"/></l><r>surroundings<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>inhibizio<s n="n"/></l><r>inhibition<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>inizial<s n="n"/></l><r>initial<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>injekzio<s n="n"/></l><r>injection<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>injustizia<s n="n"/></l><r>injustice<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inkesta<s n="n"/></l><r>survey<s n="n"/><s n="ND"/></r></p></e>
-    <e c="también significa 'elecciones' (the polls)"><p><l>inkesta<s n="n"/></l><r>poll<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" c="también significa 'elecciones' (the polls)"><p><l>inkesta<s n="n"/></l><r>poll<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inklinazio<s n="n"/></l><r>inclination<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>inpaktu<s n="n"/></l><r>hit<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>inpaktu<s n="n"/></l><r>hit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inpaktu<s n="n"/></l><r>impact<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inperialismo<s n="n"/></l><r>imperialism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inperio<s n="n"/></l><r>empire<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inprenta<s n="n"/></l><r>printing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inpresio<s n="n"/></l><r>print<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>inprimatze<s n="n"/></l><r>impression<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>inprimatze<s n="n"/></l><r>print<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="impression"><p><l>inprimatze<s n="n"/></l><r>impression<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>inprimatze<s n="n"/></l><r>print<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inprimatze<s n="n"/></l><r>printing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inskripzio<s n="n"/></l><r>registration<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inspirazio<s n="n"/></l><r>inspiration<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>instalazio<s n="n"/></l><r>facility<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>instalazio<s n="n"/></l><r>facility<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>instalazio<s n="n"/></l><r>installation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>instantzia<s n="n"/></l><r>instance<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>institutu<s n="n"/></l><r>high<b/>school<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>institutu<s n="n"/></l><r>high<b/>school<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>institutu<s n="n"/></l><r>institute<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>instituzio<s n="n"/></l><r>institution<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>instituzio<s n="n"/></l><r>institution<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>instrukzio<s n="n"/></l><r>instruction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>instrumentu<s n="n"/></l><r>instrument<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>integratze<s n="n"/></l><r>integration<s n="n"/><s n="ND"/></r></p></e>
@@ -11407,10 +11407,10 @@
     <e><p><l>interferentzia<s n="n"/></l><r>interference<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>internet<s n="n"/></l><r>internet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>interpretazio<s n="n"/></l><r>interpretation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>interpretazio<s n="n"/></l><r>performance<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>interpretazio<s n="n"/></l><r>performance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>interprete<s n="n"/></l><r>interpreter<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>interprete<s n="n"/></l><r>performer<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>interprete<s n="n"/></l><r>player<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>interprete<s n="n"/></l><r>performer<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>interprete<s n="n"/></l><r>player<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>intimitate<s n="n"/></l><r>privacy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>intoxikazio<s n="n"/></l><r>intoxication<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>intriga<s n="n"/></l><r>intrigue<s n="n"/><s n="ND"/></r></p></e>
@@ -11435,32 +11435,31 @@
     <e><p><l>irabazte<s n="n"/></l><r>gain<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iradokizun<s n="n"/></l><r>suggestion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iragan<s n="n"/></l><r>past<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iragarpen<s n="n"/></l><r>ad<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iragarpen<s n="n"/></l><r>advertisement<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>iragarpen<s n="n"/></l><r>ad<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="advertisement"><p><l>iragarpen<s n="n"/></l><r>advertisement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iragarpen<s n="n"/></l><r>announcement<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iragarpen<s n="n"/></l><r>commercial<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>iragarpen<s n="n"/></l><r>commercial<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irail<s n="n"/></l><r>September<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irain<s n="n"/></l><r>insult<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irain<s n="n"/></l><r>offence<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>irain<s n="n"/></l><r>offence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irakaskuntza<s n="n"/></l><r>education<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irakaskuntza<s n="n"/></l><r>teaching<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>irakaskuntza<s n="n"/></l><r>teaching<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irakasle<s n="n"/></l><r>professor<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irakasle<s n="n"/></l><r>teacher<s n="n"/><s n="ND"/></r></p></e>
-    <e c="check"><p><l>irakaspen<s n="n"/></l><r>moral<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>irakasle<s n="n"/></l><r>teacher<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>irakaspen<s n="n"/></l><r>moral<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irakiar<s n="n"/></l><r>Iraqi<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irakurketa<s n="n"/></l><r>reading<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irakurle<s n="n"/></l><r>reader<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iraultza<s n="n"/></l><r>revolution<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>iraultzaile<s n="n"/></l><r>revolutionary<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iraunkortasun<s n="n"/></l><r>permanence<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>iraunkortasun<s n="n"/></l><r>permanence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iraunkortasun<s n="n"/></l><r>persistence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iraupen<s n="n"/></l><r>duration<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iraupen<s n="n"/></l><r>length<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>iraupen<s n="n"/></l><r>length<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irekidura<s n="n"/></l><r>opening<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irekitze<s n="n"/></l><r>opening<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irismen<s n="n"/></l><r>extent<s n="n"/><s n="ND"/></r></p></e>
-    <e c="Mil."><p><l>irismen<s n="n"/></l><r>range<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>irismen<s n="n"/></l><r>extent<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" c="Mil."><p><l>irismen<s n="n"/></l><r>range<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irismen<s n="n"/></l><r>scope<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iritzi<s n="n"/></l><r>opinion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iritzi<b/>zundaketa<s n="n"/></l><r>opinion<b/>poll<s n="n"/><s n="ND"/></r></p></e>
@@ -11473,25 +11472,22 @@
     <e><p><l>irrati<s n="n"/></l><r>radio<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irregulartasun<s n="n"/></l><r>irregularity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irribarre<s n="n"/></l><r>smile<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irrika<s n="n"/></l><r>eagerness<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irrika<s n="n"/></l><r>desire<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>irrika<s n="n"/></l><r>eagerness<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>irrika<s n="n"/></l><r>desire<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irrika<s n="n"/></l><r>wish<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>irrintzi<s n="n"/></l><r>neigh<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>irrintzi<s n="n"/></l><r>whinny<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irrintzi<s n="n"/></l><r>yell<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irteera<s n="n"/></l><r>departure<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>irteera<s n="n"/></l><r>departure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irteera<s n="n"/></l><r>exit<s n="n"/><s n="ND"/></r></p></e>
-    <e c="Inform."><p><l>irteera<s n="n"/></l><r>output<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irteera<s n="n"/></l><r>start<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irtenbide<s n="n"/></l><r>departure<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="output" c="Inform."><p><l>irteera<s n="n"/></l><r>output<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>irtenbide<s n="n"/></l><r>departure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irtenbide<s n="n"/></l><r>exit<s n="n"/><s n="ND"/></r></p></e>
-    <e c="Inform."><p><l>irtenbide<s n="n"/></l><r>output<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irtenbide<s n="n"/></l><r>start<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irudi<s n="n"/></l><r>image<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irudikapen<s n="n"/></l><r>representation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irudimen<s n="n"/></l><r>imagination<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iruzkin<s n="n"/></l><r>comment<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iruzkin<s n="n"/></l><r>remark<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>iruzkin<s n="n"/></l><r>remark<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iruzur<s n="n"/></l><r>fraud<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iseka<s n="n"/></l><r>mockery<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>isilmandatu<s n="n"/></l><r>confidence<s n="n"/><s n="ND"/></r></p></e>
@@ -11502,10 +11498,9 @@
     <e><p><l>israeldar<s n="n"/></l><r>Israeli<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>istant<s n="n"/></l><r>instant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>istilu<s n="n"/></l><r>riot<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>istorio<s n="n"/></l><r>history<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>istorio<s n="n"/></l><r>story<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>istripu<s n="n"/></l><r>accident<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>istripu<s n="n"/></l><r>crash<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>istripu<s n="n"/></l><r>crash<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>isun<s n="n"/></l><r>fine<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>isuri<s n="n"/></l><r>flow<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>isurialde<s n="n"/></l><r>slope<s n="n"/><s n="ND"/></r></p></e>
@@ -11515,12 +11510,16 @@
     <e c="check"><p><l>itsasertz<s n="n"/></l><r>seaboard<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>itsaso<s n="n"/></l><r>sea<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>itsasontzi<s n="n"/></l><r>ship<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>itsasontzi<s n="n"/></l><r>vessel<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>itsasontzi<s n="n"/></l><r>vessel<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>itsaspen<s n="n"/></l><r>adhesion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>itun<s n="n"/></l><r>pact<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iturri<s n="n"/></l><r>fountain<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="fountain"><p><l>iturri<s n="n"/></l><r>fountain<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iturri<s n="n"/></l><r>source<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>iturri<s n="n"/></l><r>spring<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="spring"><p><l>iturri<s n="n"/></l><r>spring<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>iturri-bero<s n="n"/></l><r>hot<b/>spring<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>iturri<b/>gorri<s n="n"/></l><r>mineral<b/>spring<s n="n"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>iturriko<b/>ur<s n="n"/></l><r>spring<b/>water<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>iturri-ur<s n="n"/></l><r>spring<b/>water<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>itxaronaldi<s n="n"/></l><r>wait<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>itxaropen<s n="n"/></l><r>hope<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>itxialdi<s n="n"/></l><r>closing<s n="n"/><s n="ND"/></r></p></e>
