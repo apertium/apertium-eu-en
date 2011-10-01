@@ -3081,7 +3081,7 @@
     <e a="matxin"><p><l>nostalgiko<s n="adj"/><s n="izo"/></l><r>nostalgic<s n="adj"/></r></p></e>
     <e><p><l>notario<s n="adj"/></l><r>notarial<s n="adj"/></r></p></e>
     <e><p><l>nuklear<s n="adj"/></l><r>nuclear<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>nuklear<s n="adj"/><s n="izo"/></l><r>nuclear<s n="adj"/></r></p></e>
+    <e><p><l>termonuklear<s n="adj"/></l><r>thermonuclear<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>obal<s n="adj"/><s n="izo"/></l><r>oval<s n="adj"/></r></p></e>
     <e><p><l>objektibo<s n="adj"/></l><r>objective<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>objektibo<s n="adj"/><s n="izo"/></l><r>objective<s n="adj"/></r></p></e>
@@ -9890,7 +9890,11 @@
     <e><p><l>bonba<s n="n"/></l><r>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>napalm-ezko<b/>bonba<s n="n"/></l><r>napalm<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>napalmezko<b/>bonba<s n="n"/></l><r>napalm<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>atomo-bonba<s n="n"/></l><r>atomic<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>atomo-bonba<s n="n"/></l><r>atom<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ke-bonba<s n="n"/></l><r>smoke<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>esku-bonba<s n="n"/></l><r>hand<b/>grenade<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>erloju-bonba<s n="n"/></l><r>time<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bonba<b/>atomiko<s n="n"/></l><r>atomic<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<b/>nuklear<s n="n"/></l><r>nuclear<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<b/>termonuklear<s n="n"/></l><r>thermonuclear<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonbardaketa<s n="n"/></l><r>bombardment<s n="n"/><s n="ND"/></r></p></e>

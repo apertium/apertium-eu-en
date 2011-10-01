@@ -16292,6 +16292,9 @@
     <e lm="napalm bomb"><i>napalm<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="atom bomb"><i>atom<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="atomic bomb"><i>atomic<b/>bomb</i><par n="house__n"/>    </e>
+    <e lm="smoke bomb"><i>smoke<b/>bomb</i><par n="house__n"/>    </e>
+    <e lm="hand grenade"><i>hand<b/>grenade</i><par n="house__n"/>    </e>
+    <e lm="time bomb"><i>time<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="nuclear bomb"><i>nuclear<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="thermonuclear bomb"><i>thermonuclear<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="bombardment"><i>bombardment</i><par n="house__n"/>    </e>
@@ -23245,6 +23248,7 @@
     <e lm="novel"><i>novel</i><par n="expensive__adj"/>    </e>
     <e lm="novelistic"><i>novelistic</i><par n="expensive__adj"/>    </e>
     <e lm="nuclear"><i>nuclear</i><par n="expensive__adj"/>    </e>
+    <e lm="thermonuclear"><i>thermonuclear</i><par n="expensive__adj"/>    </e>
     <e lm="nude"><i>nude</i><par n="nice/__adj"/>    </e>
     <e lm="numerical"><i>numerical</i><par n="expensive__adj"/>    </e>
     <e lm="numerous"><i>numerous</i><par n="expensive__adj"/>    </e>
