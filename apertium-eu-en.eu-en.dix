@@ -9894,6 +9894,8 @@
     <e><p><l>ke-bonba<s n="n"/></l><r>smoke<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esku-bonba<s n="n"/></l><r>hand<b/>grenade<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erloju-bonba<s n="n"/></l><r>time<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hidrogeno<s n="n"/></l><r>hydrogen<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hidrogeno-bonba<s n="n"/></l><r>hydrogen<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<b/>atomiko<s n="n"/></l><r>atomic<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<b/>nuklear<s n="n"/></l><r>nuclear<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bonba<b/>termonuklear<s n="n"/></l><r>thermonuclear<b/>bomb<s n="n"/><s n="ND"/></r></p></e>
@@ -13876,6 +13878,7 @@
     <e><re>[0-9]+[.:][0-5][0-9](pm|PM|am|AM)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
     <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
     <e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
     <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>

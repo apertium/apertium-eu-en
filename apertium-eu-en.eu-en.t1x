@@ -10,6 +10,10 @@
       <cat-item lemma="nahi" tags="n"/>
     </def-cat>
 
+    <def-cat n="guio">
+      <cat-item lemma="-" tags="guio"/>
+    </def-cat>
+
     <def-cat n="nom">
       <cat-item tags="n"/>
     </def-cat>
@@ -3276,6 +3280,71 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: NOM guio NOM">
+      <pattern>
+        <pattern-item n="nom_np"/>
+        <pattern-item n="guio"/>
+        <pattern-item n="nom_np"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="ND"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="nbr"/>
+              <lit-tag v="sg"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="3" side="tl" part="nbr"/>
+                <lit-tag v="ND"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="3" side="tl" part="nbr"/>
+              <lit-tag v="sg"/>
+            </let>
+          </when>
+        </choose>
+        <out> 
+          <chunk name="nom-nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN.UNDET"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu> 
+              <clip pos="1" side="tl" part="lemh"/> 
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/> 
+            </lu>
+            <b pos="1"/>
+            <lu> 
+              <clip pos="2" side="tl" part="whole"/> 
+            </lu>
+            <b pos="2"/>
+            <lu> 
+              <clip pos="3" side="tl" part="lemh"/> 
+              <clip pos="3" side="tl" part="a_nom"/>
+              <lit-tag v="3"/>
+              <clip pos="3" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: DET (guztiak, gehienak) Para cuando va solo o con palabras desconocidas">
       <pattern>
@@ -3403,6 +3472,76 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="ND" link-to="3"/>
               <clip pos="1" side="tl" part="sp"/>
               <clip pos="1" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: NOM-NOM + DET (etxea)">
+      <pattern>
+        <pattern-item n="nom_np"/>
+        <pattern-item n="guio"/>
+        <pattern-item n="nom_np"/>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="concord_n2">
+          <with-param pos="3"/>
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="tipo_det">
+          <with-param pos="4"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="ND"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="nbr"/>
+              <lit-tag v="sg"/>
+            </let>
+          </when>
+        </choose>
+        <out> 
+          <chunk name="det_nom-nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/> 
+              <clip pos="4" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
+              <clip pos="4" side="tl" part="sp"/>
+            </lu>
+            <b pos="3"/>
+            <lu> 
+              <clip pos="1" side="tl" part="lemh"/> 
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/> 
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/> 
+            </lu>
+            <b pos="2"/>
+            <lu> 
+              <clip pos="3" side="tl" part="lemh"/> 
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="ND" link-to="3"/>
+              <clip pos="3" side="tl" part="sp"/>
+              <clip pos="3" side="tl" part="lemq"/> 
             </lu>
           </chunk>
         </out>

@@ -16295,6 +16295,7 @@
     <e lm="smoke bomb"><i>smoke<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="hand grenade"><i>hand<b/>grenade</i><par n="house__n"/>    </e>
     <e lm="time bomb"><i>time<b/>bomb</i><par n="house__n"/>    </e>
+    <e lm="hydrogen bomb"><i>hydrogen<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="nuclear bomb"><i>nuclear<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="thermonuclear bomb"><i>thermonuclear<b/>bomb</i><par n="house__n"/>    </e>
     <e lm="bombardment"><i>bombardment</i><par n="house__n"/>    </e>
