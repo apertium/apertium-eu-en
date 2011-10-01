@@ -10798,14 +10798,14 @@
     <e r="RL"><p><l>gainbehera<s n="n"/></l><r>decay<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>gainerako<s n="n"/></l><r>remains<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gainerako<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gaitasun<s n="n"/></l><r>capability<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gaitasun<s n="n"/></l><r>capability<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaitasun<s n="n"/></l><r>capacity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaitz<s n="n"/></l><r>evil<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaitzizen<s n="n"/></l><r>nickname<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaitzondo<s n="n"/></l><r>resentment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaixo<s n="n"/></l><r>patient<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaixotasun<s n="n"/></l><r>disease<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gaixotasun<s n="n"/></l><r>illness<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gaixotasun<s n="n"/></l><r>illness<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaizki<s n="n"/></l><r>evil<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaizkile<s n="n"/></l><r>criminal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaiztakeria<s n="n"/></l><r>maliciousness<s n="n"/><s n="ND"/></r></p></e>
@@ -10819,7 +10819,7 @@
     <e><p><l>galera<s n="n"/></l><r>loss<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>galeria<s n="n"/></l><r>gallery<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>galiziar<s n="n"/></l><r>Galician<s n="n"/><s n="ND"/></r></p></e>
-    <e c="US"><p><l>galtza<s n="n"/></l><r>pants<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" c="US"><p><l>galtza<s n="n"/></l><r>pants<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>galtza<s n="n"/></l><r>trousers<s n="n"/><s n="pl"/></r></p></e>
     <e a="matxin"><p><l>galtze<s n="n"/></l><r>wastage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>galtzetin<s n="n"/></l><r>sock<s n="n"/><s n="ND"/></r></p></e>
@@ -10831,45 +10831,43 @@
     <e><p><l>gantz<s n="n"/></l><r>fat<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>gantz<s n="n"/></l><r>grease<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gar<s n="n"/></l><r>flame<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gar<s n="n"/></l><r>llama<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garabi<s n="n"/></l><r>crane<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garagardo<s n="n"/></l><r>beer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garai<s n="n"/></l><r>period<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garaiera<s n="n"/></l><r>height<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garaiera<s n="n"/></l><r>stature<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garaiera<s n="n"/></l><r>stature<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>garaile<s n="n"/></l><r>victor<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garaipen<s n="n"/></l><r>triumph<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garaipen<s n="n"/></l><r>triumph<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garaipen<s n="n"/></l><r>victory<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garaje<s n="n"/></l><r>garage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garapen<s n="n"/></l><r>development<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garapen<s n="n"/></l><r>uncoiling<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garapen<s n="n"/></l><r>uncoiling<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garatzaile<s n="n"/></l><r>developer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garbitasun<s n="n"/></l><r>cleaning<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>garezur<s n="n"/></l><r>skull<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gari<s n="n"/></l><r>wheat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garondo<s n="n"/></l><r>nape<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garraio<s n="n"/></l><r>carriage<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garraio<s n="n"/></l><r>carriage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garraio<s n="n"/></l><r>transport<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garraio<s n="n"/></l><r>transportation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garraio<s n="n"/></l><r>transportation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garraiolari<s n="n"/></l><r>carrier<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garrantzi<s n="n"/></l><r>importance<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garrantzi<s n="n"/></l><r>significance<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garrantzi<s n="n"/></l><r>transcendence<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garrantzi<s n="n"/></l><r>significance<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garrantzi<s n="n"/></l><r>transcendence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garrantzi<b/>handiko<b/>ekarpen<s n="n"/></l><r>contribution<g><b/>of<b/>great<b/>importance</g><s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garrasi<s n="n"/></l><r>cry<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>garrasi<s n="n"/></l><r>cry<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>garrasi<s n="n"/></l><r>scream<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garrasi<s n="n"/></l><r>shout<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garun<s n="n"/></l><r>brain<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gas<s n="n"/></l><r>gas<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gasolina<s n="n"/></l><r>benzine<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gasolina<s n="n"/></l><r>gasoline<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gasolina<s n="n"/></l><r>benzine<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gasolina<s n="n"/></l><r>gasoline<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gasolina<s n="n"/></l><r>petrol<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>gasolio<s n="n"/></l><r>diesel<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>gastu<s n="n"/></l><r>expenditure<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gastu<s n="n"/></l><r>expense<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gastu<s n="n"/></l><r>expense<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gatazka<s n="n"/></l><r>conflict<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gatibu<s n="n"/></l><r>prisoner<s n="n"/><s n="ND"/></r></p></e>
-    <e c="mare meua"><p><l>gatibu<s n="n"/></l><r>setscrew<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gatz<s n="n"/></l><r>salt<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>gatzatu<s n="n"/></l><r>curd<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gau<s n="n"/></l><r>night<s n="n"/><s n="ND"/></r></p></e>
@@ -10881,7 +10879,7 @@
     <e><p><l>gazta<s n="n"/></l><r>cheese<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaztainondo<s n="n"/></l><r>chestnuttree<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaztaro<s n="n"/></l><r>youth<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gazte<s n="n"/></l><r>junior<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gazte<s n="n"/></l><r>junior<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gazte<s n="n"/></l><r>youngster<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaztelu<s n="n"/></l><r>castle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaztetasun<s n="n"/></l><r>youth<s n="n"/><s n="ND"/></r></p></e>
@@ -10894,16 +10892,14 @@
     <e a="matxin"><p><l>gehigarri<s n="n"/></l><r>additive<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gehigarri<s n="n"/></l><r>fitting<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gehikuntza<s n="n"/></l><r>increase<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gela<s n="n"/></l><r>cell<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gela<s n="n"/></l><r>cell<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gela<s n="n"/></l><r>room<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>geldialdi<s n="n"/></l><r>stall<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>geldialdi<s n="n"/></l><r>stop<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gelditze<s n="n"/></l><r>arrest<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>geltoki<s n="n"/></l><r>season<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>geltoki<s n="n"/></l><r>station<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gene<s n="n"/></l><r>gene<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>genero<s n="n"/></l><r>gender<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>genero<s n="n"/></l><r>genre<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>genero<s n="n"/></l><r>genre<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>geografia<s n="n"/></l><r>geography<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gero<s n="n"/></l><r>future<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gerra<s n="n"/></l><r>war<s n="n"/><s n="ND"/></r></p></e>
@@ -10914,7 +10910,7 @@
     <e><p><l>gertakari<s n="n"/></l><r>incident<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gertakizun<s n="n"/></l><r>contingent<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gestio<s n="n"/></l><r>management<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gestio<s n="n"/></l><r>negotiation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gestio<s n="n"/></l><r>negotiation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gezur<s n="n"/></l><r>lie<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gibel<s n="n"/></l><r>liver<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gidabaimen<s n="n"/></l><r>driving<b/>licence<s n="n"/><s n="ND"/></r></p></e>
@@ -10922,12 +10918,12 @@
     <e><p><l>gidatzaile<s n="n"/></l><r>guide<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>giltza<s n="n"/></l><r>key<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>giltzari<s n="n"/></l><r>housekeeper<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gisa<s n="n"/></l><r>manner<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gisa<s n="n"/></l><r>manner<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gisa<s n="n"/></l><r>way<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gitarra<s n="n"/></l><r>guitar<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gizaki<s n="n"/></l><r>human<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gizakume<s n="n"/></l><r>person<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gizarte<s n="n"/></l><r>partnership<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gizarte<s n="n"/></l><r>partnership<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gizarte<s n="n"/></l><r>society<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gizateria<s n="n"/></l><r>mankind<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>gizon<s n="n"/></l><r>male<s n="n"/><s n="ND"/></r></p></e>
@@ -10942,13 +10938,13 @@
     <e><p><l>gobernu<s n="n"/></l><r>government<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gobernuburu<s n="n"/></l><r>head<g><b/>of<b/>government</g><s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>gobernuburu<s n="n"/></l><r>government<b/>head<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gogo<s n="n"/></l><r>encouragement<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gogo<s n="n"/></l><r>encouragement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gogo<s n="n"/></l><r>will<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gogoeta<s n="n"/></l><r>thinking<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gogoeta<s n="n"/></l><r>thinking<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gogoeta<s n="n"/></l><r>thought<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>gogortasun<s n="n"/></l><r>hardness<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>goi<s n="n"/></l><r>top<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>goi-bilera<s n="n"/></l><r>peak<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>goi-bilera<s n="n"/></l><r>peak<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>goi-bilera<s n="n"/></l><r>summit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>goitizen<s n="n"/></l><r>alias<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>goiz<s n="n"/></l><r>morning<s n="n"/><s n="ND"/></r></p></e>
@@ -10969,13 +10965,12 @@
     <e><p><l>goraldi<s n="n"/></l><r>rise<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gorbata<s n="n"/></l><r>tie<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gordailu<s n="n"/></l><r>deposit<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gordailu<s n="n"/></l><r>tank<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gordeleku<s n="n"/></l><r>warehouse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gorila<s n="n"/></l><r>gorilla<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>goroldio<s n="n"/></l><r>moss<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gorpu<s n="n"/></l><r>corpse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gorputz<s n="n"/></l><r>body<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gorputz<s n="n"/></l><r>corps<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gorputz<s n="n"/></l><r>corps<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gorputz-adar<s n="n"/></l><r>member<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gorpuzkera<s n="n"/></l><r>continent<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gorri<s n="n"/></l><r>red<s n="n"/><s n="ND"/></r></p></e>
@@ -10989,35 +10984,32 @@
     <e a="matxin"><p><l>gotorleku<s n="n"/></l><r>fortress<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>grabatu<s n="n"/></l><r>engraving<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gradu<s n="n"/></l><r>degree<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gradu<s n="n"/></l><r>grade<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>grafiko<s n="n"/></l><r>chart<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gradu<s n="n"/></l><r>grade<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>grafiko<s n="n"/></l><r>chart<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>grafiko<s n="n"/></l><r>graphics<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gramatika<s n="n"/></l><r>grammar<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gramatikari<s n="n"/></l><r>grammarian<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gramo<s n="n"/></l><r>gram<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gramo<s n="n"/></l><r>gram<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gramo<s n="n"/></l><r>gramme<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>granada<s n="n"/></l><r>pomegranate<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>grano<s n="n"/></l><r>grain<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>grano<s n="n"/></l><r>spot<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>grano<s n="n"/></l><r>spot<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>grazia<s n="n"/></l><r>grace<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>greba<s n="n"/></l><r>strike<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>greko<s n="n"/></l><r>Greek<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>greziar<s n="n"/></l><r>Greek<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gripe<s n="n"/></l><r>flu<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>guardia<s n="n"/></l><r>guard<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>guardia<s n="n"/></l><r>policeman<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gune<s n="n"/></l><r>place<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gupida<s n="n"/></l><r>compassion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gupida<s n="n"/></l><r>sympathy<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gupida<s n="n"/></l><r>sympathy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>guraso<s n="n"/></l><r>parent<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>guraso<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>guraso<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>gurin<s n="n"/></l><r>butter<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>gurpil-aulki<s n="n"/></l><r>wheelchair<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gurutze<s n="n"/></l><r>cross<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gustu<s n="n"/></l><r>taste<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gutun<s n="n"/></l><r>card<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gutun<s n="n"/></l><r>letter<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gutun<s n="n"/></l><r>menu<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gutxiagotasun<s n="n"/></l><r>inferiority<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gutxiengo<s n="n"/></l><r>minority<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>guztizko<s n="n"/></l><r>total<s n="n"/><s n="ND"/></r></p></e>
@@ -11031,7 +11023,7 @@
     <e><p><l>hamarkada<s n="n"/></l><r>decade<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>hanburgesa<s n="n"/></l><r>hamburger<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>handiagotze<s n="n"/></l><r>increase<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>handiagotze<s n="n"/></l><r>rise<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>handiagotze<s n="n"/></l><r>rise<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>handiki<s n="n"/></l><r>magnate<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>handiki<s n="n"/></l><r>mogul<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>handiki<s n="n"/></l><r>tycoon<s n="n"/><s n="ND"/></r></p></e>
@@ -11040,7 +11032,7 @@
     <e><p><l>hanka<s n="n"/></l><r>leg<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hantuste<s n="n"/></l><r>pride<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>har<s n="n"/></l><r>worm<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>haragi<s n="n"/></l><r>flesh<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>haragi<s n="n"/></l><r>flesh<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>haragi<s n="n"/></l><r>meat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>harea<s n="n"/></l><r>sand<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>hareharri<s n="n"/></l><r>sandstone<s n="n"/><s n="ND"/></r></p></e>
@@ -11053,11 +11045,10 @@
     <e r="RL"><p><l>harreman<s n="n"/></l><r>relation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>harreman<s n="n"/></l><r>relationship<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>harrera<s n="n"/></l><r>reception<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>harresi<s n="n"/></l><r>rampart<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>harresi<s n="n"/></l><r>rampart<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>harresi<s n="n"/></l><r>wall<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>harri<s n="n"/></l><r>stone<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>harri<s n="n"/></l><r>rock<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>harri<s n="n"/></l><r>rock<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>harri<s n="n"/></l><r>rock<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>harri-koskor<s n="n"/></l><r>pebble<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>harribitxi<s n="n"/></l><r>gem<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>harribitxi<s n="n"/></l><r>jewel<s n="n"/><s n="ND"/></r></p></e>
@@ -11065,19 +11056,24 @@
     <e><p><l>harrobi<s n="n"/></l><r>quarry<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hartz<s n="n"/></l><r>bear<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hartzaile<s n="n"/></l><r>receptor<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hartze<s n="n"/></l><r>adoption<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hartze<s n="n"/></l><r>receipt<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hartze<s n="n"/></l><r>credit<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hartze<s n="n"/></l><r>reception<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hartzekodun<s n="n"/></l><r>creditor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>haserre<s n="n"/></l><r>indignation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hasiera<s n="n"/></l><r>beginning<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hasiera<s n="n"/></l><r>initiation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hasiera<s n="n"/></l><r>start<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hasiera<s n="n"/></l><r>principle<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hasiera<s n="n"/></l><r>initiation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hasiera<s n="n"/></l><r>start<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hasperen<s n="n"/></l><r>sigh<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hatz<s n="n"/></l><r>finger<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hatz<s n="n"/></l><r>toe<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hatz<s n="n"/></l><r>flip<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hatz<b/>erakusle<s n="n"/></l><r>index<b/>finger<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hatz<b/>luze<s n="n"/></l><r>middle<b/>finger<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>luze<s n="n"/></l><r>length<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hatz<b/>nagi<s n="n"/></l><r>ring<b/>finger<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>nagi<s n="n"/></l><r>sloth<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hatz-aztarna<s n="n"/></l><r>fingerprint<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hatz<b/>txiki<s n="n"/></l><r>little<b/>finger<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hatz<b/>lodi<s n="n"/></l><r>thumb<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>erakusle<s n="n"/></l><r>teacher<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>haur<s n="n"/></l><r>boy<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>haur<s n="n"/></l><r>child<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>haur<s n="n"/></l><r>baby<s n="n"/><s n="ND"/></r></p></e>
