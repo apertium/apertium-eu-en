@@ -5131,6 +5131,18 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             <test>
               <equal>
                 <clip pos="1" side="sl" part="lem"/>
+                <lit v="inor"/>
+              </equal>
+            </test>
+            <let>
+              <var n="lemachunk"/>
+              <lit v="inor"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="lem"/>
                 <lit v="inortxo"/>
               </equal>
             </test>
@@ -15713,6 +15725,18 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                 <let>
                   <var n="adverbio"/>
                   <lit v="ez"/>
+                </let>
+              </when>
+              <when>
+                <test>
+                  <equal caseless="yes">
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v="inoiz"/>
+                  </equal>
+                </test>
+                <let>
+                  <var n="adverbio"/>
+                  <lit v="inoiz"/>
                 </let>
               </when>
               <when>
