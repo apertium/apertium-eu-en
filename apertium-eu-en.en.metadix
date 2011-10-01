@@ -9281,6 +9281,7 @@
     <e lm="so many"><i>so<b/>many</i><par n="many__det"/>    </e>
     <e lm="too many"><i>too<b/>many</i><par n="many__det"/>    </e>
     <e lm="many"><i>many</i><par n="many__det"/>    </e>
+    <e lm="all" r="RL"><i>all</i><par n="many__det"/>    </e>
     <e lm="a few"><i>a<b/>few</i><par n="many__det"/>    </e>
     <e lm="as much"><i>as much</i><par n="much__det"/>    </e>
     <e lm="lots of"><i>lots<b/>of</i><par n="enough__det"/>    </e>

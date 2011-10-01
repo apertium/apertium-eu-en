@@ -344,7 +344,7 @@
     <e r="LR"><p><l>xe<s n="gra"/><s n="ind"/></l><r></r></p></e>
 
     <e><p><l>a<s n="det"/><s n="art"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
-    <e r="LR"><p><l>guzti<s n="det"/><s n="ind"/></l><r>all<s n="predet"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>guzti<s n="det"/><s n="ind"/></l><r>all<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
@@ -383,6 +383,7 @@
     <e><p><l>berrogeita<b/>zazpigarren<s n="adj"/><s n="izl"/></l><r>forty<b/>seventh<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>berrogeita<b/>zortzigarren<s n="adj"/><s n="izl"/></l><r>forty<b/>eighth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>beste<s n="adj"/><s n="izl"/></l><r>other<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>gainerako<s n="adj"/><s n="izl"/></l><r>other<s n="adj"/></r></p></e>
     <e><p><l>bigarren<s n="adj"/></l><r>second<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>bosgarren<s n="adj"/></l><r>fifth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>bostgarren<s n="adj"/></l><r>fifth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -10794,8 +10795,8 @@
     <e c="check"><p><l>gain<s n="n"/></l><r>top<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gainbegiratu<s n="n"/></l><r>glimpse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gainbehera<s n="n"/></l><r>decadence<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gainbehera<s n="n"/></l><r>decay<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>gainerako<s n="n"/></l><r>remains<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gainbehera<s n="n"/></l><r>decay<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gainerako<s n="n"/></l><r>remains<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gainerako<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaitasun<s n="n"/></l><r>capability<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaitasun<s n="n"/></l><r>capacity<s n="n"/><s n="ND"/></r></p></e>
