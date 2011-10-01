@@ -11089,7 +11089,7 @@
     <e><p><l>hauste<s n="n"/></l><r>rape<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>haustura<s n="n"/></l><r>fracture<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hautagai<s n="n"/></l><r>candidate<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hautagai<s n="n"/></l><r>nominee<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hautagai<s n="n"/></l><r>nominee<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hautagaitza<s n="n"/></l><r>candidature<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hautemate<s n="n"/></l><r>perception<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hauteskunde<s n="n"/></l><r>election<s n="n"/><s n="ND"/></r></p></e>
@@ -11098,27 +11098,26 @@
     <e><p><l>hautesleria<s n="n"/></l><r>electorate<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hautetsi<s n="n"/></l><r>elected<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hauts<s n="n"/></l><r>dust<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hauts<s n="n"/></l><r>powder<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hautu<s n="n"/></l><r>choice<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hauts<s n="n"/></l><r>powder<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hautu<s n="n"/></l><r>choice<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hautu<s n="n"/></l><r>election<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hazi<s n="n"/></l><r>seed<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hazkunde<s n="n"/></l><r>growth<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hazkuntza<s n="n"/></l><r>education<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hedabide<s n="n"/></l><r>media<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>hedabide<s n="n"/></l><r>media<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>hedabide<s n="n"/></l><r>media<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hedadura<s n="n"/></l><r>extension<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hedadura<s n="n"/></l><r>extent<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hedadura<s n="n"/></l><r>extent<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hedapen<s n="n"/></l><r>expansion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegal<s n="n"/></l><r>wing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegalabur<s n="n"/></l><r>tuna<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegaldi<s n="n"/></l><r>flight<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hegaldi<s n="n"/></l><r>flying<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hegazkin<s n="n"/></l><r>airplane<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hegazkin<s n="n"/></l><r>airliner<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hegaldi<s n="n"/></l><r>flying<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hegazkin<s n="n"/></l><r>airplane<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hegazkin<s n="n"/></l><r>airliner<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegazkin<s n="n"/></l><r>plane<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegazti<s n="n"/></l><r>bird<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegemonia<s n="n"/></l><r>hegemony<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hegi<s n="n"/></l><r>border<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hegi<s n="n"/></l><r>border<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegi<s n="n"/></l><r>edge<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hego<s n="n"/></l><r>south<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>hego-ekialde<s n="n"/></l><r>south-east<s n="n"/><s n="sg"/></r></p></e>
@@ -11127,42 +11126,39 @@
     <e><p><l>mendebalde<s n="n"/></l><r>west<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hegoalde<s n="n"/></l><r>south<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hein<s n="n"/></l><r>measure<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hein<s n="n"/></l><r>measurement<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hein<s n="n"/></l><r>size<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hein<s n="n"/></l><r>measurement<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hein<s n="n"/></l><r>size<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hektarea<s n="n"/></l><r>hectare<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>helbide<s n="n"/></l><r>address<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>helbide<s n="n"/></l><r>direction<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>helburu<s n="n"/></l><r>aim<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>helburu<s n="n"/></l><r>goal<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>helburu<s n="n"/></l><r>aim<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>helburu<s n="n"/></l><r>goal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>helburu<s n="n"/></l><r>objective<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>helburu<s n="n"/></l><r>target<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>helburu<s n="n"/></l><r>target<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heldu<s n="n"/></l><r>adult<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heldutasun<s n="n"/></l><r>maturity<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>helegite<s n="n"/></l><r>resort<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>helegite<s n="n"/></l><r>resource<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>helikoptero<s n="n"/></l><r>helicopter<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>helio<s n="n"/></l><r>helium<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heltze<s n="n"/></l><r>arrival<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>heltze<s n="n"/></l><r>finish<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>heltze<s n="n"/></l><r>finish<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hemisferio<s n="n"/></l><r>hemisphere<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heren<s n="n"/></l><r>third<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>herensuge<s n="n"/></l><r>dragon<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>herentzia<s n="n"/></l><r>inheritance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heriotza<s n="n"/></l><r>death<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>heriotza<s n="n"/></l><r>passing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>heriotza<s n="n"/></l><r>passing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heriotza-tasa<s n="n"/></l><r>mortality<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heroi<s n="n"/></l><r>hero<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>heroi<s n="n"/></l><r>heroine<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>heroi<s n="n"/></l><r>heroine<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>herri<s n="n"/></l><r>country<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>herri<s n="n"/></l><r>village<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="village"><p><l>herri<s n="n"/></l><r>village<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>herrialde<s n="n"/></l><r>region<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>herrikide<s n="n"/></l><r>compatriot<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>herritar<s n="n"/></l><r>citizen<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>herritartasun<s n="n"/></l><r>nationality<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>herrixka<s n="n"/></l><r>hamlet<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>herrixka<s n="n"/></l><r>village<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>herrizain<s n="n"/></l><r>agent<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>herrizain<s n="n"/></l><r>officer<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>herrizain<s n="n"/></l><r>constable<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hesi<s n="n"/></l><r>barrier<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>hesola<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>elur-hesola<s n="n"/></l><r>snow<b/>stake<s n="n"/><s n="ND"/></r></p></e>
@@ -11171,7 +11167,7 @@
     <e><p><l>hezitzaile<s n="n"/></l><r>educator<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hezkuntza<s n="n"/></l><r>education<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hezur<s n="n"/></l><r>bone<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hezur<s n="n"/></l><r>stone<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="stone" c="fruit"><p><l>hezur<s n="n"/></l><r>stone<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hierarkia<s n="n"/></l><r>hierarchy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>higadura<s n="n"/></l><r>erosion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>higikortasun<s n="n"/></l><r>mobility<s n="n"/><s n="ND"/></r></p></e>
@@ -11182,7 +11178,7 @@
     <e><p><l>hildako<s n="n"/></l><r>victim<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hilerri<s n="n"/></l><r>cemetery<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hileta<s n="n"/></l><r>funeral<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hilketa<s n="n"/></l><r>killing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hilketa<s n="n"/></l><r>killing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hilketa<s n="n"/></l><r>murder<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>hilkutxa<s n="n"/></l><r>coffin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hilobi<s n="n"/></l><r>grave<s n="n"/><s n="ND"/></r></p></e>
@@ -11190,7 +11186,7 @@
     <e><p><l>hiltzaile<s n="n"/></l><r>murderer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hipotesi<s n="n"/></l><r>hypothesis<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hiri<s n="n"/></l><r>city<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hiri<s n="n"/></l><r>town<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hiri<s n="n"/></l><r>town<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hiribildu<s n="n"/></l><r>villa<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hiriburu<s n="n"/></l><r>capital<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hiritar<s n="n"/></l><r>citizen<s n="n"/><s n="ND"/></r></p></e>
@@ -11199,9 +11195,9 @@
     <e><p><l>historia<s n="n"/></l><r>story<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>historialari<s n="n"/></l><r>historian<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hitz<s n="n"/></l><r>word<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hitz<s n="n"/></l><r>verb<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hitz<s n="n"/></l><r>verb<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hitzaldi<s n="n"/></l><r>conference<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hitzaldi<s n="n"/></l><r>lecture<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hitzaldi<s n="n"/></l><r>lecture<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hitzarmen<s n="n"/></l><r>agreement<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>hitzaurre<s n="n"/></l><r>foreword<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>hitzaurre<s n="n"/></l><r>preface<s n="n"/><s n="ND"/></r></p></e>
@@ -11219,9 +11215,9 @@
     <e><p><l>holandar<s n="n"/></l><r>Dutch<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>homosexual<s n="n"/></l><r>homosexual<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hondakin<s n="n"/></l><r>remains<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hondakin<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hondamen<s n="n"/></l><r>disaster<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hondamen<s n="n"/></l><r>desolation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hondakin<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hondamen<s n="n"/></l><r>disaster<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hondamen<s n="n"/></l><r>desolation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hondamen<s n="n"/></l><r>destruction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hondamendi<s n="n"/></l><r>destruction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hondartza<s n="n"/></l><r>beach<s n="n"/><s n="ND"/></r></p></e>
@@ -11232,14 +11228,14 @@
     <e><p><l>hornikuntza<s n="n"/></l><r>equipment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hortz<s n="n"/></l><r>tooth<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hortzeria<s n="n"/></l><r>denture<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hosto<s n="n"/></l><r>blade<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hosto<s n="n"/></l><r>blade<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hosto<s n="n"/></l><r>leaf<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hotel<s n="n"/></l><r>hotel<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hots<s n="n"/></l><r>sound<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hotz<s n="n"/></l><r>cold<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hotz<s n="n"/></l><r>chill<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hotz<s n="n"/></l><r>chill<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hurbilketa<s n="n"/></l><r>approximation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hurbilketa<s n="n"/></l><r>approach<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hurbilketa<s n="n"/></l><r>approach<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hurbiltasun<s n="n"/></l><r>vicinity<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>huskeria<s n="n"/></l><r>triviality<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>huts<s n="n"/></l><r>fault<s n="n"/><s n="ND"/></r></p></e>
@@ -11250,8 +11246,7 @@
     <e><p><l>ibilaldi<s n="n"/></l><r>excursion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>protesta-ibilaldi<s n="n"/></l><r>protest<b/>march<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilbide<s n="n"/></l><r>route<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ibilera<s n="n"/></l><r>gear<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ibilera<s n="n"/></l><r>march<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ibilera<s n="n"/></l><r>walk<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilgailu<s n="n"/></l><r>vehicle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilgu<s n="n"/></l><r>gully<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ibilgu<s n="n"/></l><r>course<s n="n"/><s n="ND"/></r></p></e>

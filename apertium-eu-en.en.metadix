@@ -17725,6 +17725,7 @@
     <e lm="finish"><i>finish</i><par n="access__n"/>    </e>
     <e lm="fire"><i>fire</i><par n="house__n"/>    </e>
     <e lm="sloth"><i>sloth</i><par n="house__n"/>    </e>
+    <e lm="constable"><i>constable</i><par n="house__n"/>    </e>
     <e lm="fingerprint"><i>fingerprint</i><par n="house__n"/>    </e>
     <e lm="firewood"><i>firewood</i><par n="house__n"/>    </e>
     <e lm="firm"><i>firm</i><par n="house__n"/>    </e>
