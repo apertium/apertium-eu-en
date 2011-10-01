@@ -17932,6 +17932,7 @@
     <e lm="gorilla"><i>gorilla</i><par n="house__n"/>    </e>
     <e lm="gossip"><i>gossip</i><par n="house__n"/>    </e>
     <e lm="government"><i>government</i><par n="house__n"/>    </e>
+    <e lm="Basque government"><i>Basque<b/>government</i><par n="house__n"/>    </e>
     <e lm="governor"><i>governor</i><par n="house__n"/>    </e>
     <e lm="grace"><i>grace</i><par n="house__n"/>    </e>
     <e lm="grade"><i>grade</i><par n="house__n"/>    </e>
@@ -19092,6 +19093,7 @@
     <e lm="mount"><i>mount</i><par n="house__n"/>    </e>
     <e lm="mountain"><i>mountain</i><par n="house__n"/>    </e>
     <e lm="mountain range"><i>mountain<b/>range</i><par n="house__n"/>    </e>
+    <e lm="independence supporter"><i>independence<b/>supporter</i><par n="house__n"/>    </e>
     <e lm="mountaineer"><i>mountaineer</i><par n="house__n"/>    </e>
     <e lm="mountaineering"><i>mountaineering</i><par n="house__n"/>    </e>
     <e lm="mounting"><i>mounting</i><par n="house__n"/>    </e>
@@ -19966,6 +19968,7 @@
     <e lm="rehearsal" a="carmentano"><i>rehearsal</i><par n="house__n"/>    </e>
     <e lm="rein"><i>rein</i><par n="house__n"/>    </e>
     <e lm="reincarnation"><i>reincarnation</i><par n="house__n"/>    </e>
+    <e lm="incarnation"><i>incarnation</i><par n="house__n"/>    </e>
     <e lm="reinsurance"><i>reinsurance</i><par n="house__n"/>    </e>
     <e lm="reintegration"><i>reintegration</i><par n="house__n"/>    </e>
     <e lm="reiteration"><i>reiteration</i><par n="house__n"/>    </e>
