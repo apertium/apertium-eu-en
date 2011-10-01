@@ -19091,6 +19091,7 @@
     <e lm="mount"><i>mount</i><par n="house__n"/>    </e>
     <e lm="mount"><i>mount</i><par n="house__n"/>    </e>
     <e lm="mountain"><i>mountain</i><par n="house__n"/>    </e>
+    <e lm="mountain range"><i>mountain<b/>range</i><par n="house__n"/>    </e>
     <e lm="mountaineer"><i>mountaineer</i><par n="house__n"/>    </e>
     <e lm="mountaineering"><i>mountaineering</i><par n="house__n"/>    </e>
     <e lm="mounting"><i>mounting</i><par n="house__n"/>    </e>
@@ -20493,6 +20494,7 @@
     <e lm="spring"><i>spring</i><par n="house__n"/>    </e>
     <e lm="real" r="RL"><i>real</i><par n="house__n"/>    </e>
     <e lm="hot spring"><i>hot<b/>spring</i><par n="house__n"/>    </e>
+    <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
     <e lm="beech grove"><i>beech<b/>grove</i><par n="house__n"/>    </e>
@@ -20519,10 +20521,13 @@
     <e lm="star"><i>star</i><par n="house__n"/>    </e>
     <e lm="starch"><i>starch</i><par n="access__n"/>    </e>
     <e lm="start"><i>start</i><par n="house__n"/>    </e>
+    <e lm="massif"><i>massif</i><par n="house__n"/>    </e>
+    <e lm="faggot"><i>faggot</i><par n="house__n"/>    </e>
     <e lm="starvation"><i>starvation</i><par n="house__n"/>    </e>
     <e lm="state"><i>state</i><par n="house__n"/>    </e>
     <e lm="statement"><i>statement</i><par n="house__n"/>    </e>
     <e lm="statesman"><i>statesm</i><par n="m/an__n"/>    </e>
+    <e lm="militiaman"><i>militiam</i><par n="m/an__n"/>    </e>
     <e lm="station"><i>station</i><par n="house__n"/>    </e>
     <e lm="statue"><i>statue</i><par n="house__n"/>    </e>
     <e lm="status"><i>status</i><par n="access__n"/>    </e>
