@@ -9936,7 +9936,7 @@
     <e><p><l>bukaera<s n="n"/></l><r>end<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>bukaera<s n="n"/></l><r>ending<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>bukaera<s n="n"/></l><r>final<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>bular<s n="n"/></l><r>breast<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>bular<s n="n"/></l><r>breast<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bular<s n="n"/></l><r>chest<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bulego<s n="n"/></l><r>office<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bulgariera<s n="n"/></l><r>bulgarian<s n="n"/><s n="sg"/></r></p></e>
@@ -10003,7 +10003,7 @@
     <e><p><l>dekretu<s n="n"/></l><r>decree<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>delinkuentzia<s n="n"/></l><r>delinquency<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>delitu<s n="n"/></l><r>crime<s n="n"/><s n="ND"/></r></p></e>
-    <e c="Jur."><p><l>delitu<s n="n"/></l><r>offence<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" c="Jur."><p><l>delitu<s n="n"/></l><r>offence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>delitugile<s n="n"/></l><r>criminal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>delta<s n="n"/></l><r>delta<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>demokrata<s n="n"/></l><r>democrat<s n="n"/><s n="ND"/></r></p></e>
@@ -10036,21 +10036,21 @@
     <e><p><l>desleialtasun<s n="n"/></l><r>infidelity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desobedientzia<s n="n"/></l><r>disobedience<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desordena<s n="n"/></l><r>disorder<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>desordena<s n="n"/></l><r>mess<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>desordena<s n="n"/></l><r>mess<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desoreka<s n="n"/></l><r>disequilibrium<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>desplazamendu<s n="n"/></l><r>displacement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>despopulatze<s n="n"/></l><r>depopulation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>destorbu<s n="n"/></l><r>nuisance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>detaile<s n="n"/></l><r>detail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>detektibe<s n="n"/></l><r>detective<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>detektibe<s n="n"/></l><r>investigator<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>detektibe<s n="n"/></l><r>investigator<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>determinazio<s n="n"/></l><r>determination<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>diagrama<s n="n"/></l><r>diagram<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dialekto<s n="n"/></l><r>dialect<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diametro<s n="n"/></l><r>diameter<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dibertsifikatze<s n="n"/></l><r>diversification<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>dibertsio<s n="n"/></l><r>enjoyment<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>dibertsio<s n="n"/></l><r>entertainment<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>dibertsio<s n="n"/></l><r>enjoyment<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>dibertsio<s n="n"/></l><r>entertainment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dibertsio<s n="n"/></l><r>fun<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dibertsitate<s n="n"/></l><r>diversity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>dibulgazio<s n="n"/></l><r>divulging<s n="n"/><s n="ND"/></r></p></e>
@@ -10071,22 +10071,22 @@
     <e a="matxin"><p><l>dirdira<s n="n"/></l><r>twinkle<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>dirdira<s n="n"/></l><r>shimmer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diru<s n="n"/></l><r>money<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>diru-laguntza<s n="n"/></l><r>grant<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>diru-laguntza<s n="n"/></l><r>grant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diru-laguntza<s n="n"/></l><r>subsidy<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>diru-zorro<s n="n"/></l><r>purse<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>diru-zorro<s n="n"/></l><r>wallet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diseinu<s n="n"/></l><r>design<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>disgustu<s n="n"/></l><r>discontent<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>disko<s n="n"/></l><r>disc<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>disko<s n="n"/></l><r>disc<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>disko<s n="n"/></l><r>disk<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diskoteka<s n="n"/></l><r>discotheque<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diskrezio<s n="n"/></l><r>discretion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diskriminazio<s n="n"/></l><r>discrimination<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>diskurtso<s n="n"/></l><r>discourse<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>diskurtso<s n="n"/></l><r>discourse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diskurtso<s n="n"/></l><r>speech<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>distantzia<s n="n"/></l><r>distance<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>distira<s n="n"/></l><r>shine<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>distira<s n="n"/></l><r>splendour<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>distira<s n="n"/></l><r>shine<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>distira<s n="n"/></l><r>splendour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>distira<s n="n"/></l><r>glow<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>distribuzio<s n="n"/></l><r>distribution<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>diziplina<s n="n"/></l><r>discipline<s n="n"/><s n="ND"/></r></p></e>
@@ -10117,7 +10117,6 @@
     <e><p><l>dutxa<s n="n"/></l><r>shower<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ebaketa<s n="n"/></l><r>section<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ebaki<s n="n"/></l><r>cut<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ebaki<s n="n"/></l><r>court<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ebakiondo<s n="n"/></l><r>scar<s n="n"/><s n="ND"/></r></p></e>
     <e c="Med."><p><l>ebakuntza<s n="n"/></l><r>operation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ebaluazio<s n="n"/></l><r>evaluation<s n="n"/><s n="ND"/></r></p></e>
@@ -10145,19 +10144,17 @@
     <e r="RL" a="matxin"><p><l>egiaztagiri<s n="n"/></l><r>warrant<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>egiaztapen<s n="n"/></l><r>certification<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egile<s n="n"/></l><r>author<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eginbehar<s n="n"/></l><r>homework<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eginbehar<s n="n"/></l><r>duty<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eginbide<s n="n"/></l><r>homework<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eginbide<s n="n"/></l><r>duty<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>egitarau<s n="n"/></l><r>program<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egitarau<s n="n"/></l><r>programme<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>egitarau<s n="n"/></l><r>schedule<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>egitarau<s n="n"/></l><r>schedule<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egitasmo<s n="n"/></l><r>project<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egite<s n="n"/></l><r>action<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>egite<s n="n"/></l><r>execution<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>egite<s n="n"/></l><r>realisation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>egite<s n="n"/></l><r>execution<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>egite<s n="n"/></l><r>realisation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egiteko<s n="n"/></l><r>mission<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>egitura<s n="n"/></l><r>frame<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>egitura<s n="n"/></l><r>frame<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egitura<s n="n"/></l><r>structure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egituraketa<s n="n"/></l><r>structuring<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egoera<s n="n"/></l><r>state<s n="n"/><s n="ND"/></r></p></e>
@@ -10169,13 +10166,13 @@
     <e><p><l>egokitasun<s n="n"/></l><r>suitability<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egonaldi<s n="n"/></l><r>stay<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egonezin<s n="n"/></l><r>restlessness<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>egonezin<s n="n"/></l><r>interest<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>egonezin<s n="n"/></l><r>interest<s n="n"/><s n="pl"/></r></p></e>
     <e a="matxin"><p><l>egongela<s n="n"/></l><r>lounge<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egonkortasun<s n="n"/></l><r>stability<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egonkortze<s n="n"/></l><r>stabilisation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egozentrismo<s n="n"/></l><r>egocentrism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egozte<s n="n"/></l><r>expulsion<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eguerdi<s n="n"/></l><r>midday<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eguerdi<s n="n"/></l><r>midday<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eguerdi<s n="n"/></l><r>noon<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egun<s n="n"/></l><r>day<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>egun<s n="n"/></l><r>date<s n="n"/><s n="ND"/></r></p></e>
@@ -10185,9 +10182,7 @@
     <e a="matxin"><p><l>egunsenti<s n="n"/></l><r>dawn<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>egunsenti<s n="n"/></l><r>sunrise<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egur<s n="n"/></l><r>firewood<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>egur<s n="n"/></l><r>trunk<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>egur-ikatz<s n="n"/></l><r>charcoal<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eguraldi<s n="n"/></l><r>time<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eguraldi<s n="n"/></l><r>weather<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egutegi<s n="n"/></l><r>calendar<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eguzki<s n="n"/></l><r>sun<s n="n"/><s n="ND"/></r></p></e>
@@ -10212,7 +10207,7 @@
     <e r="RL"><p><l>ekipaje<s n="n"/></l><r>baggage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ekipaje<s n="n"/></l><r>luggage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ekitaldi<s n="n"/></l><r>act<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ekoizpen<s n="n"/></l><r>output<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ekoizpen<s n="n"/></l><r>output<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ekoizpen<s n="n"/></l><r>production<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>ekonomia<s n="n"/></l><r>economics<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>ekonomia<s n="n"/></l><r>economy<s n="n"/><s n="ND"/></r></p></e>
@@ -10223,7 +10218,7 @@
     <e><p><l>eleberri<s n="n"/></l><r>novel<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>elebitasun<s n="n"/></l><r>bilingualism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eledun<s n="n"/></l><r>spokesman<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eledun<s n="n"/></l><r>spokeswoman<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eledun<s n="n"/></l><r>spokeswoman<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>elefante<s n="n"/></l><r>elephant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>elektrizitate<s n="n"/></l><r>electricity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>elektroi<s n="n"/></l><r>electron<s n="n"/><s n="ND"/></r></p></e>
@@ -10231,7 +10226,7 @@
     <e r="RL"><p><l>elementu<s n="n"/></l><r>item<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>elikadura<s n="n"/></l><r>nutrition<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>elikagai<s n="n"/></l><r>nourishment<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eliminazio<s n="n"/></l><r>disposal<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eliminazio<s n="n"/></l><r>disposal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eliminazio<s n="n"/></l><r>elimination<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eliza<s n="n"/></l><r>church<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>elkarbizitza<s n="n"/></l><r>coexistence<s n="n"/><s n="ND"/></r></p></e>
@@ -10285,19 +10280,17 @@
     <e><p><l>enpresaburu<s n="n"/></l><r>employer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>entitate<s n="n"/></l><r>entity<s n="n"/><s n="ND"/></r></p></e>
     <e c="Dep."><p><l>entrenamendu<s n="n"/></l><r>training<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>entrenatzaile<s n="n"/></l><r>coach<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>entrenatzaile<s n="n"/></l><r>coach<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>entrenatzaile<s n="n"/></l><r>trainer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>entsegu<s n="n"/></l><r>essay<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>entsegu<s n="n"/></l><r>rehearsal<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>entsegu<s n="n"/></l><r>rehearsal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>entzierro<s n="n"/></l><r>closing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>entziklopedia<s n="n"/></l><r>encyclopaedia<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>entzima<s n="n"/></l><r>enzyme<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>entzuketa<s n="n"/></l><r>listening<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>entzumen<s n="n"/></l><r>hearing<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>epai<s n="n"/></l><r>judgement<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>epai<s n="n"/></l><r>judgment<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>epai<s n="n"/></l><r>judgement<s n="n"/><s n="ND"/></r></p></e>
     <e c="Jur."><p><l>epai<s n="n"/></l><r>sentence<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>epaiketa<s n="n"/></l><r>judgement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>epaiketa<s n="n"/></l><r>trial<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>epaile<s n="n"/></l><r>judge<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>epaimahai<s n="n"/></l><r>jury<s n="n"/><s n="ND"/></r></p></e>
@@ -10307,28 +10300,27 @@
     <e><p><l>epidemia<s n="n"/></l><r>epidemic<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>epistemologia<s n="n"/></l><r>epistemology<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>epizentro<s n="n"/></l><r>epicentre<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>era<s n="n"/></l><r>era<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>era<s n="n"/></l><r>manner<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>era<s n="n"/></l><r>manner<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>era<s n="n"/></l><r>way<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erabaki<s n="n"/></l><r>decision<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erabaki<s n="n"/></l><r>resolution<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erabilera<s n="n"/></l><r>application<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erabilera<s n="n"/></l><r>usage<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erabaki<s n="n"/></l><r>resolution<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erabilera<s n="n"/></l><r>application<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erabilera<s n="n"/></l><r>usage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erabilera<s n="n"/></l><r>use<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erabilera<s n="n"/></l><r>utilisation<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erabilera<s n="n"/></l><r>utilisation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erabilgarritasun<s n="n"/></l><r>utility<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erabiltzaile<s n="n"/></l><r>user<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erabiltze<s n="n"/></l><r>employment<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erabiltze<s n="n"/></l><r>employment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erabiltze<s n="n"/></l><r>use<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eragile<s n="n"/></l><r>agent<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eragile<s n="n"/></l><r>officer<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eragile<s n="n"/></l><r>officer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eragin<s n="n"/></l><r>influence<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>eragingarri<s n="n"/></l><r>mobile<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eragozpen<s n="n"/></l><r>annoyance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eraikin<s n="n"/></l><r>building<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>eraikuntza<s n="n"/></l><r>building<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eraikuntza<s n="n"/></l><r>building<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eraikuntza<s n="n"/></l><r>construction<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>erailketa<s n="n"/></l><r>killing<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erailketa<s n="n"/></l><r>killing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erailketa<s n="n"/></l><r>murder<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erakargarritasun<s n="n"/></l><r>appeal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erakarpen<s n="n"/></l><r>attraction<s n="n"/><s n="ND"/></r></p></e>
