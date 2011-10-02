@@ -3924,6 +3924,9 @@
     <e r="RL" a="matxin"><p><l>zuzen<s n="adj"/><s n="izo"/></l><r>straight<s n="adj"/></r></p></e>
     <e><p><l>zuzendaritza<s n="adj"/></l><r>managerial<s n="adj"/></r></p></e>
     <e><p><l>zuzeneko<s n="adj"/></l><r>direct<s n="adj"/></r></p></e>
+    <e><p><l>zigorgabe<s n="adj"/></l><r>unqualified<s n="adj"/></r></p></e>
+    <e><p><l>ezin<s n="adj"/></l><r>impossible<s n="adj"/></r></p></e>
+    <e><p><l>versus<s n="adv"/></l><r>versus<s n="adv"/></r></p></e>
 
     <e r="RL" c="either... or... : o... o..."><p><l>ala<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
     <e><p><l>ala<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
@@ -4927,6 +4930,7 @@
     <e><p><l>Zaragoza<s n="np"/><s n="loc"/></l><r>Saragossa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 
     <e><p><l>abandonatu<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
+    <e><p><l>mozkortu<s n="vblex"/></l><r>get<g><b/>drunk</g><s n="vblex"/></r></p></e>
 
     <e a="matxin"><p><l>abdikatu<s n="vblex"/></l><r>abdicate<s n="vblex"/></r></p></e>
     <e c="MG: sería reflexivo"><p><l>aberastu<s n="vblex"/></l><r>enrich<s n="vblex"/></r></p></e>

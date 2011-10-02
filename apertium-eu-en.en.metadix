@@ -26548,6 +26548,7 @@
     <e lm="to and fro"><i>to<b/>and<b/>fro</i><par n="maybe__adv"/>    </e>
     <e lm="observing"><i>observing</i><par n="maybe__adv"/>    </e>
     <e lm="tottering"><i>tottering</i><par n="maybe__adv"/>    </e>
+    <e lm="versus"><i>versus</i><par n="maybe__adv"/>    </e>
     <e lm="a bit"><i>a<b/>bit</i><par n="maybe__adv"/>    </e>
     <e lm="a little bit"><i>a<b/>little<b/>bit</i><par n="maybe__adv"/>    </e>
     <e lm="a lot"><i>a<b/>lot</i><par n="maybe__adv"/>    </e>
@@ -32490,6 +32491,7 @@
     <e lm="zoology"><i>zoolog</i><par n="bab/y__n"/>     </e>
     <e lm="zoom"><i>zoom</i><par n="house__n"/>     </e>
     <e lm="zygomatic"><i>zygomatic</i><par n="expensive__adj"/>     </e>
+    <e lm="unqualified"><i>unqualified</i><par n="expensive__adj"/>     </e>
     <e lm="zygote"><i>zygote</i><par n="house__n"/>     </e>
     <e lm="Àlex"><i>Àlex</i><par n="Mark__np"/>     </e>
     <e lm="Íker"><i>Íker</i><par n="Mark__np"/>     </e>
@@ -32589,6 +32591,7 @@
 
 
 <e lm="get married"><i>g</i><par n="g/et__vblex"/><p><l><b/>married</l><r><g><b/>married</g></r></p></e>
+<e lm="get drunk"><i>g</i><par n="g/et__vblex"/><p><l><b/>drunk</l><r><g><b/>drunk</g></r></p></e>
 
 <e lm="get across"><i>g</i><par n="g/et__vblex" sa="sep"/><par n="probj_dem__prn"/><p><l><b/>across</l><r><g><b/>across</g></r></p></e>
 <e lm="get along"><i>g</i><par n="g/et__vblex"/><p><l><b/>along</l><r><g><b/>along</g></r></p></e>
