@@ -9071,7 +9071,12 @@
     <e><p><l>UPN<s n="n"/><s n="acr"/></l><r>UPN<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>UPV/EHU<s n="n"/><s n="acr"/></l><r>UPV/EHU<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>abandonu<s n="n"/></l><r>abandonment<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>latsarri<s n="n"/></l><r>wash<b/>house<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>latsarri<s n="n"/></l><r>wash<b/>house<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>latsarri<s n="n"/></l><r>laundry<b/>room<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>lanbro<s n="n"/></l><r>mist<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kotoi-landare<s n="n"/></l><r>cotton<b/>plant<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kristau-ikasbide<s n="n"/></l><r>catechism<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ikasbide<s n="n"/></l><r>lesson<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abaniko<s n="n"/></l><r>fan<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abantaila<s n="n"/></l><r>advantage<s n="n"/><s n="ND"/></r></p></e>
     <e c="Ángel"><p><l>abdomen<s n="n"/></l><r>abdomen<s n="n"/><s n="ND"/></r></p></e>
@@ -10501,7 +10506,7 @@
     <e c="Anat"><p><l>loki<s n="n"/></l><r>temple<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>lizeo<s n="n"/></l><r>secondary<b/>school<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>lizeo<s n="n"/></l><r>high<b/>school<s n="n"/><s n="ND"/></r></p></e>
-
+    <e><p><l>leinu<s n="n"/></l><r>lineage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>larruzko<b/>uhal<s n="n"/></l><r>leather<b/>belt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aireztatze<b/>uhal<s n="n"/></l><r>fan<b/>belt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>transmisio<b/>uhal<s n="n"/></l><r>drive<b/>belt<s n="n"/><s n="ND"/></r></p></e>

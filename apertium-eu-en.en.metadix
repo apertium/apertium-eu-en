@@ -18754,6 +18754,7 @@
     <e lm="line"><i>line</i><par n="house__n"/>    </e>
     <e lm="deadline"><i>deadline</i><par n="house__n"/>    </e>
     <e lm="lineage"><i>lineage</i><par n="house__n"/>    </e>
+    <e lm="laundry room"><i>laundry<b/>room</i><par n="house__n"/></e>
     <e lm="linen"><i>linen</i><par n="house__n"/>    </e>
     <e lm="link"><i>link</i><par n="house__n"/>    </e>
     <e lm="lion"><i>lion</i><par n="house__n"/>    </e>
@@ -30582,6 +30583,7 @@
     <e lm="misgovernment"><i>misgovernment</i><par n="house__n"/>     </e>
     <e lm="misogyny"><i>misogyn</i><par n="bab/y__n"/>     </e>
     <e lm="mist"><i>mist</i><par n="house__n"/>     </e>
+    <e lm="cotton plant"><i>cotton<b/>plant</i><par n="house__n"/>    </e>
     <e lm="mistral"><i>mistral</i><par n="house__n"/>     </e>
     <e lm="mitochondrial"><i>mitochondrial</i><par n="expensive__adj"/>     </e>
     <e lm="mitochondrion"><i>mitochondrion</i><par n="house__n"/>     </e>
