@@ -76,7 +76,6 @@
     <sdef n="B5B" /> 
     <sdef n="rel" /> 
     <sdef n="B5A" /> 
-    <sdef n="part" /> 
     <sdef n="A2" /> 
     <sdef n="A1" /> 
     <sdef n="tn" /> 
@@ -274,6 +273,17 @@
     <e r="RL"><p><l>aino<s n="post"/></l><r>up<b/>to<s n="pr"/></r></p></e>
 
     <e><p><l>aldera<s n="spost"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>aburuz<s n="spost"/></l><r>in<b/>the<b/>opinion<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>iduriko<s n="spost"/></l><r>in<b/>the<b/>opinion<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>ustez<s n="spost"/></l><r>in<b/>the<b/>opinion<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>inguru<s n="spost"/></l><r>close<b/>to<s n="pr"/></r></p></e>
+    <e><p><l>menpe<s n="spost"/></l><r>under<b/>the<b/>command<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>bila<s n="spost"/></l><r>in<b/>search<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>eske<s n="spost"/></l><r>looking<s n="adv"/></r></p></e>
+    <e c="MG: o millor 'a manos' adv?"><p><l>esku<s n="spost"/></l><r>at<b/>the<b/>hands<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>alde<s n="spost"/></l><r>in<b/>favour<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>barne<s n="spost"/></l><r>including<s n="pr"/></r></p></e>
+    <e><p><l>begira<s n="spost"/></l><r>looking<s n="adv"/></r></p></e>
     <e r="RL"><p><l>aldera<s n="spost"/></l><r>towards<s n="pr"/></r></p></e>
     <e r="RL"><p><l>aldetik<s n="spost"/></l><r>as<b/>for<s n="pr"/></r></p></e>
     <e><p><l>aldetik<s n="spost"/></l><r>regarding<s n="pr"/></r></p></e>

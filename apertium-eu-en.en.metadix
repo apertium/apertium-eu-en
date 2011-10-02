@@ -26600,6 +26600,7 @@
     <e lm="a.m."><i>a.m.</i><par n="maybe__adv"/>    </e>
     <e lm="to and fro"><i>to<b/>and<b/>fro</i><par n="maybe__adv"/>    </e>
     <e lm="observing"><i>observing</i><par n="maybe__adv"/>    </e>
+    <e lm="looking"><i>looking</i><par n="maybe__adv"/>    </e>
     <e lm="tottering"><i>tottering</i><par n="maybe__adv"/>    </e>
     <e lm="versus"><i>versus</i><par n="maybe__adv"/>    </e>
     <e lm="a bit"><i>a<b/>bit</i><par n="maybe__adv"/>    </e>
@@ -26909,6 +26910,7 @@
     <e lm="illegally"><i>illegally</i><par n="maybe__adv"/>    </e>
     <e lm="immediately"><i>immediately</i><par n="maybe__adv"/>    </e>
     <e lm="in"><i>in</i><par n="maybe__adv"/>    </e>
+    <e lm="including"><i>including</i><par n="maybe__adv"/>    </e>
     <e lm="in Indian file"><i>in<b/>Indian<b/>file</i><par n="maybe__adv"/>    </e>
     <e lm="in a big way"><i>in<b/>a<b/>big<b/>way</i><par n="maybe__adv"/>    </e>
     <e lm="in a blink of the eye"><i>in<b/>a<b/>blink<b/>of<b/>the<b/>eye</i><par n="maybe__adv"/>    </e>
@@ -27603,12 +27605,16 @@
     <e lm="as"><i>as</i><par n="at__pr"/>    </e>
     <e lm="as a"><i>as<b/>a</i><par n="at__pr"/>    </e>
     <e lm="as a result of"><i>as<b/>a<b/>result<b/>of</i><par n="at__pr"/>    </e>
+    <e lm="in the opinion of"><i>in<b/>the<b/>opinion<b/>of</i><par n="at__pr"/>    </e>
+    <e lm="under the command of"><i>under<b/>the<b/>command<b/>of</i><par n="at__pr"/>    </e>
     <e lm="as for"><i>as<b/>for</i><par n="at__pr"/>    </e>
     <e lm="as regards"><i>as<b/>regards</i><par n="at__pr"/>    </e>
     <e lm="with regard to"><i>with<b/>regard<b/>to</i><par n="at__pr"/>    </e>
     <e lm="at"><i>at</i><par n="at__pr"/>    </e>
+    <e lm="including"><i>including</i><par n="at__pr"/>    </e>
     <e lm="at the expense of"><i>at<b/>the<b/>expense<b/>of</i><par n="at__pr"/>    </e>
     <e lm="because of"><i>because<b/>of</i><par n="at__pr"/>    </e>
+    <e lm="close to"><i>close<b/>to</i><par n="at__pr"/>    </e>
     <e lm="before"><i>before</i><par n="at__pr"/>    </e>
     <e lm="shortly before"><i>shortly<b/>before</i><par n="at__pr"/>    </e>
     <e lm="behind"><i>behind</i><par n="at__pr"/>    </e>
@@ -27672,9 +27678,11 @@
     <e lm="without"><i>without</i><par n="at__pr"/>    </e>
     <e lm="ahead of"><i>ahead<b/>of</i><par n="at__pr"/>    </e>
     <e lm="around the middle of"><i>around<b/>the<b/>middle<b/>of</i><par n="at__pr"/>    </e>
+    <e lm="at the hands of"><i>at<b/>the<b/>hands<b/>of</i><par n="at__pr"/>    </e>
     <e lm="at about"><i>at<b/>about</i><par n="at__pr"/>    </e>
     <e lm="by dint of"><i>by<b/>dint<b/>of</i><par n="at__pr"/>    </e>
     <e lm="in pursuit of"><i>in<b/>pursuit<b/>of</i><par n="at__pr"/>    </e>
+    <e lm="in search of"><i>in<b/>search<b/>of</i><par n="at__pr"/>    </e>
     <e lm="right in front of"><i>right<b/>in<b/>front<b/>of</i><par n="at__pr"/>    </e>
     <e lm="in order to"><i>in<b/>order<b/>to</i><par n="at__pr"/>    </e>
     <e lm="in order of"><i>in<b/>order<b/>of</i><par n="at__pr"/>    </e>
