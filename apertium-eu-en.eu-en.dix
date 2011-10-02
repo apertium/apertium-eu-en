@@ -10496,6 +10496,9 @@
     <e slr="belt"><p><l>uhal<s n="n"/></l><r>belt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>uhal<s n="n"/></l><r>strap<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>larruzko<b/>uhal<s n="n"/></l><r>leather<b/>belt<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>aireztatze<b/>uhal<s n="n"/></l><r>fan<b/>belt<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>transmisio<b/>uhal<s n="n"/></l><r>drive<b/>belt<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>gerriko<b/>uhal<s n="n"/></l><r>belt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erro<s n="n"/></l><r>root<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>erro<s n="n"/></l><r>stem<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>errolda<s n="n"/></l><r>census<s n="n"/><s n="ND"/></r></p></e>
