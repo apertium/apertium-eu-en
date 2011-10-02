@@ -16141,12 +16141,16 @@
     <e lm="baby"><i>bab</i><par n="bab/y__n"/>    </e>
     <e lm="bacillus"><i>bacillus</i><par n="access__n"/>    </e>
     <e lm="back"><i>back</i><par n="house__n"/>    </e>
+    <e lm="vein"><i>vein</i><par n="house__n"/>    </e>
+    <e lm="foreign minister"><i>foreign<b/>minister</i><par n="house__n"/></e>
+    <e lm="foreign office"><i>foreign<b/>office</i><par n="house__n"/></e>
     <e lm="background"><i>background</i><par n="house__n"/>    </e>
     <e lm="blackhead"><i>blackhead</i><par n="house__n"/>    </e>
     <e lm="backrest"><i>backrest</i><par n="house__n"/>    </e>
     <e lm="backstitch"><i>backstitch</i><par n="access__n"/>    </e>
     <e lm="bacterium"><i>bacteri</i><par n="maxim/um__n"/>    </e>
     <e lm="rectum"><i>rect</i><par n="maxim/um__n"/>    </e>
+    <e lm="delirium"><i>deliri</i><par n="maxim/um__n"/>    </e>
     <e lm="badger"><i>badger</i><par n="house__n"/>    </e>
     <e lm="bag"><i>bag</i><par n="house__n"/>    </e>
     <e lm="baggage"><i>baggage</i><par n="house__n"/>    </e>
@@ -16350,6 +16354,7 @@
     <e lm="postbox"><i>postbox</i><par n="bass__n"/>    </e>
     <e lm="boxing"><i>boxing</i><par n="east__n"/>    </e>
     <e lm="European Union"><i>European<b/>Union</i><par n="Linux__np"/>    </e>
+    <e lm="Basque Autonomous Community"><i>Basque<b/>Autonomous<b/>Community</i><par n="Linux__np"/>    </e>
     <e lm="Ertzaintza"><i>Ertzaintza</i><par n="Linux__np"/>    </e>
     <e lm="Foral Delegation"><i>Foral<b/>Delegation</i><par n="house__n"/>    </e>
     <e lm="boy"><i>boy</i><par n="house__n"/>    </e>
@@ -20524,6 +20529,7 @@
     <e lm="spot"><i>spot</i><par n="house__n"/>    </e>
     <e lm="sprain"><i>sprain</i><par n="house__n"/>    </e>
     <e lm="spring"><i>spring</i><par n="house__n"/>    </e>
+    <e lm="lordling"><i>lordling</i><par n="house__n"/>    </e>
     <e lm="letterhead"><i>letterhead</i><par n="house__n"/>    </e>
     <e lm="real" r="RL"><i>real</i><par n="house__n"/>    </e>
     <e lm="hot spring"><i>hot<b/>spring</i><par n="house__n"/>    </e>

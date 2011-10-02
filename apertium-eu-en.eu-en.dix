@@ -10067,6 +10067,12 @@
     <e><p><l>denbora<s n="n"/></l><r>time<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>giro<s n="n"/></l><r>weather<s n="n"/><s n="ND"/></r></p></e>
     <e slr="atmosphere"><p><l>giro<s n="n"/></l><r>atmosphere<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>jaunxkila<s n="n"/></l><r>lordling<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>eldarnio<s n="n"/></l><r>madness<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eldarnio<s n="n"/></l><r>delirium<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>bena<s n="n"/></l><r>vein<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>atzerri<b/>ministerio<s n="n"/></l><r>foreign<b/>ministry<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>atzerri<b/>ministro<s n="n"/></l><r>foreign<b/>minister<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denboraldi<s n="n"/></l><r>season<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denda<s n="n"/></l><r>shop<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>denda<s n="n"/></l><r>store<s n="n"/><s n="ND"/></r></p></e>
