@@ -9121,6 +9121,8 @@
     <e a="matxin"><p><l>aberats<s n="n"/></l><r>millionaire<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aberri<s n="n"/></l><r>homeland<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aberri<b/>egun<s n="n"/></l><r>Fatherland<b/>Day<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ile-apaindegi<s n="n"/></l><r>hair<b/>salon<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>idazpuru<s n="n"/></l><r>letterhead<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>abertzale<s n="n"/></l><r>abertzale<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abeslari<s n="n"/></l><r>singer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abesti<s n="n"/></l><r>song<s n="n"/><s n="ND"/></r></p></e>
@@ -10063,7 +10065,8 @@
     <e><p><l>demokrata<s n="n"/></l><r>democrat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>demokrazia<s n="n"/></l><r>democracy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denbora<s n="n"/></l><r>time<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>denbora<s n="n"/></l><r>weather<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>giro<s n="n"/></l><r>weather<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="atmosphere"><p><l>giro<s n="n"/></l><r>atmosphere<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denboraldi<s n="n"/></l><r>season<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>denda<s n="n"/></l><r>shop<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>denda<s n="n"/></l><r>store<s n="n"/><s n="ND"/></r></p></e>
@@ -11293,6 +11296,7 @@
     <e><p><l>horizonte<s n="n"/></l><r>horizon<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>horma<s n="n"/></l><r>wall<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hornikuntza<s n="n"/></l><r>equipment<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hornidura<s n="n"/></l><r>supply<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hortz<s n="n"/></l><r>tooth<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hortzeria<s n="n"/></l><r>denture<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>hosto<s n="n"/></l><r>blade<s n="n"/><s n="ND"/></r></p></e>
@@ -11591,6 +11595,7 @@
     <e><p><l>iturri-ur<s n="n"/></l><r>spring<b/>water<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>orfeoi<s n="n"/></l><r>choir<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>pagadi<s n="n"/></l><r>beech<b/>grove<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>harizti<s n="n"/></l><r>oak<b/>grove<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>partzuer<s n="n"/></l><r>partner<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>probetxu<s n="n"/></l><r>advantage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>soldadutza<s n="n"/></l><r>military<b/>service<s n="n"/><s n="ND"/></r></p></e>
