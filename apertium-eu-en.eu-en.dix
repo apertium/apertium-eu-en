@@ -10495,6 +10495,13 @@
     <e slr="rein"><p><l>uhal<s n="n"/></l><r>rein<s n="n"/><s n="pl"/></r></p></e>
     <e slr="belt"><p><l>uhal<s n="n"/></l><r>belt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>uhal<s n="n"/></l><r>strap<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>uhaleria<s n="n"/></l><r>rigging<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>zerrendaburu<s n="n"/></l><r>top<g><b/>of<b/>the<b/>list</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>loraketa<s n="n"/></l><r>flowering<s n="n"/><s n="ND"/></r></p></e>
+    <e c="Anat"><p><l>loki<s n="n"/></l><r>temple<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>lizeo<s n="n"/></l><r>secondary<b/>school<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>lizeo<s n="n"/></l><r>high<b/>school<s n="n"/><s n="ND"/></r></p></e>
+
     <e><p><l>larruzko<b/>uhal<s n="n"/></l><r>leather<b/>belt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aireztatze<b/>uhal<s n="n"/></l><r>fan<b/>belt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>transmisio<b/>uhal<s n="n"/></l><r>drive<b/>belt<s n="n"/><s n="ND"/></r></p></e>
@@ -11322,7 +11329,8 @@
     <e><p><l>ikasle<s n="n"/></l><r>student<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikastaro<s n="n"/></l><r>course<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikaste<s n="n"/></l><r>learning<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ikastetxe<s n="n"/></l><r>high<b/>school<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ikastetxe<s n="n"/></l><r>high<b/>school<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ikastetxe<s n="n"/></l><r>secondary<b/>school<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikastola<s n="n"/></l><r>school<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikasturte<s n="n"/></l><r>course<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikatz<s n="n"/></l><r>coal<s n="n"/><s n="ND"/></r></p></e>
