@@ -3927,6 +3927,9 @@
     <e><p><l>zigorgabe<s n="adj"/></l><r>unqualified<s n="adj"/></r></p></e>
     <e><p><l>ezin<s n="adj"/></l><r>impossible<s n="adj"/></r></p></e>
     <e><p><l>versus<s n="adv"/></l><r>versus<s n="adv"/></r></p></e>
+    <e><p><l>ohi<s n="adv"/></l><r>usually<s n="adv"/></r></p></e>
+    <e><p><l>ote<s n="adv"/></l><r>maybe<s n="adv"/></r></p></e>
+    <e><p><l>bide<s n="adv"/></l><r>apparently<s n="adv"/></r></p></e>
 
     <e r="RL" c="either... or... : o... o..."><p><l>ala<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
     <e><p><l>ala<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
@@ -4888,6 +4891,7 @@
     <e><p><l>Suitza<s n="np"/><s n="loc"/></l><r>Switzerland<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Sáez<s n="np"/><s n="ant"/></l><r>Sáez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Taliban<s n="np"/><s n="al"/></l><r>Taliban<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Eusko<b/>Alkartasuna<s n="np"/><s n="al"/></l><r>Basque<b/>Solidarity<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Teresa<s n="np"/><s n="ant"/></l><r>Teresa<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Tito<s n="np"/><s n="ant"/></l><r>Tito<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Turkia<s n="np"/><s n="loc"/></l><r>Turkey<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
@@ -4925,11 +4929,61 @@
     <e><p><l>Pasaia<s n="np"/><s n="loc"/></l><r>Pasaia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Valentzia<s n="np"/><s n="loc"/></l><r>Valencia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>India<s n="np"/><s n="loc"/></l><r>India<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Tibet<s n="np"/><s n="loc"/></l><r>Tibet<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Hego<b/>Korea<s n="np"/><s n="loc"/></l><r>South<b/>Korea<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Habana<s n="np"/><s n="loc"/></l><r>Havana<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Hondarribi<s n="np"/><s n="loc"/></l><r>Hondarribia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Zaragoza<s n="np"/><s n="loc"/></l><r>Saragossa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Amman<s n="np"/><s n="loc"/></l><r>Amman<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Amurrio<s n="np"/><s n="loc"/></l><r>Amurrio<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Andoain<s n="np"/><s n="loc"/></l><r>Andoain<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Arrasate<s n="np"/><s n="loc"/></l><r>Mondragón<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Barakaldo<s n="np"/><s n="loc"/></l><r>Barakaldo<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Bergara<s n="np"/><s n="loc"/></l><r>Bergara<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Bermeo<s n="np"/><s n="loc"/></l><r>Bermeo<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Bilbo<s n="np"/><s n="loc"/></l><r>Bilbao<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Bordele<s n="np"/><s n="loc"/></l><r>Bordeaux<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Bosnia-Herzegovina<s n="np"/><s n="loc"/></l><r>Bosnia<b/>and<b/>Herzegovina<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Donibane<b/>Lohizune<s n="np"/><s n="loc"/></l><r>Saint-Jean-de-Luz<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Dulantzi<s n="np"/><s n="loc"/></l><r>Dulantzi<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Durango<s n="np"/><s n="loc"/></l><r>Durango<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Eibar<s n="np"/><s n="loc"/></l><r>Eibar<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Elgoibar<s n="np"/><s n="loc"/></l><r>Elgoibar<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Ermua<s n="np"/><s n="loc"/></l><r>Ermua<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Errenteria<s n="np"/><s n="loc"/></l><r>Errenteria<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Getxo<s n="np"/><s n="loc"/></l><r>Getxo<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Hernani<s n="np"/><s n="loc"/></l><r>Hernani<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Ipar<b/>Katalunia<s n="np"/><s n="loc"/></l><r>Northern<b/>Catalonia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Ipar<b/>Korea<s n="np"/><s n="loc"/></l><r>North<b/>Korea<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Irun<s n="np"/><s n="loc"/></l><r>Irun<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Iruñe<s n="np"/><s n="loc"/></l><r>Pamplona<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Iruñea<s n="np"/><s n="loc"/></l><r>Pamplona<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Istanbul<s n="np"/><s n="loc"/></l><r>Istanbul<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Kolonia<s n="np"/><s n="loc"/></l><r>Cologne<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Korsika<s n="np"/><s n="loc"/></l><r>Corsica<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Leon<s n="np"/><s n="loc"/></l><r>Leon<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Milagro<s n="np"/><s n="loc"/></l><r>Milagro<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Oiartzun<s n="np"/><s n="loc"/></l><r>Oiartzun<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Okzitania<s n="np"/><s n="loc"/></l><r>Occitania<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Ondarroa<s n="np"/><s n="loc"/></l><r>Ondarroa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Orio<s n="np"/><s n="loc"/></l><r>Orio<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Palestina<s n="np"/><s n="loc"/></l><r>Palestine<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Paue<s n="np"/><s n="loc"/></l><r>Pau<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Portugalete<s n="np"/><s n="loc"/></l><r>Portugalete<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Reunion<s n="np"/><s n="loc"/></l><r>Réunion<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Santurtzi<s n="np"/><s n="loc"/></l><r>Santurtzi<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Sestao<s n="np"/><s n="loc"/></l><r>Sestao<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Sobiet<b/>Batasuna<s n="np"/><s n="loc"/></l><r>Soviet<b/>Union<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Tajo<s n="np"/><s n="loc"/></l><r>Tagus<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Tolosa<s n="np"/><s n="loc"/></l><r>Tolosa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Txetxenia<s n="np"/><s n="loc"/></l><r>Chechnya<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Vatikanoa<s n="np"/><s n="loc"/></l><r>Vatican<b/>City<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Zamudio<s n="np"/><s n="loc"/></l><r>Zamudio<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Zarautz<s n="np"/><s n="loc"/></l><r>Zarautz<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Zumaia<s n="np"/><s n="loc"/></l><r>Zumaia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 
     <e><p><l>abandonatu<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
+    <e><p><l>abaildu<s n="vblex"/></l><r>exhaust<s n="vblex"/></r></p></e>
     <e><p><l>mozkortu<s n="vblex"/></l><r>get<g><b/>drunk</g><s n="vblex"/></r></p></e>
 
     <e a="matxin"><p><l>abdikatu<s n="vblex"/></l><r>abdicate<s n="vblex"/></r></p></e>
@@ -7450,6 +7504,7 @@
     <e r="RL" a="matxin"><p><l>izorratu<s n="vblex"/></l><r>bust<s n="vblex"/></r></p></e>
     <e><p><l>izorratu<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>
     <e><p><l>duketza<s n="n"/></l><r>dukeship<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>azpi<s n="n"/></l><r>bottom<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>errai<s n="n"/></l><r>gut<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>erretoki<s n="n"/></l><r>grill<s n="n"/><s n="ND"/></r></p></e>
     <e c="FIXME: really?"><p><l>euroagindu<s n="n"/></l><r>European<b/>Arrest<b/>Warrent<s n="n"/><s n="ND"/></r></p></e>
@@ -13809,6 +13864,7 @@
     <e><p><l>la<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e><p><l>n<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
+    <e><p><l>bostogei<s n="num"/><s n="pl"/></l><r>one<b/>hundred<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>bederatzi<s n="num"/><s n="pl"/></l><r>nine<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>berrogei<s n="num"/><s n="pl"/></l><r>forty<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>berrogeita<b/>bat<s n="num"/><s n="pl"/></l><r>forty-one<s n="num"/><s n="sp"/></r></p></e>
@@ -13920,12 +13976,16 @@
     <e><p><l>zortzi<s n="num"/><s n="pl"/></l><r>eight<s n="num"/><s n="sp"/></r></p></e>
 
     <e><p><l>ber<s n="prn"/><s n="pers"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/></r></p></e>
+    <e><p><l>elkar<s n="prn"/><s n="rec"/></l><r>each<b/>other<s n="prn"/><s n="rec"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>geu<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>deus<s n="prn"/><s n="ind"/></l><r>nothing<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ezertxo<s n="prn"/><s n="ind"/></l><r>nothing<b/>at<b/>all<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>ezertxo<s n="prn"/><s n="ind"/></l><r>anything<b/>at<b/>all<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>batbedera<s n="prn"/><s n="ind"/></l><r>each<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL" c="frases afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="RL" c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>

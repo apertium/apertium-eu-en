@@ -61,6 +61,7 @@
     <sdef n="pos"/>
     <sdef n="sp"/>
     <sdef n="ref"/>
+    <sdef n="rec"/>
     <sdef n="sup"/>
     <sdef n="ord"/>
     <sdef n="qnt"/>
@@ -27456,14 +27457,17 @@
     <e lm="ourselves" a="doriua"><p><l>ourselves</l><r>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="yourselves" a="doriua"><p><l>yourselves</l><r>yourselves<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="themselves"><p><l>themselves</l><r>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="each other"><p><l>each<b/>other</l><r>each<b/>other<s n="prn"/><s n="rec"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="all" c="all is/all are - tot/tot"><i>all</i><par n="all__prn"/>    </e>
     <e lm="another"><i>another</i><par n="everyone__prn"/>    </e>
     <e lm="another one"><i>another<b/>one</i><par n="everyone__prn"/>    </e>
     <e lm="any"><i>any</i><par n="all__prn"/>    </e>
     <e lm="any one"><i>any<b/>one</i><par n="everyone__prn"/>    </e>
+    <e lm="each one"><i>each<b/>one</i><par n="everyone__prn"/>    </e>
     <e lm="anybody"><i>anybody</i><par n="everyone__prn"/>    </e>
     <e lm="anyone"><i>anyone</i><par n="everyone__prn"/>    </e>
     <e lm="anything"><i>anything</i><par n="everyone__prn"/>    </e>
+    <e lm="anything at all"><i>anything<b/>at<b/>all</i><par n="everyone__prn"/>    </e>
     <e lm="both"><i>both</i><par n="both__prn"/>    </e>
     <e lm="each"><i>each</i><par n="everyone__prn"/>    </e>
     <e lm="either"><i>either</i><par n="all__prn"/>    </e>
@@ -27488,6 +27492,7 @@
     <e lm="nobody"><i>nobody</i><par n="everyone__prn"/>    </e>
     <e lm="none"><i>none</i><par n="something__prn"/>    </e>
     <e lm="nothing"><i>nothing</i><par n="everyone__prn"/>    </e>
+    <e lm="nothing at all"><i>nothing<b/>at<b/>all</i><par n="everyone__prn"/>    </e>
     <e lm="one" c="MG: caldrà fer regla per a 'the young ones'"><i>one</i><par n="the_other__prn"/>    </e>
     <e lm="others"><i>others</i><par n="both__prn"/>    </e>
     <e lm="ours"><i>ours</i><par n="mine__prn"/>    </e>
