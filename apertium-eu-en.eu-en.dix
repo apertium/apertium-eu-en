@@ -5381,6 +5381,8 @@
     <e><p><l>azaleratu<s n="vblex"/></l><r>emerge<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>azeleratu<s n="vblex"/></l><r>accelerate<s n="vblex"/></r></p></e>
     <e><p><l>azentuatu<s n="vblex"/></l><r>stress<s n="vblex"/></r></p></e>
+    <e><p><l>martxan<b/>joan<s n="vbsint"/></l><r>march<s n="vblex"/></r></p></e>
+    <e slr="move"><p><l>martxan<b/>joan<s n="vbsint"/></l><r>move<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>azkar<b/>joan<s n="vblex"/></l><r>speed<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>azkartu<s n="vblex"/></l><r>precipitate<s n="vblex"/></r></p></e>
     <e><p><l>azkendu<s n="vblex"/></l><r>conclude<s n="vblex"/></r></p></e>
@@ -12280,7 +12282,8 @@
     <e a="matxin"><p><l>marruskadura<s n="n"/></l><r>friction<s n="n"/><s n="ND"/></r></p></e>
     <e slr="gear"><p><l>martxa<s n="n"/></l><r>gear<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>atzerako<b/>martxa<s n="n"/></l><r>reverse<b/>gear<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>martxa<s n="n"/></l><r>march<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>motorra<b/>martxa<s n="n"/></l><r>running<b/>engine<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>martxa<s n="n"/></l><r>march<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>martxo<s n="n"/></l><r>March<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>marxismo<s n="n"/></l><r>Marxism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>marxista<s n="n"/></l><r>Marxist<s n="n"/><s n="ND"/></r></p></e>
@@ -12447,6 +12450,8 @@
     <e><p><l>motibo<s n="n"/></l><r>reason<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>moto<s n="n"/></l><r>motorbike<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>motor<s n="n"/></l><r>motorbike<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>motore<s n="n"/></l><r>motor<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>motore<s n="n"/></l><r>engine<s n="n"/><s n="ND"/></r></p></e>
     <e c="Jur."><p><l>mozio<s n="n"/></l><r>motion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>mozkor<s n="n"/></l><r>drunkard<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>muga<s n="n"/></l><r>border<s n="n"/><s n="ND"/></r></p></e>
