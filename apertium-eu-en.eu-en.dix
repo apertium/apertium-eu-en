@@ -7415,6 +7415,9 @@
     <e><p><l>egozentrismo<s n="n"/></l><r>egocentrism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>alpinismo<s n="n"/></l><r>mountain<b/>climbing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>azienda<s n="n"/></l><r>livestock<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ganadutegi<s n="n"/></l><r>ranching<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>foru<s n="n"/></l><r>law<b/>code<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>garizuma<s n="n"/></l><r>lent<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>izotz_gainean_patinatu<s n="vblex"/></l><r>ice-skate<s n="vblex"/></r></p></e>
     <e><p><l>izoztu<s n="vblex"/></l><r>freeze<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>izoztu<s n="vblex"/></l><r>ice<s n="vblex"/></r></p></e>
@@ -9077,6 +9080,10 @@
     <e><p><l>kotoi-landare<s n="n"/></l><r>cotton<b/>plant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kristau-ikasbide<s n="n"/></l><r>catechism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ikasbide<s n="n"/></l><r>lesson<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>motots<s n="n"/></l><r>tuft<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>mukuru<s n="n"/></l><r>limit<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>korporazio<s n="n"/></l><r>corporation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kopla<s n="n"/></l><r>couplet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abaniko<s n="n"/></l><r>fan<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abantaila<s n="n"/></l><r>advantage<s n="n"/><s n="ND"/></r></p></e>
     <e c="Ángel"><p><l>abdomen<s n="n"/></l><r>abdomen<s n="n"/><s n="ND"/></r></p></e>
