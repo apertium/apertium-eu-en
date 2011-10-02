@@ -226,6 +226,47 @@
     <sdef n="pfut" /> 
     <sdef n="acr" /> 
   </sdefs>
+  <pardefs>
+<pardef n="arabic-roman-ones-ord(1)">
+  <e><p><l>I</l><r>1st</r></p></e>
+  <e><p><l>II</l><r>2nd</r></p></e>
+  <e><p><l>III</l><r>3rd</r></p></e>
+  <e><p><l>IV</l><r>4th</r></p></e>
+  <e><p><l>V</l><r>5th</r></p></e>
+  <e><p><l>VI</l><r>6th</r></p></e>
+  <e><p><l>VII</l><r>7th</r></p></e>
+  <e><p><l>VIII</l><r>8th</r></p></e>
+  <e><p><l>IX</l><r>9th</r></p></e>
+</pardef>
+<pardef n="arabic-roman-ones-ord">
+  <e><p><l></l><r>0th</r></p></e>
+  <e><par n="arabic-roman-ones-ord(1)"/></e>
+</pardef>
+<pardef n="arabic-roman-tens-ord">
+  <e><p><l></l><r></r></p><par n="arabic-roman-ones-ord(1)"/></e>
+  <e><p><l>XX</l><r>2</r></p><par n="arabic-roman-ones-ord"/></e>
+  <e><p><l>XXX</l><r>3</r></p><par n="arabic-roman-ones-ord"/></e>
+  <e><p><l>XL</l><r>4</r></p><par n="arabic-roman-ones-ord"/></e>
+  <e><p><l>L</l><r>5</r></p><par n="arabic-roman-ones-ord"/></e>
+  <e><p><l>LX</l><r>6</r></p><par n="arabic-roman-ones-ord"/></e>
+  <e><p><l>LXX</l><r>7</r></p><par n="arabic-roman-ones-ord"/></e>
+  <e><p><l>LXXX</l><r>8</r></p><par n="arabic-roman-ones-ord"/></e>
+  <e><p><l>XC</l><r>9</r></p><par n="arabic-roman-ones-ord"/></e>
+</pardef>
+<pardef n="arabic-roman-ord">
+  <e><p><l>X</l><r>10th</r></p></e>
+  <e><p><l>XI</l><r>11th</r></p></e>
+  <e><p><l>XII</l><r>12th</r></p></e>
+  <e><p><l>XIII</l><r>13th</r></p></e>
+  <e><p><l>XIV</l><r>14th</r></p></e>
+  <e><p><l>XV</l><r>15th</r></p></e>
+  <e><p><l>XVI</l><r>16th</r></p></e>
+  <e><p><l>XVII</l><r>17th</r></p></e>
+  <e><p><l>XVIII</l><r>18th</r></p></e>
+  <e><p><l>XIX</l><r>19th</r></p></e>
+  <e><par n="arabic-roman-tens-ord"/></e>
+</pardef>
+  </pardefs>
   <section id="main" type="standard">
 
 
@@ -9623,6 +9664,7 @@
     <e><p><l>auzo<s n="n"/></l><r>neighbourhood<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>auzo<s n="n"/></l><r>quarter<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>auzoko<s n="n"/></l><r>neighbour<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hurko<s n="n"/></l><r>neighbour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>axolagabetasun<s n="n"/></l><r>indifference<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>azal<s n="n"/></l><r>cover<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>azal<s n="n"/></l><r>surface<s n="n"/><s n="ND"/></r></p></e>
@@ -9697,6 +9739,12 @@
     <e><p><l>bando<s n="n"/></l><r>edict<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bankari<s n="n"/></l><r>banker<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>banku<s n="n"/></l><r>bank<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>erribera<s n="n"/></l><r>shore<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>flasko<s n="n"/></l><r>flask<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>germaniar<s n="n"/></l><r>germanic<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>gerrillari<s n="n"/></l><r>guerrilla<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>franko<s n="n"/></l><r>franc<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>erribera<s n="n"/></l><r>bank<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>bapore<s n="n"/></l><r>steam<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baranda<s n="n"/></l><r>rail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baratxuri<s n="n"/></l><r>garlic<s n="n"/><s n="ND"/></r></p></e>
@@ -10990,6 +11038,9 @@
     <e><p><l>gezur<s n="n"/></l><r>lie<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gibel<s n="n"/></l><r>liver<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gidabaimen<s n="n"/></l><r>driving<b/>licence<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>gerraoste<s n="n"/></l><r>postwar<b/>period<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>iparramerikar<s n="n"/></l><r>North<b/>American<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hies<s n="n"/></l><r>AIDS<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>gidari<s n="n"/></l><r>driver<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gidatzaile<s n="n"/></l><r>guide<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>giltza<s n="n"/></l><r>key<s n="n"/><s n="ND"/></r></p></e>
@@ -11208,6 +11259,7 @@
     <e><p><l>helbide<s n="n"/></l><r>address<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>helburu<s n="n"/></l><r>aim<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>helburu<s n="n"/></l><r>goal<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>helmuga<s n="n"/></l><r>goal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>helburu<s n="n"/></l><r>objective<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>helburu<s n="n"/></l><r>target<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>heldu<s n="n"/></l><r>adult<s n="n"/><s n="ND"/></r></p></e>
@@ -11714,6 +11766,8 @@
     <e><p><l>jokaera<s n="n"/></l><r>performance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jokalari<s n="n"/></l><r>player<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jokaleku<s n="n"/></l><r>area<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hamarren<s n="n"/></l><r>tenth<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>jokaldi<s n="n"/></l><r>game<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>joko<s n="n"/></l><r>gambling<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>joko<s n="n"/></l><r>game<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>joko<s n="n"/></l><r>play<s n="n"/><s n="ND"/></r></p></e>
@@ -12405,6 +12459,7 @@
     <e r="RL"><p><l>gozoki<s n="n"/></l><r>candy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gozoki<s n="n"/></l><r>sweet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>etxeko<s n="n"/></l><r>household<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>euskal<b/>autonomia<b/>erkidego<s n="np"/><s n="al"/></l><r>Basque<b/>Autonomous<b/>Community<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Eusko<b/>Jaurlaritza<s n="np"/><s n="al"/></l><r>Basque<b/>Government<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Euskaltzaindia<s n="np"/><s n="al"/></l><r>Royal<b/>Academy<b/>of<b/>the<b/>Basque<b/>language<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>euskaltzain<s n="n"/></l><r>member<g><b/>of<b/>the<b/>Basque<b/>Academy</g><s n="n"/><s n="ND"/></r></p></e>
@@ -13914,6 +13969,26 @@
     <e slr="have"><p><l>izan<s n="vbsint"/></l><r>have<s n="vbhaver"/></r></p></e>
   </section>
   <section id="regex" type="standard">
+
+<e c="hic sunt dracones!">
+  <par n="arabic-roman-ord"/>
+  <p>
+    <l>.<b/>mende<s n="n"/></l>
+    <r><b/>century<s n="n"/><s n="sg"/></r>
+  </p>
+</e>
+<e c="hic sunt dracones!">
+  <p>
+    <l>K.<b/>a.<b/></l>
+    <r/>
+  </p>
+  <par n="arabic-roman-ord"/>
+  <p>
+    <l>.<b/>mende<s n="n"/></l>
+    <r><b/>century<b/>B.C.<s n="n"/><s n="sg"/></r>
+  </p>
+</e>
+
     <e><re>[A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
     <e><re>[A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/></r></p></e>
