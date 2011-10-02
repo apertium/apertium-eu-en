@@ -15415,6 +15415,7 @@
     <e lm="theorist"><i>theorist</i><par n="house__n"/>    </e>
     <e lm="ceasefire"><i>ceasefire</i><par n="house__n"/>    </e>
     <e lm="Belgian"><i>Belgian</i><par n="house__n"/>    </e>
+    <e lm="Pamplonese"><i>Pamplonese</i><par n="house__n"/>    </e>
     <e lm="Navarrese"><i>Navarrese</i><par n="house__n"/>    </e>
     <e lm="barbarian"><i>barbarian</i><par n="house__n"/>    </e>
     <e lm="Dane"><i>Dane</i><par n="house__n"/>    </e>
@@ -20421,7 +20422,9 @@
     <e lm="sleeve"><i>sleeve</i><par n="house__n"/>    </e>
     <e lm="slice"><i>slice</i><par n="house__n"/>    </e>
     <e lm="slime"><i>slime</i><par n="house__n"/>    </e>
+    <e lm="lifecycle"><i>lifecycle</i><par n="house__n"/>    </e>
     <e lm="lime"><i>lime</i><par n="house__n"/>    </e>
+    <e lm="spillage"><i>spillage</i><par n="house__n"/>    </e>
     <e lm="slip"><i>slip</i><par n="house__n"/>    </e>
     <e lm="slogan"><i>slogan</i><par n="house__n"/>    </e>
     <e lm="slope"><i>slope</i><par n="house__n"/>    </e>
@@ -20524,6 +20527,7 @@
     <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
+    <e lm="cold sore"><i>cold<b/>sore</i><par n="house__n"/>    </e>
     <e lm="law code"><i>law<b/>code</i><par n="house__n"/>    </e>
     <e lm="mountain climbing"><i>mountain<b/>climbing</i><par n="house__n"/>    </e>
     <e lm="forest road"><i>forest<b/>road</i><par n="house__n"/>    </e>
