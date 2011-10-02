@@ -27479,6 +27479,10 @@
     <e lm="four"><i>four</i><par n="two__num"/>    </e>
     <e lm="three"><i>three</i><par n="two__num"/>    </e>
     <e lm="two"><i>two</i><par n="two__num"/>    </e>
+    <e lm="two or three"><i>two<b/>or<b/>three</i><par n="two__num"/>    </e>
+    <e lm="three or four"><i>three<b/>or<b/>four</i><par n="two__num"/>    </e>
+    <e lm="four or five"><i>four<b/>or<b/>five</i><par n="two__num"/>    </e>
+    <e lm="five or six"><i>five<b/>or<b/>six</i><par n="two__num"/>    </e>
     <e lm="nine"><i>nine</i><par n="two__num"/>    </e>
     <e lm="seven"><i>seven</i><par n="two__num"/>    </e>
     <e lm="six"><i>six</i><par n="two__num"/>    </e>
