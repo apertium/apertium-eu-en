@@ -9281,6 +9281,7 @@
     <e lm="so many"><i>so<b/>many</i><par n="many__det"/>    </e>
     <e lm="too many"><i>too<b/>many</i><par n="many__det"/>    </e>
     <e lm="many"><i>many</i><par n="many__det"/>    </e>
+    <e lm="many other"><i>many<b/>other</i><par n="many__det"/>    </e>
     <e lm="all" r="RL"><i>all</i><par n="many__det"/>    </e>
     <e lm="a few"><i>a<b/>few</i><par n="many__det"/>    </e>
     <e lm="as much"><i>as much</i><par n="much__det"/>    </e>
@@ -16216,6 +16217,7 @@
     <e lm="belligerency"><i>belligerenc</i><par n="bab/y__n"/>    </e>
     <e lm="belonging"><i>belonging</i><par n="house__n"/>    </e>
     <e lm="belt"><i>belt</i><par n="house__n"/>    </e>
+    <e lm="leather belt"><i>leather<b/>belt</i><par n="house__n"/>    </e>
     <e lm="bend"><i>bend</i><par n="house__n"/>    </e>
     <e lm="bend"><i>bend</i><par n="house__n"/>    </e>
     <e lm="benefit"><i>benefit</i><par n="house__n"/>    </e>
@@ -27399,7 +27401,6 @@
     <e lm="everyone"><i>everyone</i><par n="everyone__prn"/>    </e>
     <e lm="everything"><i>everything</i><par n="everyone__prn"/>    </e>
     <e lm="many"><i>many</i><par n="both__prn"/>    </e>
-    <e lm="many other"><i>many<b/>other</i><par n="both__prn"/>    </e>
     <e lm="few"><i>few</i><par n="both__prn"/>    </e>
     <e lm="quite a lot" r="RL"><i>quite<b/>a<b/>lot</i><par n="both__prn"/>    </e>
     <e lm="hers"><i>hers</i><par n="mine__prn"/>    </e>
@@ -31883,6 +31884,7 @@
     <e lm="strand"><i>strand</i><par n="house__n"/>     </e>
     <e lm="strangely"><i>strangely</i><par n="maybe__adv"/>     </e>
     <e lm="strapping"><i>strapping</i><par n="house__n"/>     </e>
+    <e lm="strap"><i>strap</i><par n="house__n"/>     </e>
     <e lm="stratification"><i>stratification</i><par n="house__n"/>     </e>
     <e lm="stratigraphy"><i>stratigraph</i><par n="bab/y__n"/>     </e>
     <e lm="stratopause"><i>stratopause</i><par n="house__n"/>     </e>
@@ -32306,6 +32308,7 @@
     <e lm="vesical"><i>vesical</i><par n="expensive__adj"/>     </e>
     <e lm="vestibular"><i>vestibular</i><par n="expensive__adj"/>     </e>
     <e lm="vetch"><i>vetch</i><par n="access__n"/>     </e>
+    <e lm="leash"><i>leash</i><par n="access__n"/>     </e>
     <e lm="vibrator"><i>vibrator</i><par n="house__n"/>     </e>
     <e lm="vicariant"><i>vicariant</i><par n="expensive__adj"/>     </e>
     <e lm="videography"><i>videograph</i><par n="bab/y__n"/>     </e>

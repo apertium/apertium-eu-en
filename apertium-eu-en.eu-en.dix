@@ -10490,6 +10490,12 @@
     <e><p><l>erritmo<s n="n"/></l><r>rhythm<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>erritu<s n="n"/></l><r>rite<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erritu<s n="n"/></l><r>ritual<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>erritual<s n="n"/></l><r>ritual<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="leash"><p><l>uhal<s n="n"/></l><r>leash<s n="n"/><s n="ND"/></r></p></e>
+    <e slr="rein"><p><l>uhal<s n="n"/></l><r>rein<s n="n"/><s n="pl"/></r></p></e>
+    <e slr="belt"><p><l>uhal<s n="n"/></l><r>belt<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>uhal<s n="n"/></l><r>strap<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>larruzko<b/>uhal<s n="n"/></l><r>leather<b/>belt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erro<s n="n"/></l><r>root<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>erro<s n="n"/></l><r>stem<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>errolda<s n="n"/></l><r>census<s n="n"/><s n="ND"/></r></p></e>
