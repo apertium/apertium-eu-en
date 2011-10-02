@@ -20514,6 +20514,7 @@
     <e lm="tertulia"><i>tertulia</i><par n="house__n"/>    </e>
     <e lm="springboard"><i>springboard</i><par n="house__n"/>    </e>
     <e lm="square"><i>square</i><par n="house__n"/>    </e>
+    <e lm="lamppost"><i>lamppost</i><par n="house__n"/>    </e>
     <e lm="squeeze"><i>squeeze</i><par n="house__n"/>    </e>
     <e lm="squid"><i>squid</i><par n="zebra__n"/>    </e>
     <e lm="stabilization"><i>stabili</i><par n="globali/sation__n"/>    </e>

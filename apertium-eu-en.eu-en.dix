@@ -7399,7 +7399,8 @@
     <e r="RL"><p><l>izendatu<s n="vblex"/></l><r>designate<s n="vblex"/></r></p></e>
     <e><p><l>izenpetu<s n="vblex"/></l><r>sign<s n="vblex"/></r></p></e>
     <e><p><l>izerditu<s n="vblex"/></l><r>sweat<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>izorratu<s n="vblex"/></l><r>bust<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>izorratu<s n="vblex"/></l><r>bust<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>izorratu<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>izotz_gainean_patinatu<s n="vblex"/></l><r>ice-skate<s n="vblex"/></r></p></e>
     <e><p><l>izoztu<s n="vblex"/></l><r>freeze<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>izoztu<s n="vblex"/></l><r>ice<s n="vblex"/></r></p></e>
@@ -12285,6 +12286,8 @@
     <e><p><l>atzerako<b/>martxa<s n="n"/></l><r>reverse<b/>gear<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>motorra<b/>martxa<s n="n"/></l><r>running<b/>engine<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>martxa<s n="n"/></l><r>march<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>farol<s n="n"/></l><r>lantern<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>farol<s n="n"/></l><r>lamppost<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>martxo<s n="n"/></l><r>March<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>marxismo<s n="n"/></l><r>Marxism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>marxista<s n="n"/></l><r>Marxist<s n="n"/><s n="ND"/></r></p></e>
