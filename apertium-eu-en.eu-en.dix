@@ -4735,6 +4735,7 @@
     <e><p><l>India<s n="np"/><s n="ant"/></l><r>India<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Indonesia<s n="np"/><s n="loc"/></l><r>Indonesia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Ipar<b/>Euskal<b/>Herri<s n="np"/><s n="loc"/></l><r>Northern<b/>Basque<b/>Country<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Hego<b/>Euskal<b/>Herri<s n="np"/><s n="loc"/></l><r>Southern<b/>Basque<b/>Country<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Irak<s n="np"/><s n="loc"/></l><r>Iraq<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Iran<s n="np"/><s n="loc"/></l><r>Iran<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Irlanda<s n="np"/><s n="loc"/></l><r>Ireland<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
@@ -7432,6 +7433,7 @@
     <e><p><l>kafeina<s n="n"/></l><r>caffeine<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kamioneta<s n="n"/></l><r>van<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kanpadenda<s n="n"/></l><r>tent<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kale-argi<s n="n"/></l><r>street<b/>light<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nafar<s n="n"/></l><r>Navarrese<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kare<s n="n"/></l><r>lime<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>kare-harri<s n="n"/></l><r>limestone<s n="n"/><s n="ND"/></r></p></e>
@@ -9118,7 +9120,7 @@
     <e><p><l>aberastasun<s n="n"/></l><r>wealth<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>aberats<s n="n"/></l><r>millionaire<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aberri<s n="n"/></l><r>homeland<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>aberri<b/>eguna<s n="n"/></l><r>Fatherland<b/>Day<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>aberri<b/>egun<s n="n"/></l><r>Fatherland<b/>Day<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>abertzale<s n="n"/></l><r>abertzale<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abeslari<s n="n"/></l><r>singer<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abesti<s n="n"/></l><r>song<s n="n"/><s n="ND"/></r></p></e>

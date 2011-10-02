@@ -15147,6 +15147,8 @@
     <e lm="Indonesia"><i>Indonesia</i><par n="Barcelona__np"/>    </e>
     <e lm="Ireland"><i>Ireland</i><par n="Barcelona__np"/>    </e>
     <e lm="Northern Ireland"><i>Northern<b/>Ireland</i><par n="Barcelona__np"/>    </e>
+    <e lm="Northern Basque Country"><i>Northern<b/>Basque<b/>Country</i><par n="Barcelona__np"/>    </e>
+    <e lm="Southern Basque Country"><i>Southern<b/>Basque<b/>Country</i><par n="Barcelona__np"/>    </e>
     <e lm="La Palma"><i>La<b/>Palma</i><par n="Barcelona__np"/>    </e>
     <e lm="Ahetze"><i>Ahetze</i><par n="Barcelona__np"/>    </e>
     <e lm="Irene"><i>Irene</i><par n="Mary__np"/>    </e>
@@ -20527,6 +20529,7 @@
     <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
+    <e lm="street light"><i>street<b/>light</i><par n="house__n"/>    </e>
     <e lm="cold sore"><i>cold<b/>sore</i><par n="house__n"/>    </e>
     <e lm="law code"><i>law<b/>code</i><par n="house__n"/>    </e>
     <e lm="mountain climbing"><i>mountain<b/>climbing</i><par n="house__n"/>    </e>
