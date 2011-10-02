@@ -20512,6 +20512,7 @@
     <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
+    <e lm="mountain climbing"><i>mountain<b/>climbing</i><par n="house__n"/>    </e>
     <e lm="forest road"><i>forest<b/>road</i><par n="house__n"/>    </e>
     <e lm="running engine"><i>running<b/>engine</i><par n="house__n"/>    </e>
     <e lm="beech grove"><i>beech<b/>grove</i><par n="house__n"/>    </e>
@@ -20760,6 +20761,7 @@
     <e lm="temperature"><i>temperature</i><par n="house__n"/>    </e>
     <e lm="template"><i>template</i><par n="house__n"/>    </e>
     <e lm="temple"><i>temple</i><par n="house__n"/>    </e>
+    <e lm="egocentrism"><i>egocentrism</i><par n="house__n"/>    </e>
     <e lm="temptation"><i>temptation</i><par n="house__n"/>    </e>
     <e lm="tenant" a="carmentano"><i>tenant</i><par n="house__n"/>    </e>
     <e lm="tendency"><i>tendenc</i><par n="bab/y__n"/>    </e>
@@ -27397,6 +27399,7 @@
     <e lm="everyone"><i>everyone</i><par n="everyone__prn"/>    </e>
     <e lm="everything"><i>everything</i><par n="everyone__prn"/>    </e>
     <e lm="many"><i>many</i><par n="both__prn"/>    </e>
+    <e lm="many other"><i>many<b/>other</i><par n="both__prn"/>    </e>
     <e lm="few"><i>few</i><par n="both__prn"/>    </e>
     <e lm="quite a lot" r="RL"><i>quite<b/>a<b/>lot</i><par n="both__prn"/>    </e>
     <e lm="hers"><i>hers</i><par n="mine__prn"/>    </e>
