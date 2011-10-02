@@ -17968,6 +17968,7 @@
     <e lm="greeting"><i>greeting</i><par n="house__n"/>    </e>
     <e lm="grid"><i>grid</i><par n="house__n"/>    </e>
     <e lm="grille"><i>grille</i><par n="house__n"/>    </e>
+    <e lm="grill"><i>grill</i><par n="house__n"/>    </e>
     <e lm="grimace"><i>grimace</i><par n="house__n"/>    </e>
     <e lm="groceries" a="carmentano"><i>groceries</i><par n="personnel__n"/>    </e>
     <e lm="groin"><i>groin</i><par n="house__n"/>    </e>
@@ -18063,6 +18064,7 @@
     <e lm="herpes"><i>herpes</i><par n="politics__n"/>    </e>
     <e lm="heterogeneity"><i>heterogeneit</i><par n="bab/y__n"/>    </e>
     <e lm="hide"><i>hide</i><par n="house__n"/>    </e>
+    <e lm="dukeship"><i>dukeship</i><par n="house__n"/>    </e>
     <e lm="hierarchy"><i>hierarch</i><par n="bab/y__n"/>    </e>
     <e lm="high school"><i>high<b/>school</i><par n="house__n"/>    </e>
     <e lm="highlight" a="carmentano"><i>highlight</i><par n="house__n"/>    </e>
