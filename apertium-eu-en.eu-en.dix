@@ -4982,6 +4982,27 @@
     <e><p><l>Zarautz<s n="np"/><s n="loc"/></l><r>Zarautz<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Zumaia<s n="np"/><s n="loc"/></l><r>Zumaia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
 
+    <e><p><l>Ala<s n="np"/><s n="ant"/></l><r>Ala<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Alvarez<s n="np"/><s n="ant"/></l><r>Alvarez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Angel<s n="np"/><s n="ant"/></l><r>Angel<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Diez<s n="np"/><s n="ant"/></l><r>Diez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Garzon<s n="np"/><s n="ant"/></l><r>Garzon<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hernandez<s n="np"/><s n="ant"/></l><r>Hernandez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Iñigo<s n="np"/><s n="ant"/></l><r>Iñigo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jesus<s n="np"/><s n="ant"/></l><r>Jesus<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jimenez<s n="np"/><s n="ant"/></l><r>Jimenez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Leon<s n="np"/><s n="ant"/></l><r>Leon<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Marta<s n="np"/><s n="ant"/></l><r>Marta<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Martin<s n="np"/><s n="ant"/></l><r>Martin<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Martinez<s n="np"/><s n="ant"/></l><r>Martinez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Maximo<s n="np"/><s n="ant"/></l><r>Maximo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Pernando<s n="np"/><s n="ant"/></l><r>Pernando<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ramirez<s n="np"/><s n="ant"/></l><r>Ramirez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Raxoi<s n="np"/><s n="ant"/></l><r>Raxoi<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Sanchez<s n="np"/><s n="ant"/></l><r>Sanchez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>de<b/>Juana<s n="np"/><s n="ant"/></l><r>de<b/>Juana<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>de<b/>la<b/>Vega<s n="np"/><s n="ant"/></l><r>de<b/>la<b/>Vega<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>del<b/>Olmo<s n="np"/><s n="ant"/></l><r>del<b/>Olmo<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>abandonatu<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
     <e><p><l>abaildu<s n="vblex"/></l><r>exhaust<s n="vblex"/></r></p></e>
     <e><p><l>mozkortu<s n="vblex"/></l><r>get<g><b/>drunk</g><s n="vblex"/></r></p></e>

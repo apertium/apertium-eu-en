@@ -13935,6 +13935,7 @@
     <e lm="Andrea"><i>Andrea</i><par n="Mary__np"/>    </e>
     <e lm="Angel"><i>Angel</i><par n="Mary__np"/>    </e>
     <e lm="Angela"><i>Angela</i><par n="Mary__np"/>    </e>
+    <e lm="Ala"><i>Ala</i><par n="Mary__np"/>    </e>
     <e lm="Angelica"><i>Angelica</i><par n="Mary__np"/>    </e>
     <e lm="Angelina"><i>Angelina</i><par n="Mary__np"/>    </e>
     <e lm="Angeline"><i>Angeline</i><par n="Mary__np"/>    </e>
@@ -15132,6 +15133,7 @@
     <e lm="Eva"><i>Eva</i><par n="Mary__np"/>    </e>
     <e lm="Extremadura"><i>Extremadura</i><par n="Barcelona__np"/>    </e>
     <e lm="Fernando"><i>Fernando</i><par n="Mark__np"/>    </e>
+    <e lm="Pernando"><i>Pernando</i><par n="Mark__np"/>    </e>
     <e lm="Fernández"><i>Fernández</i><par n="Smith__np"/>    </e>
     <e lm="Ferran"><i>Ferran</i><par n="Mark__np"/>    </e>
     <e lm="Finland"><i>Finland</i><par n="Barcelona__np"/>    </e>
@@ -15322,6 +15324,9 @@
     <e lm="O'Grady"><i>O'Grady</i><par n="Smith__np"/>    </e>
     <e lm="O'Reilly"><i>O'Reilly</i><par n="Smith__np"/>    </e>
     <e lm="Wright"><i>Wright</i><par n="Smith__np"/>    </e>
+    <e lm="de Juana"><i>de<b/>Juana</i><par n="Smith__np"/>    </e>
+    <e lm="de la Vega"><i>de<b/>la<b/>Vega</i><par n="Smith__np"/>    </e>
+    <e lm="del Olmo"><i>del<b/>Olmo</i><par n="Smith__np"/>    </e>
     <e lm="Cosby"><i>Cosby</i><par n="Smith__np"/>    </e>
     <e lm="Gore"><i>Gore</i><par n="Smith__np"/>    </e>
     <e lm="Mayor"><i>Mayor</i><par n="Smith__np"/>    </e>
