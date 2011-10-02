@@ -15415,6 +15415,7 @@
     <e lm="theorist"><i>theorist</i><par n="house__n"/>    </e>
     <e lm="ceasefire"><i>ceasefire</i><par n="house__n"/>    </e>
     <e lm="Belgian"><i>Belgian</i><par n="house__n"/>    </e>
+    <e lm="Navarrese"><i>Navarrese</i><par n="house__n"/>    </e>
     <e lm="barbarian"><i>barbarian</i><par n="house__n"/>    </e>
     <e lm="Dane"><i>Dane</i><par n="house__n"/>    </e>
     <e lm="Arab"><i>Arab</i><par n="house__n"/>    </e>
@@ -15646,6 +15647,7 @@
     <e lm="anaesthetist"><i>anaesthetist</i><par n="house__n"/>    </e>
     <e lm="analysis"><i>analys</i><par n="analys/is__n"/>    </e>
     <e lm="neurosis"><i>neuros</i><par n="analys/is__n"/>    </e>
+    <e lm="genesis"><i>genes</i><par n="analys/is__n"/>    </e>
     <e lm="psychoanalysis"><i>psychoanalys</i><par n="analys/is__n"/>    </e>
     <e lm="parenthesis"><i>parenthes</i><par n="analys/is__n"/>    </e>
     <e lm="analyst"><i>analyst</i><par n="house__n"/>    </e>
@@ -20419,6 +20421,7 @@
     <e lm="sleeve"><i>sleeve</i><par n="house__n"/>    </e>
     <e lm="slice"><i>slice</i><par n="house__n"/>    </e>
     <e lm="slime"><i>slime</i><par n="house__n"/>    </e>
+    <e lm="lime"><i>lime</i><par n="house__n"/>    </e>
     <e lm="slip"><i>slip</i><par n="house__n"/>    </e>
     <e lm="slogan"><i>slogan</i><par n="house__n"/>    </e>
     <e lm="slope"><i>slope</i><par n="house__n"/>    </e>
@@ -30326,6 +30329,7 @@
     <e lm="lemonade"><i>lemonade</i><par n="house__n"/>     </e>
     <e lm="lemur"><i>lemur</i><par n="house__n"/>     </e>
     <e lm="lentil"><i>lentil</i><par n="house__n"/>     </e>
+    <e lm="accomplice"><i>accomplice</i><par n="house__n"/>     </e>
     <e lm="lent"><p><l>Lent</l><r>lent</r></p><par n="house__n"/>     </e>
     <e lm="leopard"><i>leopard</i><par n="house__n"/>     </e>
     <e lm="lepidocrocite"><i>lepidocrocite</i><par n="house__n"/>     </e>
