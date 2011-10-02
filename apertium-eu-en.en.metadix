@@ -18007,6 +18007,7 @@
     <e lm="hammer"><i>hammer</i><par n="house__n"/>    </e>
     <e lm="hand"><i>hand</i><par n="house__n"/>    </e>
     <e lm="handball"><i>handball</i><par n="east__n"/>    </e>
+    <e lm="etcetera"><i>etcetera</i><par n="east__n"/>    </e>
     <e lm="handle"><i>handle</i><par n="house__n"/>    </e>
     <e lm="handwriting" a="doriua"><i>handwriting</i><par n="house__n"/>    </e>
     <e lm="hangman"><i>hangm</i><par n="m/an__n"/>    </e>
@@ -20511,6 +20512,7 @@
     <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
+    <e lm="forest road"><i>forest<b/>road</i><par n="house__n"/>    </e>
     <e lm="running engine"><i>running<b/>engine</i><par n="house__n"/>    </e>
     <e lm="beech grove"><i>beech<b/>grove</i><par n="house__n"/>    </e>
     <e lm="military service"><i>military<b/>service</i><par n="house__n"/>    </e>
@@ -20667,6 +20669,7 @@
     <e lm="surplus"><i>surplus</i><par n="access__n"/>    </e>
     <e lm="surprise"><i>surprise</i><par n="house__n"/>    </e>
     <e lm="surroundings"><i>surroundings</i><par n="personnel__n"/>    </e>
+    <e lm="winter quarters"><i>winter<b/>quarters</i><par n="personnel__n"/>    </e>
     <e lm="surveillance"><i>surveillance</i><par n="house__n"/>    </e>
     <e lm="survey"><i>survey</i><par n="house__n"/>    </e>
     <e lm="survival"><i>survival</i><par n="house__n"/>    </e>
@@ -20762,6 +20765,7 @@
     <e lm="tendency"><i>tendenc</i><par n="bab/y__n"/>    </e>
     <e lm="tender" a="carmentano"><i>tender</i><par n="house__n"/>    </e>
     <e lm="tenderness"><i>tenderness</i><par n="access__n"/>    </e>
+    <e lm="naturalness"><i>naturalness</i><par n="access__n"/>    </e>
     <e lm="tennis"><i>tenn</i><par n="analys/is__n"/>    </e>
     <e lm="tennist"><i>tennist</i><par n="house__n"/>    </e>
     <e lm="tenor"><i>tenor</i><par n="house__n"/>    </e>

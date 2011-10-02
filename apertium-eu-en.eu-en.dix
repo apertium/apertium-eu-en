@@ -7405,6 +7405,11 @@
     <e><p><l>errai<s n="n"/></l><r>gut<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>erretoki<s n="n"/></l><r>grill<s n="n"/><s n="ND"/></r></p></e>
     <e c="FIXME: really?"><p><l>euroagindu<s n="n"/></l><r>European<b/>Arrest<b/>Warrent<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>eta<b/>abar<s n="n"/></l><r>etcetera<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>oiharbide<s n="n"/></l><r>forest<b/>road<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>oihanbide<s n="n"/></l><r>forest<b/>road<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>negutegi<s n="n"/></l><r>winter<b/>quarters<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>naturaltasun<s n="n"/></l><r>naturalness<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>izotz_gainean_patinatu<s n="vblex"/></l><r>ice-skate<s n="vblex"/></r></p></e>
     <e><p><l>izoztu<s n="vblex"/></l><r>freeze<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>izoztu<s n="vblex"/></l><r>ice<s n="vblex"/></r></p></e>
