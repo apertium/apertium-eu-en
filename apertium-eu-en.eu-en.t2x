@@ -4469,6 +4469,23 @@
 	  </when>
 	  <when>
 	    <test>
+	      <equal>
+		<clip pos="3" part="lem"/>
+		<lit v="ezertxo"/>
+	      </equal>
+	    </test>
+            <out>
+              <chunk>
+                <lit v="anything_at_all"/>
+                <lit-tag v="SN"/>
+                <lit v="{^anything at all"/>
+                <lit-tag v="prn.tn.m.sg"/>
+                <lit v="$}"/>
+              </chunk>
+            </out>
+	  </when>
+	  <when>
+	    <test>
               <or>
 	        <equal>
 		  <clip pos="3" part="lem"/>
