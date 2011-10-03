@@ -401,6 +401,7 @@
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>inolako<s n="adj"/></l><r>any<s n="adj"/></r></p></e>
+    <e><p><l>errepublikano<s n="adj"/></l><r>republican<s n="adj"/></r></p></e>
     <e><p><l>bera<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
     <e><p><l>aurren<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>aurreneko<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -5197,6 +5198,19 @@
     <e><p><l>de<b/>Juana<s n="np"/><s n="ant"/></l><r>de<b/>Juana<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>de<b/>la<b/>Vega<s n="np"/><s n="ant"/></l><r>de<b/>la<b/>Vega<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>del<b/>Olmo<s n="np"/><s n="ant"/></l><r>del<b/>Olmo<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e a="matxin"><p><l>ados<b/>egon<s n="vblex"/></l><r>approve<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>ados<b/>ez<b/>egon<s n="vblex"/></l><r>dissent<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>erdi<b/>lo<b/>egon<s n="vblex"/></l><r>doze<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>ertzean<b/>egon<s n="vblex"/></l><r>fringe<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>gainezka<b/>egon<s n="vblex"/></l><r>brim<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>geldi<b/>egon<s n="vblex"/></l><r>repose<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>harro<b/>egon<s n="vblex"/></l><r>pride<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>haserre<b/>egon<s n="vblex"/></l><r>rage<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>kontra<b/>egon<s n="vblex"/></l><r>object<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>oporretan<b/>egon<s n="vblex"/></l><r>vacation<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>orekan<b/>egon<s n="vblex"/></l><r>hover<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>zelatan<b/>egon<s n="vblex"/></l><r>lurk<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>zintzilik<b/>egon<s n="vblex"/></l><r>dangle<s n="vblex"/></r></p></e>
     <e><p><l>abandonatu<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
     <e><p><l>abaildu<s n="vblex"/></l><r>exhaust<s n="vblex"/></r></p></e>
     <e><p><l>mozkortu<s n="vblex"/></l><r>get<g><b/>drunk</g><s n="vblex"/></r></p></e>
