@@ -7991,7 +7991,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="2"/>
         </call-macro>
         <out> 
-          <chunk name="pr_num_n_pr_n" case="caseFirstWord">
+          <chunk name="pr_num_n_n" case="caseFirstWord">
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><lit-tag v="num"/></tag>
@@ -8009,21 +8009,16 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b pos="1"/>
             <lu> 
+              <clip pos="2" side="tl" part="lemh"/> 
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="lemq"/> 
+            </lu>
+            <b pos="2"/>
+            <lu> 
               <clip pos="3" side="tl" part="lemh"/> 
               <clip pos="3" side="tl" part="a_nom"/>
               <clip pos="3" side="tl" part="nbr"/>
               <clip pos="3" side="tl" part="lemq"/> 
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <lit v="of"/>
-              <lit-tag v="pr"/>
-            </lu>
-            <b/>
-            <lu> 
-              <clip pos="2" side="tl" part="lemh"/> 
-              <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="lemq"/> 
             </lu>
           </chunk>
         </out>
