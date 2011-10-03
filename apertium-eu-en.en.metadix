@@ -21558,11 +21558,17 @@
     <e lm="locality"><i>localit</i><par n="bab/y__n"/></e>
     
     <e lm="good morning"><i>good<b/>morning</i><par n="hello__ij"/>    </e>
+    <e lm="good afternoon"><i>good<b/>afternoon</i><par n="hello__ij"/>    </e>
     <e lm="it never rains but it pours"><i>it<b/>never<b/>rains<b/>but<b/>it<b/>pours</i><par n="hello__ij"/>    </e>
     <e lm="goodbye"><i>goodbye</i><par n="hello__ij"/>    </e>
     <e lm="hello"><i>hello</i><par n="hello__ij"/>    </e>
     <e lm="oh"><i>oh</i><par n="hello__ij"/>    </e>
+    <e lm="goodnight"><i>goodnight</i><par n="hello__ij"/>    </e>
+    <e lm="whew"><i>whew</i><par n="hello__ij"/>    </e>
+    <e lm="thank you very much"><i>thank<b/>you<b/>very<b/>much</i><par n="hello__ij"/>    </e>
+    <e lm="viva"><i>viva</i><par n="hello__ij"/>    </e>
     <e lm="see you later"><i>see<b/>you<b/>later</i><par n="hello__ij"/>    </e>
+    <e lm="see you tomorrow"><i>see<b/>you<b/>tomorrow</i><par n="hello__ij"/>    </e>
     <e lm="thank you"><i>thank<b/>you</i><par n="hello__ij"/></e>
     <e lm="thanks"><i>thanks</i><par n="hello__ij"/></e>
     <e lm="it takes all sorts to make a world"><i>it<b/>takes<b/>all<b/>sorts<b/>to<b/>make<b/>a<b/>world</i><par n="hello__ij"/>    </e>
