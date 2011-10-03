@@ -465,6 +465,8 @@
     <e r="RL"><p><l>gutxiago<s n="det"/><s n="ind"/></l><r>fewer<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e><p><l>gutxien<s n="det"/><s n="ind"/><s n="sp"/></l><r>less<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>gutxien<s n="det"/><s n="ind"/><s n="sp"/></l><r>fewer<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
+    <e><p><l>batzuok<s n="det"/><s n="ind"/><s n="pl"/></l><r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>batto<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>hainbat<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>much<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>hainbat<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>many<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL" c="'as much time'. Cal afegir també 'as many'?"><p><l>hainbat<s n="det"/><s n="indizl"/><s n="sp"/></l><r>as<b/>much<s n="det"/><s n="qnt"/></r></p></e>
@@ -4133,6 +4135,13 @@
     <e><p><l>baina<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>baino<s n="cnjloc"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>gehi<s n="cnjcoo"/></l><r>more<s n="adv"/></r></p></e>
+    <e><p><l>ken<s n="cnjcoo"/></l><r>less<s n="adv"/></r></p></e>
+    <e><p><l>bada<s n="cnjloc"/></l><r>then<s n="cnjadv"/></r></p></e>
+    <e><p><l>ezta<s n="cnjcoo"/></l><r>neither<s n="adv"/></r></p></e>
+    <e><p><l>hots<s n="cnjloc"/></l><r>that<b/>is<s n="cnjadv"/></r></p></e>
+    <e><p><l>besterik<b/>gabe<s n="cnjloc"/></l><r>no<b/>more<s n="adv"/></r></p></e>
+    <e><p><l>agi<b/>denez<s n="cnjloc"/></l><r>apparently<s n="adv"/></r></p></e>
     <e r="RL"><p><l>baino<s n="cnjloc"/></l><r>but<b/>rather<s n="cnjcoo"/></r></p></e>
     <e><p><l>baizik<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
     <e r="RL"><p><l>baizik<s n="cnjcoo"/></l><r>but<b/>rather<s n="cnjcoo"/></r></p></e>
@@ -5143,6 +5152,7 @@
     <e><p><l>Moncloa<s n="np"/><s n="loc"/></l><r>Moncloa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Luxo<s n="np"/><s n="loc"/></l><r>Lujo<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Euskadi<s n="np"/><s n="loc"/></l><r>Euskadi<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Euzkadi<s n="np"/><s n="loc"/></l><r>Euskadi<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Tibet<s n="np"/><s n="loc"/></l><r>Tibet<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Hego<b/>Korea<s n="np"/><s n="loc"/></l><r>South<b/>Korea<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Habana<s n="np"/><s n="loc"/></l><r>Havana<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
@@ -14282,6 +14292,8 @@
     <e><p><l>zero<s n="num"/><s n="pl"/></l><r>zero<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>zortzi<s n="num"/><s n="pl"/></l><r>eight<s n="num"/><s n="sp"/></r></p></e>
 
+    <e><p><l>guhaur<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>gu<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>ber<s n="prn"/><s n="pers"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/></r></p></e>
     <e><p><l>elkar<s n="prn"/><s n="rec"/></l><r>each<b/>other<s n="prn"/><s n="rec"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>geu<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
