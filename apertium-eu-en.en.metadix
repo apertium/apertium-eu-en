@@ -18440,6 +18440,9 @@
     <e lm="intentionality"><i>intentionalit</i><par n="bab/y__n"/>    </e>
     <e lm="intermediary"><i>intermediar</i><par n="bab/y__n"/>    </e>
     <e lm="coordinated"><i>coordinated</i><par n="expensive__adj"/></e>
+    <e lm="touristic"><i>touristic</i><par n="expensive__adj"/></e>
+    <e lm="social democrat"><i>social<b/>democrat</i><par n="expensive__adj"/></e>
+    <e lm="solidary"><i>solidary</i><par n="expensive__adj"/></e>
     <e r="RL" lm="any"><i>any</i><par n="expensive__adj"/></e>
     <e r="RL" lm="other"><i>other</i><par n="expensive__adj"/></e>
     <e lm="quasi-geostrophic"><i>quasi-geostrophic</i><par n="expensive__adj"/></e>
@@ -21653,6 +21656,7 @@
     <e r="RL" lm="Barcelona" c="per a traduir 'blaugrana' com a adjectiu"><p><l>Barcelona</l><r>barcelona</r></p><par n="expensive__adj"/>    </e>
     <e lm="Bavarian">      <p>	<l>Bavarian</l>	<r>bavarian</r></p><par n="expensive__adj"/>    </e>
     <e lm="Belgian"><p><l>Belgian</l><r>belgian</r></p><par n="expensive__adj"/>    </e>
+    <e lm="Vatican"><p><l>Vatican</l><r>vatican</r></p><par n="expensive__adj"/>    </e>
     <e lm="Brazilian">      <p>	<l>Brazilian</l>	<r>brazilian</r></p><par n="expensive__adj"/>    </e>
     <e lm="British">      <p>	<l>British</l>	<r>british</r></p><par n="expensive__adj"/>    </e>
     <e lm="Buddhist">      <p>	<l>Buddhist</l>	<r>buddhist</r></p><par n="expensive__adj"/>    </e>
@@ -24212,6 +24216,7 @@
     <e lm="shed light on"><i>shed</i><par n="outbid__vblex"/>      <p>        <l><b/>light<b/>on</l><r><g><b/>light<b/>on</g></r></p></e>
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/>    </e>
     <e lm="abbreviate"><i>abbreviat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="sophisticate"><i>sophisticat</i><par n="liv/e__vblex"/>    </e>
     <e lm="abdicate"><i>abdicat</i><par n="liv/e__vblex"/>    </e>
     <e lm="abet"><i>abet</i><par n="admit__vblex"/>    </e>
     <e lm="abide"><i>abid</i><par n="liv/e__vblex"/>    </e>
@@ -32556,8 +32561,10 @@
     <e lm="unmodifiable"><i>unmodifiable</i><par n="expensive__adj"/>     </e>
     <e lm="unquestionably"><i>unquestionably</i><par n="maybe__adv"/>     </e>
     <e lm="unreadable"><i>unreadable</i><par n="expensive__adj"/>     </e>
+    <e lm="prophetic"><i>prophetic</i><par n="expensive__adj"/>     </e>
     <e lm="unsatisfactory"><i>unsatisfactory</i><par n="expensive__adj"/>     </e>
     <e lm="unscrew"><i>unscrew</i><par n="accept__vblex"/>     </e>
+    <e lm="screw on"><i>screw</i><par n="accept__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
     <e lm="unsolvable"><i>unsolvable</i><par n="expensive__adj"/>     </e>
     <e lm="until further notice"><i>until<b/>further<b/>notice</i><par n="maybe__adv"/>     </e>
     <e lm="until further orders"><i>until<b/>further<b/>orders</i><par n="maybe__adv"/>     </e>
