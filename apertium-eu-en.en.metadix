@@ -17258,6 +17258,7 @@
     <e lm="depression" a="doriua"><i>depression</i><par n="house__n"/>    </e>
     <e lm="depth"><i>depth</i><par n="house__n"/>    </e>
     <e lm="deputy" a="doriua"><i>deput</i><par n="bab/y__n"/>    </e>
+    <e lm="deputy general"><i>deput</i><par n="bab/y__n"/><p><l><b/>general</l><r><g><b/>general</g></r></p></e>
     <e lm="deputation"><i>deputation</i><par n="house__n"/>    </e>
     <e lm="derailment"><i>derailment</i><par n="house__n"/>    </e>
     <e lm="derogation"><i>derogation</i><par n="house__n"/>    </e>
@@ -19535,6 +19536,9 @@
     <e lm="parent"><i>parent</i><par n="house__n"/>    </e>
     <e lm="parity"><i>parit</i><par n="bab/y__n"/>    </e>
     <e lm="park"><i>park</i><par n="house__n"/>    </e>
+    <e lm="industrial park"><i>industrial<b/>park</i><par n="house__n"/>    </e>
+    <e lm="municipal policeman"><i>municipal<b/>policem</i><par n="m/an__n"/>    </e>
+    <e lm="municipal police"><i>municipal<b/>police</i><par n="personnel__n"/>    </e>
     <e lm="parking"><i>parking</i><par n="house__n"/>    </e>
     <e lm="parliament"><i>parliament</i><par n="house__n"/>    </e>
     <e lm="parliamentarism"><i>parliamentarism</i><par n="house__n"/>    </e>
@@ -20630,6 +20634,10 @@
     <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
+    <e lm="legal channel"><i>legal<b/>channel</i><par n="house__n"/>    </e>
+    <e lm="regional government"><i>regional<b/>government</i><par n="house__n"/>    </e>
+    <e lm="car park"><i>car<b/>park</i><par n="house__n"/>    </e>
+    <e lm="parking lot"><i>parking<b/>lot</i><par n="house__n"/>    </e>
     <e lm="postwar period"><i>postwar<b/>period</i><par n="house__n"/>    </e>
     <e lm="hair salon"><i>hair<b/>salon</i><par n="house__n"/>    </e>
     <e lm="street light"><i>street<b/>light</i><par n="house__n"/>    </e>
@@ -21565,6 +21573,7 @@
     <e lm="oh"><i>oh</i><par n="hello__ij"/>    </e>
     <e lm="goodnight"><i>goodnight</i><par n="hello__ij"/>    </e>
     <e lm="whew"><i>whew</i><par n="hello__ij"/>    </e>
+    <e lm="hurray"><i>hurray</i><par n="hello__ij"/>    </e>
     <e lm="thank you very much"><i>thank<b/>you<b/>very<b/>much</i><par n="hello__ij"/>    </e>
     <e lm="viva"><i>viva</i><par n="hello__ij"/>    </e>
     <e lm="see you later"><i>see<b/>you<b/>later</i><par n="hello__ij"/>    </e>

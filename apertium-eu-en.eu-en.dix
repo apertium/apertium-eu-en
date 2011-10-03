@@ -13193,6 +13193,19 @@
     <e a="matxin"><p><l>parentesi<s n="n"/></l><r>parenthesis<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>pareta<s n="n"/></l><r>wall<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>parke<s n="n"/></l><r>park<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>industrialde<s n="n"/></l><r>industrial<b/>park<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>udaltzain<s n="n"/></l><r>municipal<b/>policeman<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>udaltzaingo<s n="n"/></l><r>municipal<b/>police<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>problematika<s n="n"/></l><r>problem<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>ahaldun<b/>nagusi<s n="n"/></l><r>deputy<g><b/>general</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>elikagarri<s n="n"/></l><r>food<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>finka<s n="n"/></l><r>estate<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hazienda<s n="n"/></l><r>estate<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>auzibide<s n="n"/></l><r>legal<b/>channel<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>Foru<b/>gobernu<s n="n"/></l><r>regional<b/>government<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>aparkaleku<s n="n"/></l><r>car<b/>park<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" c="US"><p><l>aparkaleku<s n="n"/></l><r>parking<b/>lot<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>aurki<s n="n"/></l><r>front<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>parlamentari<s n="n"/></l><r>member<g><b/>of<b/>parliament</g><s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>parlamentu<s n="n"/></l><r>parliament<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>parrokia<s n="n"/></l><r>parish<s n="n"/><s n="ND"/></r></p></e>
@@ -14071,6 +14084,7 @@
     <e><p><l>agur<s n="ij"/></l><r>goodbye<s n="ij"/></r></p></e>
     <e><p><l>uf<s n="ij"/></l><r>whew<s n="ij"/></r></p></e>
     <e><p><l>biba<s n="ij"/></l><r>viva<s n="ij"/></r></p></e>
+    <e><p><l>aupa<s n="ij"/></l><r>hurray<s n="ij"/></r></p></e>
     <e><p><l>esker<b/>mila<s n="ij"/></l><r>thank<b/>you<b/>very<b/>much<s n="ij"/></r></p></e>
     <e><p><l>eskerrik<b/>asko<s n="ij"/></l><r>thank<b/>you<b/>very<b/>much<s n="ij"/></r></p></e>
     <e><p><l>mesedez<s n="ij"/></l><r>please<s n="ij"/></r></p></e>
