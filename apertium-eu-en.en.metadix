@@ -26636,6 +26636,7 @@
     <e lm="too"><i>too</i><par n="very__preadv"/>    </e>
     <e lm="very"><i>very</i><par n="very__preadv"/>    </e>
     <e lm="God willing"><i>God<b/>willing</i><par n="maybe__adv"/>    </e>
+    <e lm="no more"><i>no<b/>more</i><par n="maybe__adv"/>    </e>
     <e lm="above"><i>above</i><par n="maybe__adv"/></e>
     <e lm="after"><i>after</i><par n="maybe__adv"/></e>
     <e lm="among others"><i>among<b/>others</i><par n="maybe__adv"/></e>
@@ -27621,6 +27622,7 @@
     <e lm="so"><i>so</i><par n="after__cnjadv"/>    </e>
     <e lm="then"><i>then</i><par n="after__cnjadv"/>    </e>
     <e lm="so that"><i>so<b/>that</i><par n="after__cnjadv"/>    </e>
+    <e lm="that is"><i>that<b/>is</i><par n="after__cnjadv"/>    </e>
     <e lm="even so"><i>even<b/>so</i><par n="after__cnjadv"/>    </e>
     <e lm="therefore"><i>therefore</i><par n="after__cnjadv"/>    </e>
     <e lm="though"><i>though</i><par n="after__cnjadv"/>    </e>
@@ -27991,6 +27993,9 @@
     <e lm="Slobodan"><i>Slobodan</i><par n="Mark__np"/>     </e>
     <e lm="Austro-Hungarian Empire"><i>Austro-Hungarian<b/>Empire</i><par n="Barcelona__np"/>     </e>
     <e lm="Seville"><i>Seville</i><par n="Barcelona__np"/>     </e>
+    <e lm="Lujo"><i>Lujo</i><par n="Barcelona__np"/>     </e>
+    <e lm="Moncloa"><i>Moncloa</i><par n="Barcelona__np"/>     </e>
+    <e lm="Euskadi"><i>Euskadi</i><par n="Barcelona__np"/>     </e>
     <e lm="Malaga"><i>Malaga</i><par n="Barcelona__np"/>     </e>
     <e lm="Málaga"><i>Málaga</i><par n="Barcelona__np"/>     </e>
     <e lm="Bretton Woods"><i>Bretton<b/>Woods</i><par n="Barcelona__np"/>     </e>
