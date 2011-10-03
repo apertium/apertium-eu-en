@@ -572,6 +572,7 @@
     <e><p><l>zazpigarren<s n="adj"/></l><r>seventh<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e c="frases afirmatives"><p><l>zenbait<s n="det"/><s n="indizl"/><s n="sp"/></l><r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>zenbat<s n="adv"/><s n="itg"/></l><r>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
+    <e><p><l>zenbat<s n="det"/><s n="itg"/><s n="sp"/></l><r>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>zenbat<s n="adv"/><s n="itg"/></l><r>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></r></p></e>
     <e><p><l>zortzigarren<s n="adj"/></l><r>eighth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
 
@@ -5088,7 +5089,19 @@
     <e><p><l>Sáez<s n="np"/><s n="ant"/></l><r>Sáez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Taliban<s n="np"/><s n="al"/></l><r>Taliban<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Al<b/>Kaeda<s n="np"/><s n="al"/></l><r>Al<b/>Qaeda<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Al<b/>Fata<s n="np"/><s n="al"/></l><r>Al<b/>Fata<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Berria.info<s n="np"/><s n="al"/></l><r>Berria.info<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Hezbola<s n="np"/><s n="al"/></l><r>Hezbollah<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Hamas<s n="np"/><s n="al"/></l><r>Hamas<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Generalitat<s n="np"/><s n="al"/></l><r>Generalitat<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Aralar<s n="np"/><s n="al"/></l><r>Aralar<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Batasuna<s n="np"/><s n="al"/></l><r>Batasuna<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Etxerat<s n="np"/><s n="al"/></l><r>Etxerat<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Euskadi<b/>Buru<b/>Batzar<s n="np"/><s n="al"/></l><r>Basque<b/>Nationalist<b/>Party<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Euzkadi<b/>Buru<b/>Batzar<s n="np"/><s n="al"/></l><r>Basque<b/>Nationalist<b/>Party<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Ezker<b/>Batua<s n="np"/><s n="al"/></l><r>Ezker<b/>Batua<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Donibane<s n="np"/><s n="al"/></l><r>Saint<b/>John<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Nafarroa<b/>Bai<s n="np"/><s n="al"/></l><r>Nafarroa<b/>Bai<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Eusko<b/>Alkartasuna<s n="np"/><s n="al"/></l><r>Basque<b/>Solidarity<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Teresa<s n="np"/><s n="ant"/></l><r>Teresa<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Tito<s n="np"/><s n="ant"/></l><r>Tito<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -5127,6 +5140,9 @@
     <e><p><l>Pasaia<s n="np"/><s n="loc"/></l><r>Pasaia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Valentzia<s n="np"/><s n="loc"/></l><r>Valencia<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>India<s n="np"/><s n="loc"/></l><r>India<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Moncloa<s n="np"/><s n="loc"/></l><r>Moncloa<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Luxo<s n="np"/><s n="loc"/></l><r>Lujo<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Euskadi<s n="np"/><s n="loc"/></l><r>Euskadi<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Tibet<s n="np"/><s n="loc"/></l><r>Tibet<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Hego<b/>Korea<s n="np"/><s n="loc"/></l><r>South<b/>Korea<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Habana<s n="np"/><s n="loc"/></l><r>Havana<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
@@ -5155,6 +5171,7 @@
     <e><p><l>Ipar<b/>Korea<s n="np"/><s n="loc"/></l><r>North<b/>Korea<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Irun<s n="np"/><s n="loc"/></l><r>Irun<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Iruñe<s n="np"/><s n="loc"/></l><r>Pamplona<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
+    <e><p><l>Iruña<s n="np"/><s n="loc"/></l><r>Pamplona<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Iruñea<s n="np"/><s n="loc"/></l><r>Pamplona<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Istanbul<s n="np"/><s n="loc"/></l><r>Istanbul<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Kolonia<s n="np"/><s n="loc"/></l><r>Cologne<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>

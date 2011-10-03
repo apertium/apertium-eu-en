@@ -15288,6 +15288,15 @@
     <e lm="Libya"><i>Libya</i><par n="Barcelona__np"/>    </e>
     <e lm="Lima"><i>Lima</i><par n="Barcelona__np"/>    </e>
     <e lm="Linux"><i>Linux</i><par n="Linux__np"/>    </e>
+    <e lm="Hezbollah"><i>Hezbollah</i><par n="Linux__np"/>    </e>
+    <e lm="Hamas"><i>Hamas</i><par n="Linux__np"/>    </e>
+    <e lm="Generalitat"><i>Generalitat</i><par n="Linux__np"/>    </e>
+    <e lm="Aralar"><i>Aralar</i><par n="Linux__np"/>    </e>
+    <e lm="Batasuna"><i>Batasuna</i><par n="Linux__np"/>    </e>
+    <e lm="Etxerat"><i>Etxerat</i><par n="Linux__np"/>    </e>
+    <e lm="Basque Nationalist Party"><i>Basque<b/>Nationalist<b/>Party</i><par n="Linux__np"/>    </e>
+    <e lm="Ezker Batua"><i>Ezker<b/>Batua</i><par n="Linux__np"/>    </e>
+    <e lm="Saint John"><i>Saint<b/>John</i><par n="Linux__np"/>    </e>
     <e lm="Lisbon"><i>Lisbon</i><par n="Barcelona__np"/>    </e>
     <e lm="Lithuania"><i>Lithuania</i><par n="Barcelona__np"/>    </e>
     <e lm="Lleida"><i>Lleida</i><par n="Barcelona__np"/>    </e>
@@ -18044,6 +18053,9 @@
     <e lm="gossip"><i>gossip</i><par n="house__n"/>    </e>
     <e lm="government"><i>government</i><par n="house__n"/>    </e>
     <e lm="Basque Government"><i>Basque<b/>Government</i><par n="Linux__np"/>    </e>
+    <e lm="Al Qaeda"><i>Al<b/>Qaeda</i><par n="Linux__np"/>    </e>
+    <e lm="Al Fata"><i>Al<b/>Fata</i><par n="Linux__np"/>    </e>
+    <e lm="Nafarroa Bai"><i>Nafarroa<b/>Bai</i><par n="Linux__np"/>    </e>
     <e lm="Royal Academy of the Basque language"><i>Royal<b/>Academy<b/>of<b/>the<b/>Basque<b/>language</i><par n="Linux__np"/>    </e>
     <e lm="governor"><i>governor</i><par n="house__n"/>    </e>
     <e lm="grace"><i>grace</i><par n="house__n"/>    </e>
