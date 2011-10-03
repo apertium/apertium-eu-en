@@ -16438,7 +16438,6 @@
     <e lm="sermon"><i>sermon</i><par n="house__n"/>    </e>
     <e lm="rainbow"><i>rainbow</i><par n="house__n"/>    </e>
     <e lm="corridor"><i>corridor</i><par n="house__n"/>    </e>
-    <e lm="Serbian"><i>Serbian</i><par n="house__n"/>    </e>
     <e lm="Celt"><i>Celt</i><par n="house__n"/>    </e>
     <e lm="drug addict"><i>drug<b/>addict</i><par n="house__n"/>    </e>
     <e lm="drug addiction"><i>drug<b/>addiction</i><par n="east__n"/>    </e>
@@ -18213,6 +18212,7 @@
     <e lm="honesty"><i>honest</i><par n="bab/y__n"/>    </e>
     <e lm="honey"><i>honey</i><par n="house__n"/>    </e>
     <e lm="honour"><i>hon</i><par n="o_ou"/><i>r</i><par n="house__n"/>    </e>
+    <e lm="honour"><i>hon</i><par n="o_ou"/><i>r</i><par n="accept__vblex"/>    </e>
     <e lm="hook"><i>hook</i><par n="house__n"/>    </e>
     <e lm="hope"><i>hope</i><par n="house__n"/>    </e>
     <e lm="horizon"><i>horizon</i><par n="house__n"/>    </e>
@@ -21672,6 +21672,7 @@
     <e lm="Kashubian"><p><l>Kashubian</l><r>kashubian</r></p><par n="politics__n"/></e>
     <e lm="Slovenian"><p><l>Slovenian</l><r>slovenian</r></p><par n="politics__n"/></e>
     <e lm="Serbian"><p><l>Serbian</l><r>serbian</r></p><par n="politics__n"/></e>
+    <e lm="Serbian"><p><l>Serbian</l><r>serbian</r></p><par n="expensive__adj"/></e>
     <e lm="Croatian"><p><l>Croatian</l><r>croatian</r></p><par n="politics__n"/></e>
     <e lm="Bosnian"><p><l>Bosnian</l><r>bosnian</r></p><par n="politics__n"/></e>
     <e lm="Montenegrin"><p><l>Montenegrin</l><r>montenegrin</r></p><par n="politics__n"/></e>
@@ -24489,6 +24490,7 @@
     <e lm="commercialize"><i>commerciali</i><par n="organi/ze__vblex"/>    </e>
     <e lm="commission"><i>commission</i><par n="accept__vblex"/>    </e>
     <e lm="commit"><i>commit</i><par n="admit__vblex"/>    </e>
+    <e lm="commit suicide"><i>commit</i><par n="admit__vblex"/><p><l><b/>suicide</l><r><g><b/>suicide</g></r></p></e>
     <e lm="communicate"><i>communicat</i><par n="liv/e__vblex"/>    </e>
     <e lm="commutate"><i>commutat</i><par n="liv/e__vblex"/>    </e>
     <e lm="compact"><i>compact</i><par n="accept__vblex"/>    </e>
@@ -24919,6 +24921,8 @@
     <e lm="glance"><i>glanc</i><par n="liv/e__vblex"/>    </e>
     <e lm="glide"><i>glid</i><par n="liv/e__vblex"/>    </e>
     <e lm="glimpse"><i>glimps</i><par n="liv/e__vblex"/>    </e>
+    <e lm="inscribe"><i>inscrib</i><par n="liv/e__vblex"/>    </e>
+    <e lm="appropriate"><i>appropriat</i><par n="liv/e__vblex"/>    </e>
     <e lm="gloss"><i>gloss</i><par n="approach__vblex"/>    </e>
     <e lm="go"><par n="/go__vblex"/>    </e>
     <e lm="govern"><i>govern</i><par n="accept__vblex"/>    </e>
@@ -24929,11 +24933,15 @@
     <e lm="graze"><i>graz</i><par n="liv/e__vblex"/>    </e>
     <e lm="greet"><i>greet</i><par n="accept__vblex"/>    </e>
     <e lm="guarantee"><i>guarantee</i><par n="accept__vblex"/>    </e>
+    <e lm="distrust"><i>distrust</i><par n="accept__vblex"/>    </e>
+    <e lm="level"><i>level</i><par n="accept__vblex"/>    </e>
+    <e lm="frequent"><i>frequent</i><par n="accept__vblex"/>    </e>
     <e lm="guess"><i>guess</i><par n="approach__vblex"/>    </e>
     <e lm="guide"><i>guid</i><par n="liv/e__vblex"/>    </e>
     <e lm="hold"><i>h</i><par n="h/old__vblex"/>    </e>
     <e lm="hang"><i>h</i><par n="h/ang__vblex"/>    </e>
     <e lm="have got"><i>ha</i><par n="ha/ve__vblex"/>      <p>        <l><b/>got</l><r><g><b/>got</g></r></p></e>
+    <e lm="have breakfast"><i>ha</i><par n="ha/ve__vblex"/>      <p>        <l><b/>breakfast</l><r><g><b/>breakfast</g></r></p></e>
     <e lm="have"><i>ha</i><par n="ha/ve__vblex"/>    </e>
     <e lm="halt"><i>halt</i><par n="accept__vblex"/>    </e>
     <e lm="hammer"><i>hammer</i><par n="accept__vblex"/>    </e>
@@ -26590,6 +26598,7 @@
     <e lm="annoy" a="ebenimeli"><i>annoy</i><par n="enjoy__vblex"/>    </e>
     <e lm="breach" a="ebenimeli"><i>breach</i><par n="approach__vblex"/>    </e>
     <e lm="be hungry"><par n="/be__vblex"/>      <p>        <l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
+    <e lm="be in love"><par n="/be__vblex"/>      <p>        <l><b/>in<b/>love</l><r><g><b/>in<b/>love</g></r></p></e>
     <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/>      <p>        <l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
     <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/>      <p>        <l><b/>cash</l><r><g><b/>cash</g></r></p></e>
     <e lm="go Dutch">      <i/>      <par n="/go__vblex"/>      <p>        <l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>

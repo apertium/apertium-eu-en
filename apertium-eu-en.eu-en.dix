@@ -5087,6 +5087,8 @@
     <e><p><l>Suitza<s n="np"/><s n="loc"/></l><r>Switzerland<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Sáez<s n="np"/><s n="ant"/></l><r>Sáez<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Taliban<s n="np"/><s n="al"/></l><r>Taliban<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Al<b/>Kaeda<s n="np"/><s n="al"/></l><r>Al<b/>Qaeda<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Berria.info<s n="np"/><s n="al"/></l><r>Berria.info<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Eusko<b/>Alkartasuna<s n="np"/><s n="al"/></l><r>Basque<b/>Solidarity<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Teresa<s n="np"/><s n="ant"/></l><r>Teresa<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Tito<s n="np"/><s n="ant"/></l><r>Tito<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -5201,6 +5203,17 @@
     <e><p><l>del<b/>Olmo<s n="np"/><s n="ant"/></l><r>del<b/>Olmo<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e a="matxin"><p><l>ados<b/>egon<s n="vblex"/></l><r>approve<s n="vblex"/></r></p></e>
     <e><p><l>torlojatu<s n="vblex"/></l><r>screw<g><b/>on</g><s n="vblex"/></r></p></e>
+    <e><p><l>gosaldu<s n="vblex"/></l><r>have<g><b/>breakfast</g><s n="vblex"/></r></p></e>
+    <e><p><l>maitemindu<s n="vblex"/></l><r>be<g><b/>in<b/>love</g><s n="vblex"/></r></p></e>
+    <e><p><l>maiztu<s n="vblex"/></l><r>frequent<s n="vblex"/></r></p></e>
+    <e><p><l>igorri<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
+    <e><p><l>jabetu<s n="vblex"/></l><r>appropriate<s n="vblex"/></r></p></e>
+    <e><p><l>omendu<s n="vblex"/></l><r>honour<s n="vblex"/></r></p></e>
+    <e><p><l>kudeatu<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
+    <e><p><l>itundu<s n="vblex"/></l><r>negotiate<s n="vblex"/></r></p></e>
+    <e><p><l>itzalgaiztu<s n="vblex"/></l><r>distrust<s n="vblex"/></r></p></e>
+    <e><p><l>izena<b/>eman<s n="vblex"/></l><r>inscribe<s n="vblex"/></r></p></e>
+    <e><p><l>jardun<s n="vblex"/></l><r>be<s n="vbser"/></r></p></e>
     <e a="matxin"><p><l>ados<b/>ez<b/>egon<s n="vblex"/></l><r>dissent<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>erdi<b/>lo<b/>egon<s n="vblex"/></l><r>doze<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>ertzean<b/>egon<s n="vblex"/></l><r>fringe<s n="vblex"/></r></p></e>
@@ -13938,6 +13951,7 @@
     <e><p><l>turistiko<s n="adj"/></l><r>touristic<s n="adj"/></r></p></e>
     <e><p><l>solidario<s n="adj"/></l><r>solidary<s n="adj"/></r></p></e>
     <e><p><l>profetiko<s n="adj"/></l><r>prophetic<s n="adj"/></r></p></e>
+    <e><p><l>serbiar<s n="adj"/></l><r>serbian<s n="adj"/></r></p></e>
     <e><p><l>sofistikatu<s n="vblex"/></l><r>sophisticate<s n="vblex"/></r></p></e>
     <e><p><l>sobratu<s n="vblex"/></l><r>remain<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>xurgatze<s n="n"/></l><r>absorption<s n="n"/><s n="ND"/></r></p></e>
