@@ -573,6 +573,190 @@
     <e r="RL"><p><l>zenbat<s n="adv"/><s n="itg"/></l><r>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></r></p></e>
     <e><p><l>zortzigarren<s n="adj"/></l><r>eighth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
 
+
+    <e><p><l>abian<s n="adv"/></l><r>under<b/>way<s n="adv"/></r></p></e>
+    <e><p><l>agerian<s n="adv"/></l><r>in<b/>sight<s n="adv"/></r></p></e>
+    <e><p><l>agian<s n="adv"/></l><r>maybe<s n="adv"/></r></p></e>
+    <e><p><l>aho<b/>batez<s n="adv"/></l><r>unanimously<s n="adv"/></r></p></e>
+    <e><p><l>ahopean<s n="adv"/></l><r>in<b/>a<b/>low<b/>voice<s n="adv"/></r></p></e>
+    <e><p><l>ahotan<s n="adv"/></l><r>on<b/>everyone's<b/>lips<s n="adv"/></r></p></e>
+    <e><p><l>ahuspez<s n="adv"/></l><r>face<b/>down<s n="adv"/></r></p></e>
+    <e><p><l>akaso<s n="adv"/></l><r>perhaps<s n="adv"/></r></p></e>
+    <e><p><l>alboan<s n="adv"/><s n="gen"/></l><r>at<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>albora<s n="adv"/><s n="gen"/></l><r>at<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>alboraino<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>alborantz<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>albotik<s n="adv"/><s n="gen"/></l><r>by<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>aldean<s n="adv"/><s n="gen"/></l><r>at<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>alderaino<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>alderantz<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>aldetik<s n="adv"/><s n="gen"/></l><r>by<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>aldez<s n="adv"/></l><r>in<b/>some<b/>measure<s n="adv"/></r></p></e>
+    <e><p><l>aldi<b/>berean<s n="adv"/></l><r>at<b/>the<b/>same<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>amodioz<s n="adv"/></l><r>with<b/>love<s n="adv"/></r></p></e>
+    <e><p><l>apropos<s n="adv"/></l><r>on<b/>purpose<s n="adv"/></r></p></e>
+    <e><p><l>are<b/>gehiago<s n="adv"/></l><r>even<b/>more<s n="adv"/></r></p></e>
+    <e><p><l>are<b/>gutxiago<s n="adv"/></l><r>even<b/>less<s n="adv"/></r></p></e>
+    <e><p><l>areago<s n="adv"/></l><r>even<b/>more<s n="adv"/></r></p></e>
+    <e><p><l>arestian<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
+    <e><p><l>arin<s n="adv"/></l><r>mildly<s n="adv"/></r></p></e>
+    <e><p><l>artean<s n="adv"/><s n="gen"/></l><r>between<s n="pr"/></r></p></e>
+    <e><p><l>artera<s n="adv"/><s n="gen"/></l><r>between<s n="pr"/></r></p></e>
+    <e><p><l>artetik<s n="adv"/><s n="gen"/></l><r>from<b/>among<s n="pr"/></r></p></e>
+    <e><p><l>askotan<s n="adv"/></l><r>many<b/>times<s n="adv"/></r></p></e>
+    <e><p><l>aspaldi<s n="adv"/></l><r>long<b/>ago<s n="adv"/></r></p></e>
+    <e><p><l>aspalditik<s n="adv"/></l><r>for<b/>a<b/>long<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>atzerago<s n="adv"/></l><r>further<b/>back<s n="adv"/></r></p></e>
+    <e><p><l>atzeraino<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>rear<s n="adv"/></r></p></e>
+    <e><p><l>atzerantz<s n="adv"/><s n="gen"/></l><r>backwards<s n="adv"/></r></p></e>
+    <e><p><l>atzetik<s n="adv"/><s n="gen"/></l><r>behind<s n="pr"/></r></p></e>
+    <e><p><l>atzo<b/>arratsaldean<s n="adv"/></l><r>yesterday<b/>afternoon<s n="adv"/></r></p></e>
+    <e><p><l>atzo<b/>eguerdian<s n="adv"/></l><r>yesterday<b/>at<b/>midday<s n="adv"/></r></p></e>
+    <e><p><l>atzo<b/>gauean<s n="adv"/></l><r>yesterday<b/>evening<s n="adv"/></r></p></e>
+    <e><p><l>atzo<b/>goizean<s n="adv"/></l><r>yesterday<b/>morning<s n="adv"/></r></p></e>
+    <e><p><l>aurrerago<s n="adv"/></l><r>further<s n="adv"/></r></p></e>
+    <e><p><l>aurreraino<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>front<s n="adv"/></r></p></e>
+    <e><p><l>aurrerantz<s n="adv"/><s n="gen"/></l><r>forward<s n="adv"/></r></p></e>
+    <e><p><l>aurrerantzean<s n="adv"/></l><r>from<b/>now<s n="adv"/></r></p></e>
+    <e><p><l>aurretik<s n="adv"/><s n="gen"/></l><r>in<b/>front<s n="adv"/></r></p></e>
+    <e><p><l>aurrez<b/>aurre<s n="adv"/></l><r>face<b/>to<b/>face<s n="adv"/></r></p></e>
+    <e><p><l>ausaz<s n="adv"/></l><r>perhaps<s n="adv"/></r></p></e>
+    <e><p><l>auzoan<s n="adv"/></l><r>nearby<s n="adv"/></r></p></e>
+    <e><p><l>baietz<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e><p><l>baino<b/>lehen<s n="cnjadv"/></l><r>before<s n="adv"/></r></p></e>
+    <e><p><l>barruraino<s n="adv"/><s n="gen"/></l><r>inwards<s n="adv"/></r></p></e>
+    <e><p><l>barrurantz<s n="adv"/><s n="gen"/></l><r>to<b/>within<s n="adv"/></r></p></e>
+    <e><p><l>barrutik<s n="adv"/><s n="gen"/></l><r>inside<s n="adv"/></r></p></e>
+    <e><p><l>beheraino<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>bottom<s n="adv"/></r></p></e>
+    <e><p><l>behetik<s n="adv"/><s n="gen"/></l><r>from<b/>below<s n="adv"/></r></p></e>
+    <e><p><l>behinola<s n="adv"/></l><r>at<b/>one<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>benetan<s n="adv"/></l><r>for<b/>real<s n="adv"/></r></p></e>
+    <e><p><l>besteak<b/>beste<s n="adv"/></l><r>among<b/>others<s n="adv"/></r></p></e>
+    <e><p><l>bestela<s n="adv"/></l><r>on<b/>the<b/>contrary<s n="adv"/></r></p></e>
+    <e><p><l>betidanik<s n="adv"/></l><r>forever<s n="adv"/></r></p></e>
+    <e><p><l>bezala<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
+    <e><p><l>bidenabar<s n="adv"/></l><r>in<b/>passing<s n="adv"/></r></p></e>
+    <e><p><l>datorren<b/>hilean<s n="adv"/></l><r>the<b/>coming<b/>month<s n="adv"/></r></p></e>
+    <e><p><l>dena<b/>dela<s n="adv"/></l><r>at<b/>any<b/>rate<s n="adv"/></r></p></e>
+    <e><p><l>dena<b/>den<s n="adv"/></l><r>in<b/>any<b/>case<s n="adv"/></r></p></e>
+    <e><p><l>dozenaka<s n="adv"/></l><r>by<b/>the<b/>dozens<s n="adv"/></r></p></e>
+    <e><p><l>edonoiz<s n="adv"/></l><r>anytime<s n="adv"/></r></p></e>
+    <e><p><l>edonon<s n="adv"/></l><r>anywhere<s n="adv"/></r></p></e>
+    <e><p><l>egunero<s n="adv"/></l><r>every<b/>day<s n="adv"/></r></p></e>
+    <e><p><l>eguzkitan<s n="adv"/></l><r>in<b/>the<b/>sun<s n="adv"/></r></p></e>
+    <e><p><l>ehunka<s n="adv"/></l><r>by<b/>the<b/>hundred<s n="adv"/></r></p></e>
+    <e><p><l>elkarrekin<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
+    <e><p><l>elkarren<b/>ondoan<s n="adv"/></l><r>one<b/>beside<b/>the<b/>other<s n="adv"/></r></p></e>
+    <e><p><l>erabat<s n="adv"/></l><r>at<b/>all<s n="adv"/></r></p></e>
+    <e><p><l>erdian<s n="adv"/><s n="gen"/></l><r>between<s n="adv"/></r></p></e>
+    <e><p><l>erdira<s n="adv"/><s n="gen"/></l><r>by<b/>half<s n="adv"/></r></p></e>
+    <e><p><l>erdiraino<s n="adv"/><s n="gen"/></l><r>halfway<s n="adv"/></r></p></e>
+    <e><p><l>erdirantz<s n="adv"/><s n="gen"/></l><r>by<b/>half<s n="adv"/></r></p></e>
+    <e><p><l>erditik<s n="adv"/><s n="gen"/></l><r>in<b/>half<s n="adv"/></r></p></e>
+    <e><p><l>eta<b/>gero<s n="cnjadv"/></l><r>after<s n="adv"/></r></p></e>
+    <e><p><l>etengabe<s n="adv"/></l><r>constantly<s n="adv"/></r></p></e>
+    <e><p><l>etzi<b/>arratsaldean<s n="adv"/></l><r>the<b/>day<b/>after<b/>tomorrow<b/>in<b/>the<b/>afternoon<s n="adv"/></r></p></e>
+    <e><p><l>etzi<b/>eguerdian<s n="adv"/></l><r>the<b/>day<b/>after<b/>tomorrow<b/>at<b/>midday<s n="adv"/></r></p></e>
+    <e><p><l>etzi<b/>gauean<s n="adv"/></l><r>the<b/>day<b/>after<b/>tomorrow<b/>in<b/>the<b/>evening<s n="adv"/></r></p></e>
+    <e><p><l>etzi<b/>goizean<s n="adv"/></l><r>the<b/>day<b/>after<b/>tomorrow<b/>in<b/>the<b/>morning<s n="adv"/></r></p></e>
+    <e><p><l>ezetz<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+    <e><p><l>ezkutuan<s n="adv"/></l><r>secretly<s n="adv"/></r></p></e>
+    <e><p><l>ezustean<s n="adv"/></l><r>by<b/>surprise<s n="adv"/></r></p></e>
+    <e><p><l>gainetik<s n="adv"/><s n="gen"/></l><r>above<s n="adv"/></r></p></e>
+    <e><p><l>galdu-gordean<s n="adv"/></l><r>for<b/>adventure<s n="adv"/></r></p></e>
+    <e><p><l>garaiz<s n="adv"/></l><r>on<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>garbi<s n="adv"/></l><r>transparently<s n="adv"/></r></p></e>
+    <e><p><l>gauero<s n="adv"/></l><r>every<b/>night<s n="adv"/></r></p></e>
+    <e><p><l>gaur<b/>arratsaldean<s n="adv"/></l><r>this<b/>afternoon<s n="adv"/></r></p></e>
+    <e><p><l>gaur<b/>arte<s n="adv"/></l><r>until<b/>now<s n="adv"/></r></p></e>
+    <e><p><l>gaur<b/>eguerdian<s n="adv"/></l><r>this<b/>afternoon<s n="adv"/></r></p></e>
+    <e><p><l>gaur<b/>goizean<s n="adv"/></l><r>this<b/>morning<s n="adv"/></r></p></e>
+    <e><p><l>gaurkoz<s n="adv"/></l><r>for<b/>today<s n="adv"/></r></p></e>
+    <e><p><l>geroko<s n="adv"/></l><r>for<b/>later<s n="adv"/></r></p></e>
+    <e><p><l>gogotik<s n="adv"/></l><r>willingly<s n="adv"/></r></p></e>
+    <e><p><l>gogoz<s n="adv"/></l><r>willingly<s n="adv"/></r></p></e>
+    <e><p><l>goitik<s n="adv"/><s n="gen"/></l><r>from<b/>above<s n="adv"/></r></p></e>
+    <e><p><l>gorabehera<s n="adv"/></l><r>more<b/>or<b/>less<s n="adv"/></r></p></e>
+    <e><p><l>goraino<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>top<s n="adv"/></r></p></e>
+    <e><p><l>gutxi-asko<s n="adv"/></l><r>more<b/>or<b/>less<s n="adv"/></r></p></e>
+    <e><p><l>gutxiegi<s n="adv"/></l><r>far<b/>too<b/>little<s n="adv"/></r></p></e>
+    <e><p><l>guztira<s n="adv"/></l><r>in<b/>total<s n="adv"/></r></p></e>
+    <e><p><l>hantxe<s n="adv"/></l><r>right<b/>there<s n="adv"/></r></p></e>
+    <e><p><l>harrika<s n="adv"/></l><r>throwing<b/>stones<s n="adv"/></r></p></e>
+    <e><p><l>hegan<s n="adv"/></l><r>flying<s n="adv"/></r></p></e>
+    <e><p><l>herenegun<b/>arratsaldean<s n="adv"/></l><r>the<b/>day<b/>before<b/>yesterday<b/>in<b/>the<b/>afternoon<s n="adv"/></r></p></e>
+    <e><p><l>herenegun<b/>eguerdian<s n="adv"/></l><r>the<b/>day<b/>before<b/>yesterday<b/>at<b/>midday<s n="adv"/></r></p></e>
+    <e><p><l>herenegun<b/>goizean<s n="adv"/></l><r>the<b/>day<b/>before<b/>yesterday<b/>in<b/>the<b/>morning<s n="adv"/></r></p></e>
+    <e><p><l>hilik<s n="adv"/></l><r>dead<s n="adv"/></r></p></e>
+    <e><p><l>hobe<s n="adv"/></l><r>better<s n="adv"/></r></p></e>
+    <e><p><l>hobeto<s n="adv"/></l><r>better<s n="adv"/></r></p></e>
+    <e><p><l>horiez<b/>gain<s n="adv"/></l><r>besides<b/>those<s n="adv"/></r></p></e>
+    <e><p><l>horrela<s n="adv"/></l><r>like<b/>that<s n="adv"/></r></p></e>
+    <e><p><l>horrez<b/>gain<s n="adv"/></l><r>besides<b/>that<s n="adv"/></r></p></e>
+    <e><p><l>horrez<b/>gainera<s n="adv"/></l><r>besides<b/>that<s n="adv"/></r></p></e>
+    <e><p><l>hortik<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
+    <e><p><l>hortxe<s n="adv"/></l><r>right<b/>there<s n="adv"/></r></p></e>
+    <e><p><l>ia<s n="preadv"/></l><r>almost<s n="adv"/></r></p></e>
+    <e><p><l>iaz<s n="adv"/></l><r>last<b/>year<s n="adv"/></r></p></e>
+    <e><p><l>igerian<s n="adv"/></l><r>swimming<s n="adv"/></r></p></e>
+    <e><p><l>ingururaino<s n="adv"/><s n="gen"/></l><r>to<b/>about<s n="pr"/></r></p></e>
+    <e><p><l>ingururantz<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>environment<s n="adv"/></r></p></e>
+    <e><p><l>ingurutik<s n="adv"/><s n="gen"/></l><r>from<b/>the<b/>environment<s n="adv"/></r></p></e>
+    <e><p><l>inon<s n="adv"/></l><r>nowhere<s n="adv"/></r></p></e>
+    <e><p><l>inondik<b/>inora<s n="adv"/></l><r>in<b/>no<b/>way<s n="adv"/></r></p></e>
+    <e><p><l>iragaitzaz<s n="adv"/></l><r>in<b/>passing<s n="adv"/></r></p></e>
+    <e><p><l>isilik<s n="adv"/></l><r>in<b/>silence<s n="adv"/></r></p></e>
+    <e><p><l>izatez<s n="adv"/></l><r>by<b/>nature<s n="adv"/></r></p></e>
+    <e><p><l>izugarri<s n="adv"/></l><r>tremendously<s n="adv"/></r></p></e>
+    <e><p><l>jarraian<s n="adv"/></l><r>continuing<s n="adv"/></r></p></e>
+    <e><p><l>jendaurrean<s n="adv"/></l><r>in<b/>public<s n="adv"/></r></p></e>
+    <e><p><l>joan<b/>den<b/>astean<s n="adv"/></l><r>last<b/>week<s n="adv"/></r></p></e>
+    <e><p><l>joan<b/>den<b/>hilean<s n="adv"/></l><r>last<b/>month<s n="adv"/></r></p></e>
+    <e><p><l>joan<b/>den<b/>urtean<s n="adv"/></l><r>last<b/>year<s n="adv"/></r></p></e>
+    <e><p><l>kanporantz<s n="adv"/><s n="gen"/></l><r>outside<s n="adv"/></r></p></e>
+    <e><p><l>kanpotik<s n="adv"/><s n="gen"/></l><r>from<b/>outside<s n="adv"/></r></p></e>
+    <e><p><l>kito<s n="adv"/></l><r>in<b/>peace<s n="adv"/></r></p></e>
+    <e><p><l>koloka<s n="adv"/></l><r>in<b/>doubt<s n="adv"/></r></p></e>
+    <e><p><l>kolokan<s n="adv"/></l><r>doubting<s n="adv"/></r></p></e>
+    <e><p><l>kontent<s n="adv"/></l><r>content<s n="adv"/></r></p></e>
+    <e><p><l>kontrolpean<s n="adv"/></l><r>under<b/>control<s n="adv"/></r></p></e>
+    <e><p><l>kontuz<s n="adv"/></l><r>with<b/>care<s n="adv"/></r></p></e>
+    <e><p><l>kostata<s n="adv"/></l><r>with<b/>difficulty<s n="adv"/></r></p></e>
+    <e><p><l>lasai<s n="adv"/></l><r>calmly<s n="adv"/></r></p></e>
+    <e><p><l>lehenbailehen<s n="adv"/></l><r>as<b/>soon<b/>as<b/>possible<s n="adv"/></r></p></e>
+    <e><p><l>lo<s n="adv"/></l><r>asleep<s n="adv"/></r></p></e>
+    <e><p><l>luze<s n="adv"/></l><r>extensively<s n="adv"/></r></p></e>
+    <e><p><l>merke<s n="adv"/></l><r>cheaply<s n="adv"/></r></p></e>
+    <e><p><l>milaka<s n="adv"/></l><r>by<b/>the<b/>thousand<s n="adv"/></r></p></e>
+    <e><p><l>milioika<s n="adv"/></l><r>by<b/>the<b/>million<s n="adv"/></r></p></e>
+    <e><p><l>nahita<s n="adv"/></l><r>on<b/>purpose<s n="adv"/></r></p></e>
+    <e><p><l>noizko<s n="adv"/><s n="itg"/></l><r>by<b/>when<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>nonbait<s n="adv"/></l><r>somewhere<s n="adv"/></r></p></e>
+    <e><p><l>nondik<s n="adv"/><s n="itg"/></l><r>from<b/>where<s n="adv"/></r></p></e>
+    <e><p><l>nongo<s n="adv"/><s n="itg"/></l><r>from<b/>where<s n="adv"/></r></p></e>
+    <e><p><l>oihuka<s n="adv"/></l><r>shouting<s n="adv"/></r></p></e>
+    <e><p><l>oker<s n="adv"/></l><r>wrong<s n="adv"/></r></p></e>
+    <e><p><l>ondora<s n="adv"/><s n="gen"/></l><r>at<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>ondoraino<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>ondorantz<s n="adv"/><s n="gen"/></l><r>towards<b/>the<b/>side<s n="adv"/></r></p></e>
+    <e><p><l>oraintxe<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
+    <e><p><l>orduko<s n="adv"/></l><r>by<b/>then<s n="adv"/></r></p></e>
+    <e><p><l>parera<s n="adv"/><s n="gen"/></l><r>on<b/>par<b/>with<s n="pr"/></r></p></e>
+    <e><p><l>pixkanaka<s n="adv"/></l><r>little<b/>by<b/>little<s n="adv"/></r></p></e>
+    <e><p><l>pozik<s n="adv"/></l><r>happy<s n="adj"/></r></p></e>
+    <e><p><l>primeran<s n="adv"/></l><r>stupendously<s n="adv"/></r></p></e>
+    <e><p><l>sarritan<s n="adv"/></l><r>many<b/>times<s n="adv"/></r></p></e>
+    <e><p><l>tente<s n="adv"/></l><r>standing<s n="adv"/></r></p></e>
+    <e><p><l>tiroka<s n="adv"/></l><r>shooting<s n="adv"/></r></p></e>
+    <e><p><l>ugari<s n="adv"/></l><r>in<b/>abundance<s n="adv"/></r></p></e>
+    <e><p><l>urrutitik<s n="adv"/><s n="gen"/></l><r>from<b/>afar<s n="adv"/></r></p></e>
+    <e><p><l>urtero<s n="adv"/></l><r>every<b/>year<s n="adv"/></r></p></e>
+    <e><p><l>zehazki<s n="adv"/></l><r>precisely<s n="adv"/></r></p></e>
+    <e><p><l>zenbatean<s n="adv"/><s n="itg"/></l><r>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
+    <e><p><l>zintzo<s n="adv"/></l><r>honestly<s n="adv"/></r></p></e>
+    <e><p><l>zoritxarrez<s n="adv"/></l><r>unfortunately<s n="adv"/></r></p></e>
+    <e><p><l>zuzen<s n="adv"/></l><r>rightly<s n="adv"/></r></p></e>
+
     <e><p><l>Andorrako<s n="adj"/></l><r>andorran<s n="adj"/></r></p></e>
     <e><p><l>Aragoiko<s n="adj"/></l><r>aragonese<s n="adj"/></r></p></e>
     <e><p><l>Kubako<s n="adj"/></l><r>cuban<s n="adj"/></r></p></e>
@@ -14094,6 +14278,13 @@
   <p>
     <l>.<b/>mende<s n="n"/></l>
     <r><b/>century<b/>B.C.<s n="n"/><s n="sg"/></r>
+  </p>
+</e>
+<e>
+  <re>[0-9]+</re>
+  <p>
+    <l><b/>kilometrotara<b/>orduko<s n="adv"/></l>
+    <r><b/>kilometres<b/>per<b/>hour<s n="adv"/></r>
   </p>
 </e>
 
