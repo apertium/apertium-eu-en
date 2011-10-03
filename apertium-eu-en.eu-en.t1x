@@ -898,6 +898,36 @@
             <when>
               <test>
                 <and>
+                  <and>
+                    <equal>
+                      <clip pos="2" side="sl" part="lem"/> 
+                      <lit v="a"/>
+                    </equal>
+                    <equal>
+                      <clip pos="2" side="sl" part="a_det"/> 
+                      <lit-tag v="det"/>
+                    </equal>
+                  </and>
+                  <or>
+                    <equal>
+                      <clip pos="2" side="sl" part="nbr"/> 
+                      <lit-tag v="sg"/>
+                    </equal>
+                    <equal>
+                      <clip pos="2" side="sl" part="nbr"/> 
+                      <lit-tag v="pl"/>
+                    </equal>
+                  </or>
+                </and>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="nbr"/> 
+                <clip pos="2" side="sl" part="nbr"/> 
+              </let>
+            </when>
+            <when>
+              <test>
+                <and>
                   <or>
                     <equal>
                       <clip pos="2" side="tl" part="nbr"/> 
@@ -6175,7 +6205,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="2" side="tl" part="lem"/> 
               <clip pos="2" side="tl" part="a_det"/> 
               <lit-tag v="2"/> 
-              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="2" side="tl" part="nbr"/>
             </lu>
             <b/>
             <lu> 
