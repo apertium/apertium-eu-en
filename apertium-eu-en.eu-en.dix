@@ -391,7 +391,7 @@
     <e r="LR" c="while/when"><p><l>larik<s n="rel"/></l><r></r></p></e>
     <e r="LR" c="when/before"><p><l>nerako<s n="rel"/></l><r></r></p></e>
     <e c="since"><p><l>netik<s n="rel"/></l><r>since<s n="cnjadv"/></r></p></e>
-    <e c="FIXME - can't find"><p><l>nentz<s n="rel"/></l><r></r></p></e>
+    <e c="whether or not"><p><l>nentz<s n="rel"/></l><r></r></p></e>
     <e r="LR"><p><l>xe<s n="gra"/><s n="ind"/></l><r></r></p></e>
 
     <e><p><l>a<s n="det"/><s n="art"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
@@ -474,6 +474,8 @@
     <e r="LR"><p><l>hainbeste<s n="det"/><s n="indizl"/><s n="pl"/></l><r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e><p><l>hamabigarren<s n="adj"/><s n="izl"/></l><r>twelfth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>hamabosgarren<s n="adj"/><s n="izl"/></l><r>fifteenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
+    <e><p><l>hamabostgarren<s n="adj"/><s n="izl"/></l><r>fifteenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
+    <e><p><l>ehun<b/>milagarren<s n="adj"/><s n="izl"/></l><r>hundred<b/>thousandth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>hamahirugarren<s n="adj"/><s n="izl"/></l><r>thirteenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>hamaikagarren<s n="adj"/><s n="izl"/></l><r>eleventh<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>hamalaugarren<s n="adj"/><s n="izl"/></l><r>fourteenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -573,6 +575,7 @@
     <e><p><l>seigarren<s n="adj"/></l><r>sixth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>zazpigarren<s n="adj"/></l><r>seventh<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e c="frases afirmatives"><p><l>zenbait<s n="det"/><s n="indizl"/><s n="sp"/></l><r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+    <e><p><l>gehien<s n="det"/><s n="ind"/></l><r>most<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>zenbat<s n="adv"/><s n="itg"/></l><r>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
     <e><p><l>zenbat<s n="det"/><s n="itg"/><s n="sp"/></l><r>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>zenbat<s n="adv"/><s n="itg"/></l><r>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></r></p></e>
@@ -762,6 +765,7 @@
     <e><p><l>zoritxarrez<s n="adv"/></l><r>unfortunately<s n="adv"/></r></p></e>
     <e><p><l>zuzen<s n="adv"/></l><r>rightly<s n="adv"/></r></p></e>
 
+    <e r="LR"><p><l>noizko<s n="adj"/></l><r>for<b/>when<s n="adj"/></r></p></e>
     <e><p><l>Andorrako<s n="adj"/></l><r>andorran<s n="adj"/></r></p></e>
     <e><p><l>Aragoiko<s n="adj"/></l><r>aragonese<s n="adj"/></r></p></e>
     <e><p><l>Kubako<s n="adj"/></l><r>cuban<s n="adj"/></r></p></e>
@@ -2374,6 +2378,7 @@
     <e><p><l>herritar<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>
     <e r="RL"><p><l>hertsi<s n="adj"/></l><r>strict<s n="adj"/></r></p></e>
     <e><p><l>lege<b/>hertsi<s n="n"/></l><r>strict<b/>law<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>adi-adi<b/>begiratu<s n="n"/></l><r>stare<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>adiera<s n="n"/></l><r>meaning<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>adiera<b/>hertsi<s n="n"/></l><r>strict<b/>sense<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>hitzaren<b/>adiera<b/>hertsian<s n="adv"/></l><r>in<b/>the<b/>strictest<b/>sense<b/>of<b/>the<b/>word<s n="adv"/></r></p></e>
@@ -13980,6 +13985,12 @@
     <e><p><l>profetiko<s n="adj"/></l><r>prophetic<s n="adj"/></r></p></e>
     <e><p><l>serbiar<s n="adj"/></l><r>serbian<s n="adj"/></r></p></e>
     <e><p><l>sofistikatu<s n="vblex"/></l><r>sophisticate<s n="vblex"/></r></p></e>
+    <e><p><l>nibelatu<s n="vblex"/></l><r>level<s n="vblex"/></r></p></e>
+    <e><p><l>bere<b/>buruaz<b/>beste<b/>egin<s n="vblex"/></l><r>commit<g><b/>suicide</g><s n="vblex"/></r></p></e>
+    <e><p><l>obsesionatu<s n="vblex"/></l><r>obsess<s n="vblex"/></r></p></e>
+    <e><p><l>doministiku<b/>egin<s n="vblex"/></l><r>sneeze<s n="vblex"/></r></p></e>
+    <e><p><l>ados<b/>jarri<s n="vblex"/></l><r>agree<s n="vblex"/></r></p></e>
+    <e><p><l>kaleratu<s n="vblex"/></l><r>release<s n="vblex"/></r></p></e>
     <e><p><l>sobratu<s n="vblex"/></l><r>remain<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>xurgatze<s n="n"/></l><r>absorption<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>xurgatze<s n="n"/></l><r>uptake<s n="n"/><s n="ND"/></r></p></e>
@@ -14335,6 +14346,7 @@
     <e><p><l>nehor<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>ni<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>nor<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
+    <e c="'who, more or less?'"><p><l>nortsu<s n="prn"/><s n="itg"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL" c="frases afirmatives"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>somebody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>

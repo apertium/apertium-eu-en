@@ -9315,6 +9315,7 @@
     <e lm="eight hundredth"><i>eight<b/>hundredth</i><par n="second__det"/>    </e>
     <e lm="nine hundredth"><i>nine<b/>hundredth</i><par n="second__det"/>    </e>
     <e lm="thousandth"><i>thousandth</i><par n="second__det"/>    </e>
+    <e lm="hundred thousandth"><i>hundred<b/>thousandth</i><par n="second__det"/>    </e>
     <e lm="millionth"><i>millionth</i><par n="second__det"/>    </e>
     <e lm="fewer"><i>fewer</i><par n="many__det"/>    </e>
     <e lm="few"><i>few</i><par n="many__det"/>    </e>
@@ -32174,6 +32175,7 @@
     <e lm="stabilizer"><i>stabilizer</i><par n="house__n"/>     </e>
     <e lm="stabling"><i>stabling</i><par n="house__n"/>     </e>
     <e lm="stage"><i>stag</i><par n="liv/e__vblex"/>     </e>
+    <e lm="sneeze"><i>sneez</i><par n="liv/e__vblex"/>     </e>
     <e lm="stage"><i>stage</i><par n="house__n"/>     </e>
     <e lm="stagflation"><i>stagflation</i><par n="house__n"/>     </e>
     <e lm="stalactite"><i>stalactite</i><par n="house__n"/>     </e>
@@ -32935,8 +32937,10 @@
 <e lm="paramount"><i>paramount</i><par n="expensive__adj"/>     </e>
 <e lm="distress"><i>distress</i><par n="access__n"/>    </e>
 <e lm="distress"><i>distress</i><par n="approach__vblex"/>    </e>
+<e lm="obsess"><i>obsess</i><par n="approach__vblex"/>    </e>
 <e lm="afflict"><i>afflict</i><par n="accept__vblex"/>    </e>
 <e lm="desperate"><i>desperate</i><par n="expensive__adj"/>     </e>
+<e lm="for when" r="RL"><i>for<b/>when</i><par n="expensive__adj"/>     </e>
 <e lm="horrify"><i>horrif</i><par n="appl/y__vblex"/>     </e>
 <e lm="turbulent"><i>turbulent</i><par n="expensive__adj"/>     </e>
 <e lm="sustainability"><i>sustainabilit</i><par n="bab/y__n"/></e>
