@@ -9182,6 +9182,7 @@
     <e lm="last"><i>last</i><par n="second__det"/>    </e>
     <e lm="less"><i>less</i><par n="much__det"/>    </e>
     <e lm="little"><i>little</i><par n="much__det"/>    </e>
+    <e lm="a little"><i>a<b/>little</i><par n="much__det"/>    </e>
     <e lm="more"><i>more</i><par n="enough__det"/>    </e>
     <e lm="most"><i>most</i><par n="enough__det"/>    </e>
     <e lm="much"><i>much</i><par n="much__det"/>    </e>
@@ -18454,6 +18455,24 @@
     <e lm="intermediary"><i>intermediar</i><par n="bab/y__n"/>    </e>
     <e lm="coordinated"><i>coordinated</i><par n="expensive__adj"/></e>
     <e lm="touristic"><i>touristic</i><par n="expensive__adj"/></e>
+    <e lm="pensioner"><i>pensioner</i><par n="expensive__adj"/></e>
+    <e lm="hard-working"><i>hard-working</i><par n="expensive__adj"/></e>
+    <e lm="unpublished"><i>unpublished</i><par n="expensive__adj"/></e>
+    <e lm="bellicose"><i>bellicose</i><par n="expensive__adj"/></e>
+    <e lm="grotesque"><i>grotesque</i><par n="expensive__adj"/></e>
+    <e lm="independentist"><i>independentist</i><par n="expensive__adj"/></e>
+    <e lm="jovial"><i>jovial</i><par n="expensive__adj"/></e>
+    <e lm="pro-Catalan"><i>pro-Catalan</i><par n="expensive__adj"/></e>
+    <e lm="capillary"><i>capillary</i><par n="expensive__adj"/></e>
+    <e lm="smiling"><i>smiling</i><par n="expensive__adj"/></e>
+    <e lm="mocking"><i>mocking</i><par n="expensive__adj"/></e>
+    <e lm="qualitative"><i>qualitative</i><par n="expensive__adj"/></e>
+    <e lm="quantitative"><i>quantitative</i><par n="expensive__adj"/></e>
+    <e lm="right-wing"><i>right-wing</i><par n="expensive__adj"/></e>
+    <e lm="wrinkled"><i>wrinkled</i><par n="expensive__adj"/></e>
+    <e lm="inclined"><i>inclined</i><par n="expensive__adj"/></e>
+    <e lm="neoliberal"><i>neoliberal</i><par n="expensive__adj"/></e>
+    <e lm="outlaw"><i>outlaw</i><par n="expensive__adj"/></e>
     <e lm="social democrat"><i>social<b/>democrat</i><par n="expensive__adj"/></e>
     <e lm="solidary"><i>solidary</i><par n="expensive__adj"/></e>
     <e r="RL" lm="any"><i>any</i><par n="expensive__adj"/></e>
@@ -21686,6 +21705,12 @@
     <e lm="Slovenian"><p><l>Slovenian</l><r>slovenian</r></p><par n="politics__n"/></e>
     <e lm="Serbian"><p><l>Serbian</l><r>serbian</r></p><par n="politics__n"/></e>
     <e lm="Serbian"><p><l>Serbian</l><r>serbian</r></p><par n="expensive__adj"/></e>
+    <e lm="Navarran"><p><l>Navarran</l><r>navarran</r></p><par n="expensive__adj"/></e>
+    <e lm="Occitan"><p><l>Occitan</l><r>occitan</r></p><par n="expensive__adj"/></e>
+    <e lm="Iraqi"><p><l>Iraqi</l><r>iraqi</r></p><par n="expensive__adj"/></e>
+    <e lm="Dominican"><p><l>Dominican</l><r>dominican</r></p><par n="expensive__adj"/></e>
+    <e lm="Romanian"><p><l>Romanian</l><r>romanian</r></p><par n="expensive__adj"/></e>
+    <e lm="Pamplonese"><p><l>Pamplonese</l><r>pamplonese</r></p><par n="expensive__adj"/></e>
     <e lm="Croatian"><p><l>Croatian</l><r>croatian</r></p><par n="politics__n"/></e>
     <e lm="Bosnian"><p><l>Bosnian</l><r>bosnian</r></p><par n="politics__n"/></e>
     <e lm="Montenegrin"><p><l>Montenegrin</l><r>montenegrin</r></p><par n="politics__n"/></e>
@@ -23194,6 +23219,8 @@
     <e lm="mouldy"><i>mould</i><par n="happ/y__adj"/></e>
     <e lm="soporific"><i>soporific</i><par n="expensive__adj"/></e>
     <e lm="sleepy"><i>sleep</i><par n="happ/y__adj"/></e>
+    <e lm="sporty"><i>sport</i><par n="happ/y__adj"/></e>
+    <e lm="dreamy"><i>dream</i><par n="happ/y__adj"/></e>
     <e lm="locomotive"><i>locomotive</i><par n="expensive__adj"/></e>
     <e lm="sycophantic"><i>sycophantic</i><par n="expensive__adj"/></e>
     <e lm="brazen"><i>brazen</i><par n="expensive__adj"/></e>
@@ -24230,6 +24257,7 @@
     <e lm="shed light on"><i>shed</i><par n="outbid__vblex"/>      <p>        <l><b/>light<b/>on</l><r><g><b/>light<b/>on</g></r></p></e>
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/>    </e>
     <e lm="abbreviate"><i>abbreviat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="domesticate"><i>domesticat</i><par n="liv/e__vblex"/>    </e>
     <e lm="sophisticate"><i>sophisticat</i><par n="liv/e__vblex"/>    </e>
     <e lm="abdicate"><i>abdicat</i><par n="liv/e__vblex"/>    </e>
     <e lm="abet"><i>abet</i><par n="admit__vblex"/>    </e>
@@ -24291,6 +24319,7 @@
     <e lm="alternate"><i>alternat</i><par n="liv/e__vblex"/>    </e>
     <e lm="amend"><i>amend</i><par n="accept__vblex"/>    </e>
     <e lm="amortize"><i>amorti</i><par n="organi/ze__vblex"/>    </e>
+    <e lm="europeanize"><i>europeani</i><par n="organi/ze__vblex"/>    </e>
     <e lm="amplify"><i>amplif</i><par n="appl/y__vblex"/>    </e>
     <e lm="amuse"><i>amus</i><par n="liv/e__vblex"/>    </e>
     <e lm="anaesthetise"><i>an</i><par n="e_ae"/><i>stheti</i><par n="organi/ze__vblex"/>    </e>
@@ -24697,6 +24726,7 @@
     <e lm="discharge"><i>discharg</i><par n="liv/e__vblex"/>    </e>
     <e lm="discipline"><i>disciplin</i><par n="liv/e__vblex"/>    </e>
     <e lm="redden"><i>redden</i><par n="accept__vblex"/>    </e>
+    <e lm="cheapen"><i>cheapen</i><par n="accept__vblex"/>    </e>
     <e lm="disclose"><i>disclos</i><par n="liv/e__vblex"/>    </e>
     <e lm="discount"><i>discount</i><par n="accept__vblex"/>    </e>
     <e lm="discover"><i>discover</i><par n="accept__vblex"/>    </e>
@@ -25513,9 +25543,11 @@
     <e lm="shoe"><i>sho</i><par n="sho/e__vblex"/>    </e>
     <e lm="shoot"><i>sho</i><par n="sho/ot__vblex"/>    </e>
     <e lm="shorten"><i>shorten</i><par n="accept__vblex"/>    </e>
+    <e lm="sour"><i>sour</i><par n="accept__vblex"/>    </e>
     <e lm="shout"><i>shout</i><par n="accept__vblex"/>    </e>
     <e lm="show"><i>show</i><par n="hew__vblex"/>    </e>
     <e lm="show up"><i>show</i><par n="hew__vblex"/>      <p>        <l><b/>up</l><r><g><b/>up</g></r></p></e>
+    <e lm="shut up"><i>shut</i><par n="cut__vblex"/>      <p>        <l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="shower"><i>shower</i><par n="accept__vblex"/>    </e>
     <e lm="shun"><i>shun</i><par n="plan__vblex"/>    </e>
     <e lm="shut"><i>shut</i><par n="cut__vblex"/>    </e>
@@ -25676,6 +25708,7 @@
     <e lm="tour"><i>tour</i><par n="accept__vblex"/>    </e>
     <e lm="tow"><i>tow</i><par n="accept__vblex"/>    </e>
     <e lm="try"><i>tr</i><par n="appl/y__vblex"/>    </e>
+    <e lm="ally"><i>all</i><par n="appl/y__vblex"/>    </e>
     <e lm="trace"><i>trac</i><par n="liv/e__vblex"/>    </e>
     <e lm="trace back"><i>trac</i><par n="liv/e__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="trade"><i>trad</i><par n="liv/e__vblex"/>    </e>
@@ -25685,6 +25718,7 @@
     <e lm="transfer"><i>transfer</i><par n="occur__vblex"/>    </e>
     <e lm="transform"><i>transform</i><par n="accept__vblex"/>    </e>
     <e lm="translate"><i>translat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="translate from Basque"><i>translat</i><par n="liv/e__vblex"/><p><l><b/>from<b/>Basque</l><r><g><b/>from<b/>Basque</g></r></p></e>
     <e lm="transmit"><i>transmit</i><par n="admit__vblex"/>    </e>
     <e lm="transplant"><i>transplant</i><par n="accept__vblex"/>    </e>
     <e lm="transport"><i>transport</i><par n="accept__vblex"/>    </e>
@@ -28336,6 +28370,7 @@
     <e lm="absorbance"><i>absorbance</i><par n="house__n"/>     </e>
     <e lm="absorber"><i>absorber</i><par n="house__n"/>     </e>
     <e lm="absorptiometry"><i>absorptiometr</i><par n="bab/y__n"/>     </e>
+    <e lm="formality"><i>formalit</i><par n="bab/y__n"/>     </e>
     <e lm="absurdly"><i>absurdly</i><par n="maybe__adv"/>     </e>
     <e lm="abyssal"><i>abyssal</i><par n="expensive__adj"/>     </e>
     <e lm="academism"><i>academism</i><par n="house__n"/>     </e>
