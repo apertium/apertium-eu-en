@@ -649,6 +649,7 @@
     <def-var n="erg"/>
     <def-var n="blanco"/>
     <def-var n="grado"/>
+    <def-var n="genitive"/>
   </section-def-vars>
 
 
@@ -696,6 +697,41 @@
             <b pos="1"/>
           </out>
         </when>
+      </choose>
+    </def-macro>
+
+    <def-macro n="gen_n2" npar="2">
+      <choose>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="pl"/>
+              </equal>
+              <equal>
+                <clip pos="2" side="sl" part="nbr"/>
+                <lit-tag v="pl"/>
+              </equal>
+            </or>
+          </test>
+          <let>
+            <var n="genitive"/>
+            <concat>
+              <lit v="'"/>
+              <lit-tag v="apos"/>
+            </concat>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="genitive"/>
+            <concat>
+              <lit v="'s"/>
+              <lit-tag v="gen"/>
+            </concat>
+          </let>
+        </otherwise>
       </choose>
     </def-macro>
 
@@ -10444,6 +10480,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="tipo_det">
           <with-param pos="7"/>
         </call-macro>
+        <call-macro n="gen_n2">
+          <with-param pos="3"/>
+          <with-param pos="4"/>
+        </call-macro>
         <choose>
           <when>
             <test>
@@ -10473,8 +10513,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
                   <clip pos="3" side="tl" part="lemq"/> 
                 </lu>
                 <lu>
-                  <lit v="'s"/>
-                  <lit-tag v="gen"/>
+                  <var n="genitive"/>
                 </lu>
                 <b pos="5"/>
                 <lu> 
