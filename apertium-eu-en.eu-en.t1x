@@ -1173,6 +1173,36 @@
             <when>
               <test>
                 <and>
+                  <and>
+                    <equal>
+                      <clip pos="3" side="sl" part="lem"/> 
+                      <lit v="a"/>
+                    </equal>
+                    <equal>
+                      <clip pos="3" side="sl" part="a_det"/> 
+                      <lit-tag v="det"/>
+                    </equal>
+                  </and>
+                  <or>
+                    <equal>
+                      <clip pos="3" side="sl" part="nbr"/> 
+                      <lit-tag v="sg"/>
+                    </equal>
+                    <equal>
+                      <clip pos="3" side="sl" part="nbr"/> 
+                      <lit-tag v="pl"/>
+                    </equal>
+                  </or>
+                </and>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="nbr"/> 
+                <clip pos="3" side="sl" part="nbr"/> 
+              </let>
+            </when>
+            <when>
+              <test>
+                <and>
                   <equal>
                     <clip pos="2" side="tl" part="nbr"/> 
                     <lit-tag v="sp"/>
@@ -1689,6 +1719,36 @@
             </equal>
           </test>
           <choose>
+            <when>
+              <test>
+                <and>
+                  <and>
+                    <equal>
+                      <clip pos="4" side="sl" part="lem"/> 
+                      <lit v="a"/>
+                    </equal>
+                    <equal>
+                      <clip pos="4" side="sl" part="a_det"/> 
+                      <lit-tag v="det"/>
+                    </equal>
+                  </and>
+                  <or>
+                    <equal>
+                      <clip pos="4" side="sl" part="nbr"/> 
+                      <lit-tag v="sg"/>
+                    </equal>
+                    <equal>
+                      <clip pos="4" side="sl" part="nbr"/> 
+                      <lit-tag v="pl"/>
+                    </equal>
+                  </or>
+                </and>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="nbr"/> 
+                <clip pos="4" side="sl" part="nbr"/> 
+              </let>
+            </when>
             <when>
               <test><!--cuando 3 tiene número sg o pl -->
                 <not>
