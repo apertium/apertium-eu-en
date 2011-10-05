@@ -2523,7 +2523,7 @@
     </def-macro>
 
 
-    <def-macro n="SPgenitivo" npar="1"><!--si la postposición és ko/en, el nombre del chunk serà SPGEN para que el t2x realice las operaciones necesarias. Nota: hay reglas que detectan ya chunks con CN dentro ('aitaren etxea'), la marca de genitivo es para los chunks que escapan a estas reglas, para que el t2x pueda tratarlos. -->
+    <def-macro n="SPgenitivo" npar="1"><!--if the postposition is ko/en, the chunk tag will be SPGEN so t2x can carry out the necessary operations. Note: there are rules which detect chunks with these ('aitaren etxea'), the genitive mark is for the chunks that escape these rules, so t2x can deal with them. -->
 
       <choose>
         <when>
@@ -2573,7 +2573,7 @@
           </let>
         </otherwise>
       </choose>
-      <choose><!-- si la postposición es 'k', como la traducción es vacía, se elimina el blanco. El blanco después de la postposición hay que enviarlo con la variable 'blanco'-->
+      <choose><!-- if the postposition is 'k', as the translation is empty, eliminate the blank. The blank after the postposition must output it with the variable 'blanco'-->
         <when>
           <test>
             <or>
@@ -2692,78 +2692,12 @@
 
     </def-macro>
 
-<def-macro n="verbal_temps1" npar="1">
-  <choose>
-    <when>
-      <test>
-        <equal>
-          <clip pos="1" side="sl" part="temps"/>
-          <lit-tag v="prob1"/>
-        </equal>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="temps"/>
-        <lit-tag v="pri"/>
-      </let>
-    </when>
-    <when>
-      <test>
-        <equal>
-          <clip pos="1" side="sl" part="temps"/>
-          <lit-tag v="prob2"/>
-        </equal>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="temps"/>
-        <lit-tag v="pii"/>
-      </let>
-    </when>
-  </choose>
-</def-macro>
-
-
-
-<def-macro n="verbal_temps2" npar="2">
-  <choose>
-    <when>
-      <test>
-        <equal>
-          <clip pos="2" side="sl" part="temps"/>
-          <lit-tag v="prob1"/>
-        </equal>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="temps"/>
-        <lit-tag v="pri"/>
-      </let>
-    </when>
-    <when>
-      <test>
-        <equal>
-          <clip pos="2" side="sl" part="temps"/>
-          <lit-tag v="prob2"/>
-        </equal>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="temps"/>
-        <lit-tag v="pii"/>
-      </let>
-    </when>
-  </choose>
-</def-macro>
-          
-
-
-
-
-
-
-
-
-    <def-macro n="verbal_flex" npar="1"><!--Determina la persona del verbo y la presencia de pronombres proclíticos, y envía los pronombres si es necesario 
-                                            IMPORTANTE: hay que colocar esta macro justo antes de enviar el verbo, porque la macro puede enviar pronombres y éstos tiene que ir justo antes del verbo.
-Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verbo es de prob1 o prob2 (antiguos A2 y B3), probabilidad presente y pasado respectivamente 
-                                        -->
+    <def-macro n="verbal_flex" npar="1">
+    <!--Determines the person of the verb and generates pronouns, and outputs the subject pronoun if necessary. 
+        IMPORTANT: this macro must be called right before the output of the verb, because of the pronoun generation.
+        It also outputs 'maybe' if the verbo is either prob1 or prob2 (A2 and B3 in the old tagset): probable present and past respectively. 
+        Unlike the eu-es version, as 
+-->
       <choose>
         <when>
           <test>
@@ -2825,7 +2759,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
       </choose>
       <choose>
         <when>
-          <test><!--si es verbo NOR-NORI o NOR-NORI-NORK, envía pronombre de NORI. -->
+          <test><!--if the verb is NOR-NORI or NOR-NORI-NORK, output the NORI pronoun. -->
             <not>
               <equal>
                 <clip pos="1" side="sl" part="nori"/>
@@ -2871,9 +2805,9 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                   <lit-tag v="NI_HU"/>
                 </equal>
               </test>
-              <let> <!-- make this configurable -->
+              <let> <!-- TODO: make this configurable. The hard part is, Basque pronouns have no gender. Assume nt ('it') for object -->
                 <var n="objtags"/>
-                <lit-tag v="prn.obj.p3.m.sg"/>
+                <lit-tag v="prn.obj.p3.nt.sg"/>
               </let>
             </when>
             <when>
@@ -2913,26 +2847,9 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
               </let>
             </when>
           </choose>
-          <!--
-          <out>
-            <chunk name="procl" case="caseFirstWord">
-              <tags>
-                <tag><var n="procltags"/></tag>
-              </tags>
-              <lu>
-                <var n="procl"/>
-                <var n="procltags"/>
-              </lu>
-            </chunk>
-            <b/>
-          </out>
-          <let>
-            <var n="caseSecondWord"/>
-            <lit v="aa"/>
-          </let> -->
         </when>
         <when>
-          <test><!--Si se trata de un verbo NOR-NORK cuyo NOR no sea 3a sg o 3a pl, envía proclítico con valor de NOR -->
+          <test><!--if we meet a verb NOR-NORK whose NOR isn't 3rd sg or 3rd pl, set the pronoun with the value of NOR -->
             <and>
               <not>
                 <equal>
@@ -3042,22 +2959,6 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
                  </let>
                  </when> -->
           </choose>
-          <!--<out>
-            <chunk name="procl" case="caseFirstWord">
-              <tags>
-                <tag><var n="procltags"/></tag>
-              </tags>
-              <lu>
-                <var n="procl"/>
-                <var n="procltags"/>
-              </lu>
-            </chunk>
-            <b/>
-          </out>
-          <let>
-            <var n="caseSecondWord"/>
-            <lit v="aa"/>
-          </let> -->
         </when>
         <otherwise>
           <let>
@@ -3187,7 +3088,7 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
             </when>
           </choose>
         </when>
-        <otherwise><!--cuando el verbo no tiene sujeto NORK -->
+        <otherwise><!--when the verb doesn't have a NORK subject -->
           <choose>
             <when>
               <test>
@@ -3326,9 +3227,8 @@ Además, en 2-febr-2009 se ha añadido la función de enviar 'quizá' si el verb
     </def-macro>
 
     <def-macro n="ser_tener" npar="2"><!--ser o tener, esta es la cuestión :-)
-                Esta macro mira si el auxiliar es transitivo y si el verbo principal es 'izan' (que se traduce por 'ser' al castellano). En caso afirmativo, cambia la traducción de 'ser' a 'tener' (izango duzue - seréis - tendréis.)
-Podría ampliarse a otros casos, para tratar las diferencias en la traducción de los verbos según si el auxiliar es transitivo o intransitivo.
-
+                This macro checks if the auxiliary is transitive and if the principal verb is 'izan' (which translates to English as 'be'). If so, change the translation from 'be' to 'have' (izango duzue - you will be - you will have.)
+It could be extended to other cases, to deal with the differences in the translation of the second verb if the auxiliary is transitive or intransitive.
  -->
         <choose>
           <when>
@@ -3336,7 +3236,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <and>
                 <equal caseless="yes">
                   <clip pos="1" side="tl" part="lemh"/>
-                  <lit v="ser"/>
+                  <lit v="be"/>
                 </equal>
                 <not>
                   <equal caseless="yes">
@@ -3472,7 +3372,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
       </action>
     </rule>
 
-    <rule comment="REGLA: DET (guztiak, gehienak) Para cuando va solo o con palabras desconocidas">
+    <rule comment="REGLA: DET (guztiak, gehienak) For when it appears alone or with unknown words">
       <pattern>
         <pattern-item n="det"/>
       </pattern>
@@ -3503,7 +3403,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
       </action>
     </rule>
 
-    <rule comment="REGLA: DETIND Para cuando va solo o con palabras desconocidas">
+    <rule comment="REGLA: DETIND For when it appears alone or with unknown words">
       <pattern>
         <pattern-item n="detindizl"/>
       </pattern>
@@ -3535,7 +3435,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
     </rule>
 
 
-    <rule comment="REGLA: NUM (Para cuando va solo o con palabras desconocidas)">
+    <rule comment="REGLA: NUM (For when it appears alone or with unknown words)">
       <pattern>
         <pattern-item n="num"/>
       </pattern>
@@ -3937,7 +3837,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
       </action>
     </rule>
 
-    <rule comment="REGLA: NOM + NOM + DET (lege proiektua - proyecto de ley)">
+    <rule comment="REGLA: NOM + NOM + DET (etxe proiektua - the house project)">
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="nom"/>
@@ -3958,7 +3858,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
           <with-param pos="1"/>
         </call-macro>
         <out> 
-          <chunk name="det_nom_pr_nom" case="caseFirstWord">
+          <chunk name="det_nom_nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="tipusdet"/></tag>
@@ -3974,30 +3874,25 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b pos="1"/>
             <lu> 
+              <clip pos="1" side="tl" part="lemh"/> 
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/> 
+            </lu>
+            <b pos="2"/>
+            <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
               <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
             </lu>
-            <b/>
-            <lu>
-              <lit v="of"/>
-              <lit-tag v="pr"/>
-            </lu>
-            <b pos="2"/>
-            <lu> 
-              <clip pos="1" side="tl" part="lemh"/> 
-              <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="nbr"/>
-              <clip pos="1" side="tl" part="lemq"/> 
-            </lu>
           </chunk>
         </out>
       </action>
     </rule>
 
-    <rule comment="REGLA: NOM + NOM + DET + POST (urre koloreko - de color de oro)">
+    <rule comment="REGLA: NOM + NOM + DET + POST (urre koloreko - of the gold colour (though in this case 'of the colour of gold' is a superior tranlsation))">
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="nom"/>
@@ -4021,22 +3916,8 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
         <call-macro n="nbr_n1">
           <with-param pos="1"/>
         </call-macro>
-        <choose><!--porque para palabras con función de CN no se puede dejar GD i ND para el t2x, ya que no están enlazados con chunk -->
-          <when>
-            <test>
-              <equal>
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="GD"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="gen"/>
-              <lit-tag v="m"/>
-            </let>
-          </when>
-        </choose>
         <out> 
-          <chunk name="pr_d_n_pr_n" case="caseFirstWord">
+          <chunk name="pr_d_n_n" case="caseFirstWord">
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
@@ -4056,23 +3937,18 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b pos="1"/>
             <lu> 
+              <clip pos="1" side="tl" part="lemh"/> 
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/> 
+            </lu>
+            <b pos="2"/>
+            <lu> 
               <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_nom"/>
               <clip pos="2" side="tl" part="ND" link-to="3"/>
               <clip pos="2" side="tl" part="sp"/>
               <clip pos="2" side="tl" part="lemq"/> 
-            </lu>
-            <b/>
-            <lu>
-              <lit v="of"/>
-              <lit-tag v="pr"/>
-            </lu>
-            <b pos="2"/>
-            <lu> 
-              <clip pos="1" side="tl" part="lemh"/> 
-              <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="nbr"/>
-              <clip pos="1" side="tl" part="lemq"/> 
             </lu>
           </chunk>
         </out>
@@ -4130,7 +4006,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
               <clip pos="1" side="tl" part="sp"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
-            <b/>
           </chunk>
         </out>
       </action>
@@ -4163,7 +4038,6 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
           </chunk>
           <b pos="1"/>
-
           <chunk name="pp_ik"> 
             <tags>
               <tag><lit-tag v="SVsub"/></tag>
@@ -4176,9 +4050,10 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción d
             </lu>
             <b/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="lemh"/> 
               <clip pos="2" side="tl" part="a_verb"/>
               <clip pos="2" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="lemq"/> 
             </lu>
           </chunk>
         </out>

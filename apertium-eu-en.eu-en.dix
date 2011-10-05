@@ -7925,7 +7925,7 @@
     <e r="RL"><p><l>izan<s n="vblex"/></l><r>consist<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>izan<s n="vblex"/></l><r>result<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>izan<s n="vblex"/></l><r>turn<g><b/>out</g><s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>izan<s n="vblex"/></l><r>be<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>izan<s n="vblex"/></l><r>be<s n="vbser"/></r></p></e>
     <e r="RL" a="matxin"><p><l>izan<s n="vblex"/></l><r>constitute<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>izan<s n="vblex"/></l><r>harbour<s n="vblex"/></r></p></e>
     <e a="matxin" slr="have"><p><l>izan<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
@@ -10221,7 +10221,7 @@
     <e><p><l>balentzia<s n="n"/></l><r>valency<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baliabide<s n="n"/></l><r>resource<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>balio<s n="n"/></l><r>courage<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>balio<s n="n"/></l><r>value<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>balio<b/>juridiko<s n="n"/></l><r>legal<b/>validity<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>balio<s n="n"/></l><r>worth<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>balioespen<s n="n"/></l><r>assessment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baliokide<s n="n"/></l><r>equivalent<s n="n"/><s n="ND"/></r></p></e>
