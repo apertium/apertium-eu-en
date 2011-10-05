@@ -363,6 +363,8 @@
     <e><p><l>kontra<s n="spost"/></l><r>against<s n="pr"/></r></p></e>
     <e><p><l>ondoan<s n="adv"/><s n="gen"/></l><r>beside<s n="pr"/></r></p></e>
     <e><p><l>harat-honat<s n="adv"/></l><r>to<b/>and<b/>fro<s n="adv"/></r></p></e>
+    <e><p><l>apurka-apurka<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
+    <e><p><l>apurka<s n="adv"/></l><r>little<b/>by<b/>little<s n="adv"/></r></p></e>
     <e><p><l>balantzaka<s n="adv"/></l><r>tottering<s n="adv"/></r></p></e>
     <e><p><l>hurbiletik<s n="adv"/></l><r>closely<s n="adv"/></r></p></e>
     <e><p><l>pean<s n="post"/></l><r>under<s n="pr"/></r></p></e>
@@ -12001,7 +12003,9 @@
     <e><p><l>ingeniari<s n="n"/></l><r>engineer<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>inguramendu<s n="n"/></l><r>contour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inguramendu<s n="n"/></l><r>outline<s n="n"/><s n="ND"/></r></p></e>
-    <e a="matxin"><p><l>inguru<s n="n"/></l><r>locality<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>inguru<s n="n"/></l><r>locality<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>inguru<s n="n"/></l><r>environment<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>barne-inguru<s n="n"/></l><r>internal<b/>environment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ingurumen<s n="n"/></l><r>environment<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>ingurune<s n="n"/></l><r>environment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ingurune<s n="n"/></l><r>surroundings<s n="n"/><s n="pl"/></r></p></e>
@@ -12262,6 +12266,7 @@
     <e a="matxin"><p><l>jirafa<s n="n"/></l><r>giraffe<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>joera<s n="n"/></l><r>tendency<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>joera<s n="n"/></l><r>trend<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>pentsamendu-joera<s n="n"/></l><r>trend<g><b/>of<b/>thought</g><s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jokabide<s n="n"/></l><r>behaviour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jokaera<s n="n"/></l><r>performance<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>jokalari<s n="n"/></l><r>player<s n="n"/><s n="ND"/></r></p></e>
@@ -13356,6 +13361,7 @@
     <e><p><l>orpo<s n="n"/></l><r>heel<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>orratz<s n="n"/></l><r>needle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>orratz<s n="n"/></l><r>pin<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>estilo-orri<s n="n"/></l><r>stylesheet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>orri<s n="n"/></l><r>leaf<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" c="slr='sheet' c='of paper'"><p><l>orri<s n="n"/></l><r>sheet<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" c="slr='page'"><p><l>orri<s n="n"/></l><r>page<s n="n"/><s n="ND"/></r></p></e>
@@ -14236,6 +14242,7 @@
     <e a="matxin"><p><l>zero<s n="n"/></l><r>zero<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zerra<s n="n"/></l><r>saw<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zerrenda<s n="n"/></l><r>list<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>posta-zerrenda<s n="n"/></l><r>mailing<b/>list<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>zeru<s n="n"/></l><r>heaven<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zeru<s n="n"/></l><r>sky<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zeta<s n="n"/></l><r>silk<s n="n"/><s n="ND"/></r></p></e>

@@ -17641,6 +17641,7 @@
     <e lm="enumeration"><i>enumeration</i><par n="house__n"/>    </e>
     <e lm="envy"><i>env</i><par n="bab/y__n"/>    </e>
     <e lm="environment"><i>environment</i><par n="house__n"/>    </e>
+    <e lm="internal environment"><i>internal<b/>environment</i><par n="house__n"/>    </e>
     <e lm="environmentalist"><i>environmentalist</i><par n="house__n"/>    </e>
     <e lm="epic"><i>epic</i><par n="house__n"/>    </e>
     <e lm="epicentre"><i>epicentre</i><par n="house__n"/>    </e>
@@ -18946,6 +18947,7 @@
     <e lm="liquidity"><i>liquidit</i><par n="bab/y__n"/>    </e>
     <e lm="liquor"><i>liquor</i><par n="house__n"/>    </e>
     <e lm="list"><i>list</i><par n="house__n"/>    </e>
+    <e lm="mailing list"><i>mailing<b/>list</i><par n="house__n"/>    </e>
     <e lm="listing"><i>listing</i><par n="house__n"/>    </e>
     <e lm="liter"><i>liter</i><par n="house__n"/>    </e>
     <e lm="literacy"><i>literac</i><par n="bab/y__n"/>    </e>
@@ -20519,6 +20521,7 @@
     <e lm="shed"><i>shed</i><par n="house__n"/>    </e>
     <e lm="sheep"><i>sheep</i><par n="politics__n"/>    </e>
     <e lm="sheet"><i>sheet</i><par n="house__n"/>    </e>
+    <e lm="stylesheet"><i>stylesheet</i><par n="house__n"/>    </e>
     <e lm="sheik"><i>sheik</i><par n="house__n"/>    </e>
     <e lm="shelf"><i>shel</i><par n="wol/f__n"/>    </e>
     <e lm="shelter"><i>shelter</i><par n="house__n"/>    </e>
@@ -21372,6 +21375,7 @@
     <e lm="wave"><i>wave</i><par n="house__n"/>    </e>
     <e lm="way"><i>way</i><par n="house__n"/>    </e>
     <e lm="way of life"><i>way</i><par n="house__n"/><p><l><b/>of<b/>life</l><r><g><b/>of<b/>life</g></r></p></e>
+    <e lm="trend of thought"><i>trend</i><par n="house__n"/><p><l><b/>of<b/>thought</l><r><g><b/>of<b/>thought</g></r></p></e>
     <e lm="waystation"><i>waystation</i><par n="house__n"/>    </e>
     <e lm="weakness"><i>weakness</i><par n="access__n"/>    </e>
     <e lm="wealth"><i>wealth</i><par n="house__n"/>    </e>
