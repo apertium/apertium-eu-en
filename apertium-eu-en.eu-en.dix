@@ -8038,6 +8038,7 @@
     <e r="RL" a="matxin"><p><l>jariatu<s n="vblex"/></l><r>secrete<s n="vblex"/></r></p></e>
     <e><p><l>jario<s n="vbsint"/></l><r>flow<s n="vblex"/></r></p></e>
     <e><p><l>jarraiki<s n="vblex"/></l><r>follow<s n="vblex"/></r></p></e>
+    <e><p><l>jarraiki<s n="vbsint"/></l><r>follow<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarraiki<s n="vblex"/></l><r>track<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarraitu<s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>jarraitu<s n="vblex"/></l><r>go<g><b/>on</g><s n="vblex"/></r></p></e>
@@ -10789,7 +10790,7 @@
     <e a="matxin"><p><l>egarri<s n="n"/></l><r>thirst<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egia<s n="n"/></l><r>truth<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>egiaztagiri<s n="n"/></l><r>certificate<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>egiaztagiri5A5A5A<s n="n"/></l><r>warrant<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>egiaztagiri<s n="n"/></l><r>warrant<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>egiaztapen<s n="n"/></l><r>certification<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egile<s n="n"/></l><r>author<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eginbehar<s n="n"/></l><r>duty<s n="n"/><s n="ND"/></r></p></e>
