@@ -2705,6 +2705,7 @@
     <e r="RL" a="matxin"><p><l>justu<s n="adj"/><s n="izo"/></l><r>fair<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>kalkulaezin<s n="adj"/><s n="izo"/></l><r>untold<s n="adj"/></r></p></e>
     <e><p><l>kaltegarri<s n="adj"/></l><r>harmful<s n="adj"/></r></p></e>
+    <e><p><l>ez-kaltegarri<s n="adj"/></l><r>non-harmful<s n="adj"/></r></p></e>
     <e r="RL"><p><l>kaltegarri<s n="adj"/></l><r>hurtful<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>kaltegarri<s n="adj"/><s n="izo"/></l><r>damaging<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>kaltegarri<s n="adj"/><s n="izo"/></l><r>detrimental<s n="adj"/></r></p></e>
@@ -9449,6 +9450,7 @@
     <e r="RL" a="matxin"><p><l>zeharkatu<s n="vblex"/></l><r>traverse<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>zehatz-mehatz<b/>azaldu<s n="vblex"/></l><r>pinpoint<s n="vblex"/></r></p></e>
     <e><p><l>zehatz-mehatz<s n="adv"/></l><r>in<b/>great<b/>detail<s n="adv"/></r></p></e>
+    <e><p><l>egunero-egunero<s n="adv"/></l><r>day<b/>after<b/>day<s n="adv"/></r></p></e>
     <e><p><l>zehatz<s n="adv"/></l><r>precisely<s n="adv"/></r></p></e>
     <e r="RL"><p><l>zehaztu<s n="vblex"/></l><r>concretise<s n="vblex"/></r></p></e>
     <e><p><l>zehaztu<s n="vblex"/></l><r>specify<s n="vblex"/></r></p></e>
@@ -9915,6 +9917,21 @@
     <e><p><l>apezpiku<s n="n"/></l><r>bishop<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apezpikutza<s n="n"/></l><r>bishopric<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apiril<s n="n"/></l><r>April<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>simetria<s n="n"/></l><r>symmetry<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>simetria-ardatz<s n="n"/></l><r>axis<g><b/>of<b/>symmetry</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>abzisa-ardatz<s n="n"/></l><r>axis<g><b/>of<b/>abscissas</g><s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>abzisa<s n="n"/></l><r>abscissa<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>fruitu-bilketa<s n="n"/></l><r>fruit<b/>gathering<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>zerga-bilketa<s n="n"/></l><r>tax<b/>collecting<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ur-korronte<s n="n"/></l><r>water<b/>current<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>korronte<s n="n"/></l><r>current<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>salmenta-agente<s n="n"/></l><r>sales<b/>agent<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>posta-kode<s n="n"/></l><r>postcode<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>mikrouhin-labe<s n="n"/></l><r>microwave<b/>oven<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>labe<s n="n"/></l><r>oven<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>saski<s n="n"/></l><r>basket<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ogi-saski<s n="n"/></l><r>bread<b/>basket<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>santutegi<s n="n"/></l><r>sanctuary<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apologia<s n="n"/></l><r>apologia<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>alergia<s n="n"/></l><r>allergy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>latex-alergia<s n="n"/></l><r>latex<b/>allergy<s n="n"/><s n="ND"/></r></p></e>
@@ -11200,6 +11217,7 @@
     <e a="matxin"><p><l>espaloi<s n="n"/></l><r>pavement<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>espaloi<s n="n"/></l><r>sidewalk<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>esparru<s n="n"/></l><r>enclosure<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>kontzentrazio-esparru<s n="n"/></l><r>concentration<b/>camp<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>espazio<s n="n"/></l><r>blank<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>espazio<s n="n"/></l><r>space<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>espediente<s n="n"/></l><r>file<s n="n"/><s n="ND"/></r></p></e>
@@ -11982,6 +12000,10 @@
     <e><p><l>immigrante<s n="n"/></l><r>immigrant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>immigrazio<s n="n"/></l><r>immigration<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>immunitate-sistema<s n="n"/></l><r>immune<b/>system<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ugaltze-aparatu<s n="n"/></l><r>reproductive<b/>system<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>digestio-aparatu<s n="n"/></l><r>digestive<b/>system<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hazkuntza-inguru<s n="n"/></l><r>growth<b/>medium<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>horma-irudi<s n="n"/></l><r>mural<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nerbio-sistema<s n="n"/></l><r>nervous<b/>system<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>immunologia<s n="n"/></l><r>immunology<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inaugurazio<s n="n"/></l><r>inauguration<s n="n"/><s n="ND"/></r></p></e>

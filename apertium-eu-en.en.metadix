@@ -16260,7 +16260,10 @@
     <e lm="award"><i>award</i><par n="house__n"/>    </e>
     <e lm="awareness"><i>awareness</i><par n="access__n"/>    </e>
     <e lm="awning"><i>awning</i><par n="house__n"/>    </e>
+    <e lm="abscissa"><i>abscissa</i><par n="house__n"/>    </e>
     <e lm="axis" a="carmentano"><i>ax</i><par n="analys/is__n"/>    </e>
+    <e lm="axis of symmetry"><i>ax</i><par n="analys/is__n"/><p><l><b/>of<b/>symmetry</l><r><g><b/>of<b/>symmetry</g></r></p></e>
+    <e lm="axis of abscissas"><i>ax</i><par n="analys/is__n"/><p><l><b/>of<b/>abscissas</l><r><g><b/>of<b/>abscissas</g></r></p></e>
     <e lm="axe"><i>axe</i><par n="house__n"/>    </e>
     <e lm="baby"><i>bab</i><par n="bab/y__n"/>    </e>
     <e lm="bacillus"><i>bacillus</i><par n="access__n"/>    </e>
@@ -16273,6 +16276,7 @@
     <e lm="backrest"><i>backrest</i><par n="house__n"/>    </e>
     <e lm="backstitch"><i>backstitch</i><par n="access__n"/>    </e>
     <e lm="bacterium"><i>bacteri</i><par n="maxim/um__n"/>    </e>
+    <e lm="growth medium"><i>growth<b/>medi</i><par n="maxim/um__n"/>    </e>
     <e lm="rectum"><i>rect</i><par n="maxim/um__n"/>    </e>
     <e lm="delirium"><i>deliri</i><par n="maxim/um__n"/>    </e>
     <e lm="badger"><i>badger</i><par n="house__n"/>    </e>
@@ -16564,6 +16568,7 @@
     <e lm="calorie"><i>calorie</i><par n="house__n"/>    </e>
     <e lm="camera"><i>camera</i><par n="house__n"/>    </e>
     <e lm="camp"><i>camp</i><par n="house__n"/>    </e>
+    <e lm="concentration camp"><i>concentration<b/>camp</i><par n="house__n"/>    </e>
     <e lm="summer camp"><i>summer<b/>camp</i><par n="house__n"/>    </e>
     <e lm="prison camp"><i>prison<b/>camp</i><par n="house__n"/>    </e>
     <e lm="refugee camp"><i>refugee<b/>camp</i><par n="house__n"/>    </e>
@@ -20724,6 +20729,11 @@
     <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
+    <e lm="fruit gathering"><i>fruit<b/>gathering</i><par n="house__n"/>    </e>
+    <e lm="tax collecting"><i>tax<b/>collecting</i><par n="house__n"/>    </e>
+    <e lm="water current"><i>water<b/>current</i><par n="house__n"/>    </e>
+    <e lm="sales agent"><i>sales<b/>agent</i><par n="house__n"/>    </e>
+    <e lm="bread basket"><i>bread<b/>basket</i><par n="house__n"/>    </e>
     <e lm="legal channel"><i>legal<b/>channel</i><par n="house__n"/>    </e>
     <e lm="regional government"><i>regional<b/>government</i><par n="house__n"/>    </e>
     <e lm="car park"><i>car<b/>park</i><par n="house__n"/>    </e>
@@ -20931,6 +20941,8 @@
     <e lm="syrup"><i>syrup</i><par n="house__n"/>    </e>
     <e lm="system"><i>system</i><par n="house__n"/>    </e>
     <e lm="immune system"><i>immune<b/>system</i><par n="house__n"/>    </e>
+    <e lm="reproductive system"><i>reproductive<b/>system</i><par n="house__n"/>    </e>
+    <e lm="digestive system"><i>digestive<b/>system</i><par n="house__n"/>    </e>
     <e lm="nervous system"><i>nervous<b/>system</i><par n="house__n"/>    </e>
     <e lm="2-3-5 system"><i>2-3-5<b/>system</i><par n="house__n"/></e>
     <e lm="4-2-4 system"><i>4-2-4<b/>system</i><par n="house__n"/></e>
@@ -22528,6 +22540,7 @@
     <e lm="happy"><i>happ</i><par n="happ/y__adj"/>    </e>
     <e lm="hard"><i>hard</i><par n="long/__adj"/>    </e>
     <e lm="harmful"><i>harmful</i><par n="expensive__adj"/>    </e>
+    <e lm="non-harmful"><i>non-harmful</i><par n="expensive__adj"/>    </e>
     <e lm="harmonic"><i>harmonic</i><par n="expensive__adj"/>    </e>
     <e lm="harsh"><i>harsh</i><par n="long/__adj"/>    </e>
     <e lm="hazardous"><i>hazardous</i><par n="expensive__adj"/>    </e>
@@ -26764,6 +26777,7 @@
     <e lm="to the outside"><i>to<b/>the<b/>outside</i><par n="maybe__adv"/></e>
     <e lm="to a height"><i>to<b/>a<b/>height</i><par n="maybe__adv"/></e>
     <e lm="not expecting much"><i>not<b/>expecting<b/>much</i><par n="maybe__adv"/></e>
+    <e lm="day after day"><i>day<b/>after<b/>day</i><par n="maybe__adv"/></e>
     <e lm="at one time"><i>at<b/>one<b/>time</i><par n="maybe__adv"/></e>
     <e lm="at the same time"><i>at<b/>the<b/>same<b/>time</i><par n="maybe__adv"/></e>
     <e lm="at the side"><i>at<b/>the<b/>side</i><par n="maybe__adv"/></e>
