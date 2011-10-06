@@ -9576,10 +9576,10 @@
     <e r="RL" a="matxin"><p><l>zutitu<s n="vblex"/></l><r>bristle<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zutitu<s n="vblex"/></l><r>buck<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>correct<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
+    <e><p><l>zuzendu<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>aim<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>conduct<s n="vblex"/></r></p></e>
-    <e><p><l>zuzendu<s n="vblex"/></l><r>direct<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>direct<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>lead<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zuzendu<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zuzendu<s n="vblex"/></l><r>edit<s n="vblex"/></r></p></e>
