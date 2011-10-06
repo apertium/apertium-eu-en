@@ -403,6 +403,7 @@
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>inolako<s n="adj"/></l><r>any<s n="adj"/></r></p></e>
+    <e><p><l>punta-puntako<s n="adj"/></l><r>cutting-edge<s n="adj"/></r></p></e>
     <e><p><l>errepublikano<s n="adj"/></l><r>republican<s n="adj"/></r></p></e>
     <e><p><l>bera<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
     <e><p><l>aurren<s n="adj"/></l><r>first<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -659,6 +660,7 @@
     <e><p><l>elkarren<b/>ondoan<s n="adv"/></l><r>one<b/>beside<b/>the<b/>other<s n="adv"/></r></p></e>
     <e><p><l>erabat<s n="adv"/></l><r>at<b/>all<s n="adv"/></r></p></e>
     <e><p><l>erdian<s n="adv"/><s n="gen"/></l><r>between<s n="adv"/></r></p></e>
+    <e><p><l>erdi-erdian<s n="adv"/><s n="gen"/></l><r>in<b/>the<b/>middle<s n="adv"/></r></p></e>
     <e><p><l>erdira<s n="adv"/><s n="gen"/></l><r>by<b/>half<s n="adv"/></r></p></e>
     <e><p><l>erdiraino<s n="adv"/><s n="gen"/></l><r>halfway<s n="adv"/></r></p></e>
     <e><p><l>erdirantz<s n="adv"/><s n="gen"/></l><r>by<b/>half<s n="adv"/></r></p></e>
@@ -687,6 +689,7 @@
     <e><p><l>gogoz<s n="adv"/></l><r>willingly<s n="adv"/></r></p></e>
     <e><p><l>goitik<s n="adv"/><s n="gen"/></l><r>from<b/>above<s n="adv"/></r></p></e>
     <e><p><l>gorabehera<s n="adv"/></l><r>more<b/>or<b/>less<s n="adv"/></r></p></e>
+    <e><p><l>gora-behera<s n="adv"/></l><r>more<b/>or<b/>less<s n="adv"/></r></p></e>
     <e><p><l>goraino<s n="adv"/><s n="gen"/></l><r>to<b/>the<b/>top<s n="adv"/></r></p></e>
     <e><p><l>gutxi-asko<s n="adv"/></l><r>more<b/>or<b/>less<s n="adv"/></r></p></e>
     <e><p><l>gutxiegi<s n="adv"/></l><r>far<b/>too<b/>little<s n="adv"/></r></p></e>
@@ -1532,8 +1535,10 @@
     <e r="RL" a="matxin"><p><l>bizi-bizi<s n="adj"/><s n="izo"/></l><r>gaudy<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>bizi-bizi<s n="adj"/><s n="izo"/></l><r>lurid<s n="adj"/></r></p></e>
     <e r="RL"><p><l>bizidun<s n="adj"/></l><r>alive<s n="adj"/></r></p></e>
-    <e><p><l>bizidun<s n="adj"/></l><r>lively<s n="adj"/><s n="sint"/></r></p></e>
-    <e a="matxin"><p><l>bizidun<s n="adj"/><s n="izo"/></l><r>live<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>bizidun<s n="adj"/></l><r>lively<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bizidun<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
+    <e><p><l>ez-bizidun<s n="adj"/></l><r>non-living<s n="adj"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>bizidun<s n="adj"/><s n="izo"/></l><r>live<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>bizigabe<s n="adj"/><s n="izo"/></l><r>inanimate<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>bizigabe<s n="adj"/><s n="izo"/></l><r>inert<s n="adj"/></r></p></e>
     <e><p><l>bizigarri<s n="adj"/></l><r>stimulating<s n="adj"/></r></p></e>
@@ -2755,6 +2760,9 @@
     <e r="RL" a="matxin"><p><l>kirastu<s n="adj"/><s n="izo"/></l><r>rank<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>kirats<s n="adj"/></l><r>smelly<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>kiribil<s n="adj"/><s n="izo"/></l><r>spiral<s n="adj"/></r></p></e>
+    <e><p><l>galaxia<b/>kiribil<s n="n"/></l><r>spiral<b/>galaxy<s n="n"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>espiral-galaxia<s n="n"/></l><r>spiral<b/>galaxy<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>espiral<s n="adj"/><s n="izo"/></l><r>spiral<s n="adj"/></r></p></e>
     <e><p><l>kiroletako<s n="adj"/></l><r>sportive<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>kirrikatsu<s n="adj"/><s n="izo"/></l><r>crisp<s n="adj"/><s n="sint"/></r></p></e>
     <e a="matxin"><p><l>kirurgiko<s n="adj"/><s n="izo"/></l><r>surgical<s n="adj"/></r></p></e>
@@ -9908,6 +9916,8 @@
     <e><p><l>apezpikutza<s n="n"/></l><r>bishopric<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apiril<s n="n"/></l><r>April<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apologia<s n="n"/></l><r>apologia<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>alergia<s n="n"/></l><r>allergy<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>latex-alergia<s n="n"/></l><r>latex<b/>allergy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apostolu<s n="n"/></l><r>apostle<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apostu<s n="n"/></l><r>bet<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apustu<s n="n"/></l><r>bet<s n="n"/><s n="ND"/></r></p></e>
@@ -10244,6 +10254,7 @@
     <e r="RL"><p><l>erribera<s n="n"/></l><r>shore<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>flasko<s n="n"/></l><r>flask<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>germaniar<s n="n"/></l><r>germanic<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>franko-germaniar<s n="n"/></l><r>franco-german<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gerrillari<s n="n"/></l><r>guerrilla<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>franko<s n="n"/></l><r>franc<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>erribera<s n="n"/></l><r>bank<s n="n"/><s n="ND"/></r></p></e>
@@ -10278,6 +10289,7 @@
     <e><p><l>basamortu<s n="n"/></l><r>desert<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>basati<s n="n"/></l><r>savage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>base<s n="n"/></l><r>base<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>datu-base<s n="n"/></l><r>database<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>baserritar<s n="n"/></l><r>peasant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>basilika<s n="n"/></l><r>basilica<s n="n"/><s n="ND"/></r></p></e>
     <e slr="glass"><p><l>baso<s n="n"/></l><r>glass<s n="n"/><s n="ND"/></r></p></e>
@@ -11220,6 +11232,7 @@
     <e><p><l>estandarizazio<s n="n"/></l><r>standardisation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estanpa<s n="n"/></l><r>image<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estatu<s n="n"/></l><r>state<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>nazio-estatu<s n="n"/></l><r>nation<b/>state<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>estatu<s n="n"/></l><r>status<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>estatu-kolpe<s n="n"/></l><r>coup<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>estatua<s n="n"/></l><r>statue<s n="n"/><s n="ND"/></r></p></e>
@@ -11969,6 +11982,7 @@
     <e><p><l>immigrante<s n="n"/></l><r>immigrant<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>immigrazio<s n="n"/></l><r>immigration<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>immunitate-sistema<s n="n"/></l><r>immune<b/>system<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>nerbio-sistema<s n="n"/></l><r>nervous<b/>system<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>immunologia<s n="n"/></l><r>immunology<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inaugurazio<s n="n"/></l><r>inauguration<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inbasio<s n="n"/></l><r>invasion<s n="n"/><s n="ND"/></r></p></e>
@@ -13444,7 +13458,8 @@
     <e><p><l>parlamentu<s n="n"/></l><r>parliament<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>parrokia<s n="n"/></l><r>parish<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>parte<s n="n"/></l><r>part<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>parte-hartze<s n="n"/></l><r>intervention<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>esku-hartze<s n="n"/></l><r>intervention<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>esku<b/>hartze<s n="n"/></l><r>intervention<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>parte-hartze<s n="n"/></l><r>participation<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>parte-hartze<s n="n"/></l><r>share<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>parte-hartze<s n="n"/></l><r>stake<s n="n"/><s n="ND"/></r></p></e>
@@ -13823,6 +13838,7 @@
     <e><p><l>sorgin<s n="n"/></l><r>witch<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sorginkeria_desegite<s n="n"/></l><r>disenchantment<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sorkuntza<s n="n"/></l><r>creation<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>literatura-sorkuntza<s n="n"/></l><r>literary<b/>creation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>soropil<s n="n"/></l><r>lawn<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>sorospen<s n="n"/></l><r>succour<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sorrera<s n="n"/></l><r>birth<s n="n"/><s n="ND"/></r></p></e>
@@ -14257,6 +14273,7 @@
     <e><p><l>zigilu<s n="n"/></l><r>stamp<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>seilu<s n="n"/></l><r>stamp<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zigor<s n="n"/></l><r>punishment<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>heriotza-zigor<s n="n"/></l><r>death<b/>penalty<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>zigor<s n="n"/></l><r>sanction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zigortu<s n="n"/></l><r>convict<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>zikiratze<s n="n"/></l><r>castration<s n="n"/><s n="ND"/></r></p></e>

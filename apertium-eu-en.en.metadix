@@ -15731,6 +15731,7 @@
     <e lm="ally"><i>all</i><par n="bab/y__n"/>    </e>
     <e lm="allegation"><i>allegation</i><par n="house__n"/>    </e>
     <e lm="allergy"><i>allerg</i><par n="bab/y__n"/>    </e>
+    <e lm="latex allergy"><i>latex<b/>allerg</i><par n="bab/y__n"/>    </e>
     <e lm="alleviation"><i>alleviation</i><par n="house__n"/>    </e>
     <e lm="alley"><i>alley</i><par n="house__n"/>    </e>
     <e lm="alliance" a="doriua"><i>alliance</i><par n="house__n"/>    </e>
@@ -16308,6 +16309,7 @@
     <e lm="barrier"><i>barrier</i><par n="house__n"/>    </e>
     <e lm="basis"><i>bas</i><par n="analys/is__n"/>    </e>
     <e lm="base"><i>base</i><par n="house__n"/>    </e>
+    <e lm="database"><i>database</i><par n="house__n"/>    </e>
     <e lm="baseball"><i>baseball</i><par n="east__n"/>    </e>
     <e lm="basilica"><i>basilica</i><par n="house__n"/>    </e>
     <e lm="basket" a="doriua"><i>basket</i><par n="house__n"/>    </e>
@@ -17119,6 +17121,7 @@
     <e lm="crater"><i>crater</i><par n="house__n"/>    </e>
     <e lm="cream"><i>cream</i><par n="house__n"/>    </e>
     <e lm="creation"><i>creation</i><par n="house__n"/>    </e>
+    <e lm="literary creation"><i>literary<b/>creation</i><par n="house__n"/>    </e>
     <e lm="creativity"><i>creativit</i><par n="bab/y__n"/>    </e>
     <e lm="creator"><i>creator</i><par n="house__n"/>    </e>
     <e lm="creature"><i>creature</i><par n="house__n"/>    </e>
@@ -19677,6 +19680,7 @@
     <e lm="penis"><i>pen</i><par n="analys/is__n"/>    </e>
     <e lm="pen"><i>pen</i><par n="house__n"/>    </e>
     <e lm="penalty"><i>penalt</i><par n="bab/y__n"/>    </e>
+    <e lm="death penalty"><i>death<b/>penalt</i><par n="bab/y__n"/>    </e>
     <e lm="penance"><i>penance</i><par n="house__n"/>    </e>
     <e lm="pencil"><i>pencil</i><par n="house__n"/>    </e>
     <e lm="pendant"><i>pendant</i><par n="house__n"/>    </e>
@@ -20762,6 +20766,7 @@
     <e lm="faggot"><i>faggot</i><par n="house__n"/>    </e>
     <e lm="starvation"><i>starvation</i><par n="house__n"/>    </e>
     <e lm="state"><i>state</i><par n="house__n"/>    </e>
+    <e lm="nation state"><i>nation<b/>state</i><par n="house__n"/>    </e>
     <e lm="statement"><i>statement</i><par n="house__n"/>    </e>
     <e lm="statesman"><i>statesm</i><par n="m/an__n"/>    </e>
     <e lm="militiaman"><i>militiam</i><par n="m/an__n"/>    </e>
@@ -20926,6 +20931,7 @@
     <e lm="syrup"><i>syrup</i><par n="house__n"/>    </e>
     <e lm="system"><i>system</i><par n="house__n"/>    </e>
     <e lm="immune system"><i>immune<b/>system</i><par n="house__n"/>    </e>
+    <e lm="nervous system"><i>nervous<b/>system</i><par n="house__n"/>    </e>
     <e lm="2-3-5 system"><i>2-3-5<b/>system</i><par n="house__n"/></e>
     <e lm="4-2-4 system"><i>4-2-4<b/>system</i><par n="house__n"/></e>
     <e lm="4-4-2 system"><i>4-4-2<b/>system</i><par n="house__n"/></e>
@@ -21801,6 +21807,7 @@
     <e lm="Flemish"><p><l>Flemish</l><r>flemish</r></p><par n="expensive__adj"/></e>
     <e lm="French" c="MG: s'haurien de posar tots els gentilicis en min al monolingue, i en maj (com estan ara) al bilingüe, perquè en cas que el transfer en desmajusculitzi algun, no doni error"><p><l>French</l><r>french</r></p><par n="expensive__adj"/></e>
     <e lm="German"><p><l>German</l><r>german</r></p><par n="expensive__adj"/></e>
+    <e lm="Franco-German"><p><l>Franco-German</l><r>franco-german</r></p><par n="expensive__adj"/></e>
     <e lm="Gibraltarian"><p><l>Gibraltarian</l><r>gibraltarian</r></p><par n="expensive__adj"/></e>
     <e lm="Gothic"><p><l>Gothic</l><r>gothic</r></p><par n="expensive__adj"/></e>
     <e lm="Greek"><p><l>Greek</l><r>greek</r></p><par n="expensive__adj"/></e>
@@ -22213,6 +22220,7 @@
     <e lm="customary"><i>customary</i><par n="expensive__adj"/>    </e>
     <e lm="cutaneous"><i>cutaneous</i><par n="expensive__adj"/>    </e>
     <e lm="cutting"><i>cutting</i><par n="expensive__adj"/>    </e>
+    <e lm="cutting-edge"><i>cutting-edge</i><par n="expensive__adj"/>    </e>
     <e lm="daily"><i>daily</i><par n="expensive__adj"/>    </e>
     <e lm="dangerous"><i>dangerous</i><par n="expensive__adj"/>    </e>
     <e lm="dark"><i>dark</i><par n="long/__adj"/>    </e>
@@ -22731,6 +22739,7 @@
     <e lm="liturgical"><i>liturgical</i><par n="expensive__adj"/>    </e>
     <e lm="lively"><i>livel</i><par n="lovel/y__adj"/>    </e>
     <e lm="living"><i>living</i><par n="expensive__adj"/>    </e>
+    <e lm="non-living"><i>non-living</i><par n="expensive__adj"/>    </e>
     <e lm="local"><i>local</i><par n="expensive__adj"/>    </e>
     <e lm="logarithmic"><i>logarithmic</i><par n="expensive__adj"/>    </e>
     <e lm="logical"><i>logical</i><par n="expensive__adj"/>    </e>
