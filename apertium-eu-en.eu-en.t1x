@@ -401,6 +401,7 @@
 
     <def-attr n="a_verb">
       <attr-item tags="vblex"/>
+      <attr-item tags="vblex.sep"/>
       <attr-item tags="vbser"/>
       <attr-item tags="vbsint"/>
       <attr-item tags="vbhaver"/>
@@ -3209,10 +3210,16 @@
             <when>
               <test>
                 <not>
-                  <equal>
-                    <clip pos="1" side="sl" part="temps"/>
-                    <lit-tag v="imp"/>
-                  </equal>
+                  <or>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="imp"/>
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="inf"/>
+                    </equal>
+                  </or>
                 </not>
               </test>
               <out>
@@ -3240,16 +3247,24 @@
       <choose>
         <when>
           <test>
-            <equal>
-              <clip pos="1" side="tl" part="a_verb"/>
-              <lit-tag v="vblex.sep"/>
-            </equal>
+            <and>
+              <equal>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <lit-tag v="vblex.sep"/>
+              </equal>
+              <not>
+                <equal>
+                  <var n="objtags"/>
+                  <lit v=""/>
+                </equal>
+              </not>
+            </and>
           </test>
           <let>
             <var n="prn_enc"/>
             <concat>
               <lit v="+prpers"/>
-              <var n="subjtags"/>
+              <var n="objtags"/>
             </concat>
           </let>
           <let>
@@ -12907,6 +12922,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="verbal_flex">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="inf" case="caseFirstWord">
             <tags>
@@ -12918,6 +12936,7 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
+              <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>

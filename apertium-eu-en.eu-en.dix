@@ -7924,7 +7924,7 @@
     <e><p><l>itzali<s n="vblex"/></l><r>turn<g><b/>off</g><s n="vblex"/></r></p></e>
     <e slr="douse" a="matxin"><p><l>itzali<s n="vblex"/></l><r>douse<s n="vblex"/></r></p></e>
     <e slr="quench" a="matxin"><p><l>itzali<s n="vblex"/></l><r>quench<s n="vblex"/></r></p></e>
-    <e><p><l>itzuli<s n="vblex"/></l><r>give<g><b/>back</g><s n="vblex"/></r></p></e>
+    <e><p><l>itzuli<s n="vblex"/></l><r>give<g><b/>back</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e r="RL"><p><l>itzuli<s n="vblex"/></l><r>return<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>itzuli<s n="vblex"/></l><r>send<g><b/>back</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>itzuli<s n="vblex"/></l><r>translate<s n="vblex"/></r></p></e>
