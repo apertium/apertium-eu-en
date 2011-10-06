@@ -639,6 +639,8 @@
     <def-var n="subjtags"/>
     <def-var n="procltags"/>
     <def-var n="objtags"/>
+    <def-var n="prn_enc"/>
+    <def-var n="aux_verb"/>
     <def-var n="verbo"/>
     <def-var n="adverbio"/>
     <def-var n="lema"/>
@@ -2713,31 +2715,31 @@
             </or>
           </test>
            <choose>
-    <when>
-      <test>
-        <equal>
-          <clip pos="1" side="sl" part="temps"/>
-          <lit-tag v="prob1"/>
-        </equal>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="temps"/>
-        <lit-tag v="pri"/>
-      </let>
-    </when>
-    <when>
-      <test>
-        <equal>
-          <clip pos="1" side="sl" part="temps"/>
-          <lit-tag v="prob2"/>
-        </equal>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="temps"/>
-        <lit-tag v="past"/>
-      </let>
-    </when>
-  </choose>
+             <when>
+              <test>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="prob1"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pri"/>
+              </let>
+            </when>
+            <when>
+              <test>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="prob2"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="past"/>
+              </let>
+            </when>
+          </choose>
           <out>
             <chunk name="quiza" case="caseFirstWord">
               <tags>
@@ -2984,7 +2986,7 @@
                   <clip pos="1" side="sl" part="nork"/>
                   <lit-tag v="NK_NI"/>
                 </equal>
-              </test> <!-- Extra test for 'be' -->
+              </test>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p1.sg"/>
@@ -3219,11 +3221,127 @@
               <var n="caseSecondWord"/>
               <lit v="aa"/>
             </let>
-        </otherwise>
-        
+        </otherwise>       
       </choose>
 
+      <!-- handle object pronoun with separable verbs -->
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="vblex.sep"/>
+            </equal>
+          </test>
+          <let>
+            <var n="prn_enc"/>
+            <concat>
+              <lit v="+prpers"/>
+              <var n="subjtags"/>
+            </concat>
+          </let>
+          <let>
+            <var n="objtags"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <otherwise>
+          <let> 
+            <var n="prn_enc"/>
+            <lit v=""/>
+          </let>
+        </otherwise>
+      </choose>
+
+      <choose>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="onpr"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="cni"/>
+              </equal>
+            </or>
+          </test>
+          <let>
+            <var n="aux_verb"/>
+            <concat>
+              <lit v="^would"/>
+              <lit-tag v="vaux.inf"/>
+              <lit v="$ "/>
+            </concat>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="tags"/>
+            <concat>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+            </concat>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="persnbr"/>
+            <lit-tag v=""/>
+          </let>
+        </when>
+      </choose>
       
+    </def-macro>
+    <def-macro n="objdat_pron" npar="1">
+      <choose>
+        <when>
+          <test>
+            <not>
+              <equal>
+                <var n="objtags"/>
+                <lit v=""/>
+              </equal>
+            </not>
+          </test>
+          <out>
+            <b/>
+            <chunk name="prnobj" case="caseSecondWord">
+            <tags>
+              <tag><var n="objtags"/></tag>
+            </tags>
+              <lu>
+                <lit v="prpers"/>
+                <var n="objtags"/>
+              </lu>
+            </chunk>
+          </out>
+        </when>
+        <when>
+          <test>
+            <not>
+              <equal>
+                <var n="procltags"/>
+                <lit v=""/>
+              </equal>
+            </not>
+          </test>
+          <out>
+            <b/>
+            <chunk name="pr_datobj" case="caseSecondWord">
+            <tags>
+              <tag><var n="procltags"/></tag>
+            </tags>
+              <lu>
+                <lit v="to"/>
+                <lit-tag v="pr"/>
+              </lu>
+              <b/>
+              <lu>
+                <lit v="prpers"/>
+                <var n="procltags"/>
+              </lu>
+            </chunk>
+          </out>
+        </when>
+      </choose>
     </def-macro>
 
     <def-macro n="ser_tener" npar="2"><!--ser o tener, esta es la cuestión :-)
@@ -11956,20 +12074,6 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
           </otherwise>
         </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="1" side="tl" part="temps"/>
-                <lit-tag v="onpr"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="cni"/>
-            </let>
-          </when>
-        </choose>
         <out>
           <chunk namefrom="verbo" case="caseSecondWord">
             <tags>
@@ -11981,15 +12085,20 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><clip pos="1" side="sl" part="nori"/></tag>
               <tag><clip pos="1" side="sl" part="nork"/></tag>
             </tags>
+            <var n="aux_verb"/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
               <clip pos="1" side="tl" part="persnbr"/>
+              <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
+        <call-macro n="objdat_pron">
+          <with-param pos="1"/>
+        </call-macro>
       </action>
     </rule>
     <rule comment="REGLA: lakoan egon - I think...">
