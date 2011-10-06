@@ -3205,22 +3205,34 @@
               </let>
             </when>
           </choose>
-            <out>
-              <chunk name="prnsubj" case="caseFirstWord">
-                <tags>
-                  <tag><var n="subjtags"/></tag>
-                </tags>
-                <lu>
-                  <lit v="prpers"/>
-                  <var n="subjtags"/>
-                </lu>
-              </chunk>
-              <b/>
-            </out>
-            <let>
-              <var n="caseSecondWord"/>
-              <lit v="aa"/>
-            </let>
+          <choose> <!-- no pronoun for imperative -->
+            <when>
+              <test>
+                <not>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="imp"/>
+                  </equal>
+                </not>
+              </test>
+              <out>
+                <chunk name="prnsubj" case="caseFirstWord">
+                  <tags>
+                    <tag><var n="subjtags"/></tag>
+                  </tags>
+                  <lu>
+                    <lit v="prpers"/>
+                    <var n="subjtags"/>
+                  </lu>
+                </chunk>
+                <b/>
+              </out>
+              <let>
+                <var n="caseSecondWord"/>
+                <lit v="aa"/>
+              </let>
+            </when>
+          </choose>
         </otherwise>       
       </choose>
 
@@ -3274,6 +3286,56 @@
               <lit-tag v="vaux.inf"/>
               <lit v="$ "/>
             </concat>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="tags"/>
+            <concat>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+            </concat>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="persnbr"/>
+            <lit-tag v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="fti"/>
+            </equal>
+          </test>
+          <let>
+            <var n="aux_verb"/>
+            <concat>
+              <lit v="^will"/>
+              <lit-tag v="vaux.inf"/>
+              <lit v="$ "/>
+            </concat>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="tags"/>
+            <concat>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+            </concat>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="persnbr"/>
+            <lit-tag v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="imp"/>
+            </equal>
+          </test>
+          <let>
+            <var n="aux_verb"/>
+            <lit v=""/>
           </let>
           <let>
             <clip pos="1" side="tl" part="tags"/>
