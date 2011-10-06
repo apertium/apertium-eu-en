@@ -369,7 +369,8 @@
     <e><p><l>hurbiletik<s n="adv"/></l><r>closely<s n="adv"/></r></p></e>
     <e><p><l>pean<s n="post"/></l><r>under<s n="pr"/></r></p></e>
     <e r="RL"><p><l>pean<s n="post"/></l><r>below<s n="pr"/></r></p></e>
-    <e><p><l>ra<s n="post"/></l><r>at<s n="pr"/></r></p></e>
+    <e><p><l>ra<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>ra<s n="post"/></l><r>at<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/></l><r>into<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/></l><r>onto<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/></l><r>to<s n="pr"/></r></p></e>
@@ -7391,7 +7392,8 @@
     <e a="matxin"><p><l>goraipatu<s n="vblex"/></l><r>acclaim<s n="vblex"/></r></p></e>
     <e><p><l>goratu<s n="vblex"/></l><r>heave<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gorde<s n="vblex"/></l><r>save<s n="vblex"/></r></p></e>
-    <e><p><l>gorde<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>
+    <e><p><l>gorde<s n="vblex"/></l><r>store<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>gorde<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gorde<s n="vblex"/></l><r>book<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>gorde<s n="vblex"/></l><r>reserve<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gorde<s n="vblex"/></l><r>guard<s n="vblex"/></r></p></e>
@@ -10787,7 +10789,7 @@
     <e a="matxin"><p><l>egarri<s n="n"/></l><r>thirst<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egia<s n="n"/></l><r>truth<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>egiaztagiri<s n="n"/></l><r>certificate<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL" a="matxin"><p><l>egiaztagiri<s n="n"/></l><r>warrant<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>egiaztagiri5A5A5A<s n="n"/></l><r>warrant<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>egiaztapen<s n="n"/></l><r>certification<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>egile<s n="n"/></l><r>author<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>eginbehar<s n="n"/></l><r>duty<s n="n"/><s n="ND"/></r></p></e>
@@ -11504,7 +11506,7 @@
     <e><p><l>garapen<s n="n"/></l><r>development<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>garapen<s n="n"/></l><r>uncoiling<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garatzaile<s n="n"/></l><r>developer<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>garbitasun<s n="n"/></l><r>cleaning<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>garbitasun<s n="n"/></l><r>purity<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>garezur<s n="n"/></l><r>skull<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gari<s n="n"/></l><r>wheat<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>garondo<s n="n"/></l><r>nape<s n="n"/><s n="ND"/></r></p></e>
@@ -13246,6 +13248,7 @@
     <e><p><l>normalizazio<s n="n"/></l><r>normalisation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>normaltasun<s n="n"/></l><r>normality<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nortasun<s n="n"/></l><r>personality<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>nortasun<b/>agiri<s n="n"/></l><r>identity<b/>document<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nostalgia<s n="n"/></l><r>nostalgia<s n="n"/><s n="ND"/></r></p></e>
     <e slr="grade"><p><l>nota<s n="n"/></l><r>grade<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nota<s n="n"/></l><r>note<s n="n"/><s n="ND"/></r></p></e>
@@ -13727,6 +13730,7 @@
     <e r="RL"><p><l>sail<s n="n"/></l><r>pool<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sailburu<s n="n"/></l><r>adviser<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sailkapen<s n="n"/></l><r>classification<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>politika<b/>orokorreko<b/>saio<s n="n"/></l><r>general<b/>policy<b/>debate<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>saio<s n="n"/></l><r>attempt<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sakabanaketa<s n="n"/></l><r>dispersion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>sakela<s n="n"/></l><r>pocket<s n="n"/><s n="ND"/></r></p></e>

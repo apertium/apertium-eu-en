@@ -17212,6 +17212,7 @@
     <e lm="dean"><i>dean</i><par n="house__n"/>    </e>
     <e lm="death"><i>death</i><par n="house__n"/>    </e>
     <e lm="debate"><i>debate</i><par n="house__n"/>    </e>
+    <e lm="general policy debate"><i>general<b/>policy<b/>debate</i><par n="house__n"/>    </e>
     <e lm="debit"><i>debit</i><par n="house__n"/>    </e>
     <e lm="debt"><i>debt</i><par n="house__n"/>    </e>
     <e lm="debtor"><i>debtor</i><par n="house__n"/>    </e>
@@ -17462,6 +17463,7 @@
     <e lm="doctor"><i>doctor</i><par n="house__n"/>    </e>
     <e lm="doctorate"><i>doctorate</i><par n="house__n"/>    </e>
     <e lm="doctrine"><i>doctrine</i><par n="house__n"/>    </e>
+    <e lm="identity document"><i>identity<b/>document</i><par n="house__n"/>    </e>
     <e lm="document"><i>document</i><par n="house__n"/>    </e>
     <e lm="documentalist"><i>documentalist</i><par n="house__n"/>    </e>
     <e lm="documentary"><i>documentar</i><par n="bab/y__n"/>    </e>
