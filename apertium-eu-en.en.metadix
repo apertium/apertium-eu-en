@@ -33033,6 +33033,7 @@
 <e lm="media"><i>media</i><par n="politics__n"/></e>
 
 <e lm="(x) metres above sea level"><re>[0-9]+([.,\-][0-9]+)?</re><i><b/>metres<b/>above<b/>sea<b/>level</i><par n="maybe__adv"/></e>
+<e lm="(x)m above sea level"><re>[0-9]+([.,\-][0-9]+)?</re><i>m<b/>above<b/>sea<b/>level</i><par n="maybe__adv"/></e>
 <e lm="(x) kilometres per hour"><re>[0-9]+</re><i><b/>kilometres<b/>per<b/>hour</i><par n="maybe__adv"/>    </e>
 <e lm="(x)th century (AD|BC)"><par n="ordinals-century"/><i><b/>century</i><par n="BC"/><i/><par n="east__n"/></e>
 <e lm="(x)th and (y)th centuries (AD|BC)"><par n="ordinals-century"/><i><b/>and<b/></i><par n="ordinals-century"/><i><b/>centuries</i><par n="BC"/><i/><par n="personnel__n"/></e>

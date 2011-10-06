@@ -14600,6 +14600,61 @@
     <r><b/>metres<b/>above<b/>sea<b/>level<s n="adv"/></r>
   </p>
 </e>
+<e>
+  <p>
+    <l>itsas-mailatik<b/></l>
+    <r></r>
+  </p>
+  <re>[0-9]+([.,\-][0-9]+)?</re>
+  <p>
+    <l><b/>metro<b/>gorago<s n="adv"/></l>
+    <r><b/>metres<b/>above<b/>sea<b/>level<s n="adv"/></r>
+  </p>
+</e>
+<e>
+  <p>
+    <l>itsas<b/>mailatik<b/></l>
+    <r></r>
+  </p>
+  <re>[0-9]+([.,\-][0-9]+)?</re>
+  <p>
+    <l><b/>metrora<s n="adv"/></l>
+    <r><b/>metres<b/>above<b/>sea<b/>level<s n="adv"/></r>
+  </p>
+</e>
+<e>
+  <p>
+    <l>itsas-mailatik<b/></l>
+    <r></r>
+  </p>
+  <re>[0-9]+([.,\-][0-9]+)?</re>
+  <p>
+    <l><b/>metrora<s n="adv"/></l>
+    <r><b/>metres<b/>above<b/>sea<b/>level<s n="adv"/></r>
+  </p>
+</e>
+<e>
+  <p>
+    <l>itsas<b/>mailatik<b/></l>
+    <r></r>
+  </p>
+  <re>[0-9]+([.,\-][0-9]+)?</re>
+  <p>
+    <l><b/>mra<s n="adv"/></l>
+    <r>m<b/>above<b/>sea<b/>level<s n="adv"/></r>
+  </p>
+</e>
+<e>
+  <p>
+    <l>itsas-mailatik<b/></l>
+    <r></r>
+  </p>
+  <re>[0-9]+([.,\-][0-9]+)?</re>
+  <p>
+    <l><b/>mra<s n="adv"/></l>
+    <r>m<b/>above<b/>sea<b/>level<s n="adv"/></r>
+  </p>
+</e>
 <e c="hic sunt dracones!">
   <par n="arabic-roman-ord"/>
   <p>
