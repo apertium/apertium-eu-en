@@ -16379,7 +16379,6 @@
     <e lm="bin"><i>bin</i><par n="house__n"/>    </e>
     <e lm="binoculars"><i>binoculars</i><par n="personnel__n"/>    </e>
     <e lm="poor"><i>poor</i><par n="personnel__n"/>    </e>
-    <e lm="Jewish"><i>Jewish</i><par n="personnel__n"/>    </e>
     <e lm="biography"><i>biograph</i><par n="bab/y__n"/>    </e>
     <e lm="biographer"><i>biographer</i><par n="house__n"/>    </e>
     <e lm="nothing"><i>nothing</i><par n="house__n"/>    </e>
@@ -20729,6 +20728,9 @@
     <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
+    <e lm="file system"><i>file<b/>system</i><par n="house__n"/>    </e>
+    <e lm="solar system"><i>solar<b/>system</i><par n="house__n"/>    </e>
+    <e lm="sea level"><i>sea<b/>level</i><par n="house__n"/>    </e>
     <e lm="fruit gathering"><i>fruit<b/>gathering</i><par n="house__n"/>    </e>
     <e lm="tax collecting"><i>tax<b/>collecting</i><par n="house__n"/>    </e>
     <e lm="water current"><i>water<b/>current</i><par n="house__n"/>    </e>
@@ -21820,6 +21822,7 @@
     <e lm="French" c="MG: s'haurien de posar tots els gentilicis en min al monolingue, i en maj (com estan ara) al bilingüe, perquè en cas que el transfer en desmajusculitzi algun, no doni error"><p><l>French</l><r>french</r></p><par n="expensive__adj"/></e>
     <e lm="German"><p><l>German</l><r>german</r></p><par n="expensive__adj"/></e>
     <e lm="Franco-German"><p><l>Franco-German</l><r>franco-german</r></p><par n="expensive__adj"/></e>
+    <e lm="Judeo-Christian"><p><l>Judeo-Christian</l><r>judeo-christian</r></p><par n="expensive__adj"/></e>
     <e lm="Gibraltarian"><p><l>Gibraltarian</l><r>gibraltarian</r></p><par n="expensive__adj"/></e>
     <e lm="Gothic"><p><l>Gothic</l><r>gothic</r></p><par n="expensive__adj"/></e>
     <e lm="Greek"><p><l>Greek</l><r>greek</r></p><par n="expensive__adj"/></e>
@@ -21837,6 +21840,7 @@
     <e lm="Jamaican"><p><l>Jamaican</l><r>jamaican</r></p><par n="expensive__adj"/></e>
     <e lm="Japanese"><p><l>Japanese</l><r>japanese</r></p><par n="expensive__adj"/></e>
     <e lm="Jewish"><p><l>Jewish</l><r>jewish</r></p><par n="expensive__adj"/></e>
+    <e lm="Jewish"><p><l>Jewish</l><r>jewish</r></p><par n="personnel__n"/></e>
     <e lm="Jordanian"><p><l>Jordanian</l><r>jordanian</r></p><par n="expensive__adj"/></e>
     <e lm="Kenyan"><p><l>Kenyan</l><r>kenyan</r></p><par n="expensive__adj"/></e>
     <e lm="Korean"><p><l>Korean</l><r>korean</r></p><par n="expensive__adj"/></e>
@@ -27730,6 +27734,7 @@
     <e lm="at night"><i>at<b/>night</i><par n="maybe__adv"/></e>
     
     <e lm="and"><i>and</i><par n="and__cnjcoo"/>    </e>
+    <e lm="and/or"><i>and/or</i><par n="and__cnjcoo"/>    </e>
     <e lm="both"><i>both</i><par n="and__cnjcoo"/>    </e>
     <e lm="but"><i>but</i><par n="and__cnjcoo"/>    </e>
     <e lm="but rather"><i>but<b/>rather</i><par n="and__cnjcoo"/>    </e>
@@ -33027,6 +33032,7 @@
 <e lm="Wales"><i>Wales</i><par n="Barcelona__np"/>    </e>
 <e lm="media"><i>media</i><par n="politics__n"/></e>
 
+<e lm="(x) metres above sea level"><re>[0-9]+([.,\-][0-9]+)?</re><i><b/>metres<b/>above<b/>sea<b/>level</i><par n="maybe__adv"/></e>
 <e lm="(x) kilometres per hour"><re>[0-9]+</re><i><b/>kilometres<b/>per<b/>hour</i><par n="maybe__adv"/>    </e>
 <e lm="(x)th century (AD|BC)"><par n="ordinals-century"/><i><b/>century</i><par n="BC"/><i/><par n="east__n"/></e>
 <e lm="(x)th and (y)th centuries (AD|BC)"><par n="ordinals-century"/><i><b/>and<b/></i><par n="ordinals-century"/><i><b/>centuries</i><par n="BC"/><i/><par n="personnel__n"/></e>

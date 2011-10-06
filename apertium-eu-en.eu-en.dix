@@ -4332,7 +4332,9 @@
     <e><p><l>edo<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>edota<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>eta<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>edo-eta<s n="cnjcoo"/></l><r>and/or<s n="cnjcoo"/></r></p></e>
 
+    <e><p><l>aldian-aldian<s n="adv"/></l><r>from<b/>time<b/>to<b/>time<s n="adv"/></r></p></e>
     <e><p><l>adi<s n="adv"/></l><r>attentively<s n="adv"/></r></p></e>
     <e><p><l>adibidez<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
     <e><p><l>adinaren<b/>lorean<s n="adv"/></l><r>in<b/>the<b/>prime<b/>of<b/>life<s n="adv"/></r></p></e>
@@ -9932,6 +9934,8 @@
     <e><p><l>saski<s n="n"/></l><r>basket<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ogi-saski<s n="n"/></l><r>bread<b/>basket<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>santutegi<s n="n"/></l><r>sanctuary<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>fitxategi-sistema<s n="n"/></l><r>file<b/>system<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>eguzki-sistema<s n="n"/></l><r>solar<b/>system<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apologia<s n="n"/></l><r>apologia<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>alergia<s n="n"/></l><r>allergy<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>latex-alergia<s n="n"/></l><r>latex<b/>allergy<s n="n"/><s n="ND"/></r></p></e>
@@ -12899,6 +12903,7 @@
     <e><p><l>mahuka<s n="n"/></l><r>sleeve<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>maiatz<s n="n"/></l><r>May<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>maila<s n="n"/></l><r>level<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>itsas-maila<s n="n"/></l><r>sea<b/>level<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>mailegu<s n="n"/></l><r>loan<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>maiordomo<s n="n"/></l><r>majordomo<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>mairu<s n="n"/></l><r>Muslim<s n="n"/><s n="ND"/></r></p></e>
@@ -14189,6 +14194,7 @@
     <e a="matxin"><p><l>xerra<s n="n"/></l><r>slice<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>xiita<s n="n"/></l><r>shiite<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>xiita<s n="adj"/></l><r>shiite<s n="adj"/></r></p></e>
+    <e><p><l>judu-kristau<s n="adj"/></l><r>judeo-christian<s n="adj"/></r></p></e>
     <e><p><l>sozialdemokrata<s n="adj"/></l><r>social<b/>democrat<s n="adj"/></r></p></e>
     <e><p><l>vatikanoar<s n="adj"/></l><r>vatican<s n="adj"/></r></p></e>
     <e><p><l>turistiko<s n="adj"/></l><r>touristic<s n="adj"/></r></p></e>
@@ -14583,6 +14589,17 @@
   </section>
   <section id="regex" type="standard">
 
+<e>
+  <p>
+    <l>itsas<b/>mailatik<b/></l>
+    <r></r>
+  </p>
+  <re>[0-9]+([.,\-][0-9]+)?</re>
+  <p>
+    <l><b/>metro<b/>gorago<s n="adv"/></l>
+    <r><b/>metres<b/>above<b/>sea<b/>level<s n="adv"/></r>
+  </p>
+</e>
 <e c="hic sunt dracones!">
   <par n="arabic-roman-ord"/>
   <p>
