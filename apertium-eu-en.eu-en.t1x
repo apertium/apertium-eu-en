@@ -3240,43 +3240,6 @@
         </when>
       </choose>
 
-      <!-- handle object pronoun with separable verbs -->
-      <choose>
-        <when>
-          <test>
-            <and>
-              <equal>
-                <clip pos="1" side="tl" part="a_verb"/>
-                <lit-tag v="vblex.sep"/>
-              </equal>
-              <not>
-                <equal>
-                  <var n="objtags"/>
-                  <lit v=""/>
-                </equal>
-              </not>
-            </and>
-          </test>
-          <let>
-            <var n="prn_enc"/>
-            <concat>
-              <lit v="+prpers"/>
-              <var n="objtags"/>
-            </concat>
-          </let>
-          <let>
-            <var n="objtags"/>
-            <lit v=""/>
-          </let>
-        </when>
-        <otherwise>
-          <let> 
-            <var n="prn_enc"/>
-            <lit v=""/>
-          </let>
-        </otherwise>
-      </choose>
-
       <choose>
         <when>
           <test>
@@ -3482,8 +3445,47 @@
           </let>
         </when>
       </choose>
-      
     </def-macro>
+
+    <def-macro n="sep_pron" npar="1">
+      <!-- handle object pronoun with separable verbs -->
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <lit-tag v="vblex.sep"/>
+              </equal>
+              <not>
+                <equal>
+                  <var n="objtags"/>
+                  <lit v=""/>
+                </equal>
+              </not>
+            </and>
+          </test>
+          <let>
+            <var n="prn_enc"/>
+            <concat>
+              <lit v="+prpers"/>
+              <var n="objtags"/>
+            </concat>
+          </let>
+          <let>
+            <var n="objtags"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <otherwise>
+          <let> 
+            <var n="prn_enc"/>
+            <lit v=""/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+
     <def-macro n="objdat_pron" npar="1">
       <choose>
         <when>
@@ -12237,6 +12239,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="verbal_flex">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="sep_pron">
+          <with-param pos="1"/>
+        </call-macro>
         <choose>
           <when>
             <test>
@@ -12307,6 +12312,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         <call-macro n="verbal_flex">
           <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="sep_pron">
+          <with-param pos="1"/>
         </call-macro>
         <let>
           <clip pos="2" side="tl" part="lem"/>
