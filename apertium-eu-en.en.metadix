@@ -26740,6 +26740,7 @@
     <e lm="annoy" a="ebenimeli"><i>annoy</i><par n="enjoy__vblex"/>    </e>
     <e lm="breach" a="ebenimeli"><i>breach</i><par n="approach__vblex"/>    </e>
     <e lm="be hungry"><par n="/be__vblex"/>      <p>        <l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
+    <e lm="be afraid"><par n="/be__vblex"/>      <p>        <l><b/>afraid</l><r><g><b/>afraid</g></r></p></e>
     <e lm="be in love"><par n="/be__vblex"/>      <p>        <l><b/>in<b/>love</l><r><g><b/>in<b/>love</g></r></p></e>
     <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/>      <p>        <l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
     <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/>      <p>        <l><b/>cash</l><r><g><b/>cash</g></r></p></e>

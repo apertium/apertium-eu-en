@@ -6132,7 +6132,8 @@
     <e a="matxin"><p><l>belar_txarrak_kendu<s n="vblex"/></l><r>weed<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>belaunez_jo<s n="vblex"/></l><r>knee<s n="vblex"/></r></p></e>
     <e c="MG: reflexivo"><p><l>belaunikatu<s n="vblex"/></l><r>kneel<s n="vblex"/></r></p></e>
-    <e><p><l>beldur<b/>izan<s n="vbper"/></l><r>fear<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>beldur<b/>izan<s n="vbper"/></l><r>fear<s n="vblex"/></r></p></e>
+    <e><p><l>beldur<b/>izan<s n="vbper"/></l><r>be<g><b/>afraid</g><s n="vblex"/></r></p></e>
     <e><p><l>beldurtu<s n="vblex"/></l><r>alarm<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>beldurtu<s n="vblex"/></l><r>cow<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>beldurtu<s n="vblex"/></l><r>intimidate<s n="vblex"/></r></p></e>
