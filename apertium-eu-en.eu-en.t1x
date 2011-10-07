@@ -3203,41 +3203,41 @@
               </let>
             </when>
           </choose>
-          <choose> <!-- no pronoun for imperative -->
-            <when>
-              <test>
-                <not>
-                  <or>
-                    <equal>
-                      <clip pos="1" side="sl" part="temps"/>
-                      <lit-tag v="imp"/>
-                    </equal>
-                    <equal>
-                      <clip pos="1" side="sl" part="temps"/>
-                      <lit-tag v="inf"/>
-                    </equal>
-                  </or>
-                </not>
-              </test>
-              <out>
-                <chunk name="prnsubj" case="caseFirstWord">
-                  <tags>
-                    <tag><var n="subjtags"/></tag>
-                  </tags>
-                  <lu>
-                    <lit v="prpers"/>
-                    <var n="subjtags"/>
-                  </lu>
-                </chunk>
-                <b/>
-              </out>
-              <let>
-                <var n="caseSecondWord"/>
-                <lit v="aa"/>
-              </let>
-            </when>
-          </choose>
         </otherwise>       
+      </choose>
+      <choose> <!-- no pronoun for imperative -->
+        <when>
+          <test>
+            <not>
+              <or>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="imp"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="inf"/>
+                </equal>
+              </or>
+            </not>
+          </test>
+          <out>
+            <chunk name="prnsubj" case="caseFirstWord">
+              <tags>
+                <tag><var n="subjtags"/></tag>
+              </tags>
+              <lu>
+                <lit v="prpers"/>
+                <var n="subjtags"/>
+              </lu>
+            </chunk>
+            <b/>
+          </out>
+          <let>
+            <var n="caseSecondWord"/>
+            <lit v="aa"/>
+          </let>
+        </when>
       </choose>
 
       <!-- handle object pronoun with separable verbs -->
