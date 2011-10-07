@@ -402,6 +402,7 @@
     <def-attr n="a_verb">
       <attr-item tags="vblex"/>
       <attr-item tags="vblex.sep"/>
+      <attr-item tags="vaux"/>
       <attr-item tags="vbser"/>
       <attr-item tags="vbsint"/>
       <attr-item tags="vbhaver"/>
@@ -2905,22 +2906,18 @@
                 <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
-            <!--   <when>
-                 <test>
-                 <equal> 
-                 <clip pos="1" side="sl" part="nor"/>
-                 <lit-tag v="NR_HU"/>
-                 </equal>
-                 </test>
-                 <let>
-                 <var n="procl"/>
-                 <lit v="le"/>
-                 </let>
-                 <let>
-                 <var n="procltags"/>
-                 <lit-tag v="prn.pro.p3.mf.sg"/>
-                 </let>
-                 </when> -->
+<!--            <when>
+              <test>
+                <equal> 
+                  <clip pos="1" side="sl" part="nor"/>
+                  <lit-tag v="NR_HU"/>
+                </equal>
+              </test>
+              <let>
+                <var n="procltags"/>
+                <lit-tag v="prn.obj.p3.nt.sg"/>
+              </let>
+            </when>-->
             <when>
               <test>
                 <equal> 
@@ -2945,22 +2942,18 @@
                 <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
-            <!--   <when>
-                 <test>
-                 <equal> 
-                 <clip pos="1" side="sl" part="nor"/>
-                 <lit-tag v="NR_HK"/>
-                 </equal>
-                 </test>
-                 <let>
-                 <var n="procl"/>
-                 <lit v="le"/>
-                 </let>
-                 <let>
-                 <var n="procltags"/>
-                 <lit-tag v="prn.pro.p3.mf.pl"/>
-                 </let>
-                 </when> -->
+<!--            <when>
+              <test>
+                <equal> 
+                  <clip pos="1" side="sl" part="nor"/>
+                  <lit-tag v="NR_HK"/>
+                </equal>
+              </test>
+              <let>
+                <var n="procltags"/>
+                <lit-tag v="prn.obj.p3.mf.pl"/>
+              </let>
+            </when>-->
           </choose>
         </when>
         <otherwise>
@@ -2989,6 +2982,10 @@
                 </equal>
               </test>
               <let>
+                <var n="subjtags"/>
+                <lit-tag v="prn.subj.p1.mf.sg"/>
+              </let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p1.sg"/>
               </let>
@@ -3004,10 +3001,10 @@
                 <var n="subjtags"/>
                 <lit-tag v="prn.subj.p2.mf.sp"/>
               </let>
-              <!--<let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p2.sg"/>
-              </let>-->
+              </let>
             </when>
             <when>
               <test>
@@ -3020,10 +3017,10 @@
                 <var n="subjtags"/>
                 <lit-tag v="prn.subj.p2.mf.sp"/>
               </let>
-              <!--<let>
+              <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v="p2.sg"/>
-              </let>-->
+              </let>
             </when>
             <when>
               <test>
@@ -3034,7 +3031,7 @@
               </test>
               <let> <!-- make this configurable -->
                 <var n="subjtags"/>
-                <lit-tag v="prn.subj.p3.m.sg"/>
+                <lit-tag v="prn.subj.p3.nt.sg"/>
               </let>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
@@ -3286,11 +3283,131 @@
             <or>
               <equal>
                 <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pri"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pres"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="potpr"/>
+              </equal>
+            </or>
+          </test>
+          <choose>
+            <when>
+              <test>
+                <or>
+                  <equal>
+                    <clip pos="1" side="tl" part="persnbr"/>
+                    <lit-tag v="p3.sg"/>
+                  </equal>
+                  <and>
+                    <equal>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <lit v="be"/>
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="tl" part="persnbr"/>
+                      <lit-tag v="p1.sg"/>
+                    </equal>
+                  </and>
+                </or>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pri"/>
+              </let>
+            </when>
+            <otherwise>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pres"/>
+              </let>
+              <let>
+                <clip pos="1" side="tl" part="persnbr"/>
+                <lit-tag v=""/>
+              </let>
+            </otherwise>
+          </choose>
+          <let>
+            <var n="aux_verb"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="past"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pii"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pis"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="potps"/>
+              </equal>
+            </or>
+          </test>
+          <choose>
+            <when>
+              <test>
+                <not>
+                  <or>
+                    <equal>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <lit v="be"/>
+                    </equal>
+                    <and>
+                      <equal>
+                        <clip pos="1" side="tl" part="persnbr"/>
+                        <lit-tag v="p3.sg"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="tl" part="persnbr"/>
+                        <lit-tag v="p1.sg"/>
+                      </equal>
+                    </and>
+                  </or>
+                </not>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="persnbr"/>
+                <lit-tag v=""/>
+              </let>
+            </when>
+          </choose>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit v="past"/>
+          </let>
+          <let>
+            <var n="aux_verb"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="onpr"/>
               </equal>
               <equal>
                 <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="cni"/>
+              </equal>
+              <equal> <!-- FIXME: double check -->
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="poth"/>
               </equal>
             </or>
           </test>
@@ -3449,7 +3566,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
             <let>
               <clip pos="1" side="tl" part="a_verb"/>
-              <lit-tag v="vblex"/>
+              <lit-tag v="vbhaver"/>
             </let>
           </when>
         </choose>
@@ -12086,7 +12203,7 @@ It could be extended to other cases, to deal with the differences in the transla
           </when>
         </choose>
         <out>
-          <chunk name="vbconj" case="caseFirstWord">
+          <chunk name="vbconj" case="caseSecondWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="1" side="tl" part="a_verb"/></tag>
@@ -12097,14 +12214,15 @@ It could be extended to other cases, to deal with the differences in the transla
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
-              <!--<clip pos="1" side="tl" part="a_verb"/>-->
-              <lit-tag v="vaux"/>
+              <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
-              <!--<clip pos="1" side="tl" part="persnbr"/>-->
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
+        <call-macro n="objdat_pron">
+          <with-param pos="1"/>
+        </call-macro>
       </action>
     </rule>
 
@@ -12198,20 +12316,6 @@ It could be extended to other cases, to deal with the differences in the transla
           <clip pos="2" side="tl" part="a_verb"/>
           <lit-tag v="vblex"/>
         </let>
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="temps"/>
-                <lit-tag v="onpr"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="2" side="tl" part="temps"/>
-              <lit-tag v="cni"/>
-            </let>
-          </when>
-        </choose>
         <out>
           <chunk name="lakoan_egon" case="caseSecondWord">
             <tags>
@@ -12228,14 +12332,16 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="2" side="tl" part="a_verb"/>
               <clip pos="2" side="tl" part="temps"/>
               <clip pos="2" side="tl" part="persnbr"/>
+              <var n="prn_enc"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
+        <call-macro n="objdat_pron">
+          <with-param pos="1"/>
+        </call-macro>
       </action>
     </rule>
-
-
 
 
     <rule comment="REGLA: VERBO PERIFRÁSTICO (nahi dut)">
@@ -12264,10 +12370,14 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
               <clip pos="1" side="tl" part="persnbr"/>
+              <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
+        <call-macro n="objdat_pron">
+          <with-param pos="1"/>
+        </call-macro>
       </action>
     </rule>
 
@@ -12282,31 +12392,29 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-        <call-macro n="ser_tener">
-          <with-param pos="1"/>
+        <call-macro n="verbal_flex">
           <with-param pos="2"/>
         </call-macro>
-        <let>
-          <clip pos="2" side="tl" part="lem"/>
-          <lit v="have"/>
-        </let>
-        <let>
-          <clip pos="2" side="tl" part="a_verb"/>
-          <lit-tag v="vbhaver"/>
-        </let>
-        <call-macro n="verbal_flex">
+        <call-macro n="ser_tener">
+          <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="2" side="tl" part="temps"/>
-                <lit-tag v="pri"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <lit-tag v="pri"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <lit-tag v="pres"/>
+                </equal>
+              </or>
             </test>
             <out>
-              <chunk name="vbconj" case="caseSecondWord">
+              <chunk name="have_pp" case="caseSecondWord">
                 <tags>
                   <tag><lit-tag v="SV"/></tag>
                   <tag><clip pos="2" side="tl" part="a_verb"/></tag>
@@ -12364,6 +12472,9 @@ It could be extended to other cases, to deal with the differences in the transla
             </out>
             <call-macro n="f_bcond">
               <with-param pos="1"/>
+            </call-macro>
+            <call-macro n="objdat_pron">
+              <with-param pos="2"/>
             </call-macro>
           </when>
         </choose>
@@ -12723,18 +12834,6 @@ It could be extended to other cases, to deal with the differences in the transla
               <lit-tag v="cni"/>
             </let>
           </when>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="temps"/>
-                <lit-tag v="onpr"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="cni"/>
-            </let>
-          </when>
         </choose>
         <out>
           <chunk name="vbconj" case="caseSecondWord">
@@ -12837,7 +12936,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: GER + ARI IZAN (prestatzen ari gara - estamos preparando)">
+    <rule comment="REGLA: GER + ARI IZAN (prestatzen ari gara - we are preparing)">
       <pattern>
         <pattern-item n="ger"/>
         <pattern-item n="ari_izan"/>
@@ -12850,7 +12949,7 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="2"/>
         </call-macro>
         <out> 
-          <chunk name="estar_ger" case="caseSecondWord">
+          <chunk name="be_ger" case="caseSecondWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="1" side="tl" part="a_verb"/></tag>
@@ -12871,6 +12970,7 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
+              <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -13672,18 +13772,6 @@ It could be extended to other cases, to deal with the differences in the transla
               <lit-tag v="cni"/>
             </let>
           </when>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="temps"/>
-                <lit-tag v="onpr"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="3" side="tl" part="temps"/>
-              <lit-tag v="cni"/>
-            </let>
-          </when>
         </choose>
         <out>
           <chunk name="vbconj">
@@ -13950,18 +14038,6 @@ It could be extended to other cases, to deal with the differences in the transla
               <equal>
                 <clip pos="2" side="sl" part="temps"/>
                 <lit-tag v="pii"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="4" side="tl" part="temps"/>
-              <lit-tag v="cni"/>
-            </let>
-          </when>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="temps"/>
-                <lit-tag v="onpr"/>
               </equal>
             </test>
             <let>
@@ -14369,7 +14445,6 @@ It could be extended to other cases, to deal with the differences in the transla
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_verb"/>
                   <clip pos="1" side="tl" part="temps"/>
-<!--                  <lit-tag v="m.sg"/> -->
                   <clip pos="1" side="tl" part="lemq"/>
                 </lu>
               </chunk>
@@ -14567,18 +14642,6 @@ It could be extended to other cases, to deal with the differences in the transla
               <equal>
                 <clip pos="3" side="sl" part="temps"/>
                 <lit-tag v="pii"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="cni"/>
-            </let>
-          </when>
-          <when>
-            <test>
-              <equal>
-                <clip pos="3" side="tl" part="temps"/>
-                <lit-tag v="onpr"/>
               </equal>
             </test>
             <let>
@@ -14936,7 +14999,6 @@ It could be extended to other cases, to deal with the differences in the transla
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_verb"/>
                   <clip pos="1" side="tl" part="temps"/>
-<!--                  <lit-tag v="m.sg"/> -->
                   <clip pos="1" side="tl" part="lemq"/>
                 </lu>
               </chunk>

@@ -9288,8 +9288,8 @@
     <e r="RL"><p><l>ugaritu<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>uhalez_lotu<s n="vblex"/></l><r>strap<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>uhinak_izan<s n="vblex"/></l><r>undulate<s n="vblex"/></r></p></e>
-    <e><p><l>ukan<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
-    <e><p><l>ukan<s n="vbsint"/></l><r>have<s n="vblex"/></r></p></e>
+    <e><p><l>ukan<s n="vblex"/></l><r>have<s n="vbhaver"/></r></p></e>
+    <e><p><l>ukan<s n="vbsint"/></l><r>have<s n="vbhaver"/></r></p></e>
     <e r="RL"><p><l>ukan<s n="vbsint"/></l><r>have<b/>got<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>ukan<s n="vbsint"/></l><r>have<g><b/>got</g><s n="vblex"/></r></p></e>
     <e><p><l>ukatu<s n="vblex"/></l><r>deny<s n="vblex"/></r></p></e>
