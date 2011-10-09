@@ -16759,6 +16759,34 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="tipo_det">
           <with-param pos="1"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="1" side="sl" part="lem"/>
+                  <lit v="a"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="tags"/>
+                  <lit-tag v="det.art.pl"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit v="that"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="tags"/>
+              <lit-tag v="det.dem.pl"/>
+            </let>
+            <let>
+              <var n="tipusdet"/>
+              <lit-tag v="dem"/>
+            </let>
+          </when>
+        </choose>
         <call-macro n="SPgenitivo">
           <with-param pos="2"/>
         </call-macro>
