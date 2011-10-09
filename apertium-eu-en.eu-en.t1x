@@ -3104,7 +3104,7 @@
               </test>
               <let>
                 <var n="objtags"/>
-                <lit-tag v="prn.obj.p2.mf.pl"/>
+                <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
             <when>
@@ -3557,9 +3557,21 @@
                 <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="pres"/>
               </let>
+              <let> <!-- due to an unexpected side-effect in transfer, we need to first set 'nori', 'nork' and 'nor' to nothing, so that setting 'persnbr' to nothing can't fall back to their values. This is Twilight Zone stuff. -->
+                <clip pos="1" side="tl" part="nori"/>
+                <lit v=""/>
+              </let>
+              <let>
+                <clip pos="1" side="tl" part="nork"/>
+                <lit v=""/>
+              </let>
+              <let>
+                <clip pos="1" side="tl" part="nor"/>
+                <lit v=""/>
+              </let>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
-                <lit-tag v=""/>
+                <lit v=""/>
               </let>
             </otherwise>
           </choose>
@@ -3611,6 +3623,18 @@
                   </or>
                 </not>
               </test>
+              <let> <!-- due to an unexpected side-effect in transfer, we need to first set 'nori', 'nork' and 'nor' to nothing, so that setting 'persnbr' to nothing can't fall back to their values. This is Twilight Zone stuff. -->
+                <clip pos="1" side="tl" part="nori"/>
+                <lit v=""/>
+              </let>
+              <let>
+                <clip pos="1" side="tl" part="nork"/>
+                <lit v=""/>
+              </let>
+              <let>
+                <clip pos="1" side="tl" part="nor"/>
+                <lit v=""/>
+              </let>
               <let>
                 <clip pos="1" side="tl" part="persnbr"/>
                 <lit-tag v=""/>
@@ -3658,6 +3682,18 @@
               <lit-tag v="inf"/>
             </concat>
           </let>
+          <let> <!-- due to an unexpected side-effect in transfer, we need to first set 'nori', 'nork' and 'nor' to nothing, so that setting 'persnbr' to nothing can't fall back to their values. This is Twilight Zone stuff. -->
+            <clip pos="1" side="tl" part="nori"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nork"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nor"/>
+            <lit v=""/>
+          </let>
           <let>
             <clip pos="1" side="tl" part="persnbr"/>
             <lit-tag v=""/>
@@ -3685,6 +3721,18 @@
               <lit-tag v="inf"/>
             </concat>
           </let>
+          <let> <!-- due to an unexpected side-effect in transfer, we need to first set 'nori', 'nork' and 'nor' to nothing, so that setting 'persnbr' to nothing can't fall back to their values. This is Twilight Zone stuff. -->
+            <clip pos="1" side="tl" part="nori"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nork"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nor"/>
+            <lit v=""/>
+          </let>
           <let>
             <clip pos="1" side="tl" part="persnbr"/>
             <lit-tag v=""/>
@@ -3707,6 +3755,18 @@
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="inf"/>
             </concat>
+          </let>
+          <let> <!-- due to an unexpected side-effect in transfer, we need to first set 'nori', 'nork' and 'nor' to nothing, so that setting 'persnbr' to nothing can't fall back to their values. This is Twilight Zone stuff. -->
+            <clip pos="1" side="tl" part="nori"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nork"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="nor"/>
+            <lit v=""/>
           </let>
           <let>
             <clip pos="1" side="tl" part="persnbr"/>
