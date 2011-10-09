@@ -3068,7 +3068,7 @@
               </test>
               <let>
                 <var n="objtags"/>
-                <lit-tag v="prn.obj.p2.mf.sg"/>
+                <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
             <when>

@@ -20730,6 +20730,7 @@
     <e lm="reverse gear"><i>reverse<b/>gear</i><par n="house__n"/>    </e>
     <e lm="mineral spring"><i>mineral<b/>spring</i><par n="house__n"/>    </e>
     <e lm="spring water"><i>spring<b/>water</i><par n="house__n"/>    </e>
+    <e lm="crude oil"><i>crude<b/>oil</i><par n="house__n"/>    </e>
     <e lm="file system"><i>file<b/>system</i><par n="house__n"/>    </e>
     <e lm="solar system"><i>solar<b/>system</i><par n="house__n"/>    </e>
     <e lm="sea level"><i>sea<b/>level</i><par n="house__n"/>    </e>
