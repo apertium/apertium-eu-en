@@ -21943,7 +21943,7 @@
     <e lm="radius"><i>radi</i><par n="cact/us__n"/></e>
     <e lm="influx"><i>influx</i><par n="access__n"/></e>
     <e lm="North American"><i>North<b/>American</i><par n="expensive__adj"/></e>
-    <e lm="Latin American"><i>Latin<b/>American</i><par n="expensive__adj"/></e>
+    <e lm="Latin American"><p><l>Latin<b/>American</l><r>latin<b/>american</r></p><par n="expensive__adj"/></e>
     <e lm="hurtful"><i>hurtful</i><par n="expensive__adj"/></e>
     <e lm="barbaric"><i>barbaric</i><par n="expensive__adj"/></e>
 
