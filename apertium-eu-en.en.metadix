@@ -21488,7 +21488,7 @@
     <e lm="Andalusian"><i>Andalusian</i><par n="house__n"/>    </e>
     <e lm="Andorran"><i>Andorran</i><par n="house__n"/>    </e>
     <e lm="Anglo-Saxon"><i>Anglo-Saxon</i><par n="house__n"/>    </e>
-    <e lm="Argentinian"><i>Argentinian</i><par n="house__n"/>    </e>
+    <e lm="Argentinian">      <p>	<l>Argentinian</l>	<r>argentinian</r></p><par n="house__n"/>    </e>
     <e lm="Australian"><i>Australian</i><par n="house__n"/>    </e>
     <e lm="Austrian"><i>Austrian</i><par n="house__n"/>    </e>
     <e lm="Byelorussian"><i>Byelorussian</i><par n="house__n"/>    </e>
