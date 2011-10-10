@@ -2645,7 +2645,7 @@
     </def-macro>
 
 
-    <def-macro n="posesivo" npar="2"><!--Parámetro 1 = pronombre/demostrativo. Parámetro 2 = nombre -->
+    <def-macro n="posesivo" npar="2"><!--Parameter 1 = pronoun/demonstrative. Parameter 2 = noun -->
       <let>
         <clip pos="1" side="tl" part="det_pos"/> 
         <lit-tag v="det.pos"/>
@@ -2785,14 +2785,14 @@
     </def-macro>
 
 
-    <def-macro n="posesivo_det" npar="2"><!--Parámetro 1 = pronombre/demostrativo. Parámetro 2 = determinante -->
+    <def-macro n="posesivo_det" npar="2"><!--Parameter 1 = pronoun/demonstrative. Parameter 2 = determiner -->
       <let>
         <clip pos="1" side="tl" part="det_pos"/> 
         <lit-tag v="adj.pos"/>
       </let> 
       <let>
         <clip pos="1" side="tl" part="nbr"/> 
-        <clip pos="2" side="tl" part="nbr"/> 
+        <lit v=""/> 
       </let>
       <choose>
         <when>
@@ -2836,7 +2836,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="my"/>
+            <lit v="mine"/>
           </let>
         </when>
         <when>
@@ -2862,7 +2862,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="your"/>
+            <lit v="yours"/>
           </let>
         </when>
         <when>
@@ -2880,7 +2880,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="our"/>
+            <lit v="ours"/>
           </let>
         </when>
         <when>
@@ -2898,7 +2898,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="your"/>
+            <lit v="yours"/>
           </let>
         </when>
       </choose>
@@ -11700,7 +11700,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: PRON + en + NOM + DET (nire etxea - mi casa)">
+    <rule comment="REGLA: PRON + en + NOM + DET (nire etxea - my house)">
       <pattern>
         <pattern-item n="prnpers"/>
         <pattern-item n="en"/>
@@ -11745,7 +11745,7 @@ It could be extended to other cases, to deal with the differences in the transla
       </action>
     </rule>
 
-    <rule comment="REGLA: PRON + en + NOM + DET (nire etxean - en mi casa)">
+    <rule comment="REGLA: PRON + en + NOM + DET (nire etxean - in my house)">
       <pattern>
         <pattern-item n="prnpers"/>
         <pattern-item n="en"/>
