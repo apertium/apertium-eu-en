@@ -7236,6 +7236,12 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="1"/>
           <with-param pos="4"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="3"/>
+        </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="4"/>
         </call-macro>
@@ -7257,13 +7263,12 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="2"/>
             <lu>
               <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="tags"/>
             </lu>
             <b pos="3"/>
             <lu> 
@@ -7300,6 +7305,12 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="tipo_det">
           <with-param pos="4"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="3"/>
+        </call-macro>
         <call-macro n="SPgenitivo">
           <with-param pos="5"/>
         </call-macro>
@@ -7326,13 +7337,12 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="tags"/>
             </lu>
             <b pos="3"/>
             <lu> 
