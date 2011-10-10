@@ -387,7 +387,9 @@
       <attr-item tags="adjant"/> 
       <attr-item tags="det"/>
       <attr-item tags="num"/>
+      <attr-item tags="num.ord"/>
       <attr-item tags="vblex.pp"/>
+      <attr-item tags="vblex.sep.pp"/>
       <attr-item tags="vbser.pp"/>
       <attr-item tags="vblex.padv"/>
       <attr-item tags="adj.sint"/>
@@ -933,6 +935,85 @@
         </otherwise>
       </choose>
     </def-macro>
+
+    <def-macro n="adjdetpp" npar="1">
+      <choose>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="adj"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="adj.sint"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="adj.sint.comp"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="adj.sint.sup"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="vblex.pp"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="vbser.pp"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="vblex.sep.pp"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="num.ord"/>
+              </equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="tags"/>
+            <clip pos="1" side="tl" part="a_adj"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="num"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="tags"/>
+            <concat>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <clip pos="1" side="tl" part="nbr"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="det"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="tags"/>
+            <concat>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <clip pos="1" side="tl" part="tipus_det"/>
+              <clip pos="1" side="tl" part="nbr"/>
+            </concat>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
+
 
     <def-macro n="gen_n1" npar="1">
       <choose>
@@ -5063,6 +5144,9 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="2"/>
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="3"/>
         </call-macro>
@@ -5084,10 +5168,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="tipus_adj"/>
-              <clip pos="2" side="tl" part="ND" link-to="3"/>
-              <clip pos="2" side="tl" part="sp"/>
+              <clip pos="2" side="tl" part="tags"/>
             </lu>
             <b pos="2"/>
             <lu> 
@@ -5168,6 +5249,9 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="SPgenitivo">
           <with-param pos="3"/>
         </call-macro>
@@ -5185,8 +5269,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <var n="blanco"/>
             <lu> 
               <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="tipus_adj"/>
+              <clip pos="2" side="tl" part="tags"/>
             </lu>
             <b pos="1"/>
             <lu> 
@@ -5503,6 +5586,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="concord_n3">
           <with-param pos="1"/>
           <with-param pos="2"/>
@@ -5537,8 +5623,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="tipus_adj"/>
+              <clip pos="2" side="tl" part="tags"/>
             </lu>
             <b pos="2"/>
             <lu> 
@@ -5905,15 +5990,11 @@ It could be extended to other cases, to deal with the differences in the transla
             </test>
             <let>
               <clip pos="4" side="tl" part="lem"/>
-              <lit v="medio"/>
+              <lit v="a half"/>
             </let>
             <let>
               <clip pos="4" side="tl" part="a_nom"/>
               <lit-tag v="adj"/>
-            </let>
-            <let>
-              <clip pos="4" side="tl" part="gen"/>
-              <clip pos="2" side="tl" part="gen"/>
             </let>
           </when>
         </choose>

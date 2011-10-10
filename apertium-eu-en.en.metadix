@@ -22540,6 +22540,7 @@
     <e lm="guilty"><i>guilt</i><par n="happ/y__adj"/>    </e>
     <e lm="hairy"><i>hair</i><par n="happ/y__adj"/>    </e>
     <e lm="half"><i>half</i><par n="expensive__adj"/>    </e>
+    <e lm="a half" r="RL"><i>a<b/>half</i><par n="expensive__adj"/>    </e>
     <e lm="handicapped"><i>handicapped</i><par n="expensive__adj"/>    </e>
     <e lm="handsome"><i>handsome</i><par n="handsome/__adj"/>    </e>
     <e lm="handwritten"><i>handwritten</i><par n="expensive__adj"/>    </e>
