@@ -8829,7 +8829,6 @@ It could be extended to other cases, to deal with the differences in the transla
             <lu> 
               <clip pos="1" side="tl" part="lemh"/> 
               <clip pos="1" side="tl" part="a_nom"/>
-              <!--     <clip pos="1" side="tl" part="a_adv"/>-->
               <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/> 
             </lu>
@@ -8876,7 +8875,7 @@ It could be extended to other cases, to deal with the differences in the transla
                   <clip pos="1" side="tl" part="a_num"/> 
                   <clip pos="1" side="tl" part="nbr"/>
                 </lu>
-                <b pos="2"/>
+                <b/>
                 <lu> 
                   <clip pos="2" side="tl" part="lemh"/> 
                   <clip pos="2" side="tl" part="a_nom"/>
@@ -8915,7 +8914,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: NUM + NUM + NOM (ehun mila emakume - cien mil mujeres (pl))">
+    <rule comment="REGLA: NUM + NUM + NOM (ehun mila emakume - hundred thousand women)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="num"/>
@@ -8959,7 +8958,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
- <rule comment="REGLA: NUM + NUM + NOM (400 milioi euro - 400 millones de euros (pl))">
+ <rule comment="REGLA: NUM + NUM + NOM (400 milioi euro - 400 million euros)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="milioi"/>
@@ -9023,7 +9022,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: NUM + NOM + DET (bi emakumeak - las dos mujeres">
+    <rule comment="REGLA: NUM + NOM + DET (bi emakumeak - the two women">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="nom_np"/>
