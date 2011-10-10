@@ -316,6 +316,7 @@
     <e r="RL"><p><l>buruz<s n="spost"/></l><r>over<s n="pr"/></r></p></e>
     <e r="RL"><p><l>buruz<s n="spost"/></l><r>at<b/>about<s n="pr"/></r></p></e>
     <e><p><l>ekin<s n="post"/><s n="ko"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>ekin<s n="post"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>en<s n="post"/></l><r>of<s n="pr"/></r></p></e>
     <e r="RL"><p><l>en<s n="post"/></l><r>from<s n="pr"/></r></p></e>
     <e r="RL" c="MG: He fell off his chair"><p><l>en<s n="post"/></l><r>off<s n="pr"/></r></p></e>
@@ -544,7 +545,7 @@
     <e c="hori, horiek"><p><l>hori<s n="det"/><s n="dem"/></l><r>this<s n="det"/></r></p></e>
     <e r="LR"><p><l>horrenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>horrenbeste<s n="det"/><s n="indizl"/><s n="pl"/></l><r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
-    <e c="hura, haiek"><p><l>hura<s n="det"/><s n="dem"/></l><r>that<s n="det"/></r></p></e>
+    <e c="hura, haiek"><p><l>hura<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>laugarren<s n="adj"/></l><r>fourth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>laurehungarren<s n="adj"/></l><r>four<b/>hundredth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>laurogeigarren<s n="adj"/></l><r>eightieth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -14570,7 +14571,7 @@
     <e r="RL"><p><l>nehor<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>nehor<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>ni<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>nor<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>nor<s n="prn"/><s n="itg"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     <e c="'who, more or less?'"><p><l>nortsu<s n="prn"/><s n="itg"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>

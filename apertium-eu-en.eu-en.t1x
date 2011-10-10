@@ -477,7 +477,7 @@
 
 
     <def-attr n="det_prn">
-      <attr-item tags="prn.tn.p3"/>
+      <attr-item tags="prn.subj.p3.nt"/>
       <attr-item tags="det.dem"/> 
     </def-attr>
 
@@ -5956,7 +5956,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-
+<!-- segmentation!
     <rule comment="REGLA: NUM + NOM + CONJ + NOM (bi ordu eta erdi) ">
       <pattern>
         <pattern-item n="num"/>
@@ -6064,6 +6064,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </choose>
       </action>
     </rule>
+-->
     <rule comment="REGLA: NUM + NOM + CONJ + NOM + POST (bi ordu eta erdiko (bilera)) ">
       <pattern>
         <pattern-item n="num"/>
@@ -6207,11 +6208,11 @@ It could be extended to other cases, to deal with the differences in the transla
             </test>
             <let>
               <clip pos="1" side="tl" part="lem"/> 
-              <lit v="él"/>
+              <lit v="prpers"/>
             </let>
             <let>
               <clip pos="1" side="tl" part="det_prn"/> 
-              <lit-tag v="prn.tn.p3"/>
+              <lit-tag v="prn.subj.p3.nt"/>
             </let>
           </when>
         </choose>
@@ -6259,7 +6260,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
             <let>
               <clip pos="1" side="tl" part="det_prn"/> 
-              <lit-tag v="prn.subj.p3"/>
+              <lit-tag v="prn.subj.p3.nt"/>
             </let>
           </when>
         </choose> 
@@ -6301,110 +6302,62 @@ It could be extended to other cases, to deal with the differences in the transla
             <test>
               <and>
                 <equal caseless="yes">
-                  <clip pos="2" side="sl" part="lem"/>
-                  <lit v="ekin"/>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <lit v="prpers"/>
                 </equal>
-                <or>
-                  <equal caseless="yes">
-                    <clip pos="1" side="sl" part="lem"/>
-                    <lit v="ni"/>
-                  </equal>
-                  <equal caseless="yes">
-                    <clip pos="1" side="sl" part="lem"/>
-                    <lit v="zu"/>
-                  </equal>
-                </or>
+                <equal caseless="yes">
+                  <clip pos="1" side="tl" part="det_pos"/>
+                  <lit-tag v="prn.subj"/>
+                </equal>
               </and>
             </test>
-            <choose>
-              <when>
-                <test>
-                  <equal caseless="yes">
-                    <clip pos="1" side="sl" part="lem"/>
-                    <lit v="ni"/>
-                  </equal>
-                </test>
-                <let>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <lit v="conmigo"/>
-                </let>
-              </when>
-              <when>
-                <test>
-                  <equal caseless="yes">
-                    <clip pos="1" side="sl" part="lem"/>
-                    <lit v="zu"/>
-                  </equal>
-                </test>
-                <let>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <lit v="contigo"/>
-                </let>
-              </when>
-            </choose>
-            <out>
-              <chunk name="prnpers_cc" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
-                  <tag><clip pos="1" side="tl" part="pers"/></tag>
-                  <tag><clip pos="1" side="tl" part="gen"/></tag>
-                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="1" side="tl" part="whole"/>
-                </lu>
-              </chunk>
-            </out>
+            <let>
+              <clip pos="1" side="tl" part="det_pos"/>
+              <lit-tag v="prn.subj"/>
+            </let>
           </when>
-          <otherwise>
-            <choose>
-              <when>
-                <test>
-                  <equal caseless="yes">
-                    <clip pos="1" side="tl" part="lem"/>
-                    <lit v="yo"/>
-                  </equal>
-                </test>
-                <let>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
                   <clip pos="1" side="tl" part="lem"/>
-                  <lit v="mí"/>
-                </let>
-              </when>
-              <when>
-                <test>
-                  <equal caseless="yes">
-                    <clip pos="1" side="tl" part="lem"/>
-                    <lit v="tu"/>
-                  </equal>
-                </test>
-                <let>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <lit v="ti"/>
-                </let>
-              </when>
-            </choose>
-            <out> 
-              <chunk name="pr_prnpers" case="caseFirstWord">
-                <tags>
-                  <tag><var n="chunk"/></tag>
-                  <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
-                  <tag><clip pos="1" side="tl" part="pers"/></tag>
-                  <tag><clip pos="1" side="tl" part="gen"/></tag>
-                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
-                </tags>
-                <lu> 
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_prep"/> 
-                </lu>
-                <var n="blanco"/>
-                <lu> 
-                  <clip pos="1" side="tl" part="whole"/> 
-                </lu>
-              </chunk>
-            </out>
-          </otherwise>
+                  <lit v="who"/>
+                </equal>
+                <equal caseless="yes">
+                  <clip pos="1" side="tl" part="tags"/>
+                  <lit-tag v="prn.itg.m.sp"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit v="whom"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="tags"/>
+              <lit-tag v="rel.an.mf.sp"/>
+            </let>
+          </when>
         </choose>
+        <out> 
+          <chunk name="pr_prnpers" case="caseFirstWord">
+            <tags>
+              <tag><var n="chunk"/></tag>
+              <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu> 
+              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="a_prep"/> 
+            </lu>
+            <var n="blanco"/>
+            <lu> 
+              <clip pos="1" side="tl" part="whole"/> 
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
@@ -6543,6 +6496,48 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="SPgenitivo">
           <with-param pos="2"/>
         </call-macro>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="1" side="tl" part="lem"/>
+                  <lit v="prpers"/>
+                </equal>
+                <equal caseless="yes">
+                  <clip pos="1" side="tl" part="det_pos"/>
+                  <lit-tag v="prn.subj"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="det_pos"/>
+              <lit-tag v="prn.subj"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="1" side="tl" part="lem"/>
+                  <lit v="who"/>
+                </equal>
+                <equal caseless="yes">
+                  <clip pos="1" side="tl" part="tags"/>
+                  <lit-tag v="prn.itg.m.sp"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit v="whom"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="tags"/>
+              <lit-tag v="rel.an.mf.sp"/>
+            </let>
+          </when>
+        </choose>
         <out> 
           <chunk name="pr_prn" case="caseFirstWord">
             <tags>
@@ -6553,8 +6548,7 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu> 
-              <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_prep"/> 
+              <clip pos="2" side="tl" part="whole"/> 
             </lu>
             <var n="blanco"/>
             <lu> 
