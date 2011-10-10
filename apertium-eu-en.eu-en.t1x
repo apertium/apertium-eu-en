@@ -7381,19 +7381,22 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="4"/>
         </call-macro>
         <out> 
-          <chunk name="d_n_pr_n" case="caseFirstWord">
+          <chunk name="nom_gen_nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="tipusdet"/></tag>
               <tag><var n="nbr_chunk"/></tag>
               <tag><var n="grado"/></tag>
             </tags>
+            <lu> 
+              <clip pos="1" side="tl" part="lemh"/> 
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/> 
+            </lu>
             <lu>
-              <clip pos="4" side="tl" part="lem"/> 
-              <clip pos="4" side="tl" part="a_det"/> 
-              <lit-tag v="2"/> 
-              <clip pos="4" side="tl" part="ND" link-to="3"/>
-              <clip pos="4" side="tl" part="sp"/>
+              <lit v="'s"/>
+              <lit-tag v="gen"/>
             </lu>
             <b pos="2"/>
             <lu> 
@@ -7402,18 +7405,6 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="3" side="tl" part="ND" link-to="3"/>
               <clip pos="3" side="tl" part="sp"/>
               <clip pos="3" side="tl" part="lemq"/> 
-            </lu>
-            <b pos="3"/>
-            <lu> 
-              <clip pos="2" side="tl" part="whole"/> 
-            </lu>
-            <b/>
-            <lu> 
-              <clip pos="1" side="tl" part="lemh"/> 
-              <clip pos="1" side="tl" part="a_nom"/>
-              <!--    <clip pos="1" side="tl" part="a_adv"/>-->
-              <clip pos="1" side="tl" part="nbr"/>
-              <clip pos="1" side="tl" part="lemq"/> 
             </lu>
           </chunk>
         </out>
