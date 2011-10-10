@@ -110,6 +110,7 @@
       <cat-item tags="num.pl"/>
       <cat-item tags="num"/>
       <cat-item tags="num.percent"/>
+      <cat-item lemma="mila" tags="n"/>
     </def-cat>
 
     <def-cat n="bi">
@@ -708,6 +709,33 @@
           </out>
         </when>
       </choose>
+    </def-macro>
+
+    <def-macro n="n_num" npar="2">
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="1" side="sl" part="lem"/>
+                  <lit v="mila"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="tags"/>
+                  <lit-tag v="n"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit v="thousand"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="tags"/>
+              <lit-tag v="num.sp"/>
+            </let>
+          </when>
+        </choose>
     </def-macro>
 
     <def-macro n="nnblank_v1" npar="3"><!-- Identical macros, different variables-->
@@ -4172,6 +4200,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
         <out> 
           <chunk name="num" case="caseFirstWord">
             <tags>
@@ -4189,7 +4220,7 @@ It could be extended to other cases, to deal with the differences in the transla
       </action>
     </rule>
 
-    <rule comment="REGLA: NOM + DET (etxea)">
+    <rule comment="REGLA: NOM + DET (etxea - the house)">
       <pattern>
         <pattern-item n="nom_np"/>
         <pattern-item n="det"/>
@@ -5968,6 +5999,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
         <let>
           <clip pos="2" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
@@ -6075,6 +6109,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="SPgenitivo">
@@ -8847,6 +8884,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
         <let>
           <clip pos="2" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
@@ -8924,6 +8964,12 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
         <let>
           <clip pos="3" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
@@ -8966,6 +9012,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <let>
@@ -9030,6 +9079,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="tipo_det">
@@ -9153,6 +9205,12 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="4"/>
         </call-macro>
@@ -9231,6 +9289,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
         <let>
           <clip pos="2" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
@@ -9280,6 +9341,12 @@ It could be extended to other cases, to deal with the differences in the transla
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="3"/>
         </call-macro>
         <let>
           <clip pos="4" side="tl" part="nbr"/>
@@ -9508,6 +9575,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
         <let>
           <clip pos="2" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
@@ -9554,6 +9624,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="SPgenitivo">
@@ -9612,6 +9685,12 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
         <let>
           <clip pos="3" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
@@ -9667,6 +9746,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="4"/>
         </call-macro>
@@ -9699,41 +9781,41 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="4"/>
           <with-param pos="2"/>
         </call-macro>
-  <out>
-    <chunk name="d_num_adj_n" case="caseFirstWord">
-                <tags>
-                  <tag><lit-tag v="SN"/></tag>
-                  <tag><var n="tipusdet"/></tag>
-                  <tag><var n="nbr_chunk"/></tag>
-                  <tag><var n="grado"/></tag>
-                </tags>
-                <lu>
-                  <clip pos="4" side="tl" part="lem"/> 
-                  <clip pos="4" side="tl" part="a_det"/> 
-                  <lit-tag v="2"/> 
-                  <clip pos="4" side="tl" part="ND" link-to="3"/>
-                  <clip pos="4" side="tl" part="sp"/>
-                </lu>
-                <b pos="1"/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/> 
-                  <clip pos="1" side="tl" part="a_num"/> 
-                  <clip pos="1" side="tl" part="nbr"/>
-                </lu>
-                <b pos="2"/>
-                <lu> 
-                  <clip pos="2" side="tl" part="lem"/> 
-                  <clip pos="2" side="tl" part="a_adj"/>
-                </lu>
-                <b pos="3"/>
-                <lu> 
-                  <clip pos="3" side="tl" part="lemh"/> 
-                  <clip pos="3" side="tl" part="a_nom"/>
-                  <clip pos="3" side="tl" part="nbr"/>
-                  <clip pos="3" side="tl" part="lemq"/> 
-                </lu>
-    </chunk>
-  </out>
+        <out>
+          <chunk name="d_num_adj_n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="tipusdet"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+              <tag><var n="grado"/></tag>
+            </tags>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/> 
+              <clip pos="4" side="tl" part="a_det"/> 
+              <lit-tag v="2"/> 
+              <clip pos="4" side="tl" part="ND" link-to="3"/>
+              <clip pos="4" side="tl" part="sp"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> 
+              <clip pos="1" side="tl" part="a_num"/> 
+              <clip pos="1" side="tl" part="nbr"/>
+            </lu>
+            <b pos="2"/>
+            <lu> 
+              <clip pos="2" side="tl" part="lem"/> 
+              <clip pos="2" side="tl" part="a_adj"/>
+            </lu>
+            <b pos="3"/>
+            <lu> 
+              <clip pos="3" side="tl" part="lemh"/> 
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="nbr"/>
+              <clip pos="3" side="tl" part="lemq"/> 
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
@@ -9749,6 +9831,12 @@ It could be extended to other cases, to deal with the differences in the transla
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
         </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="5"/>
@@ -9841,6 +9929,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="tipo_det">
@@ -9978,6 +10069,12 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="4"/>
         </call-macro>
@@ -10066,6 +10163,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="4"/>
         </call-macro>
@@ -10101,7 +10201,6 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="4"/>
           <with-param pos="1"/>
         </call-macro>
-        
         <out> 
           <chunk name="pr_d_adj_num_n" case="caseFirstWord">
             <tags>
@@ -10157,6 +10256,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="tipo_det">
@@ -10253,6 +10355,12 @@ It could be extended to other cases, to deal with the differences in the transla
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="3"/>
         </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="5"/>
@@ -10353,6 +10461,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="SPgenitivo">
           <with-param pos="4"/>
         </call-macro>
@@ -10402,7 +10513,6 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
           </otherwise>
         </choose>
-                
         <out> 
           <chunk namefrom="lema" case="caseFirstWord">
             <tags>
@@ -10452,6 +10562,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="tipo_det">
@@ -10549,6 +10662,12 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="5"/>
         </call-macro>
@@ -10584,7 +10703,6 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="5"/>
           <with-param pos="3"/>
         </call-macro>
-        
         <out>
           <chunk name="pr_d_num_num_adj_n" case="caseFirstWord">
             <tags>
@@ -10646,6 +10764,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="2"/>
         </call-macro>
@@ -10681,6 +10802,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="tipo_det">
@@ -10742,6 +10866,12 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="3"/>
+        </call-macro>
         <out> 
           <chunk name="num_pr_num" case="caseFirstWord">
             <tags>
@@ -10776,6 +10906,12 @@ It could be extended to other cases, to deal with the differences in the transla
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="3"/>
         </call-macro>
         <choose>
           <when>
@@ -10834,6 +10970,9 @@ It could be extended to other cases, to deal with the differences in the transla
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="4"/>
         </call-macro>
         <call-macro n="concord_n2">
           <with-param pos="1"/>
@@ -11015,6 +11154,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
         <choose>
           <when>
             <test>
@@ -11100,6 +11242,12 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
+        </call-macro>
         <choose>
           <when>
             <test>
@@ -11156,6 +11304,9 @@ It could be extended to other cases, to deal with the differences in the transla
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="tipo_det">
@@ -11304,6 +11455,12 @@ It could be extended to other cases, to deal with the differences in the transla
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="n_num">
+          <with-param pos="2"/>
         </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="4"/>
