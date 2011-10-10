@@ -11661,7 +11661,7 @@ It could be extended to other cases, to deal with the differences in the transla
     <!-- POSESIVOS -->
 
 
-    <rule comment="REGLA: PRON + en + NOM + DET (nirea - mío)">
+    <rule comment="REGLA: PRON + en + NOM + DET (nirea - mine)">
       <pattern>
         <pattern-item n="prnpers"/>
         <pattern-item n="en"/>
@@ -11691,14 +11691,6 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
       </action>
     </rule>
-
-
-
-
-
-
-
-
 
     <rule comment="REGLA: PRON + en + NOM + DET (nire etxea - my house)">
       <pattern>
@@ -11773,8 +11765,8 @@ It could be extended to other cases, to deal with the differences in the transla
             <test>
               <and>
                 <equal>
-                  <clip pos="5" side="tl" part="lem"/>
-                  <lit v="an"/>
+                  <clip pos="5" side="sl" part="lem"/>
+                  <lit v="en"/>
                 </equal>
                 <or>
                   <equal>
