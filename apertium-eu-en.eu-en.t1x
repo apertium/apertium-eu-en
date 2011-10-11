@@ -13285,12 +13285,15 @@ It could be extended to other cases, to deal with the differences in the transla
 
     <!--********************************* REGLES DE SA ***************************************************** -->
 
-    <rule comment="REGLA: ADJ (gorri) Para los adjetivos que quedan solos (en teoría todos deberían formar parte de un SA)">
+    <rule comment="REGLA: ADJ (gorri - red) Para los adjetivos que quedan solos (en teoría todos deberían formar parte de un SA)">
       <pattern>
         <pattern-item n="adjnopp"/>
       </pattern>
       <action>
         <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
           <with-param pos="1"/>
         </call-macro>
         <out> 
@@ -13301,8 +13304,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </tags>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
           </chunk>
         </out>
@@ -13312,7 +13314,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: ADJ + DET (gorria)">
+    <rule comment="REGLA: ADJ + DET (gorria - the red)">
       <pattern>
         <pattern-item n="adjnopp"/>
         <pattern-item n="det"/>
@@ -13327,6 +13329,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="concord_adj_det">
           <with-param pos="1"/>
           <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
         </call-macro>
         <out> 
           <chunk name="det_adj" case="caseFirstWord">
@@ -13346,16 +13351,14 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
-            <b/>
           </chunk>
         </out>
       </action>
     </rule>
 
-    <rule comment="REGLA: ADJ + DET + POST (pribatuan - en el privado)">
+    <rule comment="REGLA: ADJ + DET + POST (pribatuan - in the private)">
       <pattern>
         <pattern-item n="adjnopp"/>
         <pattern-item n="det"/>
@@ -13368,14 +13371,15 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="tipo_det">
           <with-param pos="2"/>
         </call-macro>
-        <!--        <call-macro n="concord_adj_det"> La macro concord_n passa el nom/adj a plural si determinant és quantitatiu-->
-
         <call-macro n="concord_n2">
           <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
         <call-macro n="SPgenitivo">
           <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
         </call-macro>
         <out> 
           <chunk name="pr_det_adj" case="caseFirstWord">
@@ -13400,8 +13404,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b/>
           </chunk>
@@ -13409,7 +13412,7 @@ It could be extended to other cases, to deal with the differences in the transla
       </action>
     </rule>
 
-    <rule comment="REGLA: PP (irekia)">
+    <rule comment="REGLA: PP (irekia - the opened)">
       <pattern>
         <pattern-item n="pp"/>
         <pattern-item n="det"/>
@@ -13449,7 +13452,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-    <rule comment="REGLA: PP (atxilotuei - a los detenidos)">
+    <rule comment="REGLA: PP (atxilotuei - to the arrested)">
       <pattern>
         <pattern-item n="pp"/>
         <pattern-item n="det"/>
