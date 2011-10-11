@@ -9195,6 +9195,7 @@
     <e lm="its"><i>its</i><par n="her__det"/>    </e>
     <e lm="last"><i>last</i><par n="second__det"/>    </e>
     <e lm="less"><i>less</i><par n="much__det"/>    </e>
+    <e lm="less" r="RL"><i>less</i><par n="enough__det"/>    </e>
     <e lm="little"><i>little</i><par n="much__det"/>    </e>
     <e lm="a little"><i>a<b/>little</i><par n="much__det"/>    </e>
     <e lm="too little"><i>too<b/>little</i><par n="much__det"/>    </e>

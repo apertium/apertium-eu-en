@@ -461,13 +461,13 @@
     <e r="RL"><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
-    <e><p><l>gehiago<s n="det"/><s n="ind"/></l><r>more<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+    <e><p><l>gehiago<s n="det"/><s n="ind"/><s n="sp"/></l><r>more<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>gehiegi<s n="det"/><s n="ind"/><s n="sp"/></l><r>too<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e><p><l>gehiegi<s n="det"/><s n="ind"/><s n="sp"/></l><r>too<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e c="en sg: little bread, little hope"><p><l>gutxi<s n="det"/><s n="ind"/><s n="sp"/></l><r>little<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e r="RL" c="en plural"><p><l>gutxi<s n="det"/><s n="ind"/><s n="sp"/></l><r>few<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
-    <e><p><l>gutxiago<s n="det"/><s n="ind"/></l><r>less<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>gutxiago<s n="det"/><s n="ind"/></l><r>fewer<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
+    <e><p><l>gutxiago<s n="det"/><s n="ind"/><s n="sp"/></l><r>less<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>gutxiago<s n="det"/><s n="ind"/><s n="sp"/></l><r>fewer<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e><p><l>gutxien<s n="det"/><s n="ind"/><s n="sp"/></l><r>less<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>gutxien<s n="det"/><s n="ind"/><s n="sp"/></l><r>fewer<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e><p><l>batzuok<s n="det"/><s n="ind"/><s n="pl"/></l><r>some<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
