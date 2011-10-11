@@ -3675,6 +3675,10 @@
                   <clip pos="1" side="sl" part="temps"/>
                   <lit-tag v="inf"/>
                 </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pp"/>
+                </equal>
               </or>
             </not>
           </test>
@@ -14479,6 +14483,12 @@ It could be extended to other cases, to deal with the differences in the transla
                   <var n="aux_verb"/>
                   <lit v=""/>
                 </equal>
+                <not>
+                  <equal>
+                    <clip pos="2" side="tl" part="temps"/>
+                    <lit-tag v="pp"/>
+                  </equal>
+                </not>
               </and>
             </test>
             <out>
