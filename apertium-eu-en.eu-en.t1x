@@ -1167,6 +1167,14 @@
 
 
     <def-macro n="adv_adj" npar="2">
+	<let>
+	  <var n="adv_adjectiu"/>
+	  <lit v=""/>
+	</let>
+	<let>
+	  <var n="adv_adjname"/>
+	  <lit v=""/>
+	</let>
 	<choose>
 	  <when>
 	    <test>
@@ -1199,6 +1207,36 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="ago"/>
+		</equal>
+                <not>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </not>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="more"/>
+                  <lit-tag v="preadv"/>
+                  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lem"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		</concat>
+	    </let>
+	    <let>
+	      <var n="adv_adjname"/>
+	      <lit v="adv_adj_"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
 		  <lit v="en"/>
 		</equal>
 		<equal>
@@ -1218,6 +1256,36 @@
 	    <let>
 	      <var n="adv_adjname"/>
 	      <lit v="adj_"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="en"/>
+		</equal>
+                <not>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </not>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="most"/>
+                  <lit-tag v="preadv"/>
+                  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lem"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		</concat>
+	    </let>
+	    <let>
+	      <var n="adv_adjname"/>
+	      <lit v="adv_adj_"/>
 	    </let>
 	  </when>
 	  <when>
@@ -12652,7 +12720,7 @@ It could be extended to other cases, to deal with the differences in the transla
 	<let>
 	  <var n="lemachunk"/>
 	  <concat>
-	    <lit v="d_"/>
+	    <lit v="det_"/>
 	    <var n="adv_adjname"/>
 	    <lit v="nom"/>
 	  </concat>
@@ -12727,7 +12795,7 @@ It could be extended to other cases, to deal with the differences in the transla
 	<let>
 	  <var n="lemachunk"/>
 	  <concat>
-	    <lit v="d_"/>
+	    <lit v="det_"/>
 	    <var n="adv_adjname"/>
 	    <lit v="nom"/>
 	  </concat>
@@ -13506,7 +13574,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: ADJ + GRADO (gorriago, gorriegi, gorrien(a))">
+    <rule comment="REGLA: ADJ + GRADO (gorriago, gorriegi - too red, gorrien(a))">
       <pattern>
         <pattern-item n="adj"/>
         <pattern-item n="gra"/>
@@ -13545,7 +13613,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: adv + gra (maizago)">
+    <rule comment="REGLA: adv + gra (maizago - more often)">
       <pattern>
         <pattern-item n="adv"/>
         <pattern-item n="gra"/>
@@ -13597,7 +13665,7 @@ It could be extended to other cases, to deal with the differences in the transla
 	<let>
 	  <var n="lemachunk"/>
 	  <concat>
-	    <lit v="d_"/>
+	    <lit v="det_"/>
 	    <var n="adv_adjname"/>
 	  </concat>
 	</let>
