@@ -11233,7 +11233,7 @@ It could be extended to other cases, to deal with the differences in the transla
       </action>
     </rule>
 
-    <rule comment="REGLA: NUM + ADJ (sei palestinar - seis palestinos)">
+    <rule comment="REGLA: NUM + ADJ (sei palestinar - six Palestinian - no plural adjectives in English, need to do something about nominalising these)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="adjnopp"/>
@@ -11307,20 +11307,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="n_num">
           <with-param pos="2"/>
         </call-macro>
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="3" side="tl" part="nbr"/>
-                <lit-tag v="ND"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="3" side="tl" part="nbr"/>
-              <lit-tag v="pl"/>
-            </let>
-          </when>
-        </choose>
+        <call-macro n="adjdetpp">
+          <with-param pos="3"/>
+        </call-macro>
         <let>
           <var n="nbr_chunk"/>
           <lit-tag v="pl"/>
@@ -11346,7 +11335,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="tags"/>
             </lu>
           </chunk>
         </out>
@@ -11354,7 +11343,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-    <rule comment="REGLA: NUM + ADJ (bi gazteek - los dos jóvenes)">
+    <rule comment="REGLA: NUM + ADJ (bi handiak - the two big FIXME: ones?)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="adjnopp"/>
@@ -11374,43 +11363,13 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="SPgenitivo">
           <with-param pos="4"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="concord_adj_det">
           <with-param pos="2"/>
           <with-param pos="3"/>
         </call-macro>
-
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="nbr"/>
-                <lit-tag v="ND"/>
-              </equal>
-            </test>
-            <choose>
-              <when>
-                <test>
-                  <not>
-                    <equal>
-                      <clip pos="1" side="tl" part="lem"/>
-                      <lit v="1"/>
-                    </equal>
-                  </not>
-                </test>
-                <let>
-                  <clip pos="2" side="tl" part="nbr"/>
-                  <lit-tag v="pl"/>
-                </let>
-              </when>
-              <otherwise>
-                <let>
-                  <clip pos="2" side="tl" part="nbr"/>
-                  <lit-tag v="sg"/>
-                </let>
-              </otherwise>
-            </choose>
-          </when>
-        </choose>
         <choose>
           <when>
             <test>
@@ -11493,17 +11452,14 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="2"/>
             <lu> 
               <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_adj"/>
+              <clip pos="2" side="tl" part="tags"/>
             </lu>
           </chunk>
         </out>
       </action>
     </rule>
 
-
-
-
-    <rule comment="REGLA: NUM + ADJ (bi gazteek - los dos jóvenes)">
+    <rule comment="REGLA: NUM + ADJ (100 mila handiak - the 100 thousand big FIXME: ones?)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="num"/>
@@ -11520,6 +11476,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         <call-macro n="n_num">
           <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="3"/>
         </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="4"/>
@@ -11542,20 +11501,6 @@ It could be extended to other cases, to deal with the differences in the transla
             </test>
             <let>
               <clip pos="2" side="tl" part="nbr"/>
-              <lit-tag v="pl"/>
-            </let>
-          </when>
-        </choose>
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="3" side="tl" part="nbr"/>
-                <lit-tag v="ND"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="3" side="tl" part="nbr"/>
               <lit-tag v="pl"/>
             </let>
           </when>
@@ -11611,111 +11556,12 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="3"/>
             <lu> 
               <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="tags"/>
             </lu>
           </chunk>
         </out>
       </action>
     </rule>
-
-<!--
-    <rule comment="REGLA: NUM + NUM + ADJ (ehun mila palestinar)">
-      <pattern>
-        <pattern-item n="num"/>
-        <pattern-item n="num"/>
-        <pattern-item n="adjnopp"/>
-      </pattern>
-      <action>
-        <call-macro n="firstWord">
-          <with-param pos="1"/>
-        </call-macro>
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="nbr"/>
-                <lit-tag v="ND"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="2" side="tl" part="nbr"/>
-              <lit-tag v="pl"/>
-            </let>
-          </when>
-        </choose>
-        <let>
-          <var n="nbr_chunk"/>
-          <lit-tag v="pl"/>
-        </let>
-        <choose>
-          <when>
-            <test>
-              <or>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="2" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-                <equal>
-                  <clip pos="3" side="tl" part="gen"/> 
-                  <lit-tag v="GD"/>
-                </equal>
-              </or>
-            </test>
-            <let>
-              <var n="gen_chunk"/>
-              <lit-tag v="GD"/>
-            </let>
-          </when>
-          <otherwise>
-            <let>
-              <var n="gen_chunk"/> 
-              <clip pos="3" side="tl" part="gen"/>
-            </let>
-          </otherwise>
-        </choose>
-        <out> 
-          <chunk name="num_num_adj" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-              <tag><lit-tag v="num"/></tag>
-              <tag><var n="gen_chunk"/></tag>
-              <tag><var n="nbr_chunk"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_num"/> 
-              <clip pos="1" side="tl" part="GD" link-to="3"/>
-              <clip pos="1" side="tl" part="mf"/>
-              <clip pos="1" side="tl" part="nbr"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_num"/> 
-              <clip pos="2" side="tl" part="GD" link-to="3"/>
-              <clip pos="2" side="tl" part="mf"/>
-              <clip pos="2" side="tl" part="nbr"/>
-            </lu>
-            <b pos="2"/>
-            <lu> 
-              <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="GD" link-to="3"/>
-              <clip pos="3" side="tl" part="mf"/>
-              <clip pos="3" side="tl" part="ND" link-to="3"/>
-              <clip pos="3" side="tl" part="sp"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>-->
-
-
-
 
     <!-- POSESIVOS -->
 
@@ -11879,7 +11725,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: PRON + en + NOM + ADJ + DET (nire etxe gorria - my red house)">
+    <rule comment="REGLA: PRON + en + NOM + ADJ + DET (nire etxe gorria - my red house; nire etxe handi hori - this big house of mine)">
       <pattern>
         <pattern-item n="prnpers"/>
         <pattern-item n="en"/>
@@ -11900,35 +11746,95 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="4"/>
           <with-param pos="5"/>
         </call-macro>
-        <out> 
-          <chunk name="pos_adj_n" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-              <tag><lit-tag v="pos"/></tag>
-              <tag><var n="nbr_chunk"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="det_pos"/>
-              <clip pos="5" side="tl" part="ND" link-to="3"/>
-              <clip pos="5" side="tl" part="sp"/>
-            </lu>
-            <b pos="2"/>
-            <lu> 
-              <clip pos="4" side="tl" part="lem"/> 
-              <clip pos="4" side="tl" part="a_adj"/>
-              <clip pos="4" side="tl" part="tipus_adj"/>
-            </lu>
-            <b pos="3"/>
-            <lu> 
-              <clip pos="3" side="tl" part="lemh"/> 
-              <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="3"/>
-              <clip pos="3" side="tl" part="sp"/>
-              <clip pos="3" side="tl" part="lemq"/> 
-            </lu>
-          </chunk>
-        </out>
+        <call-macro n="adjdetpp">
+          <with-param pos="4"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="5" side="sl" part="lem"/>
+                <lit v="a"/>
+              </equal>
+            </test>
+            <out> 
+              <chunk name="pos_adj_n" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><lit-tag v="pos"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="det_pos"/>
+                  <clip pos="5" side="tl" part="ND" link-to="3"/>
+                  <clip pos="5" side="tl" part="sp"/>
+                </lu>
+                <b pos="2"/>
+                <lu> 
+                  <clip pos="4" side="tl" part="lem"/> 
+                  <clip pos="4" side="tl" part="tags"/>
+                </lu>
+                <b pos="3"/>
+                <lu> 
+                  <clip pos="3" side="tl" part="lemh"/> 
+                  <clip pos="3" side="tl" part="a_nom"/>
+                  <clip pos="3" side="tl" part="ND" link-to="3"/>
+                  <clip pos="3" side="tl" part="sp"/>
+                  <clip pos="3" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <call-macro n="posesivo_det">
+              <with-param pos="1"/>
+              <with-param pos="5"/>
+            </call-macro>
+            <call-macro n="tipo_det">
+              <with-param pos="5"/>
+            </call-macro>
+            <out> 
+              <chunk name="det_adj_nom_of_mine" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><lit-tag v="pos"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="5" side="tl" part="lem"/>
+                  <clip pos="5" side="tl" part="a_det"/>
+                  <clip pos="5" side="tl" part="tipus_det"/>
+                  <clip pos="5" side="tl" part="ND" link-to="3"/>
+                  <clip pos="5" side="tl" part="sp"/>
+                </lu>
+                <b pos="2"/>
+                <lu> 
+                  <clip pos="4" side="tl" part="lem"/> 
+                  <clip pos="4" side="tl" part="tags"/>
+                </lu>
+                <b pos="3"/>
+                <lu> 
+                  <clip pos="3" side="tl" part="lemh"/> 
+                  <clip pos="3" side="tl" part="a_nom"/>
+                  <clip pos="3" side="tl" part="ND" link-to="3"/>
+                  <clip pos="3" side="tl" part="sp"/>
+                  <clip pos="3" side="tl" part="lemq"/> 
+                </lu>
+                <b/>
+                <lu>
+                  <lit v="of"/>
+                  <lit-tag v="pr"/>
+                </lu>
+                <b/>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="det_pos"/>
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
       </action>
     </rule>
 

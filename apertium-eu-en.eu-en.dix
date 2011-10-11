@@ -546,7 +546,7 @@
     <e r="LR"><p><l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>many<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL" c="'as much time'. Cal afegir també 'as many'?"><p><l>honenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>as<b/>much<s n="det"/><s n="qnt"/></r></p></e>
-    <e c="hori, horiek"><p><l>hori<s n="det"/><s n="dem"/></l><r>this<s n="det"/></r></p></e>
+    <e c="hori, horiek"><p><l>hori<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>horrenbeste<s n="det"/><s n="indizl"/><s n="sp"/></l><r>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>horrenbeste<s n="det"/><s n="indizl"/><s n="pl"/></l><r>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e c="hura, haiek"><p><l>hura<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
