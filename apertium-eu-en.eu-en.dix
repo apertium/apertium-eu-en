@@ -337,7 +337,9 @@
     <e><p><l>ganaino<s n="post"/></l><r>until<s n="pr"/></r></p></e>
     <e><p><l>ganantz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>gandik<s n="post"/><s n="ko"/></l><r>from<s n="pr"/></r></p></e>
+    <e><p><l>gandik<s n="post"/></l><r>from<s n="pr"/></r></p></e>
     <e><p><l>gatik<s n="post"/><s n="ko"/></l><r>by<s n="pr"/></r></p></e>
+    <e><p><l>gatik<s n="post"/></l><r>by<s n="pr"/></r></p></e>
     <e r="RL"><p><l>gatik<s n="post"/><s n="ko"/></l><r>through<s n="pr"/></r></p></e>
     <e r="RL"><p><l>gatik<s n="post"/><s n="ko"/></l><r>per<s n="pr"/></r></p></e>
     <e><p><l>gero<s n="spost"/></l><r>after<s n="pr"/></r></p></e>
@@ -371,6 +373,7 @@
     <e><p><l>pean<s n="post"/></l><r>under<s n="pr"/></r></p></e>
     <e r="RL"><p><l>pean<s n="post"/></l><r>below<s n="pr"/></r></p></e>
     <e><p><l>ra<s n="post"/><s n="ko"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>ra<s n="post"/></l><r>to<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/><s n="ko"/></l><r>at<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/><s n="ko"/></l><r>into<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ra<s n="post"/><s n="ko"/></l><r>onto<s n="pr"/></r></p></e>
@@ -380,6 +383,7 @@
     <e><p><l>salbu<s n="spost"/></l><r>except<s n="pr"/></r></p></e>
     <e r="RL"><p><l>salbu<s n="spost"/></l><r>except<b/>for<s n="pr"/></r></p></e>
     <e><p><l>tik<s n="post"/><s n="ko"/></l><r>from<s n="pr"/></r></p></e>
+    <e><p><l>tik<s n="post"/></l><r>from<s n="pr"/></r></p></e>
     <e r="RL" c="as you - com tu"><p><l>tzat<s n="post"/></l><r>as<s n="pr"/></r></p></e>
     <e r="RL" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>tzat<s n="post"/></l><r>as<b/>a<s n="pr"/></r></p></e>
     <e><p><l>tzat<s n="post"/></l><r>like<s n="pr"/></r></p></e>
