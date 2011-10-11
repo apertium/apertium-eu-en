@@ -1220,7 +1220,9 @@
 	    <let>
 	      <var n="adv_adjectiu"/>
 		<concat>
-                  <lit v="more"/>
+		  <get-case-from pos="2">
+                    <lit v="more"/>
+		  </get-case-from>
                   <lit-tag v="preadv"/>
                   <lit v="$ ^"/>
 		  <clip pos="2" side="tl" part="lem"/> 
@@ -1276,7 +1278,9 @@
 	    <let>
 	      <var n="adv_adjectiu"/>
 		<concat>
-                  <lit v="most"/>
+		  <get-case-from pos="2">
+                    <lit v="most"/>
+		  </get-case-from>
                   <lit-tag v="preadv"/>
                   <lit v="$ ^"/>
 		  <clip pos="2" side="tl" part="lem"/> 
@@ -1304,7 +1308,7 @@
 	    <let>
 	      <var n="adv_adjectiu"/>
 		<concat>
-		  <get-case-from pos="1">
+		  <get-case-from pos="2">
 		    <lit v="overly"/>
 		  </get-case-from>
 		  <lit-tag v="preadv"/> 
@@ -1336,7 +1340,7 @@
 	    <let>
 	      <var n="adv_adjectiu"/>
 		<concat>
-		  <get-case-from pos="1">
+		  <get-case-from pos="2">
 		    <lit v="too"/>
 		  </get-case-from>
 		  <lit-tag v="preadv"/> 
@@ -13601,6 +13605,10 @@ It could be extended to other cases, to deal with the differences in the transla
           </chunk>
         </out>
 	<let>
+	  <clip pos="2" side="tl" part="whole"/>
+	  <lit v=""/>
+	</let>
+	<let>
 	  <var n="adv_adjectiu"/>
 	  <lit v=""/>
 	</let>
@@ -13611,6 +13619,61 @@ It could be extended to other cases, to deal with the differences in the transla
       </action>
     </rule>
 
+    <!-- the following two rules are here because of a strange error, as a workaround -->
+    <rule comment="REGLA: GRADO">
+      <pattern>
+        <pattern-item n="gra"/>
+      </pattern>
+      <action>
+        <let>
+          <var n="blanco"/>
+          <lit v=""/>
+        </let>
+        <let>
+           <var n="adv_adjname"/>
+           <clip pos="1" side="sl" part="lem"/>
+        </let>
+        <out> 
+          <chunk namefrom="adv_adjname" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="ADV"/></tag>
+              <tag><clip pos="1" side="sl" part="tags"/></tag>
+            </tags>
+            <var n="blanco"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: GRADO">
+      <pattern>
+        <pattern-item n="gra"/>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <let>
+          <var n="blanco"/>
+          <lit v=""/>
+        </let>
+        <let>
+           <var n="adv_adjname"/>
+           <concat>
+             <clip pos="1" side="sl" part="lem"/>
+             <lit v="_"/>
+             <clip pos="2" side="sl" part="lem"/>
+           </concat>
+        </let>
+        <out> 
+          <chunk namefrom="adv_adjname" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="ADV"/></tag>
+              <tag><clip pos="1" side="sl" part="tags"/></tag>
+              <tag><clip pos="2" side="sl" part="tags"/></tag>
+            </tags>
+            <var n="blanco"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
     <rule comment="REGLA: adv + gra (maizago - more often)">
