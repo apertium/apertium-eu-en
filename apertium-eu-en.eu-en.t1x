@@ -14211,32 +14211,6 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="temps"/>
-                <lit-tag v="pri"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="pri"/>
-            </let>
-          </when>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="tl" part="temps"/>
-                <lit-tag v="pii"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="pii"/>
-            </let>
-          </when>
-        </choose>
         <out>
           <chunk name="vbconj" case="caseSecondWord">
             <tags>
@@ -14250,7 +14224,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="temps"/>
               <clip pos="2" side="tl" part="persnbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
