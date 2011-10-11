@@ -10237,7 +10237,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-    <rule comment="REGLA: ADJ + NUM + NOM + DET + POST (azken lau urteetan)">
+    <rule comment="REGLA: ADJ + NUM + NOM + DET + POST (azken lau urteetan - in the last four years)">
       <pattern>
         <pattern-item n="adjizl"/>
         <pattern-item n="num"/>
@@ -10257,6 +10257,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         <call-macro n="SPgenitivo">
           <with-param pos="5"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
         </call-macro>
         <let>
           <clip pos="1" side="tl" part="nbr"/>
@@ -10288,7 +10291,7 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="1"/>
         </call-macro>
         <out> 
-          <chunk name="pr_d_adj_num_n" case="caseFirstWord">
+          <chunk name="pr_det_adj_num_nom" case="caseFirstWord">
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
@@ -10310,8 +10313,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="2"/>
             <lu>
@@ -10332,7 +10334,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-  <rule comment="REGLA: ADJ + NUM + NOM + DET + POST (bi eraso suizidetanmireia3)">
+  <rule comment="REGLA: ADJ + NUM + NOM + DET + POST (bi eraso suizidetan - in the two suicidal assaults)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="nom_np"/>
@@ -10352,6 +10354,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         <call-macro n="SPgenitivo">
           <with-param pos="5"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="3"/>
         </call-macro>
         <let>
           <clip pos="2" side="tl" part="nbr"/>
@@ -10384,7 +10389,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         
         <out> 
-          <chunk name="pr_d_adj_num_n" case="caseFirstWord">
+          <chunk name="pr_det_adj_num_nom" case="caseFirstWord">
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
@@ -10413,8 +10418,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="2"/>
             <lu> 
               <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="tipus_adj"/>
+              <clip pos="3" side="tl" part="tags"/>
             </lu>
             <b pos="3"/>
             <lu> 
@@ -10429,7 +10433,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-    <rule comment="REGLA: ADJ + NUM + NOM + DET + POST (azken ehun mila urteetan)">
+    <rule comment="REGLA: ADJ + NUM + NOM + DET + POST (azken 100 mila urteetan - in the last 100 thousand years)">
       <pattern>
         <pattern-item n="adjizl"/>
         <pattern-item n="num"/>
@@ -10447,6 +10451,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         <call-macro n="n_num">
           <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
         </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="5"/>
@@ -10485,7 +10492,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         
         <out> 
-          <chunk name="pr_d_a_num_num_n" case="caseFirstWord">
+          <chunk name="pr_det_adj_num_num_nom" case="caseFirstWord">
             <tags>
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
@@ -10508,8 +10515,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="2"/>
             <lu>
@@ -10536,7 +10542,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-   <rule comment="REGLA: ADJ + NUM + NOM + POST (beste bost atxiloturen)">
+   <rule comment="REGLA: ADJ + NUM + NOM + POST (beste bost atxiloturen - of the other five arrested persons)">
       <pattern>
         <pattern-item n="adjizl"/>
         <pattern-item n="num"/>
@@ -10549,6 +10555,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         <call-macro n="n_num">
           <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
         </call-macro>
         <call-macro n="SPgenitivo">
           <with-param pos="4"/>
@@ -10578,8 +10587,7 @@ It could be extended to other cases, to deal with the differences in the transla
               <var n="palabra"/>
               <concat>
                 <lit v="^the"/>
-                <lit-tag v="det.def"/>
-                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="det.def.sg"/>
                 <lit v="$ "/>
               </concat>
             </let>
