@@ -417,6 +417,13 @@
       <attr-item tags="pr"/>
     </def-attr>
 
+    <def-attr n="grade">
+      <attr-item tags="ind"/>
+      <attr-item tags="comp"/>
+      <attr-item tags="sup"/>
+      <attr-item tags="exc"/>
+    </def-attr>
+
     <def-attr n="a_post">
       <attr-item tags="ko"/>
     </def-attr>
@@ -13597,7 +13604,7 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><lit-tag v="SA.UNDET"/></tag>
               <tag><clip pos="1" side="tl" part="gen"/></tag>
               <tag><lit-tag v="ND"/></tag>
-              <tag><lit-tag v="comp"/></tag>
+              <tag><clip pos="2" side="sl" part="grade"/></tag>
             </tags>
             <lu>
 	      <var n="adv_adjectiu"/>
