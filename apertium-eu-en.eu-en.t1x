@@ -10855,7 +10855,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: NUM + DET (zortziak - las ocho. Se pone en femenino porque casi siempre es indicación horaria)">
+    <rule comment="REGLA: NUM + DET (zortziak - eight. Delete the determiner, as this is usually an indicator of the hour)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="det"/>
@@ -10879,13 +10879,6 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><var n="grado"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_det"/> 
-              <lit-tag v="3"/>
-              <clip pos="2" side="tl" part="nbr" link-to="3"/>
-            </lu>
-            <b/>
-            <lu>
               <clip pos="1" side="tl" part="whole"/> 
             </lu>
           </chunk>
@@ -10894,7 +10887,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-    <rule comment="REGLA: NUM + DET + POST (19etatik - desde las 19. Se pone en femenino porque casi siempre es indicación horaria)">
+    <rule comment="REGLA: NUM + DET + POST (19etatik - from 19. Delete the article, as it usually refers to hours)">
       <pattern>
         <pattern-item n="num"/>
         <pattern-item n="det"/>
@@ -10923,7 +10916,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </test>
             <let>
               <clip pos="3" side="tl" part="lem"/> 
-              <lit v="to"/>
+              <lit v="at"/>
             </let>
           </when>
         </choose>
@@ -10939,13 +10932,6 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="3" side="tl" part="whole"/> 
             </lu>
             <var n="blanco"/>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/> 
-              <clip pos="2" side="tl" part="a_det"/> 
-              <lit-tag v="3"/>
-              <clip pos="2" side="tl" part="nbr" link-to="3"/>
-            </lu>
-            <b/>
             <lu>
               <clip pos="1" side="tl" part="whole"/> 
             </lu>
