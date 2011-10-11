@@ -4080,6 +4080,52 @@
         </when>
       </choose>
     </def-macro>
+    <def-macro n="do_flex" npar="1">
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="past"/>
+              </equal>
+            </test>
+            <let>
+              <var n="aux_verb"/>
+              <concat>
+                <lit v="^do"/>
+                <lit-tag v="vbdo.past"/>
+                <lit v="$ "/>
+              </concat>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="inf"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pres"/>
+              </equal>
+            </test>
+            <let>
+              <var n="aux_verb"/>
+              <concat>
+                <lit v="^do"/>
+                <lit-tag v="vbdo.pres"/>
+                <lit v="$ "/>
+              </concat>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="inf"/>
+            </let>
+          </when>
+        </choose>
+    </def-macro>
 
     <def-macro n="ser_tener" npar="2"><!--ser o tener, esta es la cuestión :-)
                 This macro checks if the auxiliary is transitive and if the principal verb is 'izan' (which translates to English as 'be'). If so, change the translation from 'be' to 'have' (izango duzue - you will be - you will have.)
@@ -14315,6 +14361,58 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="1" side="tl" part="persnbr"/>
               <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+        <call-macro n="objdat_pron">
+          <with-param pos="1"/>
+        </call-macro>
+      </action>
+    </rule>
+    <rule comment="REGLA: VERBO PERIFRÁSTICO (nahi dut)">
+      <pattern>
+        <pattern-item n="ez"/>
+        <pattern-item n="vbper"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="verbal_flex">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="sep_pron">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="do_flex">
+          <with-param pos="2"/>
+        </call-macro>
+        <let>
+          <clip pos="1" side="tl" part="lem"/>
+          <lit v="not"/>
+        </let>
+        <out>
+          <chunk name="ez_vbconj" case="caseSecondWord">
+            <tags>
+              <tag><lit-tag v="SVneg"/></tag>
+              <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="2" side="tl" part="persnbr"/></tag>
+              <tag><clip pos="2" side="sl" part="nor"/></tag>
+              <tag><clip pos="2" side="sl" part="nori"/></tag>
+              <tag><clip pos="2" side="sl" part="nork"/></tag>
+            </tags>
+            <var n="aux_verb"/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="persnbr"/>
+              <var n="prn_enc"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
