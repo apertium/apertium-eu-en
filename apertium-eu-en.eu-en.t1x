@@ -13478,7 +13478,6 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><var n="chunk"/></tag>
               <tag><var n="tipusdet"/></tag>
               <tag><var n="nbr_chunk"/></tag>
-              <!-- <tag><clip pos="2" side="tl" part="nbr"/></tag>-->
               <tag><var n="grado"/></tag>
             </tags>
             <lu>

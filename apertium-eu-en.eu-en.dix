@@ -2258,7 +2258,7 @@
     <e><p><l>gori<s n="adj"/></l><r>passionate<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>gori<s n="adj"/><s n="izo"/></l><r>red-hot<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gori<s n="adj"/><s n="izo"/></l><r>white-hot<s n="adj"/></r></p></e>
-    <e><p><l>gorri<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
+    <e><p><l>gorri<s n="adj"/></l><r>red<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gorrixka<s n="adj"/></l><r>reddish<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gorrixka<s n="adj"/><s n="izo"/></l><r>ruddy<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>gorrotagarri<s n="adj"/><s n="izo"/></l><r>abominable<s n="adj"/></r></p></e>
@@ -9678,7 +9678,7 @@
     <e><p><l>kuleto<s n="n"/></l><r>Caesar's<b/>mushroom<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>inizial<s n="n"/></l><r>initial<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>koarentena<s n="n"/></l><r>quarantine<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>abendu<s n="n"/></l><r>December<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>abendu<s n="n"/></l><r>december<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abentura<s n="n"/></l><r>adventure<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>abentura<s n="n"/></l><r>venture<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>aberastasun<s n="n"/></l><r>wealth<s n="n"/><s n="ND"/></r></p></e>
@@ -9708,7 +9708,7 @@
     <e><p><l>abstrakzio<s n="n"/></l><r>abstraction<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abusu<s n="n"/></l><r>abuse<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>abusu<s n="n"/></l><r>misuse<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>abuztu<s n="n"/></l><r>August<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>abuztu<s n="n"/></l><r>august<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>adar<s n="n"/></l><r>branch<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>adar<s n="n"/></l><r>tributary<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" c="slr='horn' c='cf Old Irish adarc :)'"><p><l>adar<s n="n"/></l><r>horn<s n="n"/><s n="ND"/></r></p></e>
@@ -9927,7 +9927,7 @@
     <e><p><l>apetitu<s n="n"/></l><r>appetite<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apezpiku<s n="n"/></l><r>bishop<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>apezpikutza<s n="n"/></l><r>bishopric<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>apiril<s n="n"/></l><r>April<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>apiril<s n="n"/></l><r>april<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>simetria<s n="n"/></l><r>symmetry<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>simetria-ardatz<s n="n"/></l><r>axis<g><b/>of<b/>symmetry</g><s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>abzisa-ardatz<s n="n"/></l><r>axis<g><b/>of<b/>abscissas</g><s n="n"/><s n="ND"/></r></p></e>
@@ -10212,7 +10212,7 @@
     <e r="RL"><p><l>azal<s n="n"/></l><r>surface<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>azaleratze<s n="n"/></l><r>outcrop<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>azalpen<s n="n"/></l><r>explanation<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>azaro<s n="n"/></l><r>November<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>azaro<s n="n"/></l><r>november<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>azazkal<s n="n"/></l><r>nail<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>azentu<s n="n"/></l><r>accent<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>azeri<s n="n"/></l><r>fox<s n="n"/><s n="ND"/></r></p></e>
@@ -10850,7 +10850,7 @@
     <e><p><l>ehuneko<s n="n"/></l><r>percent<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>ehuneko<s n="n"/></l><r>percentage<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ehunen<s n="n"/></l><r>hundredth<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ekain<s n="n"/></l><r>June<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>ekain<s n="n"/></l><r>june<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ekaitz<s n="n"/></l><r>storm<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ekarpen<s n="n"/></l><r>contribution<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>ekarri<s n="n"/></l><r>input<s n="n"/><s n="ND"/></r></p></e>
@@ -12123,7 +12123,7 @@
     <e slr="advertisement"><p><l>iragarpen<s n="n"/></l><r>advertisement<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>iragarpen<s n="n"/></l><r>announcement<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>iragarpen<s n="n"/></l><r>commercial<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>irail<s n="n"/></l><r>September<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>irail<s n="n"/></l><r>september<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irain<s n="n"/></l><r>insult<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>irain<s n="n"/></l><r>offence<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>irakaskuntza<s n="n"/></l><r>education<s n="n"/><s n="ND"/></r></p></e>
@@ -12910,7 +12910,7 @@
     <e><p><l>mahats<s n="n"/></l><r>grape<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>mahatsondo<s n="n"/></l><r>vineyard<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>mahuka<s n="n"/></l><r>sleeve<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>maiatz<s n="n"/></l><r>May<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>maiatz<s n="n"/></l><r>may<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>maila<s n="n"/></l><r>level<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>itsas-maila<s n="n"/></l><r>sea<b/>level<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>mailegu<s n="n"/></l><r>loan<s n="n"/><s n="ND"/></r></p></e>
@@ -12973,7 +12973,7 @@
     <e><p><l>martxa<s n="n"/></l><r>march<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>farol<s n="n"/></l><r>lantern<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>farol<s n="n"/></l><r>lamppost<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>martxo<s n="n"/></l><r>March<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>martxo<s n="n"/></l><r>march<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>marxismo<s n="n"/></l><r>Marxism<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>marxista<s n="n"/></l><r>Marxist<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>masa<s n="n"/></l><r>mass<s n="n"/><s n="ND"/></r></p></e>
@@ -13440,7 +13440,7 @@
     <e><p><l>ostiral<s n="n"/></l><r>Friday<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oszilazio<s n="n"/></l><r>swing<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>otoitz<s n="n"/></l><r>prayer<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>otsail<s n="n"/></l><r>February<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>otsail<s n="n"/></l><r>february<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>otso<s n="n"/></l><r>wolf<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>oxigeno<s n="n"/></l><r>oxygen<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ozeano<s n="n"/></l><r>ocean<s n="n"/><s n="ND"/></r></p></e>
@@ -14169,9 +14169,9 @@
     <e><p><l>urraketa<s n="n"/></l><r>violation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>urrats<s n="n"/></l><r>step<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>urre<s n="n"/></l><r>gold<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>urri<s n="n"/></l><r>October<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>urri<s n="n"/></l><r>october<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>urtaro<s n="n"/></l><r>season<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>urtarril<s n="n"/></l><r>January<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>urtarril<s n="n"/></l><r>january<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>urte<s n="n"/></l><r>year<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>urtebete<s n="n"/></l><r>year<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>urtebetetze<s n="n"/></l><r>birthday<s n="n"/><s n="ND"/></r></p></e>
@@ -14187,7 +14187,7 @@
     <e><p><l>uzta<s n="n"/></l><r>crop<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>uzta<s n="n"/></l><r>harvest<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>uzta<s n="n"/></l><r>yield<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>uztail<s n="n"/></l><r>July<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>uztail<s n="n"/></l><r>july<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>valentziar<s n="n"/></l><r>Valencian<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>web<b/>orri<s n="n"/></l><r>webpage<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>web<b/>orrialde<s n="n"/></l><r>webpage<s n="n"/><s n="ND"/></r></p></e>
