@@ -6999,7 +6999,7 @@ It could be extended to other cases, to deal with the differences in the transla
       </action>
     </rule>
 
-    <rule comment="REGLA: ADJ + NOM + NOM + POST (azken osasun zentrotatik - de último centro de salud)">
+    <rule comment="REGLA: ADJ + NOM + NOM + POST (azken osasun zentrotatik - of last health centre)">
       <pattern>
         <pattern-item n="adjizl"/>
         <pattern-item n="nom"/>
@@ -7023,44 +7023,126 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="adjdetpp">
           <with-param pos="1"/>
         </call-macro>
-        <out> 
-          <chunk name="pr_a_n_pr_n" case="caseFirstWord">
-            <tags>
-              <tag><var n="chunk"/></tag>
-              <tag><lit-tag v="UNDET"/></tag>
-              <tag><var n="nbr_chunk"/></tag>
-            </tags>
-            <lu>
-              <clip pos="4" side="tl" part="lem"/> 
-              <clip pos="4" side="tl" part="a_prep"/> 
-            </lu>
-            <var n="blanco"/>
-            <lu> 
-              <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="tags"/>
-            </lu>
-            <b pos="1"/>
-            <lu> 
-              <clip pos="3" side="tl" part="lemh"/> 
-              <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="ND" link-to="3"/>
-              <clip pos="3" side="tl" part="sp"/>
-              <clip pos="3" side="tl" part="lemq"/> 
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <lit v="of"/>
-              <lit-tag v="pr"/>
-            </lu>
-            <b/>
-            <lu> 
-              <clip pos="2" side="tl" part="lemh"/> 
-              <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="nbr"/>
-              <clip pos="2" side="tl" part="lemq"/> 
-            </lu>
-          </chunk>
-        </out>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <or>
+                  <equal>
+                    <clip pos="2" side="tl" part="a_nom"/>
+                    <lit-tag v="np.ant"/> 
+                  </equal>
+                  <equal>
+                    <clip pos="2" side="tl" part="a_nom"/>
+                    <lit-tag v="np.ant.m"/> 
+                  </equal>
+                  <equal>
+                    <clip pos="2" side="tl" part="a_nom"/>
+                    <lit-tag v="np.ant.f"/> 
+                  </equal>
+                  <equal>
+                    <clip pos="2" side="tl" part="a_nom"/>
+                    <lit-tag v="np.cog"/> 
+                  </equal>
+                </or>
+                <not> <!-- if it's ant/cog + ant/cog, no genitive -->
+                  <or>
+                    <equal>
+                      <clip pos="3" side="tl" part="a_nom"/>
+                      <lit-tag v="np.ant"/> 
+                    </equal>
+                    <equal>
+                      <clip pos="3" side="tl" part="a_nom"/>
+                      <lit-tag v="np.ant.m"/> 
+                    </equal>
+                    <equal>
+                      <clip pos="3" side="tl" part="a_nom"/>
+                      <lit-tag v="np.ant.f"/> 
+                    </equal>
+                    <equal>
+                      <clip pos="3" side="tl" part="a_nom"/>
+                      <lit-tag v="np.cog"/> 
+                    </equal>
+                  </or>
+                </not>
+              </and>
+            </test>
+            <out> 
+              <chunk name="pr_nom_gen_adj_nom" case="caseFirstWord">
+                <tags>
+                  <tag><var n="chunk"/></tag>
+                  <tag><var n="tipusdet"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                  <tag><var n="grado"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="4" side="tl" part="lem"/> 
+                  <clip pos="4" side="tl" part="a_prep"/> 
+                </lu>
+                <var n="blanco"/>
+                <lu> 
+                  <clip pos="2" side="tl" part="lemh"/> 
+                  <clip pos="2" side="tl" part="a_nom"/>
+                  <clip pos="2" side="tl" part="nbr"/>
+                  <clip pos="2" side="tl" part="lemq"/> 
+                </lu>
+                <lu> 
+                  <lit v="'s"/>
+                  <lit-tag v="gen"/> 
+                </lu>
+                <b pos="1"/>
+                <lu> 
+                  <clip pos="1" side="tl" part="lem"/> 
+                  <clip pos="1" side="tl" part="tags"/>
+                </lu>
+                <b pos="2"/>
+                <lu> 
+                  <clip pos="3" side="tl" part="lemh"/> 
+                  <clip pos="3" side="tl" part="a_nom"/>
+                  <clip pos="3" side="tl" part="ND" link-to="3"/>
+                  <clip pos="3" side="tl" part="sp"/>
+                  <clip pos="3" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out> <!-- no f_bcond, because the remaining space is artificial -->
+          </when>
+          <otherwise>
+            <out> 
+              <chunk name="pr_adj_nom_nom" case="caseFirstWord">
+                <tags>
+                  <tag><var n="chunk"/></tag>
+                  <tag><var n="tipusdet"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                  <tag><var n="grado"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="4" side="tl" part="lem"/> 
+                  <clip pos="4" side="tl" part="a_prep"/> 
+                </lu>
+                <var n="blanco"/>
+                <lu> 
+                  <clip pos="1" side="tl" part="lem"/> 
+                  <clip pos="1" side="tl" part="tags"/>
+                </lu>
+                <b pos="2"/>
+                <lu> 
+                  <clip pos="2" side="tl" part="lemh"/> 
+                  <clip pos="2" side="tl" part="a_nom"/>
+                  <clip pos="2" side="tl" part="nbr"/>
+                  <clip pos="2" side="tl" part="lemq"/> 
+                </lu>
+                <b pos="3"/>
+                <lu> 
+                  <clip pos="3" side="tl" part="lemh"/> 
+                  <clip pos="3" side="tl" part="a_nom"/>
+                  <clip pos="3" side="tl" part="ND" link-to="3"/>
+                  <clip pos="3" side="tl" part="sp"/>
+                  <clip pos="3" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
       </action>
     </rule>
 
