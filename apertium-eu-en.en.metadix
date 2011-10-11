@@ -21558,18 +21558,19 @@
     <e lm="Vietnamese"><i>Vietnamese</i><par n="house__n"/>    </e>
     <e lm="Yugoslav"><i>Yugoslav</i><par n="house__n"/>    </e>
     <e lm="Yugoslavian"><i>Yugoslavian</i><par n="house__n"/>    </e>
-    <e lm="january"><i>Januar</i><par n="bab/y__n"/>    </e>
-    <e lm="february"><i>Februar</i><par n="bab/y__n"/>    </e>
     <e r="LR" lm="March"><i>March</i><par n="access__n"/>    </e>
-    <e lm="april"><i>April</i><par n="house__n"/>    </e>
-    <e lm="may"><i>May</i><par n="house__n"/>    </e>
-    <e lm="june"><i>June</i><par n="house__n"/>    </e>
-    <e lm="july"><i>Jul</i><par n="bab/y__n"/>    </e>
-    <e lm="august"><i>August</i><par n="house__n"/>    </e>
-    <e lm="september"><i>September</i><par n="house__n"/>    </e>
-    <e lm="october"><i>October</i><par n="house__n"/>    </e>
-    <e lm="november"><i>November</i><par n="house__n"/>    </e>
-    <e lm="december"><i>December</i><par n="house__n"/>    </e>
+    <e lm="January"><p><l>January</l><r>january</r></p><par n="house__n"/>    </e>
+    <e lm="February"><p><l>February</l><r>february</r></p><par n="house__n"/>    </e>
+    <e lm="April"><p><l>April</l><r>april</r></p><par n="house__n"/>    </e>
+    <e lm="May"><p><l>May</l><r>may</r></p><par n="house__n"/>    </e>
+    <e lm="June"><p><l>June</l><r>june</r></p><par n="house__n"/>    </e>
+    <e lm="July"><p><l>July</l><r>july</r></p><par n="house__n"/>    </e>
+    <e lm="August"><p><l>August</l><r>august</r></p><par n="house__n"/>    </e>
+    <e lm="September"><p><l>September</l><r>september</r></p><par n="house__n"/>    </e>
+    <e lm="October"><p><l>October</l><r>october</r></p><par n="house__n"/>    </e>
+    <e lm="September"><p><l>September</l><r>september</r></p><par n="house__n"/>    </e>
+    <e lm="November"><p><l>November</l><r>november</r></p><par n="house__n"/>    </e>
+    <e lm="December"><p><l>December</l><r>december</r></p><par n="house__n"/>    </e>
     <e lm="Mr."><i>Mr.</i><par n="east__n"/>    </e>
     <e lm="Mrs."><i>Mrs.</i><par n="east__n"/>    </e>
     <e lm="Ms."><i>Ms.</i><par n="east__n"/>    </e>
