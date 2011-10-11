@@ -14080,6 +14080,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </out>
             <call-macro n="f_bcond">
               <with-param pos="1"/>
+              <with-param pos="2"/>
             </call-macro>
           </when>
         </choose>
@@ -14185,11 +14186,13 @@ It could be extended to other cases, to deal with the differences in the transla
             </out>
             <call-macro n="f_bcond">
               <with-param pos="1"/>
+              <with-param pos="2"/>
             </call-macro>
           </when>
         </choose>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -14302,9 +14305,11 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
+          <with-param pos="2"/>
         </call-macro>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -14374,6 +14379,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
+          <with-param pos="2"/>
         </call-macro>
       </action>
     </rule>
@@ -14443,6 +14449,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
+          <with-param pos="2"/>
         </call-macro>
       </action>
     </rule>
@@ -14513,9 +14520,11 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
+          <with-param pos="2"/>
         </call-macro>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -15238,6 +15247,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </out>
             <call-macro n="f_bcond">
               <with-param pos="2"/>
+              <with-param pos="3"/>
             </call-macro>
           </when>
         </choose>
@@ -15311,6 +15321,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -15382,6 +15393,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -15483,6 +15495,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </out>
             <call-macro n="f_bcond">
               <with-param pos="2"/>
+              <with-param pos="3"/>
             </call-macro>
           </when>
         </choose>
@@ -15583,6 +15596,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -15667,6 +15681,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -15769,6 +15784,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </out>
             <call-macro n="f_bcond">
               <with-param pos="2"/>
+              <with-param pos="3"/>
             </call-macro>
           </when>
         </choose>
@@ -15857,6 +15873,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -15943,6 +15960,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
       </action>
     </rule>
@@ -16623,6 +16641,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </out>
             <call-macro n="f_bcond">
               <with-param pos="1"/>
+              <with-param pos="2"/>
             </call-macro>
           </when>
         </choose>
@@ -17683,6 +17702,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
+          <with-param pos="2"/>
         </call-macro>
       </action>
     </rule>
