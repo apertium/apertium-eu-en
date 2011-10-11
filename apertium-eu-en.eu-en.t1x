@@ -6689,7 +6689,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
     
 
-    <rule comment="REGLA: DET + NOM  (zenbait etxe - algunas casas / nahiko jende = bastante jende)">
+    <rule comment="REGLA: DET + NOM  (zenbait etxe - some houses / nahiko jende = enough people)">
       <pattern>
         <pattern-item n="detindizl"/>
         <pattern-item n="nom_np"/>
@@ -6705,6 +6705,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="tipo_det">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
+        </call-macro>
         <out> 
           <chunk name="det_nom" case="caseFirstWord">
             <tags>
@@ -6715,10 +6718,7 @@ It could be extended to other cases, to deal with the differences in the transla
             </tags>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
-              <clip pos="1" side="tl" part="ND" link-to="3"/>
-              <clip pos="1" side="tl" part="sp"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="1"/>
             <lu> 
@@ -6733,7 +6733,7 @@ It could be extended to other cases, to deal with the differences in the transla
       </action>
     </rule>
 
-    <rule comment="REGLA: DET + NOM  (zenbait etxetan - en algunas casas / nahiko jenderi = a bastante jende)">
+    <rule comment="REGLA: DET + NOM  (zenbait etxetan - in some houses)">
       <pattern>
         <pattern-item n="detindizl"/>
         <pattern-item n="nom_np"/>
@@ -6753,6 +6753,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="SPgenitivo">
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
+        </call-macro>
         <out> 
           <chunk name="pr_det_nom" case="caseFirstWord">
             <tags>
@@ -6768,9 +6771,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <var n="blanco"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
-              <clip pos="1" side="tl" part="sp"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="1"/>
             <lu> 
@@ -6787,7 +6788,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: ADJ + NOM + DET (euskal presoak)">
+    <rule comment="REGLA: ADJ + NOM + DET (euskal presoak - the Basque prisoners !tagger picks sg!)">
       <pattern>
         <pattern-item n="adjizl"/>
         <pattern-item n="nom_np"/>
@@ -6842,7 +6843,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-    <rule comment="REGLA: ADJ + NOM + NOM + DET (azken lege proiektua - el último proyecto de ley)">
+    <rule comment="REGLA: ADJ + NOM + NOM + DET (azken lege proiektua - the last law project)">
       <pattern>
         <pattern-item n="adjizl"/>
         <pattern-item n="nom"/>
@@ -7019,6 +7020,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="nbr_n1">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
+        </call-macro>
         <out> 
           <chunk name="pr_a_n_pr_n" case="caseFirstWord">
             <tags>
@@ -7033,10 +7037,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <var n="blanco"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
-              <clip pos="1" side="tl" part="ND" link-to="3"/>
-              <clip pos="1" side="tl" part="sp"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="1"/>
             <lu> 
