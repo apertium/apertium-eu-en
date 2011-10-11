@@ -14258,6 +14258,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
+          <with-param pos="2"/>
         </call-macro>
       </action>
     </rule>
