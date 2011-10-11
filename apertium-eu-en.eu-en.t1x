@@ -4084,10 +4084,18 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="tl" part="temps"/>
-                <lit-tag v="past"/>
-              </equal>
+              <and>
+                <equal>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <lit-tag v="past"/>
+                </equal>
+                <not>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_verb"/>
+                    <lit-tag v="vbser"/>
+                  </equal>
+                </not>
+              </and>
             </test>
             <let>
               <var n="aux_verb"/>
@@ -4104,10 +4112,18 @@
           </when>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="tl" part="temps"/>
-                <lit-tag v="pres"/>
-              </equal>
+              <and>
+                <equal>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <lit-tag v="pres"/>
+                </equal>
+                <not>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_verb"/>
+                    <lit-tag v="vbser"/>
+                  </equal>
+                </not>
+              </and>
             </test>
             <let>
               <var n="aux_verb"/>
@@ -4133,6 +4149,12 @@
                   <clip pos="1" side="tl" part="persnbr"/>
                   <lit-tag v="p3.sg"/>
                 </equal>
+                <not>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_verb"/>
+                    <lit-tag v="vbser"/>
+                  </equal>
+                </not>
               </and>
             </test>
             <let>
@@ -14441,31 +14463,76 @@ It could be extended to other cases, to deal with the differences in the transla
           <clip pos="1" side="tl" part="lem"/>
           <lit v="not"/>
         </let>
-        <out>
-          <chunk name="ez_vbconj" case="caseSecondWord">
-            <tags>
-              <tag><lit-tag v="SVneg"/></tag>
-              <tag><clip pos="2" side="tl" part="a_verb"/></tag>
-              <tag><clip pos="2" side="tl" part="persnbr"/></tag>
-              <tag><clip pos="2" side="sl" part="nor"/></tag>
-              <tag><clip pos="2" side="sl" part="nori"/></tag>
-              <tag><clip pos="2" side="sl" part="nork"/></tag>
-            </tags>
-            <var n="aux_verb"/>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="temps"/>
-              <clip pos="2" side="tl" part="persnbr"/>
-              <var n="prn_enc"/>
-              <clip pos="2" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <lit v="be"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <lit-tag v="vbser"/>
+                </equal>
+                <equal>
+                  <var n="aux_verb"/>
+                  <lit v=""/>
+                </equal>
+              </and>
+            </test>
+            <out>
+              <chunk name="be_not" case="caseSecondWord">
+                <tags>
+                  <tag><lit-tag v="SVneg"/></tag>
+                  <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="2" side="tl" part="persnbr"/></tag>
+                  <tag><clip pos="2" side="sl" part="nor"/></tag>
+                  <tag><clip pos="2" side="sl" part="nori"/></tag>
+                  <tag><clip pos="2" side="sl" part="nork"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="2" side="tl" part="lemh"/>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <clip pos="2" side="tl" part="persnbr"/>
+                  <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+              <chunk name="ez_vbconj" case="caseSecondWord">
+                <tags>
+                  <tag><lit-tag v="SVneg"/></tag>
+                  <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="2" side="tl" part="persnbr"/></tag>
+                  <tag><clip pos="2" side="sl" part="nor"/></tag>
+                  <tag><clip pos="2" side="sl" part="nori"/></tag>
+                  <tag><clip pos="2" side="sl" part="nork"/></tag>
+                </tags>
+                <var n="aux_verb"/>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <clip pos="2" side="tl" part="lemh"/>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <clip pos="2" side="tl" part="persnbr"/>
+                  <var n="prn_enc"/>
+                  <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
         <call-macro n="objdat_pron">
           <with-param pos="1"/>
         </call-macro>
