@@ -3894,6 +3894,30 @@
               <lit-tag v="fti"/>
             </equal>
           </test>
+          <choose>
+            <when>
+              <test>
+                <and>
+                  <equal>
+                    <clip pos="1" side="tl" part="lem"/>
+                    <lit v="can"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_verb"/>
+                    <lit-tag v="vaux"/>
+                  </equal>
+                </and>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="lem"/>
+                <lit v="be able to"/>
+              </let>
+              <let>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <lit-tag v="vbmod"/>
+              </let>
+            </when>
+          </choose>
           <let>
             <var n="aux_verb"/>
             <concat>
@@ -14055,9 +14079,6 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-        <call-macro n="verbal_flex">
-          <with-param pos="1"/>
-        </call-macro>
         <let>
           <clip pos="1" side="tl" part="lem"/>
           <lit v="can"/>
@@ -14108,6 +14129,9 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
           </when>
         </choose>
+        <call-macro n="verbal_flex">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="vbconj" case="caseSecondWord">
             <tags>
@@ -14118,10 +14142,12 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><clip pos="1" side="sl" part="nori"/></tag>
               <tag><clip pos="1" side="sl" part="nork"/></tag>
             </tags>
+            <var n="aux_verb"/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
+              <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
