@@ -270,6 +270,7 @@
 
 
     <e><p><l>aino<s n="post"/><s n="ko"/></l><r>until<s n="pr"/></r></p></e>
+    <e><p><l>aino<s n="post"/></l><r>until<s n="pr"/></r></p></e>
     <e r="RL"><p><l>aino<s n="post"/><s n="ko"/></l><r>up<b/>to<s n="pr"/></r></p></e>
 
     <e><p><l>aldera<s n="spost"/></l><r>to<s n="pr"/></r></p></e>
@@ -291,6 +292,7 @@
     <e><p><l>an<s n="post"/></l><r>in<s n="pr"/></r></p></e>
     <e r="RL"><p><l>an<s n="post"/></l><r>on<s n="pr"/></r></p></e>
     <e><p><l>antz<s n="post"/><s n="ko"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>antz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
     <e r="RL"><p><l>antz<s n="post"/><s n="ko"/></l><r>towards<s n="pr"/></r></p></e>
     <e r="RL" c="as you - com tu"><p><l>antzera<s n="spost"/></l><r>as<s n="pr"/></r></p></e>
     <e r="RL" c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>antzera<s n="spost"/></l><r>as<b/>a<s n="pr"/></r></p></e>
@@ -321,6 +323,7 @@
     <e r="RL"><p><l>en<s n="post"/></l><r>from<s n="pr"/></r></p></e>
     <e r="RL" c="MG: He fell off his chair"><p><l>en<s n="post"/></l><r>off<s n="pr"/></r></p></e>
     <e><p><l>entzat<s n="post"/><s n="ko"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>entzat<s n="post"/></l><r>for<s n="pr"/></r></p></e>
     <e r="RL"><p><l>entzat<s n="post"/><s n="ko"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
     <e><p><l>esanetan<s n="spost"/></l><r>according<b/>to<s n="pr"/></r></p></e>
     <e><p><l>esker<s n="spost"/></l><r>thanks<b/>to<s n="pr"/></r></p></e>
@@ -334,6 +337,7 @@
     <e r="RL"><p><l>gan<s n="post"/></l><r>on<s n="pr"/></r></p></e>
     <e r="RL"><p><l>gana<s n="post"/><s n="ko"/></l><r>at<s n="pr"/></r></p></e>
     <e><p><l>gana<s n="post"/><s n="ko"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>gana<s n="post"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>ganaino<s n="post"/></l><r>until<s n="pr"/></r></p></e>
     <e><p><l>ganantz<s n="post"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>gandik<s n="post"/><s n="ko"/></l><r>from<s n="pr"/></r></p></e>
@@ -389,6 +393,7 @@
     <e><p><l>tzat<s n="post"/></l><r>like<s n="pr"/></r></p></e>
     <e r="RL"><p><l>tzat<s n="post"/></l><r>such<b/>as<s n="pr"/></r></p></e>
     <e c="por/con?"><p><l>z<s n="post"/><s n="ko"/></l><r>by<s n="pr"/></r></p></e>
+    <e c="por/con?"><p><l>z<s n="post"/></l><r>by<s n="pr"/></r></p></e>
     <e r="RL" c="por/con?"><p><l>z<s n="post"/><s n="ko"/></l><r>through<s n="pr"/></r></p></e>
     <e><p><l>zehar<s n="spost"/></l><r>through<s n="pr"/></r></p></e>
     <e r="RL"><p><l>zehar<s n="spost"/></l><r>across<s n="pr"/></r></p></e>
@@ -708,6 +713,7 @@
     <e><p><l>herenegun<b/>goizean<s n="adv"/></l><r>the<b/>day<b/>before<b/>yesterday<b/>in<b/>the<b/>morning<s n="adv"/></r></p></e>
     <e><p><l>hilik<s n="adv"/></l><r>dead<s n="adv"/></r></p></e>
     <e><p><l>hobe<s n="adv"/></l><r>better<s n="adv"/></r></p></e>
+    <e><p><l>orain<b/>hobe<s n="adv"/></l><r>better<b/>for<b/>now<s n="adv"/></r></p></e>
     <e><p><l>hobeto<s n="adv"/></l><r>better<s n="adv"/></r></p></e>
     <e><p><l>horiez<b/>gain<s n="adv"/></l><r>besides<b/>those<s n="adv"/></r></p></e>
     <e><p><l>horrela<s n="adv"/></l><r>like<b/>that<s n="adv"/></r></p></e>
