@@ -14407,37 +14407,90 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
           </otherwise>
         </choose>
-        <out>
-          <chunk namefrom="verbo" case="caseSecondWord">
-            <tags>
-              <tag><lit-tag v="SVneg"/></tag>
-              <tag><clip pos="2" side="tl" part="a_verb"/></tag>
-              <tag><clip pos="2" side="tl" part="temps"/></tag><!--en aquesta regla només posem el temps, per a tractar formes compostes separades en el t2x ('ez dutela galdeketa eman') -->
-              <tag><clip pos="2" side="tl" part="persnbr"/></tag>
-              <tag><clip pos="2" side="sl" part="nor"/></tag>
-              <tag><clip pos="2" side="sl" part="nori"/></tag>
-              <tag><clip pos="2" side="sl" part="nork"/></tag>
-            </tags>
-            <var n="aux_verb"/>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="temps"/>
-              <clip pos="2" side="tl" part="persnbr"/>
-              <var n="prn_enc"/>
-              <clip pos="2" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <lit v="be"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <lit-tag v="vbser"/>
+                </equal>
+                <equal>
+                  <var n="aux_verb"/>
+                  <lit v=""/>
+                </equal>
+                <not>
+                  <equal>
+                    <clip pos="2" side="tl" part="temps"/>
+                    <lit-tag v="pp"/>
+                  </equal>
+                </not>
+              </and>
+            </test>
+            <out>
+              <chunk name="be_not" case="caseSecondWord">
+                <tags>
+                  <tag><lit-tag v="SVneg"/></tag>
+                  <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="2" side="tl" part="persnbr"/></tag>
+                  <tag><clip pos="2" side="sl" part="nor"/></tag>
+                  <tag><clip pos="2" side="sl" part="nori"/></tag>
+                  <tag><clip pos="2" side="sl" part="nork"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="2" side="tl" part="lemh"/>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <clip pos="2" side="tl" part="persnbr"/>
+                  <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+              <chunk namefrom="verbo" case="caseSecondWord">
+                <tags>
+                  <tag><lit-tag v="SVneg"/></tag>
+                  <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="2" side="tl" part="temps"/></tag><!--en aquesta regla només posem el temps, per a tractar formes compostes separades en el t2x ('ez dutela galdeketa eman') -->
+                  <tag><clip pos="2" side="tl" part="persnbr"/></tag>
+                  <tag><clip pos="2" side="sl" part="nor"/></tag>
+                  <tag><clip pos="2" side="sl" part="nori"/></tag>
+                  <tag><clip pos="2" side="sl" part="nork"/></tag>
+                </tags>
+                <var n="aux_verb"/>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <clip pos="2" side="tl" part="lemh"/>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <clip pos="2" side="tl" part="persnbr"/>
+                  <var n="prn_enc"/>
+                  <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
         <call-macro n="objdat_pron">
           <with-param pos="2"/>
         </call-macro>
       </action>
     </rule>
+
+<!--
     <rule comment="REGLA: lakoan egon - I think...">
       <pattern>
         <pattern-item n="lakoan"/>
@@ -14461,12 +14514,32 @@ It could be extended to other cases, to deal with the differences in the transla
           <clip pos="2" side="tl" part="a_verb"/>
           <lit-tag v="vblex"/>
         </let>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <var n="aux_verb"/>
+                <lit v=""/>
+              </equal>
+            </test>
+            <let>
+              <var n="verbo"/>
+              <lit v="lakoan_egon"/>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <var n="verbo"/>
+              <lit v="aux_lakoan_egon"/>
+            </let>
+          </otherwise>
+        </choose>
         <out>
-          <chunk name="lakoan_egon" case="caseSecondWord">
+          <chunk namefrom="verbo" case="caseSecondWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="2" side="tl" part="a_verb"/></tag>
-              <tag><clip pos="2" side="tl" part="temps"/></tag><!--en aquesta regla només posem el temps, per a tractar formes compostes separades en el t2x ('ez dutela galdeketa eman') -->
+              <tag><clip pos="2" side="tl" part="temps"/></tag><!-x-en aquesta regla només posem el temps, per a tractar formes compostes separades en el t2x ('ez dutela galdeketa eman') -x->
               <tag><clip pos="2" side="tl" part="persnbr"/></tag>
               <tag><clip pos="2" side="sl" part="nor"/></tag>
               <tag><clip pos="2" side="sl" part="nori"/></tag>
@@ -14488,7 +14561,7 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
       </action>
     </rule>
-
+-->
 
     <rule comment="REGLA: VERBO PERIFRÁSTICO (nahi dut)">
       <pattern>
