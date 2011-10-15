@@ -2396,6 +2396,10 @@
     <e><p><l>herri_xumearen<s n="adj"/></l><r>vulgar<s n="adj"/></r></p></e>
     <e><p><l>herritar<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>
     <e r="RL"><p><l>hertsi<s n="adj"/></l><r>strict<s n="adj"/></r></p></e>
+    <e><p><l>aingira<s n="n"/></l><r>eel<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>aerolabaingailu<s n="n"/></l><r>hovercraft<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>lira<s n="n"/></l><r>lira<s n="n"/><s n="sg"/></r></p></e>
+    <e slr="lyre"><p><l>lira<s n="n"/></l><r>lyre<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>lege<b/>hertsi<s n="n"/></l><r>strict<b/>law<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>adi-adi<b/>begiratu<s n="n"/></l><r>stare<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>adiera<s n="n"/></l><r>meaning<s n="n"/><s n="ND"/></r></p></e>

@@ -15074,7 +15074,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-    <rule comment="REGLA: GER + VERBO SINT (etortzen naiz)">
+    <rule comment="REGLA: GER + VERBO SINT (etortzen naiz - I come)">
       <pattern>
         <pattern-item n="ger"/>
         <pattern-item n="vbsint_aux"/>
