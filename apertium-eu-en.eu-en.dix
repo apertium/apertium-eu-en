@@ -8874,7 +8874,8 @@
     <e r="RL" a="matxin"><p><l>orro<b/>egin<s n="vblex"/></l><r>moo<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>orro<b/>egin<s n="vblex"/></l><r>squall<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>osatu<s n="vblex"/></l><r>complete<s n="vblex"/></r></p></e>
-    <e><p><l>osatu<s n="vblex"/></l><r>compose<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>osatu<s n="vblex"/></l><r>compose<s n="vblex"/></r></p></e>
+    <e><p><l>osatu<s n="vblex"/></l><r>make<g><b/>up</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e r="RL"><p><l>osatu<s n="vblex"/></l><r>constitute<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>osatu<s n="vblex"/></l><r>complement<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>osatu<s n="vblex"/></l><r>comprise<s n="vblex"/></r></p></e>
