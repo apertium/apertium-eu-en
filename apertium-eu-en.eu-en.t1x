@@ -3245,7 +3245,7 @@
                 </equal>
               </test>
               <let>
-                <var n="objtags"/>
+                <var n="procltags"/>
                 <lit-tag v="prn.obj.p1.mf.sg"/>
               </let>
             </when>
@@ -3263,7 +3263,7 @@
                 </or>
               </test>
               <let>
-                <var n="objtags"/>
+                <var n="procltags"/>
                 <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
@@ -3275,7 +3275,7 @@
                 </equal>
               </test>
               <let> <!-- TODO: make this configurable. The hard part is, Basque pronouns have no gender. Assume nt ('it') for object -->
-                <var n="objtags"/>
+                <var n="procltags"/>
                 <lit-tag v="prn.obj.p3.nt.sg"/>
               </let>
             </when>
@@ -3287,7 +3287,7 @@
                 </equal>
               </test>
               <let>
-                <var n="objtags"/>
+                <var n="procltags"/>
                 <lit-tag v="prn.obj.p1.mf.pl"/>
               </let>
             </when>
@@ -3299,7 +3299,7 @@
                 </equal>
               </test>
               <let>
-                <var n="objtags"/>
+                <var n="procltags"/>
                 <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
@@ -3311,7 +3311,7 @@
                 </equal>
               </test>
               <let>
-                <var n="objtags"/>
+                <var n="procltags"/>
                 <lit-tag v="prn.obj.p3.mf.pl"/>
               </let>
             </when>
@@ -3349,7 +3349,7 @@
                 </equal>
               </test>
               <let>
-                <var n="procltags"/>
+                <var n="objtags"/>
                 <lit-tag v="prn.obj.p1.mf.sg"/>
               </let>
             </when>
@@ -3367,7 +3367,7 @@
                 </or>
               </test>
               <let>
-                <var n="procltags"/>
+                <var n="objtags"/>
                 <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
@@ -3379,7 +3379,7 @@
                 </equal>
               </test>
               <let>
-                <var n="procltags"/>
+                <var n="objtags"/>
                 <lit-tag v="prn.obj.p3.nt.sg"/>
               </let>
             </when>-->
@@ -3391,7 +3391,7 @@
                 </equal>
               </test>
               <let>
-                <var n="procltags"/>
+                <var n="objtags"/>
                 <lit-tag v="prn.obj.p1.mf.pl"/>
               </let>
             </when>
@@ -3403,7 +3403,7 @@
                 </equal>
               </test>
               <let>
-                <var n="procltags"/>
+                <var n="objtags"/>
                 <lit-tag v="prn.obj.p2.mf.sp"/>
               </let>
             </when>
@@ -3415,7 +3415,7 @@
                 </equal>
               </test>
               <let>
-                <var n="procltags"/>
+                <var n="objtags"/>
                 <lit-tag v="prn.obj.p3.mf.pl"/>
               </let>
             </when>-->
