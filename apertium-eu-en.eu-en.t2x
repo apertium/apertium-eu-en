@@ -2707,7 +2707,7 @@
 <!--********************REGLAS CON SINTAGMAS VERBALES ************************* -->
 <!--con formas no conjugadas -->
 
- <rule comment="REGLA: PP + PREP (sinatu gabe - sin firmar (MG: por ahora sólo con pp por provar, puede hacerse extensivo a todos los SV))">
+ <rule comment="REGLA: PP + PREP (sinatu gabe - without signing (MG: por ahora sólo con pp por provar, puede hacerse extensivo a todos los SV))">
       <pattern>
 	<pattern-item n="pp"/>
 	<pattern-item n="PREP"/>
@@ -2799,7 +2799,7 @@
 
 
 
-<rule comment="SN + SVsub (afaria prestatzeko)">
+<rule comment="SN + SVsub (afaria prestatzeko - to prepare the dinner)">
   <pattern>
     <pattern-item n="SN"/>
     <pattern-item n="SVsub"/>
@@ -3031,7 +3031,7 @@
       </action>
 </rule>
 
-<rule comment="gurekin jokatzeko - para jugar con nosotros (por ahora SPR incluye SPGEN, sintagmas en genitivo, revisar si esto provoca algún error">
+<rule comment="gurekin jokatzeko - to play with us (por ahora SPR incluye SPGEN, sintagmas en genitivo, revisar si esto provoca algún error">
   <pattern>
     <pattern-item n="SPR"/>
     <pattern-item n="SVsub"/>
@@ -3634,6 +3634,110 @@
 	      <clip pos="1" part="chcontent"/>
 	  </chunk>
 	</out>
+  </action>
+</rule>
+<rule comment="SV + rel + SN (datorren urtea)">
+  <pattern>
+    <pattern-item n="prnsubj"/>
+    <pattern-item n="SVconj"/>
+    <pattern-item n="querel"/>
+    <pattern-item n="SN"/>
+  </pattern>
+  <action>
+    <choose>
+	  <when>
+	    <test>
+	      <equal>
+		<clip pos="4" part="tipus_det"/>
+		<lit-tag v="art"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <clip pos="4" part="tipus_det"/>
+	      <lit-tag v="def"/>
+	    </let>
+	  </when>
+	</choose>
+	<choose>
+	  <when>
+	    <test>
+	      <equal>
+		<clip pos="4" part="gen"/>
+		<lit-tag v="GD"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <clip pos="4" part="gen"/>
+	      <lit-tag v="m"/>
+	    </let>
+	  </when>
+	</choose>
+	<choose>
+	  <when>
+	    <test>
+	      <equal>
+		<clip pos="4" part="nbr"/>
+		<lit-tag v="ND"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <clip pos="4" part="nbr"/>
+	      <lit-tag v="sg"/>
+	    </let>
+	  </when>
+	</choose>
+	<out>
+	  <chunk>
+	    <get-case-from pos="1">
+	      <clip pos="4" part="lem"/>
+	    </get-case-from>
+	      <clip pos="4" part="tags"/>
+	      <clip pos="4" part="chcontent"/>
+	  </chunk>
+	  <b pos="1"/>
+	  <chunk>
+	    <clip pos="3" part="whole"/>
+	  </chunk>
+	  <b pos="3"/>
+	</out>
+	<choose>
+	  <when>
+	    <test>
+              <not>
+	        <equal>
+		  <clip pos="1" part="pers"/>
+		  <lit-tag v="p3"/>
+	        </equal>
+              </not>
+	    </test>
+	    <out>
+	      <chunk>
+	        <get-case-from pos="4">
+	          <clip pos="1" part="lem"/>
+	        </get-case-from>
+	          <clip pos="1" part="tags"/>
+	          <clip pos="1" part="chcontent"/>
+	      </chunk>
+	      <b pos="3"/>
+	      <chunk>
+	        <clip pos="2" part="lem"/>
+	        <clip pos="2" part="tags"/>
+	        <clip pos="2" part="chcontent"/>
+	      </chunk>
+	    </out>
+	  </when>
+          <otherwise>
+	    <out>
+	      <chunk>
+	        <get-case-from pos="4">
+	          <clip pos="2" part="lem"/>
+	        </get-case-from>
+	          <clip pos="2" part="tags"/>
+	          <clip pos="2" part="chcontent"/>
+	      </chunk>
+	    </out>
+          </otherwise>
+	</choose>
   </action>
 </rule>
 
