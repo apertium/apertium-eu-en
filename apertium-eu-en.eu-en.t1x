@@ -98,6 +98,7 @@
     </def-cat>
     <def-cat n="beteta">
       <cat-item lemma="bete" tags="vblex.padv"/>
+      <cat-item lemma="bete" tags="vblex.pp"/>
     </def-cat>
 
     <def-cat n="post">
@@ -11877,11 +11878,103 @@ It could be extended to other cases, to deal with the differences in the transla
                 </lu>
                 <b pos="3"/>
                 <lu> 
-                  <clip pos="4" side="tl" part="lemh"/> 
-                  <clip pos="4" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="lemh"/> 
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="ND" link-to="3"/>
+                  <clip pos="1" side="tl" part="sp"/>
+                  <clip pos="1" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
+      </action>
+    </rule>
+    <rule comment="REGLA: NOM + DET + z + bete + a (ardoz betea - full of wine)">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="z"/>
+        <pattern-item n="beteta"/>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="concord_n2">
+          <with-param pos="1"/>
+          <with-param pos="4"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="4" side="sl" part="lem"/>
+                <lit v="a"/>
+              </equal>
+            </test>
+            <out> 
+              <chunk name="full_of_nom" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><lit-tag v="pos"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                </tags>
+                <lu>
+                  <lit v="full"/>
+                  <lit-tag v="adj.sint"/>
+                </lu>
+                <b/>
+                <lu>
+                  <lit v="of"/>
+                  <lit-tag v="pr"/>
+                </lu>
+                <b pos="3"/>
+                <lu> 
+                  <clip pos="1" side="tl" part="lemh"/> 
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="ND" link-to="3"/>
+                  <clip pos="1" side="tl" part="sp"/>
+                  <clip pos="1" side="tl" part="lemq"/> 
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <call-macro n="tipo_det">
+              <with-param pos="3"/>
+            </call-macro>
+            <out> 
+              <chunk name="full_of_det_nom" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><lit-tag v="pos"/></tag>
+                  <tag><var n="nbr_chunk"/></tag>
+                </tags>
+                <lu>
+                  <lit v="full"/>
+                  <lit-tag v="adj.sint"/>
+                </lu>
+                <b/>
+                <lu>
+                  <lit v="of"/>
+                  <lit-tag v="pr"/>
+                </lu>
+                <b/>
+                <lu>
+                  <clip pos="4" side="tl" part="lem"/>
+                  <clip pos="4" side="tl" part="a_det"/>
+                  <clip pos="4" side="tl" part="tipus_det"/>
                   <clip pos="4" side="tl" part="ND" link-to="3"/>
                   <clip pos="4" side="tl" part="sp"/>
-                  <clip pos="4" side="tl" part="lemq"/> 
+                </lu>
+                <b pos="2"/>
+                <lu> 
+                  <clip pos="1" side="tl" part="lemh"/> 
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="ND" link-to="3"/>
+                  <clip pos="1" side="tl" part="sp"/>
+                  <clip pos="1" side="tl" part="lemq"/> 
                 </lu>
               </chunk>
             </out>
