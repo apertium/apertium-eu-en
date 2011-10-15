@@ -9,6 +9,9 @@
     <def-cat n="prnpers">
       <cat-item lemma="prnpers" tags="PRN.*"/>
     </def-cat> 
+    <def-cat n="prnsubj">
+      <cat-item lemma="prnsubj" tags="prn.subj.*"/>
+    </def-cat> 
 
 
     <def-cat n="SNcomp">
@@ -297,74 +300,6 @@
 	</when>     	    
       </choose>
     </def-macro>
-
- <def-macro n="generate_subject" npar="1">  <!--ATENCIÓN: se si crean nuevos chunks verbales en el t1x con nuevos lemas, hay que añadirlos a la lista SV_personals en el caso de que sean SV con formas personales. De lo contrario no se creará el sujeto correspondiente cuando aparezcan en un texto. -->
-     
-   <choose>
-     <when>
-       <test>
-	   <in caseless="yes">
-	     <clip pos="1" part="lem"/>
-	     <list n="SV_personals"/>
-	   </in>
-       </test>
-	<choose>
-	  <when>
-	    <test>
-	      <equal>
-		<var n="fifrase"/>
-		<lit v="yes"/>
-	      </equal>
-	    </test>		
-	    <choose>
-	      <when>
-		<test>
-		  <not>
-		    <equal>
-		      <clip pos="1" part="temps"/>
-		      <lit-tag v="imp"/>
-		    </equal>
-		  </not>
-		</test>
-		<out>
-		  <chunk>
-		    <get-case-from pos="1">
-		      <lit v="subj"/>
-		    </get-case-from>
-		    <lit-tag v="prn.subj"/>
-		    <clip pos="1" part="pers"/>
-		    <lit-tag v="GD"/>
-		    <clip pos="1" part="nbr"/>
-		    <lit v="{^"/>
-		    <get-case-from pos="1">
-		      <lit v="prpers"/>
-		    </get-case-from>
-		    <lit-tag v="prn.subj.3.4.5"/>
-		    <lit v="$}"/>
-		  </chunk>
-		  <b/>	   
-		</out>
-		<choose>
-		  <when>
-		    <test>
-		      <equal>
-			<case-of pos="1" part="lem"/>
-			<lit v="Aa"/>
-		      </equal>
-		    </test>
-		    <modify-case>
-		      <clip pos="1" part="lem"/>
-		      <lit v="aa"/>
-		    </modify-case>
-		  </when>
-		</choose>
-	      </when>
-	    </choose>
-	  </when>
-	</choose>
-     </when>
-   </choose>
- </def-macro>
 
   </section-def-macros>
 
@@ -2799,9 +2734,9 @@
 	    </test>		
 	    <out>
 	      <chunk>
-		<lit v="de"/>
+		<lit v="of"/>
 		<lit-tag v="PREP"/>
-		<lit v="{^de"/>
+		<lit v="{^of"/>
 		<lit-tag v="pr"/>
 		<lit v="$}"/>
 	      </chunk>

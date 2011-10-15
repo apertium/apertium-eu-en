@@ -15661,7 +15661,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
-    <rule comment="REGLA: PP (se pasa a infinitivo, en el t2x puede entrar por alguna regla que lo haga pp)">
+    <rule comment="REGLA: PP (changes to ger; in t2 may be retained as pp)">
       <pattern>
         <pattern-item n="pp"/>
       </pattern>
@@ -15681,7 +15681,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
-              <lit-tag v="inf"/>
+              <lit-tag v="ger"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
