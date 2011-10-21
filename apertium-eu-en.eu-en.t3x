@@ -217,7 +217,7 @@
 
 <section-def-macros>
 
-  <def-macro n="f_bcond" npar="1">
+  <def-macro n="f_bcond" npar="2">
         <choose>
           <when>
             <test>
@@ -372,6 +372,7 @@
 	    </test>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	    <out>
 	      <lu>
@@ -432,6 +433,7 @@
 	    </test>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	    <out>
 	      <lu>
@@ -483,6 +485,7 @@
 	    </test>
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>	  
 	    <out>
 	      <lu>
@@ -541,6 +544,7 @@
 	  <otherwise>	    
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </otherwise>
 	</choose>
@@ -652,6 +656,7 @@
 	  <otherwise>	    
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </otherwise>
 	</choose>
@@ -710,6 +715,7 @@
 	  <otherwise>	    
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </otherwise>
 	</choose>
@@ -772,6 +778,7 @@
 	  <otherwise>	    
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </otherwise>
 	</choose>
@@ -838,6 +845,7 @@
 	  <otherwise>	    
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </otherwise>
 	</choose>
@@ -913,6 +921,7 @@
 	  <otherwise>	    
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </otherwise>
 	</choose>
@@ -991,6 +1000,7 @@
 	  <otherwise>	    
 	    <call-macro n="f_bcond">
 	      <with-param pos="1"/>
+	      <with-param pos="2"/>
 	    </call-macro>
 	  </otherwise>
 	</choose>
