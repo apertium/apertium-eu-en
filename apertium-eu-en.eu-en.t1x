@@ -17728,6 +17728,7 @@ It could be extended to other cases, to deal with the differences in the transla
       </action>
     </rule>
     <rule comment="REGLA: PP + BA-+ VERBO SINT (ikusi badut) (repassar aquesta i les altres formes de condicional)">
+<!-- I think this rule is rather PP + nahi + ba- + synthetic-verb; change the comment -->
       <pattern>
         <pattern-item n="pp"/>
         <pattern-item n="nahi"/>
