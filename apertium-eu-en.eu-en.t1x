@@ -3725,16 +3725,28 @@
                 <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="potpr"/>
               </equal>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="prs"/>
+              </equal>
             </or>
           </test>
           <choose>
             <when>
               <test>
                 <or>
-                  <equal>
-                    <clip pos="1" side="tl" part="persnbr"/>
-                    <lit-tag v="p3.sg"/>
-                  </equal>
+                  <and>
+                    <equal>
+                      <clip pos="1" side="tl" part="persnbr"/>
+                      <lit-tag v="p3.sg"/>
+                    </equal>
+                    <not>
+                      <equal>
+                        <clip pos="1" side="tl" part="lemh"/>
+                        <lit v="can"/>
+                      </equal>
+                    </not>
+                  </and>
                   <and>
                     <equal>
                       <clip pos="1" side="tl" part="lemh"/>
@@ -3857,6 +3869,24 @@
               <lit-tag v="fti"/>
             </equal>
           </test>
+          <choose>
+            <when>
+              <test>
+                <equal>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <lit v="can"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="lem"/>
+                <lit v="be able to"/>
+              </let>
+              <let>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <lit-tag v="vbmod"/>
+              </let>
+            </when>
+          </choose>
           <let> <!-- due to an unexpected side-effect in transfer, we need to first set 'nori', 'nork' and 'nor' to nothing, so that setting 'persnbr' to nothing can't fall back to their values. This is Twilight Zone stuff. -->
             <clip pos="1" side="tl" part="nori"/>
             <lit v=""/>
@@ -18608,16 +18638,13 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-        <call-macro n="verbal_flex">
-          <with-param pos="2"/>
-        </call-macro>
         <let>
           <clip pos="2" side="tl" part="lem"/>
           <lit v="can"/>
         </let>
         <let>
           <clip pos="2" side="tl" part="a_verb"/>
-          <lit-tag v="vbmod"/>
+          <lit-tag v="vaux"/>
         </let>
         <choose>
           <when>
@@ -18661,6 +18688,12 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
           </when>
         </choose>
+        <call-macro n="verbal_flex">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="sep_pron">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="vbconj_inf" case="caseFirstWord">
             <tags>
@@ -18671,6 +18704,7 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><clip pos="2" side="sl" part="nori"/></tag>
               <tag><clip pos="2" side="sl" part="nork"/></tag>
             </tags>
+            <var n="aux_verb"/>
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_verb"/>
@@ -18684,10 +18718,14 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
               <clip pos="1" side="tl" part="persnbr"/>
+              <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
+        <call-macro n="objdat_pron">
+          <with-param pos="1"/>
+        </call-macro>
       </action>
     </rule>
 
@@ -18738,6 +18776,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="verbal_flex">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="sep_pron">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="subjunt" case="caseSecondWord">
             <tags>
@@ -18748,15 +18789,20 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><clip pos="2" side="sl" part="nori"/></tag>
               <tag><clip pos="2" side="sl" part="nork"/></tag>
             </tags>
+            <var n="aux_verb"/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="2" side="tl" part="temps"/>
               <clip pos="2" side="tl" part="persnbr"/>
+              <var n="prn_enc"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
+        <call-macro n="objdat_pron">
+          <with-param pos="1"/>
+        </call-macro>
       </action>
     </rule>
 
@@ -18816,15 +18862,20 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><clip pos="3" side="sl" part="nori"/></tag>
               <tag><clip pos="3" side="sl" part="nork"/></tag>
             </tags>
+            <var n="aux_verb"/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="3" side="tl" part="temps"/>
               <clip pos="3" side="tl" part="persnbr"/>
+              <var n="prn_enc"/>
               <clip pos="3" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
+        <call-macro n="objdat_pron">
+          <with-param pos="1"/>
+        </call-macro>
       </action>
     </rule> 
 
@@ -18837,9 +18888,6 @@ It could be extended to other cases, to deal with the differences in the transla
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
-        <call-macro n="verbal_flex">
-          <with-param pos="2"/>
         </call-macro>
         <choose>
           <when>
@@ -18855,6 +18903,9 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
           </when>
         </choose>
+        <call-macro n="verbal_flex">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="vbconj" case="caseFirstWord">
             <tags>
@@ -18866,17 +18917,22 @@ It could be extended to other cases, to deal with the differences in the transla
               <tag><clip pos="2" side="sl" part="nori"/></tag>
               <tag><clip pos="2" side="sl" part="nork"/></tag>
             </tags>
+            <var n="aux_verb"/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="2" side="tl" part="temps"/>
               <clip pos="2" side="tl" part="persnbr"/>
+              <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="objdat_pron">
           <with-param pos="2"/>
         </call-macro>
       </action>
