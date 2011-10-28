@@ -3741,10 +3741,16 @@
                       <lit-tag v="p3.sg"/>
                     </equal>
                     <not>
-                      <equal>
-                        <clip pos="1" side="tl" part="lemh"/>
-                        <lit v="can"/>
-                      </equal>
+                      <and>
+                        <equal>
+                          <clip pos="1" side="tl" part="lemh"/>
+                          <lit v="can"/>
+                        </equal>
+                        <equal>
+                          <clip pos="1" side="tl" part="a_verb"/>
+                          <lit-tag v="vaux"/>
+                        </equal>
+                      </and>
                     </not>
                   </and>
                   <and>
