@@ -18433,7 +18433,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
- <rule comment="REGLA: PFUT + ez + ba-VERBO SINT(baldintza) (egingo ez balu) - si no hiciera ">
+ <rule comment="REGLA: PFUT + ez + ba-VERBO SINT(baldintza) (egingo ez balu) - if it did not do">
       <pattern>
         <pattern-item n="pfut"/>
         <pattern-item n="ez"/>
@@ -18454,24 +18454,11 @@ It could be extended to other cases, to deal with the differences in the transla
             </lu>
           </chunk>
           <b pos="1"/>
-          <chunk name="ez">
-            <tags>
-              <tag><lit-tag v="SADV"/></tag>
-              <tag><clip pos="2" side="tl" part="a_adv"/></tag>
-            </tags>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-          <b pos="2"/>
         </out>
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
         </let>
-        <call-macro n="verbal_flex">
-          <with-param pos="4"/>
-        </call-macro>
         <choose>
           <when>
             <test>
@@ -18481,7 +18468,7 @@ It could be extended to other cases, to deal with the differences in the transla
               </equal>
             </test>
             <let>
-              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="4" side="tl" part="temps"/>
               <lit-tag v="pis"/>
             </let>
           </when>
@@ -18510,26 +18497,102 @@ It could be extended to other cases, to deal with the differences in the transla
             </let>
           </when> -->
         </choose>
-        <out>
-          <chunk name="vbconj" case="caseSecondWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="a_verb"/></tag>
-              <tag><clip pos="4" side="tl" part="persnbr"/></tag>
-              <tag><clip pos="4" side="sl" part="nor"/></tag>
-              <tag><clip pos="4" side="sl" part="nori"/></tag>
-              <tag><clip pos="4" side="sl" part="nork"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="1" side="tl" part="temps"/>
-              <clip pos="4" side="tl" part="persnbr"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
+        <let>
+          <clip pos="2" side="tl" part="lem"/>
+          <lit v="not"/>
+        </let>
+        <call-macro n="verbal_flex">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="do_flex">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="sep_pron">
+          <with-param pos="1"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <and>
+                  <equal>
+                    <clip pos="2" side="tl" part="lem"/>
+                    <lit v="be"/>
+                  </equal>
+                  <equal>
+                    <clip pos="2" side="tl" part="a_verb"/>
+                    <lit-tag v="vbser"/>
+                  </equal>
+                </and>
+                <equal>
+                  <var n="aux_verb"/>
+                  <lit v=""/>
+                </equal>
+                <not>
+                  <equal>
+                    <clip pos="2" side="tl" part="temps"/>
+                    <lit-tag v="pp"/>
+                  </equal>
+                </not>
+              </and>
+            </test>
+            <out>
+              <chunk name="be_not" case="caseSecondWord">
+                <tags>
+                  <tag><lit-tag v="SVneg"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="4" side="tl" part="persnbr"/></tag>
+                  <tag><clip pos="4" side="sl" part="nor"/></tag>
+                  <tag><clip pos="4" side="sl" part="nori"/></tag>
+                  <tag><clip pos="4" side="sl" part="nork"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <clip pos="4" side="tl" part="temps"/>
+                  <clip pos="4" side="tl" part="persnbr"/>
+                  <var n="prn_enc"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </lu>
+                <b pos="2"/>
+                <lu>
+                  <clip pos="2" side="tl" part="whole"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+              <chunk name="vbconj_not" case="caseSecondWord">
+                <tags>
+                  <tag><lit-tag v="SVneg"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="4" side="tl" part="persnbr"/></tag>
+                  <tag><clip pos="4" side="sl" part="nor"/></tag>
+                  <tag><clip pos="4" side="sl" part="nori"/></tag>
+                  <tag><clip pos="4" side="sl" part="nork"/></tag>
+                </tags>
+                <var n="aux_verb"/>
+                <lu>
+                  <clip pos="2" side="tl" part="whole"/>
+                </lu>
+                <b pos="2"/>
+                <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <clip pos="4" side="tl" part="temps"/>
+                  <clip pos="4" side="tl" part="persnbr"/>
+                  <var n="prn_enc"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
+        <call-macro n="objdat_pron">
+         <with-param pos="1"/>
+       </call-macro>
+     </action>
     </rule>
 
 
@@ -18635,7 +18698,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 <!-- modo potencial -->
 
- <rule comment="REGLA: INF (forma lexemática) + VERBO SINT potencial (etor daiteke - puede venir)">
+ <rule comment="REGLA: INF (forma lexemática) + VERBO SINT potencial (etor daiteke - he can come)">
       <pattern>
         <pattern-item n="inf"/>
         <pattern-item n="aux_potencial"/>
@@ -18701,7 +18764,7 @@ It could be extended to other cases, to deal with the differences in the transla
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="vbconj_inf" case="caseFirstWord">
+          <chunk name="vbconj_inf" case="caseSecondWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="2" side="tl" part="a_verb"/></tag>
@@ -18740,7 +18803,7 @@ It could be extended to other cases, to deal with the differences in the transla
 <!-- modo subjuntivo -->
 
 
- <rule comment="REGLA: INF (forma lexemática) + VERBO SINT subjuntivo (ikus dezagun - que veamos)">
+ <rule comment="REGLA: INF (forma lexemática) + VERBO SINT subjuntivo (ikus dezagun - that we see)">
       <pattern>
         <pattern-item n="inf"/>
         <pattern-item n="aux_subjuntivo"/>
@@ -18815,7 +18878,7 @@ It could be extended to other cases, to deal with the differences in the transla
 
 
 
- <rule comment="REGLA: INF (forma lexemática) + VERBO SINT subjuntivo (baledi - si fuera)">
+ <rule comment="REGLA: INF (forma lexemática) + VERBO SINT subjuntivo (baledi - if he was)">
       <pattern>
         <pattern-item n="inf"/>
         <pattern-item n="ba"/>
@@ -18857,6 +18920,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="verbal_flex">
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="sep_pron">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="subjunt" case="caseSecondWord">
             <tags>
@@ -18886,7 +18952,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule> 
 
 
-<rule comment="REGLA: INF (forma lexemática) + VERBO SINT imperativo (etor zaitezte - venid)">
+<rule comment="REGLA: INF (forma lexemática) + VERBO SINT imperativo (etor zaitezte - come)">
       <pattern>
         <pattern-item n="inf"/>
         <pattern-item n="aux_imperativo"/>
@@ -18911,6 +18977,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </choose>
         <call-macro n="verbal_flex">
           <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="sep_pron">
+          <with-param pos="1"/>
         </call-macro>
         <out>
           <chunk name="vbconj" case="caseFirstWord">
