@@ -25238,6 +25238,9 @@
     <e lm="line up"><i>lin</i><par n="liv/e__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="make up"><i>ma</i><par n="ma/ke__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="make money"><i>ma</i><par n="ma/ke__vblex"/>   <p> <l><b/>money</l><r><g><b/>money</g></r></p></e>
+    <e lm="make noise"><i>ma</i><par n="ma/ke__vblex"/>   <p> <l><b/>noise</l><r><g><b/>noise</g></r></p></e>
+    <e lm="make so much noise"><i>ma</i><par n="ma/ke__vblex"/>   <p> <l><b/>so<b/>much<b/>noise</l><r><g><b/>so<b/>much<b/>noise</g></r></p></e>
+    <e lm="listen to the radio"><i>listen</i><par n="accept__vblex"/>   <p> <l><b/>to<b/>the<b/>radio</l><r><g><b/>to<b/>the<b/>radio</g></r></p></e>
     <e lm="link"><i>link</i><par n="accept__vblex"/>    </e>
     <e lm="list"><i>list</i><par n="accept__vblex"/>    </e>
     <e lm="listen"><i>listen</i><par n="accept__vblex"/>    </e>

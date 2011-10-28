@@ -9453,7 +9453,10 @@
     <e r="RL" a="matxin"><p><l>zapuztu<s n="vblex"/></l><r>blight<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zapuztu<s n="vblex"/></l><r>foil<s n="vblex"/></r></p></e>
     <e r="RL" a="matxin"><p><l>zapuztu<s n="vblex"/></l><r>thwart<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>zarata<b/>egin<s n="vblex"/></l><r>clang<s n="vblex"/></r></p></e>
+    <e r="RL" a="matxin"><p><l>zarata<b/>egin<s n="vblex"/></l><r>clang<s n="vblex"/></r></p></e>
+    <e><p><l>zarata<b/>egin<s n="vblex"/></l><r>make<g><b/>noise</g><s n="vblex"/></r></p></e>
+    <e><p><l>hainbeste<b/>zarata<b/>egin<s n="vblex"/></l><r>make<g><b/>so<b/>much<b/>noise</g><s n="vblex"/></r></p></e>
+    <e><p><l>irratia<b/>entzun<s n="vblex"/></l><r>listen<g><b/>to<b/>the<b/>radio</g><s n="vblex"/></r></p></e>
     <e><p><l>zarratu<s n="vblex"/></l><r>close<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zarratu<s n="vblex"/></l><r>lock<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zarratu<s n="vblex"/></l><r>shut<s n="vblex"/></r></p></e>
