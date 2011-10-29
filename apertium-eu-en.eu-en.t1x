@@ -3753,6 +3753,7 @@
                       </and>
                     </not>
                   </and>
+
                   <and>
                     <equal>
                       <clip pos="1" side="tl" part="lemh"/>
@@ -4316,6 +4317,42 @@ It could be extended to other cases, to deal with the differences in the transla
           </when>
         </choose>
 </def-macro>
+    <def-macro n="swap_temps" npar="2">
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <lit-tag v="pri"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="tl" part="persnbr"/>
+                  <lit-tag v="p1.sg"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="pres"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="persnbr"/>
+              <lit v=""/>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <clip pos="1" side="tl" part="persnbr"/>
+              <clip pos="2" side="tl" part="persnbr"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="temps"/>
+            </let>
+          </otherwise>
+        </choose>
+  </def-macro>
 
 
   </section-def-macros>
@@ -18131,9 +18168,6 @@ It could be extended to other cases, to deal with the differences in the transla
     </action>
   </rule>
 
-
-
-
     <rule comment="REGLA: GER + BA-+VERBO SINT (etortzen banaiz)">
       <pattern>
         <pattern-item n="ger"/>
@@ -18143,10 +18177,6 @@ It could be extended to other cases, to deal with the differences in the transla
       <action>
         <call-macro n="firstWord">
           <with-param pos="1"/>
-        </call-macro>
-        <call-macro n="ser_tener">
-          <with-param pos="1"/>
-          <with-param pos="3"/>
         </call-macro>
         <choose>
           <when>
@@ -18180,32 +18210,14 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="verbal_flex">
           <with-param pos="3"/>
         </call-macro>
-        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="3" side="sl" part="temps"/>
-                <lit-tag v="pri"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="pri"/>
-            </let>
-          </when>
-          <when>
-            <test>
-              <equal>
-                <clip pos="3" side="sl" part="temps"/>
-                <lit-tag v="pii"/>
-              </equal>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="temps"/>
-              <lit-tag v="pii"/>
-            </let>
-          </when>
-        </choose>
+        <call-macro n="ser_tener">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="swap_temps">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
         <out>
           <chunk name="vbconj" case="caseSecondWord">
             <tags>
@@ -18220,7 +18232,7 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="temps"/>
-              <clip pos="3" side="tl" part="persnbr"/>
+              <clip pos="1" side="tl" part="persnbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
