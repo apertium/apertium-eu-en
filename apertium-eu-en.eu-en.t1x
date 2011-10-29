@@ -17797,7 +17797,7 @@ It could be extended to other cases, to deal with the differences in the transla
               </or>
             </test>
             <out>
-              <chunk name="vbconj" case="caseSecondWord">
+              <chunk name="vbconj_pp" case="caseSecondWord">
                 <tags>
                   <tag><lit-tag v="SV"/></tag>
                   <tag><clip pos="3" side="tl" part="a_verb"/></tag>
@@ -17825,6 +17825,10 @@ It could be extended to other cases, to deal with the differences in the transla
             </out>
           </when>
           <otherwise>
+            <call-macro n="swap_temps">
+              <with-param pos="1"/>
+              <with-param pos="3"/>
+            </call-macro>
             <out>
               <chunk name="vbconj" case="caseSecondWord">
                 <tags>
@@ -18018,7 +18022,7 @@ It could be extended to other cases, to deal with the differences in the transla
     </rule>
 
 
-  <rule comment="REGLA: PP + BA-+ VERBO SINT (ikusi ez badut) ">
+  <rule comment="REGLA: PP + ez + BA-+ VERBO SINT (ikusi ez badut) ">
       <pattern>
         <pattern-item n="pp"/>
         <pattern-item n="ez"/>
