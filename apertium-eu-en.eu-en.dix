@@ -3487,7 +3487,6 @@
     <e a="matxin"><p><l>otzan<s n="adj"/><s n="izo"/></l><r>meek<s n="adj"/></r></p></e>
     <e r="RL" a="matxin"><p><l>otzan<s n="adj"/><s n="izo"/></l><r>submissive<s n="adj"/></r></p></e>
     <e><p><l>ozeaniko<s n="adj"/></l><r>oceanic<s n="adj"/></r></p></e>
-    <e a="matxin"><p><l>ozeaniko<s n="adj"/><s n="izo"/></l><r>oceanic<s n="adj"/></r></p></e>
     <e><p><l>ozen<s n="adj"/></l><r>audible<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>ozen<s n="adj"/><s n="izo"/></l><r>loud<s n="adj"/></r></p></e>
     <e a="matxin"><p><l>pagano<s n="adj"/><s n="izo"/></l><r>pagan<s n="adj"/></r></p></e>
@@ -6144,7 +6143,7 @@
     <e><p><l>bekatu<b/>egin<s n="vblex"/></l><r>sin<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>bekokia_ilundu<s n="vblex"/></l><r>frown<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>belakiz_garbitu<s n="vblex"/></l><r>sponge<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>belar_txarrak_kendu<s n="vblex"/></l><r>weed<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>belar<b/>txarrak<b/>kendu<s n="vblex"/></l><r>weed<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>belaunez_jo<s n="vblex"/></l><r>knee<s n="vblex"/></r></p></e>
     <e c="MG: reflexivo"><p><l>belaunikatu<s n="vblex"/></l><r>kneel<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>beldur<b/>izan<s n="vbper"/></l><r>fear<s n="vblex"/></r></p></e>
@@ -8471,10 +8470,10 @@
     <e><p><l>lehortu<s n="vblex"/></l><r>dry<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>lekukotasuna_eman<s n="vblex"/></l><r>testify<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>lekuz_aldatu<s n="vblex"/></l><r>shift<s n="vblex"/></r></p></e>
-    <e a="matxin"><p><l>lepoa_moztu<s n="vblex"/></l><r>behead<s n="vblex"/></r></p></e>
+    <e a="matxin"><p><l>lepoa<b/>moztu<s n="vblex"/></l><r>behead<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>leporatu<s n="vblex"/></l><r>burden<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>leporatu<s n="vblex"/></l><r>load<s n="vblex"/></r></p></e>
-    <e><p><l>leporatu<s n="vblex"/></l><r>hold<g><b/>responsible</g><s n="vblex"/></r></p></e>
+    <e><p><l>leporatu<s n="vblex"/></l><r>hold<g><b/>responsible</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e a="matxin"><p><l>lerdea_jariatu<s n="vblex"/></l><r>slobber<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>lerrokatu<s n="vblex"/></l><r>line<g><b/>up</g><s n="vblex"/></r></p></e>
     <e c="alinear o colocar"><p><l>lerrokatu<s n="vblex"/></l><r>range<s n="vblex"/></r></p></e>
@@ -13563,7 +13562,7 @@
     <e><p><l>perspektiba<s n="n"/></l><r>perspective<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>pertsiana<s n="n"/></l><r>Persian<b/>blind<s n="n"/><s n="ND"/></r></p></e>
     <e c="MG: hi ha tb el plurarl de 'person' (persons) i 'people' tb es podria traduir com a 'gent'"><p><l>pertsona<s n="n"/></l><r>person<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>pertsona_ospetsu<s n="n"/></l><r>character<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>pertsona<b/>ospetsu<s n="n"/></l><r>public<b/>figure<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>pertsonal<s n="n"/></l><r>personnel<s n="n"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>pertsonal<s n="n"/></l><r>staff<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>pesimismo<s n="n"/></l><r>pessimism<s n="n"/><s n="ND"/></r></p></e>

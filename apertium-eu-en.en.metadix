@@ -17909,6 +17909,7 @@
     <e lm="fight"><i>fight</i><par n="house__n"/>    </e>
     <e lm="fighter"><i>fighter</i><par n="house__n"/>    </e>
     <e lm="figure"><i>figure</i><par n="house__n"/>    </e>
+    <e lm="public figure"><i>public<b/>figure</i><par n="house__n"/>    </e>
     <e lm="file"><i>file</i><par n="house__n"/>    </e>
     <e lm="filling"><i>filling</i><par n="house__n"/>    </e>
     <e lm="film"><i>film</i><par n="house__n"/>    </e>
@@ -18333,9 +18334,9 @@
     <e lm="humidity"><i>humidit</i><par n="bab/y__n"/>    </e>
     <e lm="humiliation"><i>humiliation</i><par n="house__n"/>    </e>
     <e lm="humility"><i>humilit</i><par n="bab/y__n"/>    </e>
-    <e lm="humor"><i>humor</i><par n="house__n"/>    </e>
     <e lm="humorist"><i>humorist</i><par n="house__n"/>    </e>
-    <e lm="humour"><i>humour</i><par n="house__n"/>    </e>
+    <e lm="humour"><i>hum</i><par n="o_ou"/><i>r</i><par n="house__n"/>    </e>
+    <e lm="humour"><i>hum</i><par n="o_ou"/><i>r</i><par n="accept__vblex"/>    </e>
     <e lm="hundred"><i>hundred</i><par n="house__n"/>    </e>
     <e lm="hunter"><i>hunter</i><par n="house__n"/>    </e>
     <e lm="hunting"><i>hunting</i><par n="house__n"/>    </e>
@@ -21373,7 +21374,7 @@
     <e lm="press conference"><i>press<b/>conference</i><par n="house__n"/></e>
     <e lm="view"><i>view</i><par n="house__n"/>    </e>
     <e lm="viewer" a="carmentano"><i>viewer</i><par n="house__n"/>    </e>
-    <e lm="vigour"><i>vigour</i><par n="house__n"/>    </e>
+    <e lm="vigour"><i>vig</i><par n="o_ou"/><i>r</i><par n="house__n"/>    </e>
     <e lm="village"><i>village</i><par n="house__n"/>    </e>
     <e lm="village"><i>village</i><par n="house__n"/>    </e>
     <e lm="vinegar"><i>vinegar</i><par n="house__n"/>    </e>
@@ -21442,7 +21443,7 @@
     <e lm="watchtower"><i>watchtower</i><par n="house__n"/>    </e>
     <e lm="water"><i>water</i><par n="house__n"/>    </e>
     <e lm="running water"><i>running<b/>water</i><par n="east__n"/>    </e>
-    <e lm="watercolour"><i>watercolour</i><par n="house__n"/>    </e>
+    <e lm="watercolour"><i>watercol</i><par n="o_ou"/><i>r</i><par n="house__n"/>    </e>
     <e lm="watering"><i>watering</i><par n="house__n"/>    </e>
     <e lm="watermelon"><i>watermelon</i><par n="house__n"/>    </e>
     <e lm="watt"><i>watt</i><par n="house__n"/>    </e>
@@ -24949,6 +24950,9 @@
     <e lm="decompose"><i>decompos</i><par n="liv/e__vblex"/>    </e>
     <e lm="decorate"><i>decorat</i><par n="liv/e__vblex"/>    </e>
     <e lm="decree"><i>decree</i><par n="agree__vblex"/>    </e>
+    <e lm="pee"><i>pee</i><par n="agree__vblex"/>    </e>
+    <e lm="knee"><i>knee</i><par n="agree__vblex"/>    </e>
+    <e lm="referee"><i>referee</i><par n="agree__vblex"/>    </e>
     <e lm="dedicate" a="doriua"><i>dedicat</i><par n="liv/e__vblex"/>    </e>
     <e lm="deduce"><i>deduc</i><par n="liv/e__vblex"/>    </e>
     <e lm="deepen"><i>deepen</i><par n="accept__vblex"/>    </e>
@@ -24979,6 +24983,8 @@
     <e lm="deposit"><i>deposit</i><par n="accept__vblex"/>    </e>
     <e lm="depreciate"><i>depreciat</i><par n="liv/e__vblex"/>    </e>
     <e lm="depress"><i>depress</i><par n="approach__vblex"/>    </e>
+    <e lm="class"><i>class</i><par n="approach__vblex"/>    </e>
+    <e lm="gross"><i>gross</i><par n="approach__vblex"/>    </e>
     <e lm="deprive"><i>depriv</i><par n="liv/e__vblex"/>    </e>
     <e lm="derail"><i>derail</i><par n="accept__vblex"/>    </e>
     <e lm="derive"><i>deriv</i><par n="liv/e__vblex"/>    </e>
@@ -33411,6 +33417,42 @@
     <e lm="dine"><i>din</i><par n="liv/e__vblex"/>    </e>
     <e lm="groan"><i>groan</i><par n="accept__vblex"/>    </e>
     <e lm="thin"><i>thin</i><par n="plan__vblex"/>    </e>
+    <e lm="tin"><i>tin</i><par n="plan__vblex"/>    </e>
+    <e lm="skin"><i>skin</i><par n="plan__vblex"/>    </e>
+    <e lm="moan"><i>moan</i><par n="accept__vblex"/></e>
+    <e lm="canter"><i>canter</i><par n="accept__vblex"/></e>
+    <e lm="quarter"><i>quarter</i><par n="accept__vblex"/></e>
+    <e lm="guffaw"><i>guffaw</i><par n="accept__vblex"/></e>
+    <e lm="staff"><i>staff</i><par n="accept__vblex"/></e>
+    <e lm="mould"><i>mould</i><par n="accept__vblex"/></e>
+    <e lm="neck"><i>neck</i><par n="accept__vblex"/></e>
+    <e lm="tinker"><i>tinker</i><par n="accept__vblex"/></e>
+    <e lm="thread"><i>thread</i><par n="accept__vblex"/></e>
+    <e lm="duel"><i>duel</i><par n="accept__vblex"/></e>
+    <e lm="air"><i>air</i><par n="accept__vblex"/></e>
+    <e lm="snow"><i>snow</i><par n="accept__vblex"/></e>
+    <e lm="fuel"><i>fuel</i><par n="accept__vblex"/></e>
+    <e lm="cough"><i>cough</i><par n="accept__vblex"/></e>
+    <e lm="frank"><i>frank</i><par n="accept__vblex"/></e>
+    <e lm="tower"><i>tower</i><par n="accept__vblex"/></e>
+    <e lm="tail"><i>tail</i><par n="accept__vblex"/></e>
+    <e lm="layer"><i>layer</i><par n="accept__vblex"/></e>
+    <e lm="neigh"><i>neigh</i><par n="accept__vblex"/></e>
+    <e lm="despair"><i>despair</i><par n="accept__vblex"/></e>
+    <e lm="badger"><i>badger</i><par n="accept__vblex"/></e>
+    <e lm="peak"><i>peak</i><par n="accept__vblex"/></e>
+    <e lm="butter"><i>butter</i><par n="accept__vblex"/></e>
+    <e lm="blunder"><i>blunder</i><par n="accept__vblex"/></e>
+    <e lm="power"><i>power</i><par n="accept__vblex"/></e>
+    <e lm="strand"><i>strand</i><par n="accept__vblex"/></e>
+    <e lm="sprain"><i>sprain</i><par n="accept__vblex"/></e>
+    <e lm="malign"><i>malign</i><par n="accept__vblex"/></e>
+    <e lm="dawn"><i>dawn</i><par n="accept__vblex"/></e>
+    <e lm="cushion"><i>cushion</i><par n="accept__vblex"/></e>
+    <e lm="turn"><i>turn</i><par n="accept__vblex"/></e>
+    <e lm="spoon"><i>spoon</i><par n="accept__vblex"/></e>
+    <e lm="crown"><i>crown</i><par n="accept__vblex"/></e>
+    <e lm="season"><i>season</i><par n="accept__vblex"/></e>
     <e lm="complain"><i>complain</i><par n="accept__vblex"/>    </e>
     <e lm="plunder"><i>plunder</i><par n="accept__vblex"/>    </e>
     <e lm="bore"><i>bor</i><par n="liv/e__vblex"/>    </e>
