@@ -8590,6 +8590,56 @@
         </p>
       </e>
     </pardef>
+    <pardef n="picnic__vblex">
+      <e>
+        <p>
+          <l/>
+          <r><s n="vblex"/><sa/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r><s n="vblex"/><sa/><s n="pres"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r><s n="vblex"/><sa/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ked</l>
+          <r><s n="vblex"/><sa/><s n="past"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ked</l>
+          <r><s n="vblex"/><sa/><s n="pp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>king</l>
+          <r><s n="vblex"/><sa/><s n="ger"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>king</l>
+          <r><s n="vblex"/><sa/><s n="pprs"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>king</l>
+          <r><s n="vblex"/><sa/><s n="subs"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="plug__vblex">
       <e>
         <p>
@@ -24401,6 +24451,15 @@
     <e lm="signpost"><i>signpost</i><par n="accept__vblex"/></e>
     <e lm="carpet"><i>carpet</i><par n="accept__vblex"/></e>
     <e lm="toast"><i>toast</i><par n="accept__vblex"/></e>
+    <e lm="vacation"><i>vacation</i><par n="accept__vblex"/></e>
+    <e lm="silver"><i>silver</i><par n="accept__vblex"/></e>
+    <e lm="screw"><i>screw</i><par n="accept__vblex"/></e>
+    <e lm="troop"><i>troop</i><par n="accept__vblex"/></e>
+    <e lm="network"><i>network</i><par n="accept__vblex"/></e>
+    <e lm="herd"><i>herd</i><par n="accept__vblex"/></e>
+    <e lm="mail"><i>mail</i><par n="accept__vblex"/></e>
+    <e lm="zoom"><i>zoom</i><par n="accept__vblex"/></e>
+    <e lm="partition"><i>partition</i><par n="accept__vblex"/></e>
     <e lm="saddle"><i>saddl</i><par n="liv/e__vblex"/>    </e>
     <e lm="sole"><i>sol</i><par n="liv/e__vblex"/>    </e>
     <e lm="slice"><i>slic</i><par n="liv/e__vblex"/>    </e>
@@ -24568,6 +24627,11 @@
     <e lm="appraise"><i>apprais</i><par n="liv/e__vblex"/>    </e>
     <e lm="appreciate"><i>appreciat</i><par n="liv/e__vblex"/>    </e>
     <e lm="approach"><i>approach</i><par n="approach__vblex"/>    </e>
+    <e lm="beach"><i>beach</i><par n="approach__vblex"/></e>
+    <e lm="march"><i>march</i><par n="approach__vblex"/></e>
+    <e lm="lavish"><i>lavish</i><par n="approach__vblex"/></e>
+    <e lm="inch"><i>inch</i><par n="approach__vblex"/></e>
+    <e lm="bunch"><i>bunch</i><par n="approach__vblex"/></e>
     <e lm="approve"><i>approv</i><par n="liv/e__vblex"/>    </e>
     <e lm="approximate"><i>approximat</i><par n="liv/e__vblex"/>    </e>
     <e lm="arise"><i>ar</i><par n="ar/ise__vblex"/>    </e>
@@ -25922,6 +25986,16 @@
     <e lm="target"><i>target</i><par n="accept__vblex"/>    </e>
     <e lm="taste"><i>tast</i><par n="liv/e__vblex"/>    </e>
     <e lm="tax"><i>tax</i><par n="approach__vblex"/>    </e>
+    <e lm="lavish"><i>lavish</i><par n="approach__vblex"/></e>
+    <e lm="darn"><i>darn</i><par n="accept__vblex"/></e>
+    <e lm="survey"><i>survey</i><par n="enjoy__vblex"/></e>
+    <e lm="spray"><i>spray</i><par n="enjoy__vblex"/></e>
+    <e lm="key"><i>key</i><par n="enjoy__vblex"/></e>
+    <e lm="decay"><i>decay</i><par n="enjoy__vblex"/></e>
+    <e lm="essay"><i>essay</i><par n="enjoy__vblex"/></e>
+    <e lm="elbow"><i>elbow</i><par n="accept__vblex"/></e>
+    <e lm="howl"><i>howl</i><par n="accept__vblex"/></e>
+    <e lm="orphan"><i>orphan</i><par n="accept__vblex"/></e>
     <e lm="telephone"><i>telephon</i><par n="liv/e__vblex"/>    </e>
     <e lm="televise"><i>televis</i><par n="liv/e__vblex"/>    </e>
     <e lm="temper"><i>temper</i><par n="accept__vblex"/>    </e>
@@ -25939,6 +26013,18 @@
     <e lm="tile"><i>til</i><par n="liv/e__vblex"/>    </e>
     <e lm="time"><i>tim</i><par n="liv/e__vblex"/>    </e>
     <e lm="tip"><i>tip</i><par n="step__vblex"/>    </e>
+    <e lm="chip"><i>chip</i><par n="step__vblex"/></e>
+    <e lm="flip"><i>flip</i><par n="step__vblex"/></e>
+    <e lm="cup"><i>cup</i><par n="step__vblex"/></e>
+    <e lm="worship"><i>worship</i><par n="step__vblex"/></e>
+    <e lm="worship" r="LR" c="US"><i>worship</i><par n="accept__vblex"/></e>
+    <e lm="sip"><i>sip</i><par n="step__vblex"/></e>
+    <e lm="gossip"><i>gossip</i><par n="accept__vblex"/></e>
+    <e lm="gossip" r="LR"><i>gossip</i><par n="step__vblex"/></e>
+    <e lm="crop"><i>crop</i><par n="step__vblex"/></e>
+    <e lm="group"><i>group</i><par n="accept__vblex"/></e>
+    <e lm="slap"><i>slap</i><par n="step__vblex"/></e>
+    <e lm="map"><i>map</i><par n="step__vblex"/></e>
     <e lm="title"><i>titl</i><par n="liv/e__vblex"/>    </e>
     <e lm="tolerate"><i>tolerat</i><par n="liv/e__vblex"/>    </e>
     <e lm="top"><i>top</i><par n="step__vblex"/>    </e>
@@ -26082,6 +26168,16 @@
     <e lm="soar"><i>soar</i><par n="accept__vblex"/></e>
     <e lm="flutter"><i>flutter</i><par n="accept__vblex"/></e>
     <e lm="brim"><i>brim</i><par n="program__vblex"/></e>
+    <e lm="program"><i>program</i><par n="program__vblex"/></e>
+    <e lm="jam"><i>jam</i><par n="program__vblex"/></e>
+    <e lm="drum"><i>drum</i><par n="program__vblex"/></e>
+    <e lm="beam"><i>beam</i><par n="accept__vblex"/></e>
+    <e lm="palm"><i>palm</i><par n="accept__vblex"/></e>
+    <e lm="boom"><i>boom</i><par n="accept__vblex"/></e>
+    <e lm="mushroom"><i>mushroom</i><par n="accept__vblex"/></e>
+    <e lm="charm"><i>charm</i><par n="accept__vblex"/></e>
+    <e lm="steam"><i>steam</i><par n="accept__vblex"/></e>
+    <e lm="swarm"><i>swarm</i><par n="accept__vblex"/></e>
     <e lm="purify"><i>purif</i><par n="appl/y__vblex"/></e>
     <e lm="fidget"><i>fidget</i><par n="accept__vblex"/></e>
     <e lm="pacify"><i>pacif</i><par n="appl/y__vblex"/></e>
@@ -26101,6 +26197,11 @@
     <e lm="thank"><i>thank</i><par n="accept__vblex"/></e>
     <e lm="clutch"><i>clutch</i><par n="approach__vblex"/></e>
     <e lm="tag"><i>tag</i><par n="plug__vblex"/></e>
+    <e lm="plug"><i>plug</i><par n="plug__vblex"/></e>
+    <e lm="picnic"><i>picnic</i><par n="picnic__vblex"/></e>
+    <e lm="traffic"><i>traffic</i><par n="picnic__vblex"/></e>
+    <e lm="long"><i>long</i><par n="accept__vblex"/></e>
+    <e lm="string"><i>string</i><par n="accept__vblex"/></e>
     <e lm="default"><i>default</i><par n="accept__vblex"/></e>
     <e lm="repeal"><i>repeal</i><par n="accept__vblex"/></e>
     <e lm="wed"><i>wed</i><par n="outbid__vblex"/></e>

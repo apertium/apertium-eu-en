@@ -5458,7 +5458,7 @@
 
     <e a="matxin"><p><l>abdikatu<s n="vblex"/></l><r>abdicate<s n="vblex"/></r></p></e>
     <e c="MG: sería reflexivo"><p><l>aberastu<s n="vblex"/></l><r>enrich<s n="vblex"/></r></p></e>
-    <e><p><l>abian<b/>jarri<s n="vblex"/></l><r>set<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e><p><l>abian<b/>jarri<s n="vblex"/></l><r>set<g><b/>up</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e><p><l>abiatu<s n="vblex"/></l><r>initiate<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>abiatu<s n="vblex"/></l><r>pioneer<s n="vblex"/></r></p></e>
     <e slr="depart" a="matxin"><p><l>abiatu<s n="vblex"/></l><r>depart<s n="vblex"/></r></p></e>
@@ -5827,7 +5827,7 @@
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>take<g><b/>away</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>take<g><b/>off</g><s n="vblex"/></r></p></e>
-    <e><p><l>atera<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e><p><l>atera<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>come<g><b/>out</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>exit<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>atera<s n="vblex"/></l><r>go<g><b/>out</g><s n="vblex"/></r></p></e>
@@ -8183,7 +8183,7 @@
     <e r="RL" a="matxin"><p><l>kalumniatu<s n="vblex"/></l><r>libel<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>kalumniatu<s n="vblex"/></l><r>slander<s n="vblex"/></r></p></e>
     <e><p><l>kanpatu<s n="vblex"/></l><r>camp<s n="vblex"/></r></p></e>
-    <e><p><l>kanporatu<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/></r></p></e>
+    <e><p><l>kanporatu<s n="vblex"/></l><r>take<g><b/>out</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e r="RL" a="matxin"><p><l>kanporatu<s n="vblex"/></l><r>vent<s n="vblex"/></r></p></e>
     <e><p><l>kantatu<s n="vblex"/></l><r>sing<s n="vblex"/></r></p></e>
     <e><p><l>kamuflatu<s n="vblex"/></l><r>camouflage<s n="vblex"/></r></p></e>
