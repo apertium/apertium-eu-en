@@ -24350,6 +24350,138 @@
     <e lm="shed light on"><i>shed</i><par n="outbid__vblex"/>      <p>        <l><b/>light<b/>on</l><r><g><b/>light<b/>on</g></r></p></e>
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/>    </e>
     <e lm="lift"><i>lift</i><par n="accept__vblex"/>    </e>
+    <e lm="career"><i>career</i><par n="accept__vblex"/>    </e>
+    <e lm="overthrow"><i>overthrow</i><par n="accept__vblex"/>    </e>
+    <e lm="water"><i>water</i><par n="accept__vblex"/>    </e>
+    <e lm="fart"><i>fart</i><par n="accept__vblex"/>    </e>
+    <e lm="blackmail"><i>blackmail</i><par n="accept__vblex"/>    </e>
+    <e lm="debit"><i>debit</i><par n="accept__vblex"/>    </e>
+    <e lm="shimmer"><i>shimmer</i><par n="accept__vblex"/>    </e>
+    <e lm="wail"><i>wail</i><par n="accept__vblex"/>    </e>
+    <e lm="forecast"><i>forecast</i><par n="accept__vblex"/>    </e>
+    <e lm="doctor"><i>doctor</i><par n="accept__vblex"/>    </e>
+    <e lm="sugar"><i>sugar</i><par n="accept__vblex"/>    </e>
+    <e lm="slump"><i>slump</i><par n="accept__vblex"/>    </e>
+    <e lm="wink"><i>wink</i><par n="accept__vblex"/>    </e>
+    <e lm="loop"><i>loop</i><par n="accept__vblex"/>    </e>
+    <e lm="veil"><i>veil</i><par n="accept__vblex"/>    </e>
+    <e lm="paper"><i>paper</i><par n="accept__vblex"/>    </e>
+    <e lm="bracket"><i>bracket</i><par n="accept__vblex"/>    </e>
+    <e lm="rumour"><i>rum</i><par n="o_ou"/><i>r</i><par n="accept__vblex"/>    </e>
+    <e lm="set"><i>set</i><par n="cut__vblex"/></e>
+    <e lm="delight"><i>delight</i><par n="accept__vblex"/></e>
+    <e lm="bat"><i>bat</i><par n="fit__vblex"/></e>
+    <e lm="mistreat"><i>mistreat</i><par n="accept__vblex"/></e>
+    <e lm="spurt"><i>spurt</i><par n="accept__vblex"/></e>
+    <e lm="wet"><i>wet</i><par n="cut__vblex"/></e>
+    <e lm="defect"><i>defect</i><par n="accept__vblex"/></e>
+    <e lm="diet"><i>diet</i><par n="accept__vblex"/></e>
+    <e lm="sleet"><i>sleet</i><par n="accept__vblex"/></e>
+    <e lm="rivet"><i>rivet</i><par n="accept__vblex"/></e>
+    <e lm="escort"><i>escort</i><par n="accept__vblex"/></e>
+    <e lm="profit"><i>profit</i><par n="accept__vblex"/></e>
+    <e lm="format"><i>format</i><par n="accept__vblex"/></e>
+    <e lm="smelt"><i>smelt</i><par n="accept__vblex"/></e>
+    <e lm="salt"><i>salt</i><par n="accept__vblex"/></e>
+    <e lm="court"><i>court</i><par n="accept__vblex"/></e>
+    <e lm="nest"><i>nest</i><par n="accept__vblex"/></e>
+    <e lm="dust"><i>dust</i><par n="accept__vblex"/></e>
+    <e lm="sight"><i>sight</i><par n="accept__vblex"/></e>
+    <e lm="riot"><i>riot</i><par n="accept__vblex"/></e>
+    <e lm="somersault"><i>somersault</i><par n="accept__vblex"/></e>
+    <e lm="rocket"><i>rocket</i><par n="accept__vblex"/></e>
+    <e lm="cement"><i>cement</i><par n="accept__vblex"/></e>
+    <e lm="dart"><i>dart</i><par n="accept__vblex"/></e>
+    <e lm="coast"><i>coast</i><par n="accept__vblex"/></e>
+    <e lm="mistrust"><i>mistrust</i><par n="accept__vblex"/></e>
+    <e lm="vomit"><i>vomit</i><par n="accept__vblex"/></e>
+    <e lm="post"><i>post</i><par n="accept__vblex"/></e>
+    <e lm="prospect"><i>prospect</i><par n="accept__vblex"/></e>
+    <e lm="pocket"><i>pocket</i><par n="accept__vblex"/></e>
+    <e lm="signpost"><i>signpost</i><par n="accept__vblex"/></e>
+    <e lm="carpet"><i>carpet</i><par n="accept__vblex"/></e>
+    <e lm="toast"><i>toast</i><par n="accept__vblex"/></e>
+    <e lm="saddle"><i>saddl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="sole"><i>sol</i><par n="liv/e__vblex"/>    </e>
+    <e lm="slice"><i>slic</i><par n="liv/e__vblex"/>    </e>
+    <e lm="pale"><i>pal</i><par n="liv/e__vblex"/>    </e>
+    <e lm="shade"><i>shad</i><par n="liv/e__vblex"/>    </e>
+    <e lm="joke"><i>jok</i><par n="liv/e__vblex"/>    </e>
+    <e lm="bridge"><i>bridg</i><par n="liv/e__vblex"/>    </e>
+    <e lm="plate"><i>plat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="tire"><i>tir</i><par n="liv/e__vblex"/>    </e>
+    <e lm="dive"><i>div</i><par n="liv/e__vblex"/>    </e>
+    <e lm="package"><i>packag</i><par n="liv/e__vblex"/>    </e>
+    <e lm="yoke"><i>yok</i><par n="liv/e__vblex"/>    </e>
+    <e lm="rope"><i>rop</i><par n="liv/e__vblex"/>    </e>
+    <e lm="fringe"><i>fring</i><par n="liv/e__vblex"/>    </e>
+    <e lm="pride"><i>prid</i><par n="liv/e__vblex"/>    </e>
+    <e lm="rage"><i>rag</i><par n="liv/e__vblex"/>    </e>
+    <e lm="intimate"><i>intimat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="edge"><i>edg</i><par n="liv/e__vblex"/>    </e>
+    <e lm="barricade"><i>barricad</i><par n="liv/e__vblex"/>    </e>
+    <e lm="phase"><i>phas</i><par n="liv/e__vblex"/>    </e>
+    <e lm="nettle"><i>nettl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="rape"><i>rap</i><par n="liv/e__vblex"/>    </e>
+    <e lm="glare"><i>glar</i><par n="liv/e__vblex"/>    </e>
+    <e lm="dribble"><i>dribbl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="sponge"><i>spong</i><par n="liv/e__vblex"/>    </e>
+    <e lm="cycle"><i>cycl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="bubble"><i>bubbl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="mate"><i>mat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="average"><i>averag</i><par n="liv/e__vblex"/>    </e>
+    <e lm="trickle"><i>trickl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="scale"><i>scal</i><par n="liv/e__vblex"/>    </e>
+    <e lm="tune"><i>tun</i><par n="liv/e__vblex"/>    </e>
+    <e lm="guillotine"><i>guillotin</i><par n="liv/e__vblex"/>    </e>
+    <e lm="flare"><i>flar</i><par n="liv/e__vblex"/>    </e>
+    <e lm="pace"><i>pac</i><par n="liv/e__vblex"/>    </e>
+    <e lm="stone"><i>ston</i><par n="liv/e__vblex"/>    </e>
+    <e lm="bandage"><i>bandag</i><par n="liv/e__vblex"/>    </e>
+    <e lm="bone"><i>bon</i><par n="liv/e__vblex"/>    </e>
+    <e lm="stake"><i>stak</i><par n="liv/e__vblex"/>    </e>
+    <e lm="massage"><i>massag</i><par n="liv/e__vblex"/>    </e>
+    <e lm="ice-skate"><i>ice-skat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="silence"><i>silenc</i><par n="liv/e__vblex"/>    </e>
+    <e lm="stereotype"><i>stereotyp</i><par n="liv/e__vblex"/>    </e>
+    <e lm="tame"><i>tam</i><par n="liv/e__vblex"/>    </e>
+    <e lm="slave"><i>slav</i><par n="liv/e__vblex"/>    </e>
+    <e lm="triple"><i>tripl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="circle"><i>circl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="semaphore"><i>semaphor</i><par n="liv/e__vblex"/>    </e>
+    <e lm="gesture"><i>gestur</i><par n="liv/e__vblex"/>    </e>
+    <e lm="overdose"><i>overdos</i><par n="liv/e__vblex"/>    </e>
+    <e lm="profane"><i>profan</i><par n="liv/e__vblex"/>    </e>
+    <e lm="cube"><i>cub</i><par n="liv/e__vblex"/>    </e>
+    <e lm="outrage"><i>outrag</i><par n="liv/e__vblex"/>    </e>
+    <e lm="quadruple"><i>quadrupl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="machine"><i>machin</i><par n="liv/e__vblex"/>    </e>
+    <e lm="microwave"><i>microwav</i><par n="liv/e__vblex"/>    </e>
+    <e lm="squabble"><i>squabbl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="muzzle"><i>muzzl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="notice"><i>notic</i><par n="liv/e__vblex"/>    </e>
+    <e lm="postulate"><i>postulat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="misuse"><i>misus</i><par n="liv/e__vblex"/>    </e>
+    <e lm="venture"><i>ventur</i><par n="liv/e__vblex"/>    </e>
+    <e lm="table"><i>tabl</i><par n="liv/e__vblex"/>    </e>
+    <e lm="bruise"><i>bruis</i><par n="liv/e__vblex"/>    </e>
+    <e lm="machine"><i>machin</i><par n="liv/e__vblex"/>    </e>
+    <e lm="spite"><i>spit</i><par n="liv/e__vblex"/>    </e>
+    <e lm="sabotage"><i>sabotag</i><par n="liv/e__vblex"/>    </e>
+    <e lm="serenade"><i>serenad</i><par n="liv/e__vblex"/>    </e>
+    <e lm="lounge"><i>loung</i><par n="liv/e__vblex"/>    </e>
+    <e lm="pulse"><i>puls</i><par n="liv/e__vblex"/>    </e>
+    <e lm="wire"><i>wir</i><par n="liv/e__vblex"/>    </e>
+    <e lm="quarantine"><i>quarantin</i><par n="liv/e__vblex"/>    </e>
+    <e lm="code"><i>cod</i><par n="liv/e__vblex"/>    </e>
+    <e lm="duplicate"><i>duplicat</i><par n="liv/e__vblex"/>    </e>
+    <e lm="welcome"><i>welcom</i><par n="liv/e__vblex"/>    </e>
+    <e lm="core"><i>cor</i><par n="liv/e__vblex"/>    </e>
+    <e lm="license"><i>licens</i><par n="liv/e__vblex"/>    </e>
+    <e lm="queue"><i>queu</i><par n="liv/e__vblex"/>    </e>
+    <e lm="intrigue"><i>intrigu</i><par n="liv/e__vblex"/>    </e>
+    <e lm="catalogue"><i>catalogu</i><par n="liv/e__vblex"/>    </e>
+    <e lm="page"><i>pag</i><par n="liv/e__vblex"/>    </e>
     <e lm="abbreviate"><i>abbreviat</i><par n="liv/e__vblex"/>    </e>
     <e lm="probe"><i>prob</i><par n="liv/e__vblex"/>    </e>
     <e lm="inaugurate"><i>inaugurat</i><par n="liv/e__vblex"/>    </e>
@@ -24575,6 +24707,9 @@
     <e lm="caricature"><i>caricatur</i><par n="liv/e__vblex"/>    </e>
     <e lm="carry out"><i>carr</i><par n="appl/y__vblex" sa="sep"/>      <par n="probj_dem__prn"/>      <p>        <l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="carry"><i>carr</i><par n="appl/y__vblex"/>    </e>
+    <e lm="atrophy"><i>atroph</i><par n="appl/y__vblex"/></e>
+    <e lm="quarry"><i>quarr</i><par n="appl/y__vblex"/></e>
+    <e lm="parody"><i>parod</i><par n="appl/y__vblex"/></e>
     <e lm="cast"><i>cast</i><par n="cost__vblex"/>    </e>
     <e lm="castrate"><i>castrat</i><par n="liv/e__vblex"/>    </e>
     <e lm="catalog"><i>catalog</i><par n="accept__vblex"/>    </e>
@@ -25589,6 +25724,7 @@
     <e lm="spit"><i>sp</i><par n="s/it__vblex"/>    </e>
     <e lm="see"><i>s</i><par n="s/ee__vblex"/>    </e>
     <e lm="sing"><i>s</i><par n="r/ing__vblex"/>    </e>
+    <e lm="ring"><i>r</i><par n="r/ing__vblex"/>    </e>
     <e lm="seek"><i>s</i><par n="s/eek__vblex"/>    </e>
     <e lm="sell"><i>s</i><par n="s/ell__vblex"/>    </e>
     <e lm="sit down"><i>s</i><par n="s/it__vblex"/>      <p>        <l><b/>down</l><r><g><b/>down</g></r></p></e>
@@ -25914,12 +26050,16 @@
     <e lm="endeavour"><i>endeavour</i><par n="accept__vblex"/></e>
     <e lm="jockey"><i>jockey</i><par n="enjoy__vblex"/></e>
     <e lm="fray"><i>fray</i><par n="enjoy__vblex"/></e>
-    <e lm="cosset"><i>cosset</i><par n="cut__vblex"/></e>
-    <e lm="fret"><i>fret</i><par n="cut__vblex"/></e>
-    <e lm="pat"><i>pat</i><par n="cut__vblex"/></e>
+    <e lm="cosset"><i>cosset</i><par n="fit__vblex"/></e>
+    <e lm="fret"><i>fret</i><par n="fit__vblex"/></e>
+    <e lm="pat"><i>pat</i><par n="fit__vblex"/></e>
     <e lm="numb"><i>numb</i><par n="accept__vblex"/></e>
-    <e lm="emit"><i>emit</i><par n="cut__vblex"/></e>
-    <e lm="vet"><i>vet</i><par n="cut__vblex"/></e>
+    <e lm="emit"><i>emit</i><par n="fit__vblex"/></e>
+    <e lm="vet"><i>vet</i><par n="fit__vblex"/></e>
+    <e lm="net"><i>net</i><par n="fit__vblex"/></e>
+    <e lm="dot"><i>dot</i><par n="fit__vblex"/></e>
+    <e lm="gut"><i>gut</i><par n="fit__vblex"/></e>
+    <e lm="trot"><i>trot</i><par n="fit__vblex"/></e>
     <e lm="prowl"><i>prowl</i><par n="accept__vblex"/></e>
     <e lm="plod"><i>plod</i><par n="outbid__vblex"/></e>
     <e lm="sweeten"><i>sweeten</i><par n="accept__vblex"/></e>
