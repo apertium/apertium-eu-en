@@ -757,8 +757,8 @@
     <e><p><l>nahita<s n="adv"/></l><r>on<b/>purpose<s n="adv"/></r></p></e>
     <e><p><l>noizko<s n="adv"/><s n="itg"/></l><r>by<b/>when<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>nonbait<s n="adv"/></l><r>somewhere<s n="adv"/></r></p></e>
-    <e><p><l>nondik<s n="adv"/><s n="itg"/></l><r>from<b/>where<s n="adv"/></r></p></e>
-    <e><p><l>nongo<s n="adv"/><s n="itg"/></l><r>from<b/>where<s n="adv"/></r></p></e>
+    <e><p><l>nondik<s n="adv"/><s n="itg"/></l><r>from<b/>where<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>nongo<s n="adv"/><s n="itg"/></l><r>from<b/>where<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>oihuka<s n="adv"/></l><r>shouting<s n="adv"/></r></p></e>
     <e><p><l>oker<s n="adv"/></l><r>wrong<s n="adv"/></r></p></e>
     <e><p><l>ondora<s n="adv"/><s n="gen"/></l><r>at<b/>the<b/>side<s n="adv"/></r></p></e>
@@ -768,7 +768,7 @@
     <e><p><l>orduko<s n="adv"/></l><r>by<b/>then<s n="adv"/></r></p></e>
     <e><p><l>parera<s n="adv"/><s n="gen"/></l><r>on<b/>par<b/>with<s n="pr"/></r></p></e>
     <e><p><l>pixkanaka<s n="adv"/></l><r>little<b/>by<b/>little<s n="adv"/></r></p></e>
-    <e><p><l>pozik<s n="adv"/></l><r>happy<s n="adj"/></r></p></e>
+    <e><p><l>pozik<s n="adv"/></l><r>happily<s n="adv"/></r></p></e>
     <e><p><l>primeran<s n="adv"/></l><r>stupendously<s n="adv"/></r></p></e>
     <e><p><l>sarritan<s n="adv"/></l><r>many<b/>times<s n="adv"/></r></p></e>
     <e><p><l>tente<s n="adv"/></l><r>standing<s n="adv"/></r></p></e>
@@ -4181,7 +4181,7 @@
     <e><p><l>beharreko<s n="adj"/></l><r>that<b/>has<b/>to<s n="adj"/></r></p></e>
     <e><p><l>beliko<s n="adj"/></l><r>bellicose<s n="adj"/></r></p></e>
     <e><p><l>beltzaran<s n="adj"/></l><r>dark<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>beraiek<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>beraiek<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>berau<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<b/>one<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>berauek<s n="det"/><s n="dem"/><s n="pl"/></l><r>this<b/>one<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>biga<s n="prn"/><s n="ind"/><s n="pl"/></l><r>both<s n="det"/><s n="ind"/><s n="pl"/></r></p></e>
@@ -4210,7 +4210,7 @@
     <e><p><l>eskuindar<s n="adj"/></l><r>right-wing<s n="adj"/></r></p></e>
     <e><p><l>estali<s n="adj"/></l><r>covered<s n="adj"/></r></p></e>
     <e><p><l>etzan<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
-    <e><p><l>eurak<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>eurak<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>europartu<s n="vblex"/></l><r>europeanise<s n="vblex"/></r></p></e>
     <e><p><l>ezinda<s n="vblex"/><s n="inf"/></l><r>be<b/>unable<b/>to<s n="vbmod"/><s n="inf"/></r></p></e>
     <e><p><l>ezinik<s n="vblex"/><s n="inf"/></l><r>be<b/>unable<b/>to<s n="vbmod"/><s n="inf"/></r></p></e>
@@ -4897,11 +4897,11 @@
     <e r="RL"><p><l>noizean<b/>behin<s n="adv"/></l><r>now<b/>and<b/>again<s n="adv"/></r></p></e>
     <e><p><l>noizean<b/>behin<s n="adv"/></l><r>now<b/>and<b/>then<s n="adv"/></r></p></e>
     <e r="RL"><p><l>noizean<b/>behin<s n="adv"/></l><r>on<b/>occasion<s n="adv"/></r></p></e>
-    <e><p><l>nola<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
+    <e><p><l>nola<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>nolabait<s n="adv"/></l><r>somehow<s n="adv"/></r></p></e>
     <e><p><l>nolanahi<s n="adv"/></l><r>anyway<s n="adv"/></r></p></e>
     <e><p><l>nolanahi<b/>ere<s n="adv"/></l><r>anyway<s n="adv"/></r></p></e>
-    <e><p><l>non<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
+    <e><p><l>non<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>normalean<s n="adv"/></l><r>regularly<s n="adv"/></r></p></e>
     <e><p><l>noski<s n="adv"/></l><r>of<b/>course<s n="adv"/></r></p></e>
     <e><p><l>ofizialki<s n="adv"/></l><r>officially<s n="adv"/></r></p></e>
@@ -5328,7 +5328,7 @@
     <e><p><l>Unai<s n="np"/><s n="ant"/></l><r>Unai<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Urbano<s n="np"/><s n="ant"/></l><r>Urbano<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Urkullu<s n="np"/><s n="ant"/></l><r>Urkullu<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
-    <e c="MG: revisar"><p><l>Valencia<s n="np"/><s n="ant"/></l><r>Valencia<s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
+    <e c="MG: revisar"><p><l>Valencia<s n="np"/><s n="ant"/></l><r>Valencia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Venezuela<s n="np"/><s n="loc"/></l><r>Venezuela<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Viktoria<s n="np"/><s n="ant"/></l><r>Viktoria<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Vitoria-Gasteiz<s n="np"/><s n="loc"/></l><r>Vitoria-Gasteiz<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
@@ -7114,7 +7114,7 @@
     <e><p><l>etorri<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>etorri<s n="vbsint"/></l><r>come<s n="vblex"/></r></p></e>
     <e a="matxin"><p><l>etxekotu<s n="vblex"/></l><r>tame<s n="vblex"/></r></p></e>
-    <e><p><l>etzan<s n="vbsint"/></l><r>lie<s n="vblex"/></r></p></e>
+    <e><p><l>etzan<s n="vbsint"/></l><r>lie<g><b/>down</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e r="RL"><p><l>euria<b/>ari<b/>edun<s n="vblex"/></l><r>shower<s n="vblex"/></r></p></e>
     <e><p><l>euria<b/>ari<b/>edun<s n="vblex"/></l><r>rain<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>eutsi<s n="vblex"/></l><r>bear<s n="vblex"/></r></p></e>
@@ -9625,7 +9625,7 @@
     <e slr="so"><p><l>hain<s n="preadv"/></l><r>so<s n="preadv"/></r></p></e>
     <e slr="any"><p><l>oso<s n="preadv"/></l><r>any<s n="preadv"/></r></p></e>
     <e><p><l>oso<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
-    <e><p><l>AEB<s n="n"/><s n="acr"/></l><r>USA<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+    <e><p><l>AEB<s n="n"/><s n="acr"/></l><r>USA<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>AHT<s n="n"/><s n="acr"/></l><r>HSR<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>ANV<s n="n"/><s n="acr"/></l><r>ANV<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 
@@ -10610,7 +10610,7 @@
     <e><p><l>burdin_hesi<s n="n"/></l><r>grid<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burdina<s n="n"/></l><r>iron<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burges<s n="n"/></l><r>bourgeois<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>burgesia<s n="n"/></l><r>bourgeoisie<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>burgesia<s n="n"/></l><r>bourgeois<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>burko<s n="n"/></l><r>pillow<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>burmuin<s n="n"/></l><r>brain<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin" c="slr='dragonfly'"><p><l>burruntzi<s n="n"/></l><r>dragonfly<s n="n"/><s n="ND"/></r></p></e>
@@ -11478,7 +11478,7 @@
     <e><p><l>gainbegiratu<s n="n"/></l><r>glimpse<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gainbehera<s n="n"/></l><r>decadence<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>gainbehera<s n="n"/></l><r>decay<s n="n"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>gainerako<s n="n"/></l><r>remains<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>gainerako<s n="n"/></l><r>remains<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>gainerako<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>gaitasun<s n="n"/></l><r>capability<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gaitasun<s n="n"/></l><r>capacity<s n="n"/><s n="ND"/></r></p></e>
@@ -11900,7 +11900,7 @@
     <e><p><l>hodei<s n="n"/></l><r>cloud<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>holandar<s n="n"/></l><r>Dutch<s n="n"/><s n="ND"/></r></p></e>
     <e c="check"><p><l>homosexual<s n="n"/></l><r>homosexual<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>hondakin<s n="n"/></l><r>remains<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>hondakin<s n="n"/></l><r>remains<s n="n"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>hondakin<s n="n"/></l><r>rest<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>hondamen<s n="n"/></l><r>disaster<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>hondamen<s n="n"/></l><r>desolation<s n="n"/><s n="ND"/></r></p></e>
@@ -12779,7 +12779,7 @@
     <e r="RL"><p><l>lata<s n="n"/></l><r>tin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>latin<s n="n"/></l><r>Latin<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>latindar<s n="n"/></l><r>Latin<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>latinoamerikar<s n="n"/></l><r>Latin<b/>American<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>latinoamerikar<s n="n"/></l><r>latin<b/>american<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>latitude<s n="n"/></l><r>latitude<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL" a="matxin"><p><l>lauhazka<s n="n"/></l><r>canter<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>lauhazka<s n="n"/></l><r>gallop<s n="n"/><s n="ND"/></r></p></e>
@@ -13213,7 +13213,7 @@
     <e r="RL"><p><l>nahaste<s n="n"/></l><r>mix<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nahi<s n="n"/></l><r>will<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>natura<s n="n"/></l><r>nature<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>nazi<s n="n"/></l><r>Nazi<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>nazi<s n="n"/></l><r>nazi<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nazio<s n="n"/></l><r>nation<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nazioarte<s n="n"/></l><r>international<b/>community<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>nazionalismo<s n="n"/></l><r>nationalism<s n="n"/><s n="ND"/></r></p></e>
