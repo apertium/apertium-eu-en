@@ -11621,6 +11621,8 @@
     <e><p><l>gloria<s n="n"/></l><r>glory<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gobernadore<s n="n"/></l><r>governor<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>gobernu<s n="n"/></l><r>government<s n="n"/><s n="ND"/></r></p></e>
+    <e><p><l>eusko<b/>jaurlaritza<s n="n"/></l><r>Basque<b/>Government<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>euskal<b/>autonomia<b/>erkidego<s n="n"/></l><r>Basque<b/>Autonomous<b/>Community<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>gobernuburu<s n="n"/></l><r>head<g><b/>of<b/>government</g><s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>gobernuburu<s n="n"/></l><r>government<b/>head<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>gogo<s n="n"/></l><r>encouragement<s n="n"/><s n="ND"/></r></p></e>
