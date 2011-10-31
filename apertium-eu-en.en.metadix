@@ -24763,6 +24763,7 @@
     <e lm="camp"><i>camp</i><par n="accept__vblex"/>    </e>
     <e lm="campaign"><i>campaign</i><par n="accept__vblex"/>    </e>
     <e lm="cancel"><i>cancel</i><par n="control__vblex"/>    </e>
+    <e lm="pedal"><i>pedal</i><par n="control__vblex"/>    </e>
     <e lm="annul"><i>annul</i><par n="control__vblex"/>    </e>
     <e lm="capitalize"><i>capitali</i><par n="organi/ze__vblex"/>    </e>
     <e lm="capsize"><i>capsiz</i><par n="liv/e__vblex"/>    </e>
@@ -24855,6 +24856,7 @@
     <e lm="condition"><i>condition</i><par n="accept__vblex"/>    </e>
     <e lm="conduct"><i>conduct</i><par n="accept__vblex"/>    </e>
     <e lm="confer"><i>confer</i><par n="occur__vblex"/>    </e>
+    <e lm="bar"><i>bar</i><par n="occur__vblex"/>    </e>
     <e lm="confess"><i>confess</i><par n="approach__vblex"/>    </e>
     <e lm="configure"><i>configur</i><par n="liv/e__vblex"/>    </e>
     <e lm="confine"><i>confin</i><par n="liv/e__vblex"/>    </e>
@@ -24926,6 +24928,8 @@
     <e lm="cut"><i>cut</i><par n="cut__vblex"/>    </e>
     <e lm="do"><i>d</i><par n="d/o__vblex"/>    </e>
     <e lm="die"><i>d</i><par n="d/ie__vblex"/>    </e>
+    <e lm="lie"><i>l</i><par n="d/ie__vblex"/>    </e>
+    <e lm="lie down"><i>l</i><par n="l/ie__vblex" sa="sep"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="vie"><i>v</i><par n="d/ie__vblex"/>    </e>
     <e lm="dig"><i>d</i><par n="d/ig__vblex"/>    </e>
     <e lm="damage"><i>damag</i><par n="liv/e__vblex"/>    </e>
@@ -25406,6 +25410,8 @@
     <e lm="keep"><i>ke</i><par n="ke/ep__vblex"/>    </e>
     <e lm="kick"><i>kick</i><par n="accept__vblex"/>    </e>
     <e lm="kid"><i>kid</i><par n="bed__vblex"/>    </e>
+    <e lm="bud"><i>bud</i><par n="bed__vblex"/>    </e>
+    <e lm="pad"><i>pad</i><par n="bed__vblex"/>    </e>
     <e lm="kidnap"><i>kidnap</i><par n="step__vblex"/>    </e>
     <e lm="kill"><i>kill</i><par n="accept__vblex"/>    </e>
     <e lm="kiss"><i>kiss</i><par n="approach__vblex"/>    </e>
@@ -25788,6 +25794,34 @@
     <e lm="row"><i>row</i><par n="accept__vblex"/>    </e>
     <e lm="shell"><i>shell</i><par n="accept__vblex"/>    </e>
     <e lm="rub"><i>rub</i><par n="dub__vblex"/>    </e>
+    <e lm="club"><i>club</i><par n="dub__vblex"/>    </e>
+    <e lm="bound"><i>bound</i><par n="accept__vblex"/></e>
+    <e lm="bowl"><i>bowl</i><par n="accept__vblex"/></e>
+    <e lm="card"><i>card</i><par n="accept__vblex"/></e>
+    <e lm="click"><i>click</i><par n="accept__vblex"/></e>
+    <e lm="curl"><i>curl</i><par n="accept__vblex"/></e>
+    <e lm="dock"><i>dock</i><par n="accept__vblex"/></e>
+    <e lm="earth"><i>earth</i><par n="accept__vblex"/></e>
+    <e lm="empty"><i>empt</i><par n="appl/y__vblex"/></e>
+    <e lm="enamel"><i>enamel</i><par n="accept__vblex"/></e>
+    <e lm="floor"><i>floor</i><par n="accept__vblex"/></e>
+    <e lm="initial"><i>initial</i><par n="accept__vblex"/></e>
+    <e lm="lasso"><i>lasso</i><par n="approach__vblex"/></e>
+    <e lm="martyr"><i>martyr</i><par n="accept__vblex"/></e>
+    <e lm="model"><i>model</i><par n="control__vblex"/></e>
+    <e lm="patrol"><i>patrol</i><par n="control__vblex"/></e>
+    <e lm="pencil"><i>pencil</i><par n="control__vblex"/></e>
+    <e lm="sand"><i>sand</i><par n="accept__vblex"/></e>
+    <e lm="scrub"><i>scrub</i><par n="dub__vblex"/></e>
+    <e lm="shy"><i>sh</i><par n="appl/y__vblex"/></e>
+    <e lm="ski"><i>ski</i><par n="accept__vblex"/></e>
+    <e lm="spiral"><i>spiral</i><par n="control__vblex"/></e>
+    <e r="LR" lm="taxi"><i>taxi</i><par n="accept__vblex"/></e>
+    <e lm="taxi"><i>taxi</i><par n="approach__vblex"/></e>
+    <e lm="tunnel"><i>tunnel</i><par n="control__vblex"/></e>
+    <e lm="video"><i>video</i><par n="approach__vblex"/></e>
+    <e lm="will"><i>will</i><par n="accept__vblex"/></e>
+    <e lm="wind"><i>wind</i><par n="accept__vblex"/></e>
     <e lm="rule"><i>rul</i><par n="liv/e__vblex"/>    </e>
     <e lm="rush"><i>rush</i><par n="approach__vblex"/>    </e>
     <e lm="sit"><i>s</i><par n="s/it__vblex"/>    </e>
