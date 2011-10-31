@@ -466,7 +466,7 @@
     <e r="RL"><p><l>edozer<s n="det"/><s n="indizl"/><s n="sg"/></l><r>either<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>edozer<s n="det"/><s n="indizl"/><s n="sg"/></l><r>whatever<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>ehungarren<s n="adj"/></l><r>hundredth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
-    <e><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>franko<s n="det"/><s n="ind"/><s n="sp"/></l><r>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>

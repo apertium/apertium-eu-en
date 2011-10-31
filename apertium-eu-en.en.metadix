@@ -28070,6 +28070,7 @@
     <e lm="or"><i>or</i><par n="and__cnjcoo"/>    </e>
     <e lm="than"><i>than</i><par n="and__cnjcoo"/>    </e>
     <e lm="after"><i>after</i><par n="after__cnjadv"/>    </e>
+    <e lm="if not"><i>if<b/>not</i><par n="after__cnjadv"/>    </e>
     <e lm="although"><i>although</i><par n="after__cnjadv"/>    </e>
     <e lm="as"><i>as</i><par n="after__cnjadv"/>    </e>
     <e lm="as well as"><i>as<b/>well<b/>as</i><par n="after__cnjadv"/>    </e>

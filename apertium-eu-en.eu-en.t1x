@@ -16755,7 +16755,7 @@ It could be extended to other cases, to deal with the differences in the transla
 <!--negacions en un altre ordre: es pot dir tant 'ez genuen hartu' com 'hartu ez genuen' (crec) -->
 
 
-    <rule comment="REGLA: PP + ez + VERBO SINT (ikusi ez dut - I have not seen)">
+    <rule comment="REGLA: PP + ez + VERBO SINT (jaso ez dute - I have not seen)">
       <pattern>
         <pattern-item n="lexpp"/>
         <pattern-item n="ez"/>
