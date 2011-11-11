@@ -3677,7 +3677,7 @@
       <choose> <!-- no pronoun for imperative -->
         <when>
           <test>
-            <not>
+  	    <not>
               <or>
                 <equal>
                   <clip pos="1" side="sl" part="temps"/>
@@ -3692,7 +3692,7 @@
                   <lit-tag v="pp"/>
                 </equal>
               </or>
-            </not>
+      	    </not>
           </test>
           <out>
             <chunk name="prnsubj" case="caseFirstWord">
@@ -3720,7 +3720,7 @@
               <equal>
                 <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="pri"/>
-              </equal>
+              </equal> 
               <equal>
                 <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="pres"/>
@@ -7623,6 +7623,7 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="1" side="tl" part="lem"/> 
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="tipus_adj"/>
+    <!--gema-->          <clip pos="1" side="tl" part="sp"/>
             </lu>
             <b pos="2"/>
             <lu> 
@@ -16242,16 +16243,24 @@ It could be extended to other cases, to deal with the differences in the transla
           <clip pos="2" side="tl" part="a_verb"/>
           <lit-tag v="vbhaver"/>
         </let>
-        <call-macro n="verbal_flex">
+       <call-macro n="verbal_flex">
           <with-param pos="2"/>
         </call-macro>
         <choose>
           <when>
             <test>
+	   <or>
               <equal>
                 <clip pos="2" side="tl" part="temps"/>
                 <lit-tag v="pri"/>
               </equal>
+<!--gema begin-->
+              <equal>
+                <clip pos="2" side="tl" part="temps"/>
+                <lit-tag v="pres"/>
+              </equal>
+<!--gema end-->
+	  </or>
             </test>
             <out>
               <chunk name="have_pp">
@@ -16272,6 +16281,13 @@ It could be extended to other cases, to deal with the differences in the transla
                   <clip pos="2" side="tl" part="lemq"/>
                 </lu>
                 <b pos="1"/>
+<!--gema begin-->
+		<lu>
+		<lit v="not"/>
+		<clip pos="1" side="tl" part="a_adv"/>
+		</lu>
+		<b pos="2"/>
+<!--gema end-->
                 <lu>
                   <clip pos="3" side="tl" part="lemh"/>
                   <clip pos="3" side="tl" part="a_verb"/>
