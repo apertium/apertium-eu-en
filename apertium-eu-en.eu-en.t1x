@@ -494,6 +494,7 @@
 
     <def-attr n="det_prn">
       <attr-item tags="prn.subj.p3.nt"/>
+      <attr-item tags="prn.subj.p3.mf"/>
       <attr-item tags="det.dem"/> 
     </def-attr>
 
@@ -6593,10 +6594,26 @@ It could be extended to other cases, to deal with the differences in the transla
               <clip pos="1" side="tl" part="lem"/> 
               <lit v="prpers"/>
             </let>
-            <let>
-              <clip pos="1" side="tl" part="det_prn"/> 
-              <lit-tag v="prn.subj.p3.nt"/>
-            </let>
+            <choose>
+              <when>
+                <test>
+                  <equal caseless="yes">
+                    <clip pos="1" side="sl" part="nbr"/> 
+                    <lit-tag v="sg"/>
+                  </equal>
+                </test>
+                <let>
+                  <clip pos="1" side="tl" part="det_prn"/> 
+                  <lit-tag v="prn.subj.p3.nt"/>
+                </let>
+              </when>
+              <otherwise>
+                <let>
+                  <clip pos="1" side="tl" part="det_prn"/> 
+                  <lit-tag v="prn.subj.p3.mf"/>
+                </let>
+              </otherwise>
+            </choose>
           </when>
         </choose>
         
