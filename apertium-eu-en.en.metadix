@@ -33697,6 +33697,7 @@
     <e>      <par n="ordinals"/>    </e>
     <e>      <par n="time"/>    </e>
     <e>      <par n="currency"/>    </e>
+    <e>      <par n="acronimos"/>    </e>
   </section>  
 
   <section id="final" type="inconditional">  
