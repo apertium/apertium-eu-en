@@ -14719,7 +14719,7 @@
     <e><re>[a-z.]+@[a-z.]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>(((www.)|(http://))[a-z\-]+([.][a-z]+)+)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
+    <e><p><l>%</l><r></r></p><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/><s n="percent"/></l><r>%<s n="num"/><s n="percent"/></r></p></e>
     <e r="LR"><re>[0-9]+</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="num"/><s n="ord"/></r></p></e>
     <e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
     <e><re>[0-9]+[.:][0-5][0-9](pm|PM|am|AM)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
