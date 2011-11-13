@@ -7690,6 +7690,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="nbr_n1">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
+        </call-macro>
         <out> 
           <chunk name="pr_d_a_n_pr_n" case="caseFirstWord">
             <tags>
@@ -7714,8 +7717,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="1"/>
             <lu> 
@@ -7769,6 +7771,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="SPgenitivo">
           <with-param pos="4"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
+        </call-macro>
         <out> 
           <chunk name="pr_det_adj_nom" case="caseFirstWord">
             <tags>
@@ -7792,9 +7797,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
-    <!--gema-->          <clip pos="1" side="tl" part="sp"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="2"/>
             <lu> 
@@ -7826,6 +7829,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="SPgenitivo">
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="1"/>
+        </call-macro>
         <out> 
           <chunk name="pr_adj_nom" case="caseFirstWord">
             <tags>
@@ -7840,8 +7846,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <var n="blanco"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="1"/>
             <lu> 
