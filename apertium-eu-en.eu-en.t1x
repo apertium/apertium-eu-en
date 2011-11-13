@@ -1204,6 +1204,31 @@
 		  <lit v="ago"/>
 		</equal>
 		<equal>
+		  <clip pos="2" side="sl" part="lem"/> 
+		  <lit v="lehen"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <lit v="before"/>
+		  <lit-tag v="adv"/>
+		</concat>
+	    </let>
+	    <let>
+	      <var n="adv_adjname"/>
+	      <lit v="adv"/>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="ago"/>
+		</equal>
+		<equal>
 		  <clip pos="2" side="tl" part="a_adj"/> 
 		  <lit-tag v="adj.sint"/>
 		</equal>
