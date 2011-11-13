@@ -3285,7 +3285,7 @@
               </test>
               <let> <!-- TODO: make this configurable. The hard part is, Basque pronouns have no gender. Assume m ('he') for object -->
                 <var n="procltags"/>
-                <lit-tag v="prn.obj.p3.GD.sg"/>
+                <lit-tag v="prn.obj.p3.m.sg"/>
               </let>
             </when>
             <when>
@@ -5318,6 +5318,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="nbr_n1">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="nbr_n1">
+          <with-param pos="2"/>
+        </call-macro>
         <choose>
           <when>
             <test>
@@ -5477,6 +5480,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         <call-macro n="nbr_n1">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="nbr_n1">
+          <with-param pos="3"/>
         </call-macro>
         <choose>
           <when>
@@ -6993,7 +6999,7 @@ It could be extended to other cases, to deal with the differences in the transla
                 </tags>
                 <lu>
                   <lit v="each other"/> <!-- add to bidix -->
-                  <lit-tag v="adj.mf.sp"/>
+                  <lit-tag v="adj"/>
                 </lu>
             </chunk>
           </out>
@@ -8062,6 +8068,9 @@ It could be extended to other cases, to deal with the differences in the transla
         </call-macro>
         <call-macro n="nbr_n1">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="nbr_n1">
+          <with-param pos="3"/>
         </call-macro>
         <call-macro n="tipo_det">
           <with-param pos="4"/>

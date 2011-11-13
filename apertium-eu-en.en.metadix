@@ -28622,6 +28622,7 @@
     <e lm="encode" a="prompsit2cdl"><i>encod</i><par n="liv/e__vblex"/></e>
     <e lm="scheme" a="prompsit2cdl"><i>schem</i><par n="liv/e__vblex"/></e>
     <e lm="fed up"><i>fed<b/>up</i><par n="expensive__adj"/></e>
+    <e lm="each other"><i>each<b/>other</i><par n="expensive__adj"/></e>
     <e lm="brave"><i>brav</i><par n="liv/e__vblex"/></e>
     <e lm="narrowly"><i>narrowly</i><par n="maybe__adv"/></e>
     <e lm="all the way down"><i>all<b/>the<b/>way<b/>down</i><par n="maybe__adv"/></e>
@@ -33698,6 +33699,7 @@
     <e>      <par n="time"/>    </e>
     <e>      <par n="currency"/>    </e>
     <e>      <par n="acronimos"/>    </e>
+<e c="7-8"><re>[0-9]+([.,][0-9]+)?\-[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>
   </section>  
 
   <section id="final" type="inconditional">  

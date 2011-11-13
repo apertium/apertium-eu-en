@@ -408,7 +408,7 @@
     <e r="LR"><p><l>xe<s n="gra"/><s n="ind"/></l><r></r></p></e>
 
     <e><p><l>a<s n="det"/><s n="art"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
-    <e r="LR"><p><l>guzti<s n="det"/><s n="ind"/></l><r>all<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>guzti<s n="det"/><s n="ind"/></l><r>all<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>asko<s n="det"/><s n="ind"/><s n="sp"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
@@ -9629,6 +9629,7 @@
     <e><p><l>AHT<s n="n"/><s n="acr"/></l><r>HSR<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     <e><p><l>ANV<s n="n"/><s n="acr"/></l><r>ANV<s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
 
+    <e><p><l>balio<s n="n"/></l><r>value<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>agiritegi<s n="n"/></l><r>archive<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>araztegi<s n="n"/></l><r>refinery<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>Andorrako<s n="n"/></l><r>Andorran<s n="n"/><s n="ND"/></r></p></e>
@@ -14550,7 +14551,8 @@
 
     <e><p><l>guhaur<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>gu<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e><p><l>ber<s n="prn"/><s n="pers"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/></r></p></e>
+    <e><p><l>ber<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e><p><l>ber<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>elkar<s n="prn"/><s n="rec"/></l><r>each<b/>other<s n="prn"/><s n="rec"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>geu<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>zeu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>yourself<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -14731,6 +14733,6 @@
     <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
 
     <!-- These are really shitty regexes -->
-    <e c="números romanos"><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l><s n="adj"/><s n="mf"/><s n="sp"/></l><r><s n="adj"/><s n="izl"/></r></p></e>
+    <e c="números romanos"><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l><s n="adj"/></l><r><s n="adj"/></r></p></e>
   </section>
 </dictionary>
