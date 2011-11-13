@@ -1396,6 +1396,10 @@
 
     <def-macro n="concord_n2" npar="2"><!--par 1= nombre; par 2= det/adj/pp -->
 
+      <let>
+        <var n="nbr_chunk"/>
+        <lit v=""/>
+      </let>
       <choose>
         <when>
           <test>
@@ -9538,10 +9542,20 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
-        <let>
-          <clip pos="2" side="tl" part="nbr"/>
-          <lit-tag v="pl"/>
-        </let>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="2" side="tl" part="nbr"/>
+                <lit-tag v="ND"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="2" side="tl" part="nbr"/>
+              <lit-tag v="pl"/>
+            </let>
+          </when>
+        </choose>
         <choose>
           <when>
             <test>
@@ -19583,6 +19597,10 @@ It could be extended to other cases, to deal with the differences in the transla
         <let>
           <var n="ezta"/>
           <lit-tag v="no"/>
+        </let>
+        <let>
+          <var n="nbr_chunk"/>
+          <lit v=""/>
         </let>
         <choose>
           <when>
