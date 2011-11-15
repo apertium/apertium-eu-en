@@ -2893,10 +2893,6 @@
             <clip pos="1" side="tl" part="lem"/> 
             <lit v="my"/>
           </let>
-          <let>
-            <clip pos="1" side="tl" part="nbr"/> 
-            <lit-tag v="sp"/>
-          </let>
         </when>
         <when>
           <test>
@@ -12489,7 +12485,8 @@ It could be extended to other cases, to deal with the differences in the transla
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="det_pos"/>
+              <!--<clip pos="1" side="tl" part="det_pos"/>-->
+              <lit-tag v="det.pos"/>
               <clip pos="4" side="tl" part="ND" link-to="3"/>
               <clip pos="4" side="tl" part="sp"/>
             </lu>
@@ -17861,6 +17858,18 @@ It could be extended to other cases, to deal with the differences in the transla
             <let>
                 <clip pos="2" side="tl" part="temps"/>
                 <lit-tag v="pis"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <equal>
+                <clip pos="2" side="sl" part="temps"/>
+                <lit-tag v="prs2"/>
+              </equal>
+            </test>
+            <let>
+                <clip pos="2" side="tl" part="temps"/>
+                <lit-tag v="prs"/>
             </let>
           </when>
         </choose>
