@@ -4314,6 +4314,22 @@
               <clip pos="1" side="tl" part="temps"/>
               <lit-tag v="inf"/>
             </let>
+            <let>
+              <clip pos="1" side="tl" part="persnbr"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nori"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nork"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nor"/>
+              <lit v=""/>
+            </let>
           </when>
           <when>
             <test>
@@ -4341,6 +4357,22 @@
             <let>
               <clip pos="1" side="tl" part="temps"/>
               <lit-tag v="inf"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="persnbr"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nori"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nork"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nor"/>
+              <lit v=""/>
             </let>
           </when>
           <when>
@@ -4374,6 +4406,22 @@
               <clip pos="1" side="tl" part="temps"/>
               <lit-tag v="inf"/>
             </let>
+            <let>
+              <clip pos="1" side="tl" part="persnbr"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nori"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nork"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nor"/>
+              <lit v=""/>
+            </let>
           </when>
           <when>
             <test>
@@ -4399,6 +4447,22 @@
             <let>
               <clip pos="1" side="tl" part="temps"/>
               <lit-tag v="inf"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nori"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nork"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nor"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="persnbr"/>
+              <lit v=""/>
             </let>
           </when>
         </choose>

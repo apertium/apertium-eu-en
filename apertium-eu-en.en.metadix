@@ -28692,7 +28692,7 @@
     <e lm="Eritrea"><i>Eritrea</i><par n="Barcelona__np"/>     </e>
     <e lm="Fiji"><i>Fiji</i><par n="Barcelona__np"/>     </e>
     <e lm="Franco's regime" c="'the Franco regime' but without determiner: 'Franco's regime'"><i>Franco's<b/>regime</i><par n="house__n"/>     </e>
-    <e lm="Franco regime" c="'the Franco regime' but without determiner: 'Franco's regime'"><i>Franco<b/>regime</i><par n="house__n"/>     </e>
+    <e lm="Franco regime" c="'the Franco regime' but without determiner: 'Franco's regime'"><p><l>Franco<b/>regime</l><r>franco<b/>regime</r></p><par n="house__n"/>     </e>
     <e lm="Gabon"><i>Gabon</i><par n="Barcelona__np"/>     </e>
     <e lm="Galician"><i>Galician</i><par n="house__n"/>     </e>
     <e lm="Gambia"><i>Gambia</i><par n="Barcelona__np"/>     </e>
