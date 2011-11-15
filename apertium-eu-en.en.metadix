@@ -178,7 +178,7 @@
     </pardef>
     <pardef n="numeros">
       <e>
-        <re>[0-9]+([.,][0-9]+)?</re>
+        <re>[0-9]+([.,][0-9]+)*</re>
         <p>
           <l/>
           <r><s n="num"/></r>
@@ -33699,6 +33699,7 @@
     <e>      <par n="time"/>    </e>
     <e>      <par n="currency"/>    </e>
     <e>      <par n="acronimos"/>    </e>
+<e><re>[VIXDLMC][VIXDLMC]+[.]?</re><p><l/><r><s n="adj"/></r></p></e>
 <e c="7-8"><re>[0-9]+([.,][0-9]+)?\-[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>
   </section>  
 

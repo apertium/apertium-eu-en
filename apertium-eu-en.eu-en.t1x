@@ -2198,6 +2198,10 @@
 
 
     <def-macro n="concord_n4" npar="4"><!--par 1= nombre; par 2= adj/pp; par 3=det/adj/pp; par 4=det -->
+      <let>
+        <var n="nbr_chunk"/>
+        <lit v=""/>
+      </let>
       <choose>
         <when>
           <test>
@@ -2293,6 +2297,10 @@
                 <clip pos="1" side="tl" part="nbr"/> 
                 <clip pos="4" side="sl" part="nbr"/> 
               </let>
+              <let>
+                <var n="nbr_chunk"/>
+                <clip pos="4" side="sl" part="nbr"/> 
+              </let>
             </when>
             <when>
               <test><!--cuando 3 tiene número sg o pl -->
@@ -2313,6 +2321,10 @@
                 <clip pos="1" side="tl" part="nbr"/> 
                 <clip pos="3" side="tl" part="nbr"/> 
               </let>
+              <let>
+                <var n="nbr_chunk"/>
+                <clip pos="3" side="sl" part="nbr"/> 
+              </let>
             </when>
             <when>
               <test><!--cuando 3 es sp en origen (determinantes indefinidos) -->
@@ -2329,7 +2341,11 @@
               </test>
               <let>
                 <clip pos="1" side="tl" part="nbr"/> 
-                <lit v="pl"/> 
+                <lit-tag v="pl"/> 
+              </let>
+              <let>
+                <var n="nbr_chunk"/>
+                <lit-tag v="pl"/> 
               </let>
             </when>
             <when>
@@ -2347,7 +2363,11 @@
               </test>
               <let>
                 <clip pos="1" side="tl" part="nbr"/> 
-                <lit v="sg"/> 
+                <lit-tag v="sg"/> 
+              </let>
+              <let>
+                <var n="nbr_chunk"/>
+                <lit-tag v="sg"/> 
               </let>
             </when>
             <when>
@@ -2403,6 +2423,10 @@
               </test>
               <let>
                 <clip pos="1" side="tl" part="nbr"/> 
+                <lit-tag v="pl"/> 
+              </let>
+              <let>
+                <var n="nbr_chunk"/>
                 <lit-tag v="pl"/> 
               </let>
               <choose>
@@ -2476,6 +2500,10 @@
                     <clip pos="1" side="tl" part="nbr"/> 
                     <lit-tag v="pl"/> 
                   </let>
+                  <let>
+                    <var n="nbr_chunk"/>
+                   <lit-tag v="pl"/> 
+                  </let>
                   <choose>
                     <when>
                       <test>
@@ -2524,6 +2552,10 @@
                 <clip pos="1" side="tl" part="nbr"/> 
                 <clip pos="4" side="tl" part="nbr"/>
               </let>
+              <let>
+                <var n="nbr_chunk"/>
+                <clip pos="4" side="tl" part="nbr"/>
+              </let>
             </when>
           </choose>
           <choose><!--y finalmente, si el 2 es ND, a estas alturas de la regla el nombre ya tiene número, que se asignará a 2 -->
@@ -2536,6 +2568,10 @@
               </test>
               <let>
                 <clip pos="2" side="tl" part="nbr"/> 
+                <clip pos="1" side="tl" part="nbr"/>
+              </let>
+              <let>
+                <var n="nbr_chunk"/>
                 <clip pos="1" side="tl" part="nbr"/>
               </let>
             </when>
@@ -4431,6 +4467,40 @@ It could be extended to other cases, to deal with the differences in the transla
             <let>
               <clip pos="1" side="tl" part="temps"/>
               <lit-tag v="pres"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="persnbr"/>
+              <lit v=""/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <lit-tag v="past"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="tl" part="persnbr"/>
+                  <lit-tag v="p3.sg"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="tl" part="lemh"/>
+                  <lit v="be"/>
+                </equal>
+                <not>
+                  <equal>
+                    <clip pos="1" side="tl" part="lemh"/>
+                    <lit v="be"/>
+                  </equal>
+                </not>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="past"/>
             </let>
             <let>
               <clip pos="1" side="tl" part="persnbr"/>

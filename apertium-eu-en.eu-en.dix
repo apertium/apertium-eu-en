@@ -4182,8 +4182,8 @@
     <e><p><l>beliko<s n="adj"/></l><r>bellicose<s n="adj"/></r></p></e>
     <e><p><l>beltzaran<s n="adj"/></l><r>dark<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>beraiek<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>berau<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<b/>one<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>berauek<s n="det"/><s n="dem"/><s n="pl"/></l><r>this<b/>one<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>berau<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+    <e><p><l>berauek<s n="det"/><s n="dem"/><s n="pl"/></l><r>this<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
     <e><p><l>biga<s n="prn"/><s n="ind"/><s n="pl"/></l><r>both<s n="det"/><s n="ind"/><s n="pl"/></r></p></e>
     <e><p><l>bioleta<s n="adj"/></l><r>violet<s n="adj"/></r></p></e>
     <e><p><l>bosniar<s n="adj"/></l><r>bosnian<s n="adj"/></r></p></e>
