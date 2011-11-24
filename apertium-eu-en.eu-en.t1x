@@ -1505,18 +1505,16 @@
             <when>
               <test>
                 <and>
-                  <not>
-                    <and>
-                      <equal>
-                        <clip pos="2" side="tl" part="nbr"/> 
-                        <lit-tag v="sp"/>
-                      </equal>
-                      <equal>
-                        <clip pos="2" side="tl" part="nbr"/> 
-                        <lit-tag v=""/>
-                      </equal>
-                    </and>
-                  </not>
+                  <or>
+                    <equal>
+                      <clip pos="2" side="tl" part="nbr"/> 
+                      <lit-tag v="sp"/>
+                    </equal>
+                    <equal>
+                      <clip pos="2" side="tl" part="nbr"/> 
+                      <lit-tag v=""/>
+                    </equal>
+                  </or>
                   <or>
                     <equal>
                       <clip pos="2" side="sl" part="nbr"/> 
@@ -4553,6 +4551,12 @@ It could be extended to other cases, to deal with the differences in the transla
                   <clip pos="2" side="tl" part="persnbr"/>
                   <lit-tag v="p1.sg"/>
                 </equal>
+                <not>
+                  <equal>
+                    <clip pos="1" side="tl" part="lemh"/>
+                    <lit v="be"/>
+                  </equal>
+                </not>
               </and>
             </test>
             <let>
@@ -10146,6 +10150,9 @@ It could be extended to other cases, to deal with the differences in the transla
         <call-macro n="n_num">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="adjdetpp">
+          <with-param pos="3"/>
+        </call-macro>
         <let>
           <clip pos="2" side="tl" part="nbr"/>
           <lit-tag v="pl"/>
@@ -10169,7 +10176,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <b pos="1"/>
             <lu> 
               <clip pos="3" side="tl" part="lem"/> 
-              <clip pos="3" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="tags"/>
             </lu>
             <b pos="2"/>
             <lu> 
