@@ -3025,6 +3025,20 @@
                 <clip pos="1" side="sl" part="lem"/> 
                 <lit v="ber"/>
               </equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="lem"/> 
+            <lit v="his"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <or>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/> 
+                <lit v="beraiek"/>
+              </equal>
               <equal caseless="yes">
                 <clip pos="1" side="sl" part="lem"/> 
                 <lit v="eurak"/>
@@ -3033,7 +3047,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="his"/>
+            <lit v="their"/>
           </let>
         </when>
         <when>
@@ -3220,6 +3234,18 @@
         <when>
           <test>
             <equal>
+              <clip pos="1" side="tl" part="tipus_det"/>
+              <lit-tag v="dem"/>
+            </equal>
+          </test>
+          <let>
+            <var n="tipusdet"/>
+            <lit-tag v="dem"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
               <clip pos="1" side="sl" part="tipus_det"/>
               <lit-tag v="art"/>
             </equal>
@@ -3227,18 +3253,6 @@
           <let>
             <var n="tipusdet"/>
             <lit-tag v="def"/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" side="sl" part="tipus_det"/>
-              <lit-tag v="dem"/>
-            </equal>
-          </test>
-          <let>
-            <var n="tipusdet"/>
-            <lit-tag v="dem"/>
           </let>
         </when>
         <when>
@@ -3953,6 +3967,10 @@
               <equal>
                 <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="potps"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="bald"/>
               </equal>
             </or>
           </test>

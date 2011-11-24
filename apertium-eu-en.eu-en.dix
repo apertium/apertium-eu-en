@@ -498,7 +498,7 @@
     <e><p><l>hamaseigarren<s n="adj"/><s n="izl"/></l><r>sixteenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>hamazazpigarren<s n="adj"/><s n="izl"/></l><r>seventeenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>hamazortzigarren<s n="adj"/><s n="izl"/></l><r>eighteenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
-    <e c="hau, hauek"><p><l>hau<s n="det"/><s n="dem"/></l><r>this<s n="det"/></r></p></e>
+    <e c="hau, hauek"><p><l>hau<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>hemeretzigarren<s n="adj"/><s n="izl"/></l><r>nineteenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>hemezortzigarren<s n="adj"/><s n="izl"/></l><r>eighteenth<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
     <e><p><l>heren<s n="adj"/></l><r>third<s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
@@ -4181,7 +4181,7 @@
     <e><p><l>beharreko<s n="adj"/></l><r>that<b/>has<b/>to<s n="adj"/></r></p></e>
     <e><p><l>beliko<s n="adj"/></l><r>bellicose<s n="adj"/></r></p></e>
     <e><p><l>beltzaran<s n="adj"/></l><r>dark<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>beraiek<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>beraiek<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>berau<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
     <e><p><l>berauek<s n="det"/><s n="dem"/><s n="pl"/></l><r>this<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
     <e><p><l>biga<s n="prn"/><s n="ind"/><s n="pl"/></l><r>both<s n="det"/><s n="ind"/><s n="pl"/></r></p></e>
@@ -14566,10 +14566,10 @@
     <e r="RL"><p><l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>all<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l><r>everything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>deus<s n="prn"/><s n="ind"/></l><r>nothing<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>ezertxo<s n="prn"/><s n="ind"/></l><r>nothing<b/>at<b/>all<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>ezertxo<s n="prn"/><s n="ind"/></l><r>anything<b/>at<b/>all<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>batbedera<s n="prn"/><s n="ind"/></l><r>each<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>deus<s n="prn"/><s n="ind"/><s n="sg"/></l><r>nothing<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ezertxo<s n="prn"/><s n="ind"/><s n="sg"/></l><r>nothing<b/>at<b/>all<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>ezertxo<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anything<b/>at<b/>all<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>batbedera<s n="prn"/><s n="ind"/><s n="sg"/></l><r>each<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL" c="frases afirmatives"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="RL" c="any one i anyone/anybody tenen significats diferents, s'ha escollit 'any one' com a traducció"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>edonor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -14590,26 +14590,26 @@
     <e r="RL"><p><l>inor<s n="prn"/><s n="ind"/></l><r>no<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>inor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL" c="preguntes i negatives"><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>inortxo<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>nahinor<s n="prn"/><s n="ind"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>nehor<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>nehor<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>inortxo<s n="prn"/><s n="ind"/><s n="sg"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>nahinor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>nehor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>nehor<s n="prn"/><s n="ind"/><s n="sg"/></l><r>nobody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>ni<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>nor<s n="prn"/><s n="itg"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     <e c="'who, more or less?'"><p><l>nortsu<s n="prn"/><s n="itg"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL" c="frases afirmatives"><p><l>norbait<s n="prn"/><s n="ind"/></l><r>somebody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>norbait<s n="prn"/><s n="ind"/></l><r>someone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>norbera<s n="prn"/><s n="ind"/></l><r>each<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>nornahi<s n="prn"/><s n="ind"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anybody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>norbait<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anyone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="frases afirmatives"><p><l>norbait<s n="prn"/><s n="ind"/><s n="sg"/></l><r>somebody<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>norbait<s n="prn"/><s n="ind"/><s n="sg"/></l><r>someone<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>norbera<s n="prn"/><s n="ind"/><s n="sg"/></l><r>each<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>nornahi<s n="prn"/><s n="ind"/><s n="sg"/></l><r>any<b/>one<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>zein<s n="prn"/><s n="itg"/><s n="sg"/></l><r>which<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>zein<s n="prn"/><s n="itg"/><s n="pl"/></l><r>which<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>zein<s n="prn"/><s n="itg"/></l><r>which<b/>one<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>zer<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>zerbait<s n="prn"/><s n="ind"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>zerbait<s n="prn"/><s n="ind"/></l><r>something<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>zertxobait<s n="prn"/><s n="ind"/></l><r>something<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>zein<s n="prn"/><s n="itg"/><s n="sg"/></l><r>which<b/>one<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>zer<s n="prn"/><s n="itg"/><s n="sg"/></l><r>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>zerbait<s n="prn"/><s n="ind"/><s n="sg"/></l><r>anything<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>zerbait<s n="prn"/><s n="ind"/><s n="sg"/></l><r>something<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>zertxobait<s n="prn"/><s n="ind"/><s n="sg"/></l><r>something<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>zu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>zuek<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
 

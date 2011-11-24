@@ -15630,7 +15630,7 @@
     <e lm="Dutch"><i>Dutch</i><par n="politics__n"/>    </e>
     <e lm="English"><i>English</i><par n="politics__n"/>    </e>
     <e lm="European"><i>European</i><par n="house__n"/>    </e>
-    <e lm="French"><i>French</i><par n="politics__n"/>    </e>
+    <e lm="French"><p><l>French</l><r>french</r></p><par n="politics__n"/>    </e>
     <e lm="Friday"><i>Friday</i><par n="house__n"/>    </e>
     <e lm="German"><i>German</i><par n="house__n"/>    </e>
     <e lm="Greek"><i>Greek</i><par n="house__n"/>    </e>
