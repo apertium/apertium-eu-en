@@ -11398,8 +11398,7 @@ It could be extended to other cases, to deal with the differences in the transla
             <var n="palabra"/>
             <lu> 
               <clip pos="1" side="tl" part="lem"/> 
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="tipus_adj"/>
+              <clip pos="1" side="tl" part="tags"/>
             </lu>
             <b pos="1"/>
             <lu>
