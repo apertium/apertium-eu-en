@@ -6,6 +6,7 @@
 /NEWS -text
 /README -text
 /apertium-eu-en.colloc.t1x -text
+/apertium-eu-en.en-eu.lrx -text
 /apertium-eu-en.en.metadix -text
 /apertium-eu-en.eu-en.dix -text
 /apertium-eu-en.eu-en.t1x -text
