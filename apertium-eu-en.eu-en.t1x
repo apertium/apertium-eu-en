@@ -4528,6 +4528,29 @@ It could be extended to other cases, to deal with the differences in the transla
                 </equal>
                 <equal>
                   <clip pos="2" side="tl" part="persnbr"/>
+                  <lit-tag v="p3.sg"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="tags"/>
+              <concat>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <lit-tag v="pri.p3.sg"/>
+              </concat>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <lit-tag v="pri"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="tl" part="persnbr"/>
                   <lit-tag v="p1.sg"/>
                 </equal>
               </and>
@@ -15690,8 +15713,8 @@ It could be extended to other cases, to deal with the differences in the transla
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="temps"/>
-              <clip pos="2" side="tl" part="persnbr"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="persnbr"/>
               <var n="prn_enc"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
