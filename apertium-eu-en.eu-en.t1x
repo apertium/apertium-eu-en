@@ -17901,6 +17901,10 @@ It could be extended to other cases, to deal with the differences in the transla
           </chunk>
           <b pos="1"/>
         </out>
+        <let>
+          <var n="caseFirstWord"/>
+          <var n="caseSecondWord"/>
+        </let>
         <call-macro n="verbal_flex">
           <with-param pos="3"/>
         </call-macro>
@@ -18064,6 +18068,10 @@ It could be extended to other cases, to deal with the differences in the transla
           </chunk>
           <b pos="1"/>
         </out>
+        <let>
+          <var n="caseFirstWord"/>
+          <var n="caseSecondWord"/>
+        </let>
         <call-macro n="verbal_flex">
           <with-param pos="3"/>
         </call-macro>
@@ -18215,6 +18223,10 @@ It could be extended to other cases, to deal with the differences in the transla
           </chunk>
           <b pos="1"/>
         </out>
+        <let>
+          <var n="caseFirstWord"/>
+          <var n="caseSecondWord"/>
+        </let>
         <call-macro n="verbal_flex">
           <with-param pos="3"/>
         </call-macro>
