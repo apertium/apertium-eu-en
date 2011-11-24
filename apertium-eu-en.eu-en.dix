@@ -5262,7 +5262,7 @@
     <e><p><l>Munich<s n="np"/><s n="loc"/></l><r>Munich<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Máximo<s n="np"/><s n="ant"/></l><r>Máximo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Nafarroa<s n="np"/><s n="loc"/></l><r>Navarra<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
-    <e><p><l>Nazio<b/>Batuen<b/>Erakunde<s n="n"/></l><r>United<b/>Nations<s n="np"/><s n="al"/><s n="pl"/></r></p></e>
+    <e><p><l>Nazio<b/>Batuen<b/>Erakunde<s n="np"/><s n="al"/></l><r>United<b/>Nations<s n="np"/><s n="al"/><s n="pl"/></r></p></e>
     <e><p><l>Nepal<s n="np"/><s n="loc"/></l><r>Nepal<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>New<b/>York<s n="np"/><s n="loc"/></l><r>New<b/>York<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
     <e><p><l>Nikaragua<s n="np"/><s n="loc"/></l><r>Nicaragua<s n="np"/><s n="loc"/><s n="sg"/></r></p></e>
@@ -11952,7 +11952,7 @@
     <e><p><l>ideal<s n="n"/></l><r>ideal<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ideia<s n="n"/></l><r>idea<s n="n"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>ideia<s n="n"/></l><r>insight<s n="n"/><s n="ND"/></r></p></e>
-    <e><p><l>ideia<s n="n"/></l><r>notion<s n="n"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ideia<s n="n"/></l><r>notion<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>identifikazio<s n="n"/></l><r>identification<s n="n"/><s n="ND"/></r></p></e>
     <e a="matxin"><p><l>identitate<s n="n"/></l><r>identity<s n="n"/><s n="ND"/></r></p></e>
     <e><p><l>ideologia<s n="n"/></l><r>ideology<s n="n"/><s n="ND"/></r></p></e>

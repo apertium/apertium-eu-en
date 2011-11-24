@@ -1221,7 +1221,7 @@
 		  <clip pos="1" side="sl" part="lem"/> 
 		  <lit v="ago"/>
 		</equal>
-		<equal>
+		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
 		  <lit v="lehen"/>
 		</equal>
@@ -2338,6 +2338,10 @@
                       <clip pos="3" side="tl" part="nbr"/> 
                       <lit-tag v="sp"/>
                     </equal>
+                    <equal> 
+                      <clip pos="3" side="tl" part="nbr"/> 
+                      <lit v=""/>
+                    </equal>
                   </or>
                 </not>
               </test>
@@ -2885,6 +2889,20 @@
                 <clip pos="1" side="sl" part="lem"/> 
                 <lit v="ber"/>
               </equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="lem"/> 
+            <lit v="his"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <or>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/> 
+                <lit v="beraiek"/>
+              </equal>
               <equal caseless="yes">
                 <clip pos="1" side="sl" part="lem"/> 
                 <lit v="eurak"/>
@@ -2893,7 +2911,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="his"/>
+            <lit v="their"/>
           </let>
         </when>
         <when>
@@ -3047,7 +3065,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/> 
-            <lit v="their"/>
+            <lit v="theirs"/>
           </let>
         </when>
         <when>

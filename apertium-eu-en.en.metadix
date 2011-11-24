@@ -15600,7 +15600,7 @@
     
     <e lm="chemist's"><p><l>chemist's</l><r>chemist's<s n="n"/><s n="sg"/></r></p></e>
     <e lm="custom"><p><l>custom</l><r>custom<s n="n"/><s n="sg"/></r></p></e>
-    <e lm="American"><i>American</i><par n="house__n"/>    </e>
+    <e lm="American"><p><l>American</l><r>american</r></p><par n="house__n"/>    </e>
     <e lm="Romanian"><i>Romanian</i><par n="house__n"/>    </e>
     <e lm="African"><i>African</i><par n="house__n"/>    </e>
     <e lm="theorist"><i>theorist</i><par n="house__n"/>    </e>
