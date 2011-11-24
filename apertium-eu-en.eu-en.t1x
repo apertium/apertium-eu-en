@@ -1505,16 +1505,18 @@
             <when>
               <test>
                 <and>
-                  <or>
-                    <equal>
-                      <clip pos="2" side="tl" part="nbr"/> 
-                      <lit-tag v="sp"/>
-                    </equal>
-                    <equal>
-                      <clip pos="2" side="tl" part="nbr"/> 
-                      <lit-tag v=""/>
-                    </equal>
-                  </or>
+                  <not>
+                    <and>
+                      <equal>
+                        <clip pos="2" side="tl" part="nbr"/> 
+                        <lit-tag v="sp"/>
+                      </equal>
+                      <equal>
+                        <clip pos="2" side="tl" part="nbr"/> 
+                        <lit-tag v=""/>
+                      </equal>
+                    </and>
+                  </not>
                   <or>
                     <equal>
                       <clip pos="2" side="sl" part="nbr"/> 
@@ -1547,10 +1549,16 @@
               <choose>
                 <when>
                   <test>
-                    <in caseless="yes">
-                      <clip pos="1" side="sl" part="lemh"/>
-                      <list n="nombrescol"/>
-                    </in>
+                    <or>
+                      <in caseless="yes">
+                        <clip pos="1" side="sl" part="lemh"/>
+                        <list n="nombrescol"/>
+                      </in>
+                      <equal>
+                        <clip pos="2" side="tl" part="nbr"/> 
+                        <lit-tag v="sg"/>
+                      </equal>
+                    </or>
                   </test>
                   <let><!--más dinero -->
                     <clip pos="1" side="tl" part="nbr"/> 
