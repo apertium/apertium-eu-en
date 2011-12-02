@@ -8,7 +8,6 @@
 /apertium-eu-en.colloc.t1x -text
 /apertium-eu-en.en.metadix -text
 /apertium-eu-en.eu-en.dix -text
-/apertium-eu-en.eu-en.lrx -text
 /apertium-eu-en.eu-en.t1x -text
 /apertium-eu-en.eu-en.t2x -text
 /apertium-eu-en.eu-en.t3x -text
@@ -20,6 +19,7 @@
 /buscaPar.xsl -text
 /configure.ac -text
 corpus/metamorphosis.tmx -text
+dev/apertium-eu-en.eu-en.lrx -text
 dev/chunk-to-post-es-en.sh -text
 dev/chunk-to-post-es.sh -text
 dev/chunk-to-post.sh -text
