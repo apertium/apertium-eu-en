@@ -20,24 +20,11 @@
 /buscaPar.xsl -text
 /configure.ac -text
 corpus/metamorphosis.tmx -text
-dev/bidix/pending_adjectives.txt -text
-dev/bidix/pending_adverbs.txt -text
-dev/bidix/pending_conjunctions.txt -text
-dev/bidix/pending_determiners.txt -text
-dev/bidix/pending_nouns.txt -text
-dev/bidix/pending_numerals.txt -text
-dev/bidix/pending_postpositions.txt -text
-dev/bidix/pending_prepositions.txt -text
-dev/bidix/pending_pronouns.txt -text
-dev/bidix/pending_proper_nouns.txt -text
-dev/bidix/pending_verbs.txt -text
 dev/chunk-to-post-es-en.sh -text
 dev/chunk-to-post-es.sh -text
 dev/chunk-to-post.sh -text
 dev/cross-model-eu-es-en.xml -text
 dev/cross.xml -text
-dev/generation-summary.eu-en.txt -text
-dev/missing-bidix-freq.sh -text
 /eu-en.prob -text svneol=unset#unset
 /lexchoicebil.xsl -text
 /modes.xml -text
