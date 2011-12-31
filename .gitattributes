@@ -25,6 +25,7 @@ dev/chunk-to-post-es.sh -text
 dev/chunk-to-post.sh -text
 dev/cross-model-eu-es-en.xml -text
 dev/cross.xml -text
+dev/filter-eu-en.xml -text
 /eu-en.prob -text svneol=unset#unset
 /lexchoicebil.xsl -text
 /modes.xml -text
