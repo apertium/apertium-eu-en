@@ -1,4 +1,3 @@
-VERSION=0.3.1
 LANG1=eu
 LANG2=en
 PREFIX1=$(LANG1)-$(LANG2)
@@ -20,6 +19,7 @@ TARGETS = $(TARGETS_COMMON) trules-$(PREFIX1).bin trules-$(PREFIX2).bin \
           # $(BASENAME).$(LANG1)-lextor.dix $(BASENAME).$(LANG2)-lextor.dix \
 	  # $(BASENAME).$(PREFIX1)-lextor.dix $(BASENAME).$(PREFIX2)-lextor.dix
 
+@ap_include@
 
 $(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
@@ -169,34 +169,19 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 #	    $(BASENAME).$(LANG2).tsx
 
 apertium_eu_esdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_modesdir=$(prefix)/share/apertium/modes/
-
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
 
 apertium_eu_es_DATA=$(TARGETS_COMMON) \
                     $(PREFIX1).prob \
-		    modes.xml
+                    $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
+                    $(BASENAME).$(PREFIX1).t3x \
+                    $(BASENAME).ordinals.t1x \
+                    $(BASENAME).colloc.t1x \
+                    modes.xml
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml $(BASENAME)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
-	modes=`xmllint --xpath '//mode[@install="yes"]/@name' modes.xml | sed 's/ *name="\([^"]*\)"/\1.mode /g'`; \
-		$(INSTALL_DATA) $$modes $(DESTDIR)$(apertium_modesdir); \
-		rm $$modes
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_eu_esdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_eu_esdir)
-	$(INSTALL_DATA) $(BASENAME).ordinals.t1x $(DESTDIR)$(apertium_eu_esdir)
-	$(INSTALL_DATA) $(BASENAME).colloc.t1x $(DESTDIR)$(apertium_eu_esdir)
-
+install-data-local: install-modes
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
