@@ -1,0 +1,118 @@
+[34ZJNm3xDnmw#0] ^From<pr>$ ^health centre<n><sg>$
+[/34ZJNm3xDnmw]
+[6L0aRzp_GZwy#0] ^300<num>$ ^new<adj><sint>$ ^book<n><pl>$
+[/6L0aRzp_GZwy]
+[73mEhCMD__gy#0] ^Some<det><qnt><sp>$ ^house<n><pl>$
+[/73mEhCMD__gy]
+[755RXKGsFoT8#0] ^From<pr>$ ^four<num><sp>$ ^to<pr>$ ^five<num><sp>$
+[/755RXKGsFoT8]
+[9CgrxhcHtSc7#0] ^31<num>$ ^and<cnjcoo>$ ^50<num>$ ^year<n><pl>$
+[/9CgrxhcHtSc7]
+[AS5X3dqVUtY6#0] ^The<det><def><sg>$ ^book<n><sg>$ ^on<pr>$ ^story<n><sg>$
+[/AS5X3dqVUtY6]
+[D8hDpTc28vJp#0] ^My<det><pos><sg>$ ^house<n><sg>$
+[/D8hDpTc28vJp]
+[I8fYOHCPZgA4#0] ^Eight<num><sp>$ ^in<pr>$ ^the<det><def><sg>$ ^morning<n><sg>$
+[/I8fYOHCPZgA4]
+[Ie68AJI8Xnzd#0] ^Of<pr>$ ^the<det><def><sg>$ ^last<det><ord><sg>$ ^legal project<n><sg>$
+[/Ie68AJI8Xnzd]
+[Kk-sFmmyKMZ-#0] ^in<pr>$ ^Dublin<np><loc><sg>$
+[/Kk-sFmmyKMZ-]
+[LCopg_EKbD_I#0] ^The<det><def><sg>$ ^last<det><ord><sg>$ ^legal project<n><sg>$
+[/LCopg_EKbD_I]
+[Q4N3tO1DS8Vo#0] ^Have<vbhaver><ger>$ ^be<vbser><pp>$ ^the<det><def><sg>$ ^daughter<n><sg>$
+[/Q4N3tO1DS8Vo]
+[QhS7lMlNh7Tp#0] ^In<pr>$ ^my<det><pos><sg>$ ^house<n><sg>$
+[/QhS7lMlNh7Tp]
+[QpHGb6q_aV6m#0] ^In<pr>$ ^my<det><pos><sg>$ ^father<n><sg>$^'s<gen>$ ^house<n><sg>$
+[/QpHGb6q_aV6m]
+[RruGxsEN7Ha6#0] ^My<det><pos><sg>$ ^red<adj>$ ^house<n><sg>$
+[/RruGxsEN7Ha6]
+[S6Kr7jw8qP0y#0] ^In<pr>$ ^the<det><def><sg>$ ^office<n><sg>$^'s<gen>$ ^ex<adj>$ ^manager<n><sg>$
+[/S6Kr7jw8qP0y]
+[SY51kr1A2erA#0] ^Prpers<prn><subj><p1><mf><sg>$ ^prpers<prn><subj><p1><mf><sg>$ ^do<vbdo><pres>$ ^not<adv>$ ^have<vbhaver><inf>$ ^laugh<n><sg>$ ^do<vblex><ger>$
+[/SY51kr1A2erA]
+[Sw_lwOqoA-0F#0] ^Prpers<prn><subj><p2><mf><sp>$ ^a lot<adv>$ ^prpers<prn><subj><p2><mf><sp>$ ^know<vblex><pres>$
+[/Sw_lwOqoA-0F]
+[TASHSFv3FZPB#0] ^Prpers<prn><subj><p1><mf><sg>$ ^prpers<prn><subj><p1><mf><sg>$ ^do<vbdo><pres>$ ^not<adv>$ ^have<vbhaver><inf>$ ^leave<vblex><inf>$
+[/TASHSFv3FZPB]
+[TBKD8iyPkHyE#0] ^The<det><def><pl>$ ^two<num><sp>$ ^woman<n><sg>$
+[/TBKD8iyPkHyE]
+[TcQuHyrQEd8q#0] ^According to official sources<adv>$
+[/TcQuHyrQEd8q]
+[ToPzfCYUKw8W#0] ^Three<num><sp>$ ^out of<pr>$ ^ten<num><sp>$
+[/ToPzfCYUKw8W]
+[UbJwVGKU4X3e#0] ^Of<pr>$ ^the<det><def><pl>$ ^hundred thousand<num><sp>$ ^person<n><pl>$
+[/UbJwVGKU4X3e]
+[VovP4xlqBDns#0] ^The<det><def><sg>$ ^red<adj>$ ^house<n><sg>$
+[/VovP4xlqBDns]
+[WC6ufIE7D8kV#0] ^My<det><pos><sg>$ ^father<n><sg>$^'s<gen>$ ^house<n><sg>$
+[/WC6ufIE7D8kV]
+[XIbwIdxehSVd#0] ^The<det><def><sg>$ ^member<n><sg># of parliament$ ^prpers<prn><subj><p3><m><sg>$ ^have<vbhaver><pri><p3><sg>$ ^resign<vblex><pp>$ ^finally<adv>$
+[/XIbwIdxehSVd]
+[XiJ8MLEyka3O#0] ^The<det><def><pl>$ ^hundred thousand<num><sp>$ ^woman<n><sg>$
+[/XiJ8MLEyka3O]
+[Xw77r9IF3K6N#0] ^Our<det><pos><sg>$ ^small<adj><sint>$ ^baby<n><sg>$
+[/Xw77r9IF3K6N]
+[Y1MsPQVR9aLU#0] ^The<det><def><pl>$ ^police<n><pl>$ ^in<pr>$ ^the<det><def><sg>$ ^house<n><sg>$ ^of<pr>$ ^the<det><def><pl>$ ^victim<n><pl>$ ^prpers<prn><subj><p3><mf><pl>$ ^arrest<vblex><past>$ ^the<det><def><sg>$ ^man<n><sg>$
+[/Y1MsPQVR9aLU]
+[bqaV2DXwSi9W#0] ^Prpers<prn><subj><p3><m><sg>$ ^march<vblex><past>$ ^on<adv>$ ^of<pr>$ ^a<det><ind><sg>$ ^car<n><sg>$ ^the<det><def><sg>$ ^lamppost<n><sg>$
+[/bqaV2DXwSi9W]
+[c1_tmMIVF3MT#0] ^In<pr>$ ^some<det><qnt><sp>$ ^house<n><pl>$
+[/c1_tmMIVF3MT]
+[ccn7VQh4bMo2#0] ^To<pr>$ ^enough<det><qnt><sp>$ ^person<n><pl>$
+[/ccn7VQh4bMo2]
+[cnkl2obuPxYk#0] ^The<det><def><sg>$ ^long<adj><sint>$ ^discussion<n><sg>$ ^to<pr>$ ^make<vblex><sep><inf># up$ ^the<det><def><sg>$ ^new<adj><sint>$ ^government<n><sg>$ ^of<pr>$ ^the<det><def><sg>$ ^french<adj>$ ^state<n><sg>$
+[/cnkl2obuPxYk]
+[d1MsbER4Kz30#0] ^The<det><def><sg>$ ^basque<adj>$ ^prisoner<n><sg>$
+[/d1MsbER4Kz30]
+[dmTSwOqJhU9I#0] ^This<det><dem><sg>$ ^girl<n><sg>$ ^youngster<n><sg>$
+[/dmTSwOqJhU9I]
+[fC9Iz0ARvnoq#0] ^Prpers<prn><subj><p2><mf><sp>$ ^prpers<prn><subj><p2><mf><sp>$ ^have<vbhaver><pres>$ ^arrive<vblex><pp>$
+[/fC9Iz0ARvnoq]
+[fllMo7dlomxj#0] ^The<det><def><sg>$ ^legal project<n><sg>$
+[/fllMo7dlomxj]
+[g78xh_ygJfCa#0] ^A<det><ind><sg>$ ^hundred thousand<num><sp>$ ^woman<n><pl>$
+[/g78xh_ygJfCa]
+[gWzwL9G3mFY_#0] ^Fifty-nine<num><sp>$
+[/gWzwL9G3mFY_]
+[gZ3GHZXJ8Fk2#0] ^The<det><def><sg>$ ^photograph<n><sg>$ ^of<pr>$ ^the<det><def><sg>$ ^woman<n><sg>$
+[/gZ3GHZXJ8Fk2]
+[ilTzbxYl7eFG#0] ^In<pr>$ ^my<det><pos><sg>$ ^red<adj>$ ^house<n><sg>$
+[/ilTzbxYl7eFG]
+[jMfbJ_XJgaVg#0] ^Prpers<prn><subj><p3><m><sg>$ ^seem<vblex><pri><p3><sg>$ ^to<pr>$ ^prpers<prn><obj><p1><mf><sg>$ ^better for now<adv>$ ^prpers<prn><subj><p3><m><sg>$ ^be<vbser><pri><p3><sg>$ ^,<cm>$ ^the<det><def><sg>$ ^highway<n><sg>$ ^take<vblex><inf>$ ^until<pr>$ ^the<det><def><sg>$ ^border<n><sg>$
+[/jMfbJ_XJgaVg]
+[k-Gx3IeBcg41#0] ^Two<num><sp>$ ^member<n><pl>$
+[/k-Gx3IeBcg41]
+[m-MJP-O9fScR#0] ^Nobody<prn><tn><m><sg>$ ^prpers<prn><subj><p3><m><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^never<adv>$ ^worry<vblex><ger>$
+[/m-MJP-O9fScR]
+[mzIUejI8oxZZ#0] ^From<pr>$ ^two<num><sp>$ ^health centre<n><pl>$
+[/mzIUejI8oxZZ]
+[n35aiijl2IXf#0] ^Mikel<np><ant><m><sg>$ ^*katakume$ ^a<det><ind><sg>$ ^prpers<prn><subj><p3><m><sg>$ ^bring<vblex><pri><p3><sg>$
+[/n35aiijl2IXf]
+[oh6FvKdxLjGv#0] ^400<num>$ ^million<n><sg>$ ^euro<n><pl>$
+[/oh6FvKdxLjGv]
+[p81OTDiFtXxf#0] ^Of<pr>$ ^prpers<prn><obj><p3><m><sg>$ ^next<adj>$ ^opera<n><sg>$
+[/p81OTDiFtXxf]
+[r1ufVm8xqThd#0] ^This<det><dem><sg>$ ^prpers<prn><subj><p3><m><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^the<det><def><sg>$ ^story<n><sg>$ ^of<pr>$ ^a<det><ind><sg>$ ^winner<n><sg>$
+[/r1ufVm8xqThd]
+[r3sZiPTZuSoT#0] ^If<cnjadv>$ ^prpers<prn><subj><p3><m><sg>$ ^seem<vblex><pri><p3><sg>$ ^prpers<prn><subj><p3><m><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^,<cm>$ ^well<adv>$
+[/r3sZiPTZuSoT]
+[rU2Z84EuhCIJ#0] ^The<det><def><sg>$ ^dog<n><sg>$ ^the<det><def><sg>$ ^cat<n><sg>$ ^prpers<prn><subj><p3><m><sg>$ ^have<vbhaver><pri><p3><sg>$ ^see<vblex><pp>$
+[/rU2Z84EuhCIJ]
+[tPRgl765MP14#0] ^The<det><def><sg>$ ^young<adj><sint>$ ^woman<n><sg>$ ^prpers<prn><subj><p3><m><sg>$ ^have<vbhaver><pri><p3><sg>$ ^come<vblex><pp>$
+[/tPRgl765MP14]
+[tRsxtenfwx9g#0] ^of<pr>$ ^Gipuzkoa<np><loc><sg>$^,<cm>$^Araba<np><loc><sg>$ ^and<cnjcoo>$ ^Biscay<np><loc><sg>$
+[/tRsxtenfwx9g]
+[wxQtXVOYRaaN#0] ^From<pr>$ ^last<det><ord><sg>$ ^health centre<n><sg>$
+[/wxQtXVOYRaaN]
+[xzpMpAJWn2tw#0] ^The<det><def><pl>$ ^two<num><sp>$ ^member<n><pl>$
+[/xzpMpAJWn2tw]
+[ykAM3tKXI1h6#0] ^The<det><def><sg>$ ^office<n><sg>$^'s<gen>$ ^ex<adj>$ ^manager<n><sg>$
+[/ykAM3tKXI1h6]
+[yvJl74wCn1fL#0] ^Mine<adj><pos>$
+[/yvJl74wCn1fL]
+[zaWliO8vjBYw#0] ^of<pr>$ ^Araba<np><loc><sg>$ ^and<cnjcoo>$ ^Biscay<np><loc><sg>$
+[/zaWliO8vjBYw]
+[ze6O3iSL97AC#0] ^*Gasteiztar$ ^The<det><def><sg>$ ^person<n><sg>$
+[/ze6O3iSL97AC]

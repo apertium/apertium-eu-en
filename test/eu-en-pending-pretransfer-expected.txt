@@ -1,0 +1,118 @@
+[34ZJNm3xDnmw#0] ^osasun zentro<n>$ ^tik<post>$
+[/34ZJNm3xDnmw]
+[6L0aRzp_GZwy#0] ^300<num>$ ^liburu<n>$ ^berri<adj><izo>$
+[/6L0aRzp_GZwy]
+[73mEhCMD__gy#0] ^zenbait<det><indizl><sp>$ ^etxe<n>$
+[/73mEhCMD__gy]
+[755RXKGsFoT8#0] ^Lau<num><pl>$ ^tik<post>$ ^bost<num><pl>$ ^ra<post>$
+[/755RXKGsFoT8]
+[9CgrxhcHtSc7#0] ^31<num>$ ^eta<cnjcoo>$ ^50<num>$ ^urte<n>$
+[/9CgrxhcHtSc7]
+[AS5X3dqVUtY6#0] ^Historia<n>$ ^i<post>$ ^buruz<spost>$ ^ko<post>$ ^liburu<n>$ ^a<det><art><sg>$
+[/AS5X3dqVUtY6]
+[D8hDpTc28vJp#0] ^Ni<prn><pers><p1><sg>$ ^en<post>$ ^etxe<n>$ ^a<det><art><sg>$
+[/D8hDpTc28vJp]
+[I8fYOHCPZgA4#0] ^Goiz<n>$ ^a<det><art><sg>$ ^ko<post>$ ^zortzi<num><pl>$ ^a<det><art><pl>$
+[/I8fYOHCPZgA4]
+[Ie68AJI8Xnzd#0] ^azken<adj><izl>$ ^lege-proiektu<n>$ ^a<det><art><sg>$ ^en<post>$
+[/Ie68AJI8Xnzd]
+[Kk-sFmmyKMZ-#0] ^Dublin<np><loc>$ ^an<post>$
+[/Kk-sFmmyKMZ-]
+[LCopg_EKbD_I#0] ^azken<adj><izl>$ ^lege-proiektu<n>$ ^a<det><art><sg>$
+[/LCopg_EKbD_I]
+[Q4N3tO1DS8Vo#0] ^alaba<n>$ ^a<det><art><sg>$ ^izan<vblex><pp>$ ^ik<post>$
+[/Q4N3tO1DS8Vo]
+[QhS7lMlNh7Tp#0] ^Ni<prn><pers><p1><sg>$ ^en<post>$ ^etxe<n>$ ^a<det><art><sg>$ ^an<post>$
+[/QhS7lMlNh7Tp]
+[QpHGb6q_aV6m#0] ^Ni<prn><pers><p1><sg>$ ^en<post>$ ^aita<n>$ ^a<det><art><sg>$ ^en<post>$ ^etxe<n>$ ^a<det><art><sg>$ ^an<post>$
+[/QpHGb6q_aV6m]
+[RruGxsEN7Ha6#0] ^Ni<prn><pers><p1><sg>$ ^en<post>$ ^etxe<n>$ ^gorri<adj><izo>$ ^a<det><art><sg>$
+[/RruGxsEN7Ha6]
+[S6Kr7jw8qP0y#0] ^bulego<n>$ ^a<det><art><sg>$ ^ko<post>$ ^zuzendari<n>$ ^ohi<adj><izo>$ ^a<det><art><sg>$ ^an<post>$
+[/S6Kr7jw8qP0y]
+[SY51kr1A2erA#0] ^ni<prn><pers><p1><sg>$ ^k<post>$ ^ez<adv>$ ^ukan<vbsint><pri><NR_HU><NK_NI>$ ^barre<n>$ ^ik<post>$ ^egin<vblex><ger>$
+[/SY51kr1A2erA]
+[Sw_lwOqoA-0F#0] ^Zu<prn><pers><p2><sg>$ ^k<post>$ ^asko<adv>$ ^jakin<vbsint><pri><NR_HU><NK_ZU>$
+[/Sw_lwOqoA-0F]
+[TASHSFv3FZPB#0] ^ni<prn><pers><p1><sg>$ ^k<post>$ ^ez<adv>$ ^ukan<vbsint><pri><NR_HU><NK_NI>$ ^alde egin<vblex><inf>$
+[/TASHSFv3FZPB]
+[TBKD8iyPkHyE#0] ^Bi<num><pl>$ ^emakume<n>$ ^a<det><art><sg>$ ^k<post>$
+[/TBKD8iyPkHyE]
+[TcQuHyrQEd8q#0] ^Iturri ofizialen arabera<adv>$
+[/TcQuHyrQEd8q]
+[ToPzfCYUKw8W#0] ^Hamar<num><pl>$ ^tik<post>$ ^hiru<num><pl>$
+[/ToPzfCYUKw8W]
+[UbJwVGKU4X3e#0] ^Ehun mila<num><pl>$ ^lagun<n>$ ^a<det><art><pl>$ ^en<post>$
+[/UbJwVGKU4X3e]
+[VovP4xlqBDns#0] ^etxe<n>$ ^gorri<adj><izo>$ ^a<det><art><sg>$
+[/VovP4xlqBDns]
+[WC6ufIE7D8kV#0] ^Ni<prn><pers><p1><sg>$ ^en<post>$ ^aita<n>$ ^a<det><art><sg>$ ^en<post>$ ^etxe<n>$ ^a<det><art><sg>$
+[/WC6ufIE7D8kV]
+[XIbwIdxehSVd#0] ^parlamentari<n>$ ^a<det><art><sg>$ ^k<post>$ ^dimititu<vblex><pp>$ ^ukan<vbsint><pri><NR_HU><NK_HU>$ ^azkenik<adv>$
+[/XIbwIdxehSVd]
+[XiJ8MLEyka3O#0] ^Ehun mila<num><pl>$ ^emakume<n>$ ^a<det><art><sg>$ ^k<post>$
+[/XiJ8MLEyka3O]
+[Xw77r9IF3K6N#0] ^gu<prn><pers><p1><pl>$ ^en<post>$ ^haur<n>$ ^txiki<adj><izo>$ ^a<det><art><sg>$
+[/Xw77r9IF3K6N]
+[Y1MsPQVR9aLU#0] ^Ertzain<n>$ ^a<det><art><pl>$ ^k<post>$ ^biktima<n>$ ^a<det><art><pl>$ ^en<post>$ ^etxe<n>$ ^a<det><art><sg>$ ^an<post>$ ^atxilotu<vblex><pp>$ ^ukan<vbsint><pii><NR_HU><NK_HK>$ ^gizonezko<n>$ ^a<det><art><sg>$
+[/Y1MsPQVR9aLU]
+[bqaV2DXwSi9W#0] ^martxan joan<vbsint><pii><NR_HU>$ ^auto<n>$ ^bat<num><sg>$ ^en<post>$ ^gainera<adv><gen>$ ^farol<n>$ ^a<det><art><sg>$
+[/bqaV2DXwSi9W]
+[c1_tmMIVF3MT#0] ^zenbait<det><indizl><sp>$ ^etxe<n>$ ^an<post>$
+[/c1_tmMIVF3MT]
+[ccn7VQh4bMo2#0] ^nahiko<det><indizl><sp>$ ^jende<n>$ ^i<post>$
+[/ccn7VQh4bMo2]
+[cnkl2obuPxYk#0] ^Estatu<n>$ ^frantses<adj><izo>$ ^a<det><art><sg>$ ^ko<post>$ ^gobernu<n>$ ^berri<adj><izo>$ ^a<det><art><sg>$ ^osatu<vblex><izen>$ ^ko<post>$ ^eztabaida<n>$ ^luze<adj><izo>$ ^a<det><art><sg>$
+[/cnkl2obuPxYk]
+[d1MsbER4Kz30#0] ^euskal<adj><izl>$ ^preso<n>$ ^a<det><art><sg>$ ^k<post>$
+[/d1MsbER4Kz30]
+[dmTSwOqJhU9I#0] ^neska<n>$ ^gazte<n>$ ^hau<det><dem><sg>$
+[/dmTSwOqJhU9I]
+[fC9Iz0ARvnoq#0] ^zu<prn><pers><p2><sg>$ ^heldu<vblex><pp>$ ^izan<vbsint><pri><NR_ZU>$
+[/fC9Iz0ARvnoq]
+[fllMo7dlomxj#0] ^lege-proiektu<n>$ ^a<det><art><sg>$
+[/fllMo7dlomxj]
+[g78xh_ygJfCa#0] ^Ehun mila<num><pl>$ ^emakume<n>$
+[/g78xh_ygJfCa]
+[gWzwL9G3mFY_#0] ^Berrogeita hemeretzi<num><pl>$
+[/gWzwL9G3mFY_]
+[gZ3GHZXJ8Fk2#0] ^emakume<n>$ ^a<det><art><sg>$ ^en<post>$ ^argazki<n>$ ^a<det><art><sg>$
+[/gZ3GHZXJ8Fk2]
+[ilTzbxYl7eFG#0] ^Ni<prn><pers><p1><sg>$ ^en<post>$ ^etxe<n>$ ^gorri<adj><izo>$ ^a<det><art><sg>$ ^an<post>$
+[/ilTzbxYl7eFG]
+[jMfbJ_XJgaVg#0] ^iruditu<vblex><ger>$ ^izan<vbsint><pri><NR_HU><NI_NI>$ ^orain hobe<adv>$ ^izan<vbsint><pri><NR_HU>$ ^la<cnjsub>$ ^autopista<n>$ ^a<det><art><sg>$ ^hartu<vblex><izen>$ ^a<det><art><sg>$ ^muga<n>$ ^a<det><art><sg>$ ^aino<post>$
+[/jMfbJ_XJgaVg]
+[k-Gx3IeBcg41#0] ^Kide<n>$ ^bi<num><pl>$
+[/k-Gx3IeBcg41]
+[m-MJP-O9fScR#0] ^Inor<prn><ind><sg>$ ^ez<adv>$ ^izan<vbsint><pri><NR_HU>$ ^inoiz<adv>$ ^arduratu<vblex><pp>$
+[/m-MJP-O9fScR]
+[mzIUejI8oxZZ#0] ^Bi<num><pl>$ ^osasun zentro<n>$ ^tik<post>$
+[/mzIUejI8oxZZ]
+[n35aiijl2IXf#0] ^Mikel<np><ant>$ ^k<post>$ ^*katakume$ ^bat<num><sg>$ ^ekarri<vbsint><pri><NR_HU><NK_HU>$
+[/n35aiijl2IXf]
+[oh6FvKdxLjGv#0] ^400<num>$ ^milioi<n>$ ^euro<n>$
+[/oh6FvKdxLjGv]
+[p81OTDiFtXxf#0] ^Ber<prn><pers><p3><sg>$ ^en<post>$ ^hurrengo<adj><izl>$ ^opera<n>$
+[/p81OTDiFtXxf]
+[r1ufVm8xqThd#0] ^Hau<det><dem><sg>$ ^ez<adv>$ ^izan<vbsint><pri><NR_HU>$ ^irabazle<n>$ ^bat<num><sg>$ ^en<post>$ ^historia<n>$ ^a<det><art><sg>$
+[/r1ufVm8xqThd]
+[r3sZiPTZuSoT#0] ^ba<cnjsub>$ ^iruditu<vbsint><pri><NR_HU><NK_HU>$ ^ez<adv>$ ^egon<vbsint><pri><NR_HU>$ ^la<cnjsub>$ ^ondo<adv>$
+[/r3sZiPTZuSoT]
+[rU2Z84EuhCIJ#0] ^txakur<n>$ ^a<det><art><sg>$ ^k<post>$ ^katu<n>$ ^a<det><art><sg>$ ^ikusi<vblex><pp>$ ^ukan<vbsint><pri><NR_HU><NK_HU>$
+[/rU2Z84EuhCIJ]
+[tPRgl765MP14#0] ^emakume<n>$ ^gazte<adj><izo>$ ^a<det><art><sg>$ ^etorri<vblex><pp>$ ^izan<vbsint><pri><NR_HU>$
+[/tPRgl765MP14]
+[tRsxtenfwx9g#0] ^Gipuzkoa<np><loc>$^,<cm>$ ^Araba<np><loc>$ ^eta<cnjcoo>$ ^Bizkaia<np><loc>$ ^ko<post>$
+[/tRsxtenfwx9g]
+[wxQtXVOYRaaN#0] ^azken<adj><izl>$ ^osasun zentro<n>$ ^tik<post>$
+[/wxQtXVOYRaaN]
+[xzpMpAJWn2tw#0] ^Kide<n>$ ^bi<num><pl>$ ^a<det><art><pl>$
+[/xzpMpAJWn2tw]
+[ykAM3tKXI1h6#0] ^bulego<n>$ ^a<det><art><sg>$ ^ko<post>$ ^zuzendari<n>$ ^ohi<adj><izo>$ ^a<det><art><sg>$
+[/ykAM3tKXI1h6]
+[yvJl74wCn1fL#0] ^Ni<prn><pers><p1><sg>$ ^en<post>$ ^a<det><art><sg>$
+[/yvJl74wCn1fL]
+[zaWliO8vjBYw#0] ^Araba<np><loc>$ ^eta<cnjcoo>$ ^Bizkaia<np><loc>$ ^ko<post>$
+[/zaWliO8vjBYw]
+[ze6O3iSL97AC#0] ^*Gasteiztar$ ^lagun<n>$ ^a<det><art><sg>$
+[/ze6O3iSL97AC]

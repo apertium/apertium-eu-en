@@ -1,0 +1,118 @@
+[34ZJNm3xDnmw#0] ^Pr_nom<SPR><UNDET><sg>{^from<pr>$ ^health centre<n><3>$}$
+[/34ZJNm3xDnmw]
+[6L0aRzp_GZwy#0] ^Num_adj_n<SN><num><pl>{^300<num>$ ^new<adj><sint>$ ^book<n><pl>$}$
+[/6L0aRzp_GZwy]
+[73mEhCMD__gy#0] ^Det_nom<SN><qnt><pl>{^some<det><qnt><sp>$ ^house<n><pl>$}$
+[/73mEhCMD__gy]
+[755RXKGsFoT8#0] ^Pr_num_pr_num<SN><num><sp>{^from<pr>$ ^four<num><sp>$ ^to<pr>$ ^five<num><sp>$}$
+[/755RXKGsFoT8]
+[9CgrxhcHtSc7#0] ^Num_cj_num__n<SN><num><pl>{^31<num>$ ^and<cnjcoo>$ ^50<num>$ ^year<n><pl>$}$
+[/9CgrxhcHtSc7]
+[AS5X3dqVUtY6#0] ^Pr_nom<SPR><UNDET><sg>{^to<pr>$ ^story<n><3>$}$ ^spost<PREPGEN><pr>{^on<pr>$}$ ^det_nom<SN><def><sg>{^the<det><2><sg>$ ^book<n><sg>$}$
+[/AS5X3dqVUtY6]
+[D8hDpTc28vJp#0] ^Pos_n<SN><pos><sg>{^my<det><pos><sg>$ ^house<n><sg>$}$
+[/D8hDpTc28vJp]
+[I8fYOHCPZgA4#0] ^Num_pr_d_n<SN><def><pl>{^eight<num><sp>$ ^in<pr>$ ^the<det><2><sg>$ ^morning<n><sg>$}$
+[/I8fYOHCPZgA4]
+[Ie68AJI8Xnzd#0] ^Pr_det_adj_nom<SPGEN><def><sg>{^of<pr>$ ^the<det><2><sg>$ ^last<det><ord><sg>$ ^legal project<n><sg>$}$
+[/Ie68AJI8Xnzd]
+[Kk-sFmmyKMZ-#0] ^pr_nom<SPR><UNDET><sg>{^in<pr>$ ^Dublin<np><loc><3>$}$
+[/Kk-sFmmyKMZ-]
+[LCopg_EKbD_I#0] ^Det_adj_nom<SN><def><sg>{^the<det><2><sg>$ ^last<det><ord><sg>$ ^legal project<n><sg>$}$
+[/LCopg_EKbD_I]
+[Q4N3tO1DS8Vo#0] ^Det_nom<SN><def><sg>{^the<det><2><sg>$ ^daughter<n><sg>$}$ ^pp_ik<SVsub><vbser><ger>{^have<vbhaver><ger>$ ^be<vbser><pp>$}$
+[/Q4N3tO1DS8Vo]
+[QhS7lMlNh7Tp#0] ^Pr_pos_n<SPR><pos><sg>{^in<pr>$ ^my<det><pos><sg>$ ^house<n><sg>$}$
+[/QhS7lMlNh7Tp]
+[QpHGb6q_aV6m#0] ^Pr_pos_nom_gen_nom<SN><def><sg>{^in<pr>$ ^my<det><pos><sg>$ ^father<n><sg>$^'s<gen>$ ^house<n><sg>$}$
+[/QpHGb6q_aV6m]
+[RruGxsEN7Ha6#0] ^Pos_adj_nom<SN><pos><sg>{^my<det><pos><sg>$ ^red<adj>$ ^house<n><sg>$}$
+[/RruGxsEN7Ha6]
+[S6Kr7jw8qP0y#0] ^Pr_det_nom_gen_adj_nom<SPR><def><sg>{^in<pr>$ ^the<det><def><sg>$ ^office<n><sg>$^'s<gen>$ ^ex<adj>$ ^manager<n><sg>$}$
+[/S6Kr7jw8qP0y]
+[SY51kr1A2erA#0] ^Prnpers<PRN><p1><mf><sg><erg>{^prpers<prn><subj><p1><mf><sg>$}$ ^prnsubj<prn><subj><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^vbconj_ukan<SVneg><vbhaver><inf><NR_HU><NK_NI>{^do<vbdo><pres>$ ^not<adv>$ ^have<vbhaver><inf>$}$ ^pr_nom<SN><UNDET><sg>{^laugh<n><3>$}$ ^ger<SV><vblex><ger><PD><ND>{^do<vblex><ger>$}$
+[/SY51kr1A2erA]
+[Sw_lwOqoA-0F#0] ^Prnpers<PRN><p2><mf><sp><erg>{^prpers<prn><subj><p2><mf><sp>$}$ ^adv<SADV><adv>{^a lot<adv>$}$ ^prnsubj<prn><subj><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^vbconj<SV><vblex><pres><NR_HU><NK_ZU>{^know<vblex><pres>$}$
+[/Sw_lwOqoA-0F]
+[TASHSFv3FZPB#0] ^Prnpers<PRN><p1><mf><sg><erg>{^prpers<prn><subj><p1><mf><sg>$}$ ^prnsubj<prn><subj><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^vbconj_ukan<SVneg><vbhaver><inf><NR_HU><NK_NI>{^do<vbdo><pres>$ ^not<adv>$ ^have<vbhaver><inf>$}$ ^inf<SV><vblex><inf>{^leave<vblex><inf>$}$
+[/TASHSFv3FZPB]
+[TBKD8iyPkHyE#0] ^Pr_d_num_n<SN><def><sg>{^the<det><2><pl>$ ^two<num><sp>$ ^woman<n><sg>$}$
+[/TBKD8iyPkHyE]
+[TcQuHyrQEd8q#0] ^Adv<SADV><adv>{^according to official sources<adv>$}$
+[/TcQuHyrQEd8q]
+[ToPzfCYUKw8W#0] ^Num_pr_num<SN><num><sp>{^three<num><sp>$ ^out of<pr>$ ^ten<num><sp>$}$
+[/ToPzfCYUKw8W]
+[UbJwVGKU4X3e#0] ^Pr_d_num_n<SPGEN><def><pl>{^of<pr>$ ^the<det><2><pl>$ ^hundred thousand<num><sp>$ ^person<n><pl>$}$
+[/UbJwVGKU4X3e]
+[VovP4xlqBDns#0] ^Det_adj_nom<SN><def><sg>{^the<det><2><sg>$ ^red<adj>$ ^house<n><sg>$}$
+[/VovP4xlqBDns]
+[WC6ufIE7D8kV#0] ^Pos_nom_gen_nom<SN><def><sg>{^my<det><pos><sg>$ ^father<n><sg>$^'s<gen>$ ^house<n><sg>$}$
+[/WC6ufIE7D8kV]
+[XIbwIdxehSVd#0] ^Pr_det_nom<SN><def><sg>{^the<det><2><sg>$ ^member<n><sg># of parliament$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^have_pp<SV><vbhaver><p3><sg><NR_HU><NK_HU>{^have<vbhaver><pri><p3><sg>$ ^resign<vblex><pp>$}$ ^adv<SADV><adv>{^finally<adv>$}$
+[/XIbwIdxehSVd]
+[XiJ8MLEyka3O#0] ^Pr_d_num_n<SN><def><sg>{^the<det><2><pl>$ ^hundred thousand<num><sp>$ ^woman<n><sg>$}$
+[/XiJ8MLEyka3O]
+[Xw77r9IF3K6N#0] ^Pos_adj_nom<SN><pos><sg>{^our<det><pos><sg>$ ^small<adj><sint>$ ^baby<n><sg>$}$
+[/Xw77r9IF3K6N]
+[Y1MsPQVR9aLU#0] ^Pr_det_nom<SN><def><pl>{^the<det><2><pl>$ ^police<n><pl>$}$ ^pr_d_n_pr_d_n<SPR><def><sg>{^in<pr>$ ^the<det><2><sg>$ ^house<n><sg>$ ^of<pr>$ ^the<det><def><pl>$ ^victim<n><pl>$}$ ^prnsubj<prn><subj><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^vbconj<SV><vblex><NR_HU><NK_HK>{^arrest<vblex><past>$}$ ^det_nom<SN><def><sg>{^the<det><2><sg>$ ^man<n><sg>$}$
+[/Y1MsPQVR9aLU]
+[bqaV2DXwSi9W#0] ^Prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^vbconj<SV><vblex><past><NR_HU>{^march<vblex><past>$}$ ^pr_det_nom<SPGEN><ind><ND>{^of<pr>$ ^a<det><2><sg>$ ^car<n><3>$}$ ^advgen<SADV><adv>{^on<adv>$}$ ^det_nom<SN><def><sg>{^the<det><2><sg>$ ^lamppost<n><sg>$}$
+[/bqaV2DXwSi9W]
+[c1_tmMIVF3MT#0] ^Pr_det_nom<SPR><qnt><pl>{^in<pr>$ ^some<det><qnt><sp>$ ^house<n><pl>$}$
+[/c1_tmMIVF3MT]
+[ccn7VQh4bMo2#0] ^Pr_det_nom<SPR><qnt><pl>{^to<pr>$ ^enough<det><qnt><sp>$ ^person<n><pl>$}$
+[/ccn7VQh4bMo2]
+[cnkl2obuPxYk#0] ^Pr_det_adj_nom<SPGEN><def><sg>{^of<pr>$ ^the<det><2><sg>$ ^french<adj>$ ^state<n><sg>$}$ ^det_adj_nom<SN><def><sg>{^the<det><2><sg>$ ^new<adj><sint>$ ^government<n><sg>$}$ ^tzeko<SVsub><vblex><sep><inf><PD><ND>{^to<pr>$ ^make<vblex><sep><inf># up$}$ ^det_adj_nom<SN><def><sg>{^the<det><2><sg>$ ^long<adj><sint>$ ^discussion<n><sg>$}$
+[/cnkl2obuPxYk]
+[d1MsbER4Kz30#0] ^Pr_det_adj_nom<SN><def><sg>{^the<det><2><sg>$ ^basque<adj>$ ^prisoner<n><sg>$}$
+[/d1MsbER4Kz30]
+[dmTSwOqJhU9I#0] ^Det_nom_nom<SN><dem><sg>{^this<det><2><sg>$ ^girl<n><sg>$ ^youngster<n><sg>$}$
+[/dmTSwOqJhU9I]
+[fC9Iz0ARvnoq#0] ^Prnpers<PRN><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^prnsubj<prn><subj><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^have_pp<SV><vbhaver><NR_ZU>{^have<vbhaver><pres>$ ^arrive<vblex><pp>$}$
+[/fC9Iz0ARvnoq]
+[fllMo7dlomxj#0] ^Det_nom<SN><def><sg>{^the<det><2><sg>$ ^legal project<n><sg>$}$
+[/fllMo7dlomxj]
+[g78xh_ygJfCa#0] ^A_num_n<SN><num><pl>{^a<det><ind><sg>$ ^hundred thousand<num><sp>$ ^woman<n><pl>$}$
+[/g78xh_ygJfCa]
+[gWzwL9G3mFY_#0] ^Num<SN><num><sp>{^fifty-nine<num><sp>$}$
+[/gWzwL9G3mFY_]
+[gZ3GHZXJ8Fk2#0] ^D_n_pr_d_n<SN><def><sg>{^the<det><2><sg>$ ^photograph<n><sg>$ ^of<pr>$ ^the<det><def><sg>$ ^woman<n><sg>$}$
+[/gZ3GHZXJ8Fk2]
+[ilTzbxYl7eFG#0] ^Pos_adj_nom<SPR><pos><sg>{^in<pr>$ ^my<det><pos><sg>$ ^red<adj>$ ^house<n><sg>$}$
+[/ilTzbxYl7eFG]
+[jMfbJ_XJgaVg#0] ^Prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^vbconj<SV><vblex><p3><sg><NR_HU><NI_NI>{^seem<vblex><pri><p3><sg>$}$ ^pr_datobj<prn><obj><p1><mf><sg>{^to<pr>$ ^prpers<prn><obj><p1><mf><sg>$}$ ^adv<SADV><adv>{^better for now<adv>$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^vbconj_izan<SV><vbser><pri><p3><sg><NR_HU>{^be<vbser><pri><p3><sg>$}$ ^que<cnjsub>{^,<cm>$}$ ^det_nom<SN><def><sg>{^the<det><2><sg>$ ^highway<n><sg>$}$ ^inf<SV><vblex><inf><PD><ND>{^take<vblex><inf>$}$ ^pr_det_nom<SPR><def><sg>{^until<pr>$ ^the<det><2><sg>$ ^border<n><sg>$}$
+[/jMfbJ_XJgaVg]
+[k-Gx3IeBcg41#0] ^Num_n<SN><num><pl>{^two<num><sp>$ ^member<n><pl>$}$
+[/k-Gx3IeBcg41]
+[m-MJP-O9fScR#0] ^Prntn<SN><tn><sg>{^nobody<prn><tn><m><sg>$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^be_not<SVneg><vbser><p3><sg><NR_HU>{^be<vbser><pri><p3><sg>$ ^not<adv>$}$ ^inoiz<SADV><adv>{^never<adv>$}$ ^pp<SV><vblex><pp><PD><ND>{^worry<vblex><ger>$}$
+[/m-MJP-O9fScR]
+[mzIUejI8oxZZ#0] ^Pr_num_n<SPR><num><pl>{^from<pr>$ ^two<num><sp>$ ^health centre<n><pl>$}$
+[/mzIUejI8oxZZ]
+[n35aiijl2IXf#0] ^pr_nom<SN><UNDET><sg>{^Mikel<np><ant><m><3>$}$ ^unknown<unknown>{^*katakume$}$ ^det<SN><ind><sg>{^a<det><2><sg>$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^vbconj<SV><vblex><pri><p3><sg><NR_HU><NK_HU>{^bring<vblex><pri><p3><sg>$}$
+[/n35aiijl2IXf]
+[oh6FvKdxLjGv#0] ^Num_nom_n<SN><num><pl>{^400<num>$ ^million<n><sg>$ ^euro<n><pl>$}$
+[/oh6FvKdxLjGv]
+[p81OTDiFtXxf#0] ^Pr_prnpers<SPGEN><p3><m><sg>{^of<pr>$ ^prpers<prn><obj><p3><m><sg>$}$ ^adj<SA><UNDET><ND>{^next<adj>$}$ ^nom<SN><UNDET><sg>{^opera<n><3>$}$
+[/p81OTDiFtXxf]
+[r1ufVm8xqThd#0] ^Det<SN><dem><sg>{^this<det><2><sg>$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^be_not<SVneg><vbser><p3><sg><NR_HU>{^be<vbser><pri><p3><sg>$ ^not<adv>$}$ ^d_n_pr_d_n<SN><def><sg>{^the<det><2><sg>$ ^story<n><sg>$ ^of<pr>$ ^a<det><ind><sg>$ ^winner<n><sg>$}$
+[/r1ufVm8xqThd]
+[r3sZiPTZuSoT#0] ^Si<cnjadv>{^if<cnjadv>$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^vbconj<SV><vblex><p3><sg><NR_HU><NK_HU>{^seem<vblex><pri><p3><sg>$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^be_not<SVneg><vbser><p3><sg><NR_HU>{^be<vbser><pri><p3><sg>$ ^not<adv>$}$ ^que<cnjsub>{^,<cm>$}$ ^adv<SADV><adv>{^well<adv>$}$
+[/r3sZiPTZuSoT]
+[rU2Z84EuhCIJ#0] ^Pr_det_nom<SN><def><sg>{^the<det><2><sg>$ ^dog<n><sg>$}$ ^det_nom<SN><def><sg>{^the<det><2><sg>$ ^cat<n><sg>$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^have_pp<SV><vbhaver><p3><sg><NR_HU><NK_HU>{^have<vbhaver><pri><p3><sg>$ ^see<vblex><pp>$}$
+[/rU2Z84EuhCIJ]
+[tPRgl765MP14#0] ^Det_adj_nom<SN><def><sg>{^the<det><2><sg>$ ^young<adj><sint>$ ^woman<n><sg>$}$ ^prnsubj<prn><subj><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^have_pp<SV><vbhaver><p3><sg><NR_HU>{^have<vbhaver><pri><p3><sg>$ ^come<vblex><pp>$}$
+[/tPRgl765MP14]
+[tRsxtenfwx9g#0] ^pr_nom_nom_cj_nom<SPGEN><UNDET><sg>{^of<pr>$ ^Gipuzkoa<np><loc><sg>$^,<cm>$^Araba<np><loc><sg>$ ^and<cnjcoo>$ ^Biscay<np><loc><sg>$}$
+[/tRsxtenfwx9g]
+[wxQtXVOYRaaN#0] ^Pr_adj_nom<SPR><UNDET><ND>{^from<pr>$ ^last<det><ord><sg>$ ^health centre<n><3>$}$
+[/wxQtXVOYRaaN]
+[xzpMpAJWn2tw#0] ^D_num_n<SN><def><pl>{^the<det><2><pl>$ ^two<num><sp>$ ^member<n><pl>$}$
+[/xzpMpAJWn2tw]
+[ykAM3tKXI1h6#0] ^Det_nom_gen_adj_nom<SN><def><sg>{^the<det><def><sg>$ ^office<n><sg>$^'s<gen>$ ^ex<adj>$ ^manager<n><sg>$}$
+[/ykAM3tKXI1h6]
+[yvJl74wCn1fL#0] ^Pos<SA><pos>{^mine<adj><pos>$}$
+[/yvJl74wCn1fL]
+[zaWliO8vjBYw#0] ^pr_nom_cj_nom<SPGEN><UNDET><sg>{^of<pr>$ ^Araba<np><loc><sg>$ ^and<cnjcoo>$ ^Biscay<np><loc><sg>$}$
+[/zaWliO8vjBYw]
+[ze6O3iSL97AC#0] ^unknown<unknown>{^*Gasteiztar$}$ ^Det_nom<SN><def><sg>{^the<det><2><sg>$ ^person<n><sg>$}$
+[/ze6O3iSL97AC]
