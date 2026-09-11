@@ -1,10 +1,10 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-eu-en], [0.3.3], [apertium-stuff@lists.sourceforge.net])
+AC_INIT([apertium-eu-en], [0.3.4], [apertium-stuff@lists.sourceforge.net])
 AM_INIT_AUTOMAKE
 AC_PROG_AWK
 
-PKG_CHECK_MODULES(APERTIUM, apertium >= 3.8.1)
+PKG_CHECK_MODULES(APERTIUM, apertium >= 3.9.12)
 
 ALTXSL="alt.xsl";
 
